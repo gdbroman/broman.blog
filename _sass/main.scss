@@ -1,0 +1,182 @@
+// Colors
+$black_dark: #0d0d0d;
+$black: #131313;
+$black_light: #333333;
+$background: #fafbfc;
+$blue: #002171;
+$blue_light: #065fd4;
+$gray: #cccccc;
+
+// Fonts
+$main_font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+$secondary_font: 'Merriweather', serif;
+
+// Breakpoints
+$xs: 360px;
+$s: 420px;
+$m: 780px;
+$l: 820px;
+$xl: 920px;
+
+$padding:12px;
+$transition: all 0.16s ease-in-out;
+
+//Generalities
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    font-family: $main_font;
+    transition: $transition;
+    vertical-align: top;
+}
+body {
+    background-color: $background;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+h1, h2, h3 {
+    font-weight: 500;
+    line-height: 1.4em;
+    letter-spacing: 0.02em;
+    color: $black_dark;
+}
+p, p *, li {
+    font-family: $secondary_font;
+}
+p, li {
+    line-height: 1.5em;
+    font-weight: 400;
+    color: $black_light;
+}
+a {
+    text-decoration: none;
+    color:$blue_light;
+}
+a:visited {
+    color:$blue;
+}
+a:hover {
+    text-decoration: underline;
+}
+img {
+    object-fit: cover;
+    max-width: 800px;
+}
+// Broman logo in header and footer
+h2.logo {
+    display:inline-block;
+    max-width: 75px;
+    font-size: 16px;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-decoration: none;
+    &:hover a {
+        text-decoration: none;
+    }
+}
+// Utils
+.mw {
+    max-width: $xl;
+    margin-left: auto;
+    margin-right: auto;
+}
+section.mh {
+    display: flex;
+    min-height: calc(100vh - 64px - 64px);
+    height:auto;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    main {
+        display: inline-block;
+        max-width: 590px;
+        flex:1;
+    }
+    aside {
+        display: inline-block;
+        max-width: 310px;
+        min-width: 310px;
+        margin-left: 20px;
+        padding:32px 32px 0 32px;
+        h3 {
+            font-size: 15px;
+            font-weight: 500;
+            text-transform: uppercase;
+            margin-bottom: 12px;
+            text-align: center;
+        }
+        p {
+            font-family: $main_font;
+            font-size: 14px;
+            font-weight: 400;
+            color:$black_light;
+            text-align: justify;
+        }
+        li {
+            font-size: 14px;
+        }
+    }
+}
+.pads {
+    padding-left: $padding;
+    padding-right: $padding;
+}
+.va {
+    display: table;
+    height: 100%;
+}
+.var {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+@media screen and (max-width:$xl) {
+    section.mh aside {
+        min-width: 280px;
+        margin-left: 0px;
+    }
+}
+@media screen and (max-width:$l) {
+    section.mh aside {
+        min-width: 260px;
+    }
+}
+@media screen and (max-width:$m) {
+    section.mh {
+        display: block;
+    }
+    section.mh main {
+        display: block;
+        width:100%;
+        margin: 0 auto;
+        flex:0;
+    }
+    section.mh aside {
+        display: block;
+        max-width:304px;
+        width:304px;
+        margin: 0 auto;
+    }
+}
+@media screen and (max-width:500px) {
+    header {
+        border-bottom: 1px solid $gray;
+        div.mw {
+            padding-top:0;
+            padding-bottom:0;
+            border-bottom: none;
+        }
+    }
+    .mh {
+        min-height: calc(100vh - 56px - 64px);
+    }
+    .pads {
+        padding:0;
+    }
+}
+@media screen and (max-width:$xs) {
+    section.mh aside {
+        padding-left:20px;
+        padding-right: 20px;
+    }
+}

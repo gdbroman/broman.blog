@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="shortcut icon" href="/assets/images/favicon.ico" />
+    {% feed_meta %}
+    {% seo %}
+  </head>
+  <body>
+    {% include header.html %}
+    <div class="pads">
+      <section class="mh mw">
+        <main>
+          {{ content }}
+        </main>
+        <aside>
+          {% include sidebar.html %}
+        </aside>
+      </section>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>
