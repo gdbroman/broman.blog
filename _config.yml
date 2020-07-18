@@ -1,3 +1,6 @@
+url: gustafbroman.github.io
+baseurl: /blog
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
