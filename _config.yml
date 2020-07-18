@@ -1,5 +1,5 @@
-url: https://gustafbroman.github.io/blog
-baseurl: /
+baseurl: "blog"
+url: 
 
 plugins:
   - jekyll-feed
