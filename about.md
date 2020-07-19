@@ -40,9 +40,11 @@ This has made me freer to try new things and more daring to ask stupid questions
 If you have any inquiries or propositions, you may reach out via the following email adress: contact@gustafdbroman.com
 
 ## What Wordpress theme is this?
-This website is not running on Wordpress. I coded my own [Jekyll](https://jekyllrb.com/){:target="_blank"} theme and deployed it for free with [Github Pages](https://pages.github.com/){:target="_blank"}.
+This website is not running on Wordpress. I coded my own [Jekyll](https://jekyllrb.com/){:target="_blank"} theme and deployed it for free using Github Pages as host.
 
 Why? Because I'm a perfectionistic control freak who craves authority over every pixel and byte.
+
+Like what you see? Good news! This website is open source and you can find the source code [here](https://github.com/gustafbroman/blog){:target="_blank"}.
 
 ## Are you writing these questions to yourself?
 Maybe. No comment.
