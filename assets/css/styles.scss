@@ -226,6 +226,9 @@ footer {
 aside {
     .widget {
         margin-bottom: 32px;
+        a {
+            color:$blue;
+        }
         ul {
             padding-top: 6px;
             padding-left: 20px;
