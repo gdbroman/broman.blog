@@ -35,5 +35,3 @@ When you’re in a rot, wondering what it all means but then continuing, despite
 That's what programming, writing, painting and all other creative pursuits have in common.
 
 The requirement for courage.
-
-75 reads · Jun 27, 2020
