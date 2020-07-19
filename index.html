@@ -4,18 +4,24 @@ title: Broman's Blog
 ---
 {% for post in site.posts limit:10 %}
 
-<article class="entry">
-  <div class="flex">
-      <a href="{{ post.url }}" class="image"><img src="{{ post.thumbnail }}" loading="lazy" onerror='this.style.display = "none"'></a>
-      <div class="text">
-          <div class="va">
-              <div class="var">
-                  <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
-                  <div class="meta">{{ post.date | date: '%B %d, %Y' }}</div>
-              </div>
-          </div>
-      </div>
-  </div>
-</article>
+    <article class="entry">
+    <div class="flex">
+        <a href="{{ post.url }}" class="image">
+            {% if post.thumbnail %}
+                <img src="{{post.thumbnail}}" loading="lazy" onerror='this.style.display = "none"'>
+            {% else %} 
+                <img src="{{'/assets/images/thumbnails/' | append: post.permalink | append: '.jpg'}}" loading="lazy" onerror='this.style.display = "none"'>
+            {% endif %}
+        </a>
+        <div class="text">
+            <div class="va">
+                <div class="var">
+                    <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+                    <div class="meta">{{ post.date | date: '%B %d, %Y' }}</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </article>
 
 {% endfor %}
