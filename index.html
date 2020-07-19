@@ -7,7 +7,10 @@ title: Broman's Blog
     <article class="entry">
     <div class="flex">
         <a href="{{ post.url }}" class="image">
-            <img src="{{'/assets/images/thumbnails/' | append: post.permalink | append: '.webp'}}" loading="lazy" onerror='this.style.display = "none"'>
+            <picture>
+                <source srcset="{{'/assets/images/thumbnails/' | append: post.permalink | append: '.webp'}}" type="image/webp" loading="lazy">
+                <img src="{{'/assets/images/thumbnails/' | append: post.permalink | append: '.jpg'}}" loading="lazy" onerror='this.style.display = "none"'>
+            </picture>
         </a>
         <div class="text">
             <div class="va">
