@@ -132,6 +132,9 @@ article {
             flex: 1;
             .va {
                 min-height:100%;
+                a {
+                    text-decoration-color: $black;
+                }
                 h2 {
                     font-size: 21px;
                     margin-top: 0;
@@ -191,6 +194,7 @@ footer {
     padding-left:$padding;
     padding-right:$padding;
     overflow: hidden;
+    * {vertical-align: top;}
     .mw {
         display: flex;
         height:auto;
