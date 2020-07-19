@@ -16,7 +16,7 @@ $xs: 360px;
 $s: 420px;
 $m: 780px;
 $l: 820px;
-$xl: 900px;
+$xl: 880px;
 
 $padding:12px;
 $transition: all 0.16s ease-in-out;
@@ -94,9 +94,9 @@ section.mh {
     }
     aside {
         display: inline-block;
-        max-width: 312px;
-        min-width: 300px;
-        padding:32px 32px 0 32px;
+        max-width: 280px;
+        min-width: 280px;
+        padding:32px 0px 0px 32px;
         h3 {
             font-size: 15px;
             font-weight: 500;
@@ -131,15 +131,10 @@ section.mh {
 }
 
 @media screen and (max-width:$xl) {
-    section.mh aside {
-        min-width: 280px;
-        max-width: 290px;
-        margin-left: 0px;
-    }
 }
 @media screen and (max-width:$l) {
     section.mh aside {
-        min-width: 260px;
+        
     }
 }
 @media screen and (max-width:$m) {
@@ -156,6 +151,7 @@ section.mh {
         display: block;
         max-width:304px;
         width:304px;
+        padding-right: 32px;
         margin: 0 auto;
     }
 }
@@ -177,6 +173,9 @@ section.mh {
 }
 @media screen and (max-width:$xs) {
     section.mh aside {
+        max-width: 100%;
+        min-width: 100%;
+        width:100%;
         padding-left:20px;
         padding-right: 20px;
     }
