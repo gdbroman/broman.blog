@@ -40,7 +40,7 @@ h1, h2, h3 {
     letter-spacing: 0.02em;
     color: $black_dark;
 }
-p, p *, li {
+p, p *, li, li * {
     font-family: $secondary_font;
 }
 p, li {

@@ -76,6 +76,7 @@ article {
         cite {
             font-family: $main_font;
             font-style: normal;
+            color:$black_dark
         }
     }
     .meta {
@@ -115,6 +116,7 @@ article {
             max-height: 150px;
             min-width: 0;
             max-width: 190px;
+            width:auto;
             text-align: center;
             overflow: hidden;
             img {
@@ -122,8 +124,8 @@ article {
                 opacity: 0.92;
                 min-height:100%;
                 max-height: 150px;
-                min-width: 100%;
-                max-width: 100%;
+                min-width: 190px;
+                max-width: 190px;
                 border-right: 1px solid $gray;
             }
             &:hover img {
@@ -314,6 +316,9 @@ aside {
             a.image {
                 img {
                     max-height: 132px;
+                    min-height: 132px;
+                    max-width: 132px;
+                    min-width: 132px;
                 }
             }
         }
