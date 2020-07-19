@@ -1,5 +1,5 @@
 ---
-title: "Life: a Juggling Act?"
+title: "Life: A Juggling Act?"
 permalink: balance
 ---
 Balance: Is it a lie?
@@ -20,6 +20,6 @@ Ideally you choose your spikes synergistically. Such as how physical exercise em
 
 But other times you’ll have to let something go. It may be a hobby very dear to your heart, but you recognize that it is taking away resources that you could spend on getting to your ultimate goal.
 
-So if you seek balance, life’s a juggling act.
+Seek balance, and life’s a juggling act.
 
-But if you seek focused progress, life’s a narrow road of sacrifices.
+Seek focused progress, and it's a narrow road of sacrifices.
