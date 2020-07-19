@@ -17,6 +17,9 @@ article {
         font-size: 14px;
         color:#828282;
     }
+    img {
+        background-color: #eee;
+    }
 }
 .post {
     img.main {
@@ -65,9 +68,10 @@ article {
         margin-bottom: 22px;
         border-left: 2px solid #333;
         font-style: italic;
-    }
-    blockquote cite {
-        font-style: normal;
+        cite {
+            font-family: $main_font;
+            font-style: normal;
+        }
     }
     .meta {
         padding-top: 20px;
@@ -97,7 +101,7 @@ article {
     .flex {
         display: flex;
         position:relative;
-        min-height: 132px;
+        min-height: 150px;
         max-height: 150px;
         a.image {
             position: relative;
@@ -291,11 +295,11 @@ aside {
 @media screen and (max-width:$l) {
     article.entry {
         .flex {
+            min-height: 132px;
+            max-height: 132px;
             a.image {
-                min-width: 150px;
-                max-width: 150px;
                 img {
-                    max-height: 150px;
+                    max-height: 132px;
                 }
             }
         }
@@ -324,11 +328,10 @@ aside {
                 padding-right: 12px;
                 .va {
                     h2 {
-                        font-size: 18px;
+                        font-size: 16px;
                         -webkit-line-clamp: 3;
                     }
                 }
-                
             }
         }
     }
@@ -363,5 +366,16 @@ aside {
                 }
             }
         }
+    }
+}
+@media screen and (max-width:$xs) {
+    header {
+        .mw nav a {
+            font-size: 14px;
+        }
+    }
+    section.mh aside {
+        max-width: 100%;
+        width:100%;
     }
 }
