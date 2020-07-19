@@ -311,6 +311,11 @@ aside {
             }
         }
     }
+    .post {
+        img.main {
+            min-height: 220px;
+        }
+    }
 }
 @media screen and (max-width:500px) {
     article.post, article.entry {

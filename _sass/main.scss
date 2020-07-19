@@ -133,6 +133,7 @@ section.mh {
 @media screen and (max-width:$xl) {
     section.mh aside {
         min-width: 280px;
+        max-width: 290px;
         margin-left: 0px;
     }
 }
