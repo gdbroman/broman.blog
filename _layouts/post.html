@@ -3,11 +3,7 @@ layout: default
 ---
 <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 <article class="post">
-    {% if page.thumbnail %}
-        <img src="{{page.thumbnail}}" loading="lazy" class="main" onerror='this.style.display = "none"'>
-    {% else %} 
-        <img src="{{'/assets/images/thumbnails/' | append: page.permalink | append: '.jpg'}}" loading="lazy" class="main" onerror='this.style.display = "none"'>
-    {% endif %}
+    <img src="{{'/assets/images/thumbnails/' | append: page.permalink | append: '.webp'}}" loading="lazy" class="main" onerror='this.style.display = "none"'>
     <div class="text">
         <h1>{{ page.title }}</h1>
         {{ content }}

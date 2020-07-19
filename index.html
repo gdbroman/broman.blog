@@ -7,11 +7,7 @@ title: Broman's Blog
     <article class="entry">
     <div class="flex">
         <a href="{{ post.url }}" class="image">
-            {% if post.thumbnail %}
-                <img src="{{post.thumbnail}}" loading="lazy" onerror='this.style.display = "none"'>
-            {% else %} 
-                <img src="{{'/assets/images/thumbnails/' | append: post.permalink | append: '.jpg'}}" loading="lazy" onerror='this.style.display = "none"'>
-            {% endif %}
+            <img src="{{'/assets/images/thumbnails/' | append: post.permalink | append: '.webp'}}" loading="lazy" onerror='this.style.display = "none"'>
         </a>
         <div class="text">
             <div class="va">
