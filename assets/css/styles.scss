@@ -166,6 +166,7 @@ header {
     padding-left:$padding;
     padding-right:$padding;
     background-color: transparent;
+    * {vertical-align: top;}
     .mw {
         display: flex;
         height:auto;
