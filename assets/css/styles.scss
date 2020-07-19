@@ -73,10 +73,14 @@ article {
         margin-bottom: 22px;
         border-left: 2px solid #333;
         font-style: italic;
-        cite {
-            font-family: $main_font;
+        cite {            
             font-style: normal;
-            color:$black_dark
+            font-family: $main_font;
+            color:$black_dark;
+            * {
+                font-family: $main_font;
+                color:$black_dark;
+            }
         }
     }
     .meta {
