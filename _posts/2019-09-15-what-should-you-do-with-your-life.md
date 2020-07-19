@@ -1,5 +1,4 @@
 ---
-date:   2020-06-06
 title: What to do with your life?
 permalink: what-to-do-with-your-life
 thumbnail: "/assets/images/thumbnails/what-should-you-do-with-your-life.jpg"

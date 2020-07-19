@@ -1,8 +1,6 @@
 ---
-date:   2020-06-06
 title: The Importance of Travel
-permalink: travel
-thumbnail: /assets/images/thumbnails/the-importance-of-travel.jpg
+permalink: the-importance-of-travel
 ---
 Maybe you seek to become more compassionate.
 

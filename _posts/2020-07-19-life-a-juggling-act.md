@@ -1,8 +1,6 @@
 ---
-date:   2020-07-18
 title: "Life: a Juggling Act?"
 permalink: balance
-
 ---
 Balance: Is it a lie?
 
