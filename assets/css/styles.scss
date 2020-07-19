@@ -46,10 +46,15 @@ article {
         border-bottom: 1px solid $gray;
         color:$black_dark;
     }
-    p, p *, li, li * {
+    p {
+        margin-bottom: 22px;
+    }
+    p * {
+        font-family: $secondary_font;
         font-size: 16px;
         line-height: 1.5em;
-        margin-bottom: 22px;
+    }
+    p, p *:not(a), li, li * {
         color:$black_light;
     }
     ul, ol {
