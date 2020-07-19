@@ -1,6 +1,7 @@
 ---
 date:   2020-06-06
-permalink: what-to-do-with-your-life?
+title: What to do with your life?
+permalink: what-to-do-with-your-life
 thumbnail: "/assets/images/thumbnails/what-should-you-do-with-your-life.jpg"
 ---
 Maybe there is another life after this one. Maybe not. It’s hard to know that’s for sure. It’s the kind of thing you just have to wait and see to find out about. But that’s always something - at least you have something to look forward to.
