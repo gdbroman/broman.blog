@@ -54,7 +54,7 @@ article {
         font-size: 16px;
         line-height: 1.5em;
     }
-    p, p *:not(a), li, li * {
+    p, p *:not(a), li, li *:not(a) {
         color:$black_light;
     }
     ul, ol {
