@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Become a Walking Contradiction"
 permalink: be-a-walking-contradiction
 ---
 Ideology is probably among the biggest traps in life. Partly because of how widespread it is.
