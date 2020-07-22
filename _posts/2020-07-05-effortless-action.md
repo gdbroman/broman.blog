@@ -2,32 +2,23 @@
 title: "Moving Fast Versus Effortless Action"
 permalink: effortless-action
 ---
-It's perhaps one of life’s most valuable skills: The ability to be comfortable with uncertainty.
+Do you want to go through life struggling or at ease?
 
-Being comfortable not knowing what’s gonna happen and not having all the answers.
+Suffering or flowing?
 
-That feeling of: the world doesn’t have to make sense.
+Thomas Edison worked hard. He was what you could call a “crank” inventor - trying every single combination til he found one that worked. He was highly practical: if it works, it works - otherwise, keep trying until it does.
 
-To be able to go through periods of feeling naked and unsure.
+Nikola Tesla on the other hand was extremely intuitive. He would sit in his lab visualizing, and solutions would just come to him in a flash. Surely, he worked hard as well - but not in the repetitive sense of Edison.
 
-In zen they call it having “no roof over head, no ground under foot”.
+In spite of having diametrically opposed strategies, both inventors came to be successful in their own sense. So there’s obviously not just one way of going about it.
+You gotta choose your own style.
 
-Because the prerequisite for clarity is confusion. The greatest insights must come from equally great ignorance.
+Personally, my preference goes in cycles. There are times when I just feel like moving fast and breaking things. To throw enough mud at the wall until some of it sticks.
 
-But you gotta be willing to discard your own beliefs.
+But more often than not I’m drawn to being introspective and thoughtful about my actions. Valuing order and big blocks of uninterrupted time as a strategy for figuring things out. 
 
-> In order to get strong, you first need the humility of being weak.
-> 
-> To get what you want you have to deserve what you want.
-> 
-> The world is not yet a crazy enough place to reward a whole bunch of undeserving people.
-> 
-> <cite>Charlie Munger</cite>
+In business, the first approach of being quick and reckless tends to be more effective in the short run. It gets you to where you want to be faster. 
 
-Freedom is not free and the price for comfort is discomfort.
+Zero to one solutions, on the other hand, seldom come into being like that. They’re the result of someone’s clear vision. And then implementation with complete tunnel vision and laser like focus.
 
-It’s the ultimate marshmallow test:
-
-Either be safe now and face uncertainty later. Or, embrace uncertainty for a more promising future.
-
-Either way, uncertainty is coming for all of us.
+But casting all of that aside, flowing through life in harmony with the universe à la Wu Wei - in effortless action - is simply more pleasurable.
