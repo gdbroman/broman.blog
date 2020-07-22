@@ -22,7 +22,7 @@ Ideally you choose your habits synergistically. So that they empower each other.
 
 But other times you’ll have to let something go. 
 
-It may be a hobby very dear to your heart, but which you recognize is eating up valuable time, which you could spend on getting to your ultimate goal faster.
+It may be a hobby very dear to your heart, but which you recognize is eating up valuable time, so you have to let it go.
 
 Seek balance, and life’s a juggling act.
 
