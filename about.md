@@ -72,6 +72,4 @@ Although this is a _personal_ website, it's not about me. Or at least, that's no
 
 The aim here is to freely discuss ideas. Ideas which can possibly be helpful to all of us.
 
-So if any of this seems interesting to you, feel free to read the blog and join me on a journey of figuring out life and being useful.
-
-/Gustaf
+So if any of this seems interesting to you, feel free to read the blog, and join me on a journey of figuring out life and being useful.
