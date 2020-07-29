@@ -17,7 +17,9 @@ The quick answer is...
 1. Writing is fun
 2. It helps me think
 
-The complicated answer is that I can't not write. That I begin to rot if I go more than one day without writing. Like as if my thoughts are tangling themselves into a big knot up there.
+The complicated answer is that I can't _not_ write. That I begin to rot if I go more than one day without writing. Like as if my thoughts are tangling themselves into a big knot up there.
+
+**I don't run any ads or analytics on here. And I never will.** The goal is authentic expression. My thoughts: no more, no less.
 
 ## Err...Who are you?
 Who am I? That's a tough one.
@@ -25,7 +27,7 @@ Who am I? That's a tough one.
 I'm gonna have to come back for a more definite answer.
 
 ## What's your day job?
-I'm an indiehacker - which means I code stuff on the interwebs that generate income.
+I'm an indiehacker, which means I code stuff on the internet.
 
 I'm also as an engineering student in my spare time, currently based in cold Stockholm.
 
@@ -40,14 +42,14 @@ This has made me freer to try new things and more daring to ask stupid questions
 If you have any inquiries or propositions, you may reach out via the following email adress: contact@gustafdbroman.com
 
 ## What Wordpress theme is this?
-This website is not running on Wordpress. I coded my own [Jekyll](https://jekyllrb.com/){:target="_blank"} theme and deployed it for free using Github Pages as host.
+This website is not running on Wordpress. I coded my own [Jekyll](https://jekyllrb.com/){:target="_blank"} theme and deployed it for free using Github Pages.
 
 Why? Because I'm a perfectionistic control freak who craves authority over every pixel and byte.
 
-Like what you see? Good news! This website is open source and you can find the source code [here](https://github.com/gustafbroman/blog){:target="_blank"}.
+Like what you see? Good news! This website is open source. You can find the source code [here](https://github.com/gustafbroman/blog){:target="_blank"}.
 
 ## Are you writing these questions to yourself?
-Maybe. No comment.
+Maybe, no comment.
 
 Shoot.
 
@@ -57,18 +59,19 @@ I've gradually come to realize that all of my goals can be traced back to two mo
 A mission statement for life, if you will.
 
 Namely, to
-
 1. Understand life
-2. Successfully operate within it by being useful
+2. Be useful
 
 ## I asked what you write about not your freaking mission statement
 But they're the same! Don't you see?
 
-These two missions are what every article on here originate from.
+It's what every article on here originate from.
 
 ## What a megalomaniac!
-Although this is a personal website, it's not about me. Or at least, that's not my goal.
+Although this is a _personal_ website, it's not about me. Or at least, that's not my goal.
 
-The aim here is to discuss ideas. Ideas which can possibly be helpful to all of us (that's also a personal reminder to keep narcissism down at a healthy level).
+The aim here is to freely discuss ideas. Ideas which can possibly be helpful to all of us.
 
-So if some of this seems interesting to you, then I warmly welcome you to read the blog and join me on a journey of figuring out life.
+So if any of this seems interesting to you, feel free to read the blog and join me on a journey of figuring out life and being useful.
+
+/Gustaf
