@@ -8,11 +8,11 @@ One’s time and mental energy - whilst more abundant than most probably think -
 
 Each day we’re handed a certain amount of fuel units and it’s our job to spend them wisely with respect to our short- and long term goals.
 
-Indeed, we can increase those fuel units through lifestyle design. But no matter how much meditating or fasted exercise one does, there’ll always be 24 hours in a day.
+Indeed, we can increase those fuel units through lifestyle design. But no matter how much meditating or fasted exercise one does, there will always be 24 hours in a day.
 
-_Everybody_ gets 24 hours.
+_Everybody_ gets 24 hours - so what’s your strategy gonna be like? 
 
-So what’s your strategy gonna be like? Balance or focus?
+Balance - or focus?
 
 Because you only get to have one spike. Each hour you spend on activity A, could be an hour spent on B.
 
