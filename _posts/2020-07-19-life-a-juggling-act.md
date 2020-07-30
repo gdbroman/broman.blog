@@ -6,9 +6,9 @@ Balance: Is it a lie?
 
 One’s time and mental energy - whilst more abundant than most probably think - is, undeniably limited.
 
-Each day we’re handed a certain amount of fuel units and it’s our job to spend them wisely with respect to our short- and long term goals.
+Each day we’re handed a certain amount of fuel units and it’s our job to spend them wisely.
 
-Indeed, we can increase those fuel units through lifestyle design. But no matter how much meditating or fasted exercise one does, there will always be 24 hours in a day.
+Indeed, we can increase those fuel units through lifestyle design. But no matter how much meditating or fasted exercise one does, we ain't geting more time.
 
 _Everybody_ gets 24 hours - so what’s your strategy gonna be like? 
 
