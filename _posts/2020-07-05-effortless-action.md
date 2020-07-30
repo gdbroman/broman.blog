@@ -6,7 +6,7 @@ Do you want to go through life struggling or at ease?
 
 Suffering or flowing?
 
-Thomas Edison worked hard. He was what you could call a “crank” inventor - trying every single combination til he found one that worked. He was highly practical: if it works, it works - otherwise, keep trying until it does.
+Thomas Edison worked hard. He was what you would call a “crank” inventor. Trying every single combination til he found one that worked. He was highly practical: if it works, it works - otherwise, keep trying until it does.
 
 Nikola Tesla on the other hand was extremely intuitive. He would sit in his lab visualizing, and solutions would just come at him in a flash. Surely, he worked hard as well - but not in the repetitive sense of Edison.
 
