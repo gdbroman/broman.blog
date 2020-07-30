@@ -10,7 +10,7 @@ Each day we’re handed a certain amount of fuel units and it’s our job to spe
 
 Indeed, we can increase those fuel units through lifestyle design. But no matter how much meditating or fasted exercise one does - we ain't getting mo' time.
 
-_Everybody_ gets 24 hours - so what’s your strategy gonna be like? 
+_Everybody_ gets 24 hours - **so what’s your strategy gonna be like?** 
 
 Balance - or focus?
 
