@@ -10,14 +10,14 @@ That feeling of: the world doesn’t have to make sense.
 
 To be able to go through periods of feeling naked and unsure.
 
-In zen they call it having “no roof over head, no ground under foot”.
+In zen they call it having _“no roof over head, no ground under foot”_.
 
 Because the prerequisite for clarity is confusion. The greatest insights must come from equally great ignorance.
 
 But you gotta be willing to discard your own beliefs.
 
-> In order to get strong, you first need the humility of being weak.
-> 
+In order to get strong, you first need the humility of being weak.
+
 > To get what you want you have to deserve what you want.
 > 
 > The world is not yet a crazy enough place to reward a whole bunch of undeserving people.
