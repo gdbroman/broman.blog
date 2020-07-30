@@ -4,4 +4,4 @@
 <meta name="twitter:creator" content="@gustafbroman">
 <meta name="twitter:title" content="{{page.title}}" />
 <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.content | markdownify | strip_html | truncatewords: 50 }}{% endif %}" />
-<meta name="twitter:image" content="{% if page.thumbnail %}{{ site.url | append: page.thumbnail }}{% else %}{{ site.url | append: '/assets/images/thumbnails/' | append: page.permalink | append: '.jpg'}}{% endif %}" />
+<meta name="twitter:image" content="{% if page.thumbnail %}{{ site.url | append: page.thumbnail }}{% else %}{{ site.url | append: 'assets/images/thumbnails/' | append: page.permalink | append: '.jpg'}}{% endif %}" />
