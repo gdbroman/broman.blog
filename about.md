@@ -17,9 +17,11 @@ The quick answer is...
 1. Writing is fun
 2. It helps me think
 
-The complicated answer is that I can't _not_ write. That I begin to rot if I go more than one day without writing. Like as if my thoughts are tangling themselves into a big knot up there.
+The complicated answer is that I can't _not_ write. 
 
-**I don't run any ads or analytics on here. And I never will.** The goal is authentic expression. My thoughts: no more, no less.
+That I begin to rot if I go more than one day without writing. Like as if my thoughts are tangling themselves into a big knot up there.
+
+**I don't run any ads or analytics on here - nor will I ever.** The goal is authentic expression.
 
 ## Err...Who are you?
 Who am I? That's a tough one.
@@ -39,14 +41,14 @@ That no one really knows what's going on. We just vary in our ability to pretend
 This has made me freer to try new things and more daring to ask stupid questions.
 
 ## Okay. How do I reach out?
-If you have any inquiries or propositions, you may reach out via the following email adress: contact@gustafdbroman.com
+If you have any inquiries or propositions, you may reach out to the following email adress: contact@gustafdbroman.com
 
 ## What Wordpress theme is this?
 This website is not running on Wordpress. I coded my own [Jekyll](https://jekyllrb.com/){:target="_blank"} theme and deployed it for free using Github Pages.
 
-Why? Because I'm a perfectionistic control freak who craves authority over every pixel and byte.
+Why not just use Wordpress? Glad you asked. Because it's slow and bloated. I'm a perfectionistic control freak who craves authority over every pixel and byte.
 
-Like what you see? Good news! This website is open source. You can find the source code [here](https://github.com/gustafbroman/blog){:target="_blank"}.
+If you like what you see, I've got good news: This website is open source. You can find the source code [here](https://github.com/gustafbroman/blog){:target="_blank"}.
 
 ## Are you writing these questions to yourself?
 Maybe, no comment.
@@ -68,8 +70,8 @@ But they're the same! Don't you see?
 It's what every article on here originate from.
 
 ## What a megalomaniac!
-Although this is a _personal_ website, it's not about me. Or at least, that's not my goal.
+Although this is a _personal_ website, it's not about me - or at least, that's not my goal.
 
-The aim here is to freely discuss ideas. Ideas which can possibly be helpful to all of us.
+The aim here is to discuss _ideas_. Ideas which possibly can be helpful to all of us.
 
-So if any of this seems interesting to you, feel free to read the blog, and join me on a journey of figuring out life and being useful.
+So if any of this seems interesting to you, feel free to read the blog; and join me on a journey of figuring out life and being useful.
