@@ -265,15 +265,15 @@ aside {
             border-radius: 50%;
             margin: 0 auto 20px auto;
             overflow:hidden;
-            opacity: 0.96;
+            opacity: 0.98;
             img {
                 width: 100%;
                 height:100%;
             }
             &:hover {
-                opacity: 1;
+                opacity: 1.05;
                 img {
-                    transform: scale(1.1);
+                    transform: scale(1.12);
                 }
             }
         }

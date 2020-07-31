@@ -21,7 +21,7 @@ The complicated answer is that I can't _not_ write.
 
 That I begin to rot if I go more than one day without writing. Like as if my thoughts are tangling themselves into a big knot up there.
 
-**I don't run any ads or analytics on here - nor will I ever.** The goal is authentic expression. Freedom is the vehicle.
+**I don't run any ads or analytics on here - nor will I ever.** The goal is authentic expression.
 
 ## Err...Who are you?
 Who am I? That's a tough one.
