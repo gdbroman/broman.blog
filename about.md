@@ -46,7 +46,7 @@ If you have any inquiries or propositions, you may reach out to the following em
 ## What Wordpress theme is this?
 This website is not running on slow and bloated Wordpress. I coded my own [Jekyll](https://jekyllrb.com/){:target="_blank"} theme and deployed it for free using Github Pages.
 
-If you like what you see, I've got good news: This website is open source. You can find the source code [here](https://github.com/gustafbroman/blog){:target="_blank"}.
+Like what you see? Then I've got good news: This website is open source and you can find the source code [here](https://github.com/gustafbroman/blog){:target="_blank"}.
 
 ## Are you writing these questions to yourself?
 Maybe, no comment.
