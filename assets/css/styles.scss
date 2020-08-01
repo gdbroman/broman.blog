@@ -1,6 +1,7 @@
 ---
 ---
 @import "main";
+@import "header";
 
 article {
     position: relative;
@@ -161,81 +162,6 @@ article.page {
                     -webkit-box-orient: vertical;
                     overflow: hidden;
                     text-overflow: ellipsis;
-                }
-            }
-        }
-    }
-}
-
-// Header
-$inner_height: 56px;
-header {
-    width:100%;
-    max-height:64px;
-    min-height: $inner_height;
-    padding-left:$padding;
-    padding-right:$padding;
-    background-color: transparent;
-    * {vertical-align: top;}
-    .mw {
-        display: flex;
-        height:auto;
-        padding-top: 4px;
-        padding-bottom: 4px;
-        border-bottom: 1px solid #ccc;
-        * {
-            color:$black;
-            height:$inner_height;
-            line-height: $inner_height;
-            font-size: 16px;
-            user-select: none;
-        }
-        nav {
-            display:inline-block;
-            flex:1;
-            text-align: right;
-            overflow: hidden;
-            a {
-                margin-left: 12px;
-            }
-        }
-    }
-}
-// Footer
-footer {
-    width:100%;
-    background-color: $black;
-    max-height:64px;
-    min-height: $inner_height;
-    padding-left:$padding;
-    padding-right:$padding;
-    overflow: hidden;
-    * {vertical-align: top;}
-    .mw {
-        display: flex;
-        height:auto;
-        padding-top: 4px;
-        padding-bottom: 4px;
-        * {
-            color:$background;
-            height:$inner_height;
-            line-height: $inner_height;
-            font-size: 16px;
-            user-select: none;
-        }
-        nav {
-            display:inline-block;
-            flex:1;
-            text-align: right;
-            overflow: hidden;
-            a {
-                margin-left:12px;
-                img {
-                    display: inline-block;
-                    height:16px;
-                    width: 16px;
-                    vertical-align: middle;
-                    filter: invert(1);
                 }
             }
         }
