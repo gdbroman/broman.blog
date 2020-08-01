@@ -1,6 +1,6 @@
 ---
-title: "Embodied Knowledge"
-permalink: "embodied-knowledge"
+title: "Beliefs as Vehicles"
+permalink: "beliefs-as-vehicles"
 ---
 > People don't have ideas. Ideas have people.
 > 
