@@ -4,7 +4,7 @@ permalink: "beliefs-as-vehicles"
 ---
 > People don't have ideas. Ideas have people.
 > 
-> <cite>Carl Jung</cite>
+> <cite>- Carl Jung</cite>
 
 The default is to be a vessel for other people’s ideas. The goal should be for the ideas to become your vessels.
 
