@@ -44,7 +44,7 @@ p, p *, li, li * {
     font-family: $secondary_font;
 }
 p, li {
-    line-height: 1.5em;
+    line-height: 1.6em;
     font-weight: 400;
     color: $black_light;
 }
@@ -133,9 +133,6 @@ section.mh {
 @media screen and (max-width:$xl) {
 }
 @media screen and (max-width:$l) {
-    section.mh aside {
-        
-    }
 }
 @media screen and (max-width:$m) {
     section.mh {
