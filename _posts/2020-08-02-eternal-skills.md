@@ -3,7 +3,7 @@ title: "Eternal Skills"
 permalink: "eternal-skills"
 ---
 
-_What things would be worth mastering in spite of the ever-changing technology- and knowledge-based economy of today?_
+_What things would be worth mastering in spite of the ever-changing technology-based and knowledge-based economy of today?_
 
 It’s a helpful question for pre-screening what skills to learn.
 
@@ -25,4 +25,4 @@ So you need to learn a few, key momentary skills to land a job, but never let it
 
 **Your effort spent learning something should be a function of it’s estimated expiration date.**
 
-Momentary skills land you a job. Eternal skills make you free and independent.
+Momentary skills land you a job. Eternal skills make you free.
