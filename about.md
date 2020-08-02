@@ -31,7 +31,7 @@ I'm gonna have to come back for a more definite answer.
 ## What's your day job?
 I'm an indiehacker, which means I code stuff on the internet.
 
-I'm also as an engineering student in my spare time, currently based in cold Stockholm.
+I'm also an engineering student in my spare time, currently based in cold Stockholm.
 
 Here's me being a bit more professional: [Portfolio](https://gustafbroman.github.io){:target="_blank"}.
 
