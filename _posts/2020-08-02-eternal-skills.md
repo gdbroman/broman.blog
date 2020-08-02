@@ -7,7 +7,7 @@ _What things would be worth mastering in spite of the ever-changing technology-b
 
 It’s a helpful question for pre-screening what skills to learn.
 
-Math, physics, philosophy; these are safe bets since what they’re studying - reality - is not changing any time soon.
+Math, physics, philosophy; these are safe bets since their object of study - reality - is not changing any time soon.
 
 You could call them _eternal skills_.
 
