@@ -3,7 +3,7 @@ title: "Eternal Skills"
 permalink: "eternal-skills"
 ---
 
-_What things would be worth mastering in spite of the ever changing technology- and knowledge-based economy of today?_
+_What things would be worth mastering in spite of the ever-changing technology- and knowledge-based economy of today?_
 
 It’s a helpful question for pre screening what skills to learn.
 
