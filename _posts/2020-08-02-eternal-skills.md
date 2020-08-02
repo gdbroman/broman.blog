@@ -5,7 +5,7 @@ permalink: "eternal-skills"
 
 _What things would be worth mastering in spite of the ever-changing technology- and knowledge-based economy of today?_
 
-It’s a helpful question for pre screening what skills to learn.
+It’s a helpful question for pre-screening what skills to learn.
 
 Math, physics, philosophy; these are safe bets since what they’re studying - reality - is not changing any time soon.
 
