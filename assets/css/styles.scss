@@ -53,7 +53,7 @@ article {
     p * {
         font-family: $secondary_font;
         font-size: 16px;
-        line-height: 1.5em;
+        line-height: 1.6em;
     }
     p, p *:not(a), li, li *:not(a) {
         color:$black_light;
@@ -184,7 +184,7 @@ aside {
         }
     }
     .widget.profile {
-        padding-bottom:32px;
+        padding-bottom:20px;
         border-bottom: 1px solid $gray;
         a.picture {
             display: block;
