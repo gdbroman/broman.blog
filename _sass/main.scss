@@ -34,50 +34,10 @@ body {
     overflow-x: hidden;
     overflow-y: auto;
 }
-h1, h2, h3 {
-    font-weight: 500;
-    line-height: 1.4em;
-    letter-spacing: 0.02em;
-    color: $black_dark;
-}
-p, p *, li, li * {
-    font-family: $secondary_font;
-}
-p, li {
-    line-height: 1.6em;
-    font-weight: 400;
-    color: $black_light;
-}
-li {
-    line-height: 1.4em;
-}
-a {
-    font-family: $main_font;
-    text-decoration: none;
-    color:$blue_light;
-}
-a:visited {
-    color:$blue;
-}
-a:hover {
-    text-decoration: underline;
-}
 img {
     object-fit: cover;
-    max-width: 800px;
 }
-// Broman logo in header and footer
-h2.logo {
-    display:inline-block;
-    max-width: 75px;
-    font-size: 16px;
-    font-weight: 900;
-    text-transform: uppercase;
-    text-decoration: none;
-    &:hover a {
-        text-decoration: none;
-    }
-}
+
 // Utils
 .mw {
     max-width: $xl;
