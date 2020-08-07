@@ -12,11 +12,11 @@ I think this is why we get so easily hooked on our own beliefs. Limiting beliefs
 
 Security blankets.
 
-Thoughts such as, “I could never do that” in the face of adversity, to let ourselves off the hook.
+Thoughts such as, _“I could never do that”_ in the face of adversity, to let ourselves off the hook.
 
-Because otherwise we would have to take responsibility! To work on our weaknesses and get uncomfortable in the process. _And we don’t want that to happen - now do we? No thanks._
+Because otherwise we would have to take responsibility! To work on our weak spots and get uncomfortable in the process. _And we don’t want that to happen - now do we? No thanks._
 
-Instead, we whitewash our weak spots with these stories about ourselves until they become true. Until it's _who we are_.
+Instead, we whitewash our weaknesses with these stories about ourselves until they become true. Until it's _who we are_.
 
 See, you’re the only one who requires to be fooled. And the worst part is: You are also the _easiest_ to fool.
 
