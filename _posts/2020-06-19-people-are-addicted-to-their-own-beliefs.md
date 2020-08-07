@@ -14,7 +14,7 @@ Security blankets.
 
 Thoughts such as, “I could never do that” in the face of adversity, to let ourselves off the hook.
 
-Because otherwise, we would have to take responsibility! To work on our weaknesses and get uncomfortable in the process. _And we don’t want that to happen - now do we? No thanks._
+Because otherwise we would have to take responsibility! To work on our weaknesses and get uncomfortable in the process. _And we don’t want that to happen - now do we? No thanks._
 
 Instead, we whitewash our weak spots with these stories about ourselves until they become true. Until it's _who we are_.
 
