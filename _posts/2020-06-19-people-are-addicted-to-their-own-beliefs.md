@@ -1,14 +1,14 @@
 ---
-title: "Thoughts as Security Blankets - Why We get Addicted to our own Beliefs"
+title: "Why we get Addicted to our own Beliefs"
 permalink: people-are-addicted-to-their-own-beliefs
 ---
 You know that feeling when you’re out hiking and you get lost? Maybe you’re hungry and don’t have much food left. You’re tired and want to go home.
 
-Well, I think most of our awake time, we’re like that - just not as severely.
+Well, most of our awake time, we’re like that - just not as severely.
 
 **We’re all tired and we’re all scared.**
 
-This is why we get so easily hooked on our own beliefs. Limiting beliefs that provide comfort and safety - but only apparent such. 
+I think this is why we get so easily hooked on our own beliefs. Limiting beliefs that provide comfort and safety - but only apparent such. 
 
 Security blankets.
 
