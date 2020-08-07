@@ -23,6 +23,6 @@ You could also make the case that _all_ skills are momentary, if you consider AG
 
 If you seek freedom, your effort spent learning something should be a function of it’s estimated expiration date.
 
-In other words, learn a few but key momentary skills in order to land a job. But never let it become your highest priority. Spend the rest of your time learning eternal skills, or you’ll become a replaceable slave.
+In other words, learn a few, key momentary skills to land a job, but never let it become your highest priority. Spend the rest of your time learning eternal skills, or you’ll become a replaceable slave.
 
 Momentary skills land you a job, eternal skills make you free.
