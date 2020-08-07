@@ -96,9 +96,6 @@ article {
 article.page {
     padding-bottom: 10px;
 }
-.posts .entry:last-child {
-    margin-bottom: 0;
-}
 
 .entry {
     padding:0;
@@ -158,6 +155,9 @@ article.page {
                 }
             }
         }
+    }
+    &:last-child {
+        margin-bottom: 0;
     }
 }
 
