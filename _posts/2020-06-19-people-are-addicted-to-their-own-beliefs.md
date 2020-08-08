@@ -1,6 +1,6 @@
 ---
-title: "Why we get Addicted to our own Beliefs"
-permalink: people-are-addicted-to-their-own-beliefs
+title: "Thoughts as Security Blankets"
+permalink: thoughts-as-security-blankets
 ---
 You know that feeling when you’re out hiking and you get lost? Maybe you’re hungry and don’t have much food left. You’re tired and want to go home.
 
