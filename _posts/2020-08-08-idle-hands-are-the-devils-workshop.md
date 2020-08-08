@@ -6,9 +6,9 @@ permalink: "idle-hands-are-the-devils-workshop"
 >
 > <cite>Blaise Pascal</cite>
 
-On the one hand, in an age of stress and burnout, perhaps what is needed is more time spent resting and relaxing.
+In an age of stress and burnout, perhaps what is needed is more time spent resting and relaxing.
 
-But on the other, I think we can all sense that inactivity is not the answer.
+But I think we can all sense that inactivity isn't the answer.
 
 Because how can man find reason to live if there is nothing which excites him to step out of bed in the morning?
 
