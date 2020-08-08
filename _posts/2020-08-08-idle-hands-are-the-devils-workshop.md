@@ -18,7 +18,7 @@ But at the same time, **probably all criminality, addiction and mental turmoil s
 
 Pascal is probably right. In an ideal world we'd all be equanimous meditators able to find peace no matter our degree of activity.
 
-But in the real world, it’s probably wise to be a bit more afraid of the consequences of passivity than that of doing too much. 
+But in the real world, it’s likely wise to be a bit more afraid of the consequences of passivity than that of doing too much. 
 
 Ideally, one finds such a pursuit which does not require you to - not leaving you _wanting_ to - _“take time off”_.
 
