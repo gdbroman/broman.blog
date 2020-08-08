@@ -19,9 +19,7 @@ The quick answer is...
 
 The complicated answer is that I can't _not_ write. 
 
-That I begin to rot if I go more than one day without writing. Like as if my thoughts are tangling themselves into a big knot up there.
-
-It's like a weird kind of therapy.
+That I begin to rot if I go more than one day without writing. Like as if my thoughts are tangling themselves into a big knot up there. It's like a weird kind of therapy.
 
 Accordingly, **I don't run any ads or analytics on here - nor will I ever.** The goal is authentic expression.
 
