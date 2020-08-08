@@ -1,5 +1,5 @@
 ---
-title: "Idle Hands are the Devil's Workshop?"
+title: "Idle Hands: the Devil's Workshop?"
 permalink: "idle-hands-are-the-devils-workshop"
 ---
 > All of humanity's problems stem from man's inability to sit quietly in a room alone.
@@ -22,9 +22,9 @@ But in the real world, it’s probably wise to be a bit more afraid of the conse
 
 Ideally, one finds such a pursuit which does not require you to - not leaving you _wanting_ to - _“take time off”_.
 
-This is why I think burnout is more a matter of passion than of working too much. 
+This is why I think burnout is more a matter of passion than of _"working too much"_. 
 
-Find your call and the work/break duality will cease.
+Find your call and the work/break duality will cease. That's my experience at least.
 
 > I would rather be ashes than dust.
 > 
