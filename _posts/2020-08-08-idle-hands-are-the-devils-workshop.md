@@ -8,7 +8,7 @@ permalink: "idle-hands-are-the-devils-workshop"
 
 On the one hand, in an age of stress and burnout, perhaps what is needed is more time spent resting and relaxing.
 
-But on the other, I think we can all sense that inactivity is not completely harmless.
+But on the other, I think we can all sense that inactivity is not the answer.
 
 Because how can man find reason to live if there is nothing which excites him to step out of bed in the morning?
 
@@ -18,11 +18,9 @@ But at the same time, **probably all criminality, addiction and mental turmoil s
 
 Pascal is probably right. In an ideal world we'd all be equanimous meditators able to find peace no matter our degree of activity.
 
-But in the real world, it’s likely wise to be a bit more afraid of the consequences of passivity than that of doing too much. 
+But in the real world, it’s likely wise to be a bit more afraid of the consequences of passivity, than that of doing too much. 
 
-Ideally, one finds such a pursuit which does not require you to - not leaving you _wanting_ to - _“take time off”_.
-
-This is why I think burnout is more a matter of passion than of _"working too much"_.
+Ideally, one finds such a pursuit which does not require you to - nor leaving you _wanting_ to - _“take time off”_.
 
 Find your call and the work/break duality will cease. That's my experience at least.
 
