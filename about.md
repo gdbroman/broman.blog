@@ -21,7 +21,9 @@ The complicated answer is that I can't _not_ write.
 
 That I begin to rot if I go more than one day without writing. Like as if my thoughts are tangling themselves into a big knot up there.
 
-**I don't run any ads or analytics on here - nor will I ever.** The goal is authentic expression.
+It's like a weird kind of therapy.
+
+Accordingly, **I don't run any ads or analytics on here - nor will I ever.** The goal is authentic expression.
 
 ## Err...Who are you?
 Who am I? That's a tough one.
@@ -33,7 +35,7 @@ I'm an indiehacker, which means I code stuff on the internet.
 
 I'm also an engineering student in my spare time, currently based in cold Stockholm.
 
-Here's me being a bit more professional: [Portfolio](https://gustafbroman.github.io){:target="_blank"}.
+Here's me being a bit more professional: [My Portfolio](https://gustafbroman.github.io){:target="_blank"}.
 
 ## What's been your greatest realization in life?
 That no one really knows what's going on. We just vary in our ability to pretend we do. But really...no one does.
@@ -46,7 +48,7 @@ If you have any inquiries or propositions, you may reach out to the following em
 ## What Wordpress theme is this?
 This website is not running on slow and bloated Wordpress. I coded my own [Jekyll](https://jekyllrb.com/){:target="_blank"} theme and deployed it for free using Github Pages.
 
-Like what you see? Then I've got good news: This website is open source and you can find the source code [here](https://github.com/gustafbroman/blog){:target="_blank"}.
+Like what you see? Good news: This website is open source! You can find the source code [here](https://github.com/gustafbroman/blog){:target="_blank"}.
 
 ## Are you writing these questions to yourself?
 Maybe, no comment.
@@ -72,4 +74,4 @@ Although this is a _personal_ website, it's not about me - or at least, that's n
 
 The aim here is to discuss _ideas_. Ideas which possibly can be helpful to all of us.
 
-So if any of this seems interesting to you, feel free to read the blog; and join me on a journey of figuring out life and being useful.
+So if any of this seems interesting to you, feel free to read the blog; and join me on a journey of [figuring out life](https://broman.blog/no-roof-over-head-no-ground-under-foot).
