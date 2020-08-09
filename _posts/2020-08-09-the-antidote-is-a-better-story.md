@@ -16,6 +16,6 @@ As long as you’re in the materialistic paradigm, it’s all stories.
 
 So whenever there’s friction or frustration don't give up on storytelling altogether - seek a *better* story!
 
-And you can decide what stories to subscribe to. At any moment, you can become a story*teller*. 
+You can decide what stories to subscribe to. And at any moment, if the present stories don't cut it, you can become a story*teller*. 
 
 What stories will you tell?
