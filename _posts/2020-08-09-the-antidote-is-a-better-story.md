@@ -8,7 +8,7 @@ No matter your pursuits, you'll need to master the art of storytelling. It's the
 
 Making money and building companies is storytelling. 
 
-All kind of art. And politics is *definitely* storytelling.
+All kind of art - and politics - is *definitely* storytelling.
 
 I would even argue that *science and technology* is storytelling. Yes, really; stories about reality.
 
