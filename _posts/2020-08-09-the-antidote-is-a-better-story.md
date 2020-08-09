@@ -6,9 +6,9 @@ Humans are story driven creatures.
 
 No matter your pursuits, you'll need to master the art of storytelling. It's the only skill there is.
 
-Making money, sales and building companies is storytelling. 
+Making money and building companies is storytelling. 
 
-Art and politics is storytelling, obviously.
+Art and politics is storytelling - obviously.
 
 I would even argue that *science and technology* is storytelling. Yes, really; stories about reality.
 
