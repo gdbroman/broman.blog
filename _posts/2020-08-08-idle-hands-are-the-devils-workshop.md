@@ -14,13 +14,13 @@ Because how can man find reason to live if there is nothing which excites him to
 
 Indeed, personal and intellectual development requires periods of boredom.
 
-But at the same time, **probably all criminality, addiction and mental turmoil stems from not having something meaningful to do.** Nor having the responsibility of people depending on you.
+But at the same time, **probably all criminality, addiction and mental turmoil stems from not having something meaningful to do.** Nor the responsibility of people depending on you.
 
 Pascal is probably right. In an ideal world we'd all be equanimous meditators able to find peace no matter our degree of activity.
 
-But in the real world, it’s likely wise to be a bit more afraid of the consequences of passivity, than that of doing too much. 
+But in the real world, it’s likely wise to fear the consequences of passivity, more than that of doing too much. 
 
-Ideally, one finds such a pursuit which does not require you to - nor leaving you _wanting_ to - _“take time off”_.
+Ideally, one finds such a pursuit which does not require you to - nor leaving you _wanting_ to - _“take time off”_. And that doesn't happen by itself.
 
 Find your call and the work/break duality will cease. That's my experience at least.
 
