@@ -8,13 +8,13 @@ You know the type: the social outcast, libertarian nerd who believes blockchain 
 
 The problem is, as much as you may want it to be true, **you’re not an island.**
 
-The stereotype I’m describing is also most often someone introverted, which may explain the appeal that decentralization has to him. A kind of rebellious reaction against not being able to partake as a node in the social network of regular people.
+This cypherpunk stereotype I’m describing is also often someone introverted, which may explain the appeal that decentralization has to him. A kind of rebellious reaction against not being able to partake as a node in the social network of regular people.
 
-But only because _your_ node doesn’t utilize many connections doesn’t mean we should get rid of the network idea altogether.
+But only because _your_ node doesn’t utilize many connections, doesn’t mean we should get rid of the network idea altogether.
 
 Human’s biggest achievements all rely on network effects on some level. And increasingly so.
 
-Even genius “lone inventors” couldn’t get their work done if it weren’t for infrastructure made possible by thousands of other people.
+Even “lone inventors” couldn’t get their work done if it weren’t for infrastructure made possible by thousands of other people.
 
 Notice that I’m not making an argument against blockchain technology or libertarianism per say.
 
