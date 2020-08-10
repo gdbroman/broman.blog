@@ -2,7 +2,7 @@
 title: Decentralization at All Cost?
 permalink: decentralization-at-all-cost
 ---
-You know the type: the social outcast, libertarian nerd who believes blockchain will solve all our problems.
+You know the type: social outcast, libertarian nerd who believes blockchain will solve all our problems.
 
 > If only we decentralize everything, we can happily live out our lives on our own terms!
 
