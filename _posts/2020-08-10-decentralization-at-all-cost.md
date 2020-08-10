@@ -10,7 +10,7 @@ The problem is, as much as you may want it to be true, **you’re not an island.
 
 The stereotype I’m describing is also most often someone introverted, which may explain the appeal that decentralization has to him. A kind of rebellious reaction against not being able to partake as a node in the social network of regular people.
 
-But only because _your_ node doesn’t have, or require, many connections doesn’t mean we should get rid of the network idea altogether.
+But only because _your_ node doesn’t utilize many connections doesn’t mean we should get rid of the network idea altogether.
 
 Human’s biggest achievements all rely on network effects on some level. And increasingly so.
 
