@@ -16,7 +16,7 @@ Human’s biggest achievements all rely on network effects on some level. And in
 
 Even “lone inventors” couldn’t get their work done if it weren’t for infrastructure made possible by thousands of other people.
 
-Notice that I’m not making an argument against blockchain technology or libertarianism per say.
+Notice that I’m not making an argument against blockchain technology or libertarianism per se.
 
 To be totally clear, I’m actually writing this critique with one foot in the libertarian/crypto-space myself. And from time to time, I come dangerously close to being that delusional freedom propagating stereotype I’m describing.
 
