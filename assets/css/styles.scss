@@ -18,6 +18,13 @@ article {
     .meta {
         font-size: 14px;
         color:#828282;
+        .middot {
+            margin: 0 4px;
+        }
+    }
+    .meta a, .meta a:hover {
+        text-decoration: none;
+        color:#828282;
     }
     img {
         background-color: #eee;
