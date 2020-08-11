@@ -13,7 +13,7 @@ defaults:
       name: "Broman's Blog"
       layout: post
       author: "Gustaf Broman"
-      category: "life"
+      category: "life lessons"
 
 social:
   name: Gustaf Broman

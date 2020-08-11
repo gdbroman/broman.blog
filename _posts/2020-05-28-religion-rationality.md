@@ -1,6 +1,7 @@
 ---
 title: "On Religion and Rationality"
 permalink: religion-rationality
+category: "technical"
 ---
 
 Soul, demons, spirits and God.
