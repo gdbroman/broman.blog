@@ -9,14 +9,14 @@ Yeah, well I don't know about you, but my brain's not a bowl.
 
 If I don't see immediate use for something, my eyes glaze over.
 
-And even if I do see a possible use case, I'll have to apply the information in order for it to stick. Otherwise it'll be gone the day after the examination.
+And even if I _do_ see a possible use case, I'll have to apply the information in order for it to stick. Otherwise it'll be gone the day after the examination.
 
-And I'm not alone in this, considering how many people hate school and learning in general. (And how clueless most college grads are.)
+And I'm not alone in this, considering how many people hate school and learning in general (and how clueless most college grads are).
 
-It can thus be helpful to divide information that you aspire to learn, based on this difference in relevance.
+It can thus be helpful to separate information that you aspire to learn into two buckets, based on this difference in relevance.
 
-Information which you can't see a use case for now - but maybe in the future - is called just in case information. Whereas information you actually need is called just in time ditto.
+Information which you can't see a use case for now - but maybe in the future - is called _just in case-information_. Whereas information you actually _need_ is called just in time-ditto.
 
 The latter tends to stick whereas the former is forgotten. Unfortunately, college is mostly packed with the former.
 
-Which probably explains why someone can plow through a four year degree and still ask oneself "what did I just learn?"
+Which probably explains why someone can plow through a four year degree and still wonder _"what did I just learn?"_
