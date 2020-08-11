@@ -6,7 +6,7 @@ category: poems
 
 We seek completion yet there is none.
 
-We anticipate arrival but it’s always forgone.
+Anticipating arrival but it’s always forgone.
 
 No destination, and never will be.
 
