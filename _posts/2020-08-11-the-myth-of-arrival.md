@@ -22,6 +22,6 @@ Suffering we can transcend.
 
 But never forget: there isn't an end.
 
-It may be absurd, perhaps make you vengeful.
+It may seem absurd, perhaps make you vengeful?
 
 But ultimately, there's nothing more meaningful.
