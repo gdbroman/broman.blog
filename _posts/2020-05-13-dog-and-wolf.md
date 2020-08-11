@@ -2,6 +2,7 @@
 title: "Better Starve Free Than be a Fat Slave"
 permalink: dog-and-wolf
 ---
+
 You wake up freezing.
 
 The savannah is lit up by blue moonlight.

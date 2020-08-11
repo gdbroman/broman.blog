@@ -1,7 +1,8 @@
 ---
 title: "Life's a Marathon, not a Sprint - But It's Also Always Now"
-permalink: 
+permalink: life-is-a-marathon
 ---
+
 Hit by a bus. Tomorrow. It could happen.
 
 Though thanks to technology, you might live to be well over a hundred.

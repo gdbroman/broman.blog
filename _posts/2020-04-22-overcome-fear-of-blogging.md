@@ -2,6 +2,7 @@
 title: "How to Overcome the Fear of Blogging and Putting Yourself Out There"
 permalink: overcome-fear-of-blogging
 ---
+
 No one cares. Don't worry about it.
 
 > You wouldn't worry so much about what others think of you if you realized how seldom they do.
@@ -17,6 +18,7 @@ Well, I can't prove it. So, for the sake of argument, let's say people do care.
 Still. What does it matter? It's your life.
 
 ## you should really consider stop being afraid of heights
+
 Some give the advice to "stop taking yourself so seriously". But I think that's completely backwards.
 
 It's also extremely impractical. It's like saying to "stop being afraid of heights!" Yeah, thanks Einstein.

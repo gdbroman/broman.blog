@@ -2,6 +2,7 @@
 title: "Is Life a Journey?"
 permalink: is-life-a-journey
 ---
+
 What are the best movies?
 
 Where the protagonist sets out on a hero’s journey.

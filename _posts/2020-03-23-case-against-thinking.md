@@ -2,6 +2,7 @@
 title: "The Case Against Thinking"
 permalink: case-against-thinking
 ---
+
 Sometimes, thinking isn't the answer.
 
 > Sometimes, you think you have to figure out your life's purpose, but you really just need some macadamia nuts and a cold fucking shower.

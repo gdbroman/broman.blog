@@ -1,7 +1,9 @@
 ---
 title: "A Little Bit Better"
 permalink: a-little-bit-better
+category: poems
 ---
+
 The boiling frog who does not realize its impending death.
 
 The 1940 Germans who wouldn’t speak up to any incremental and seemingly arbitrary change.

@@ -2,6 +2,7 @@
 title: "On Religion and Rationality"
 permalink: religion-rationality
 ---
+
 Soul, demons, spirits and God.
 
 Some situations require that kind of language.
@@ -41,6 +42,7 @@ These are useful, and therefore rational, beliefs.
 So show me an atheist who acts without belief.
 
 I’ll wait.
+
 ---
 
 [1] Ironically, many people who actually praised Sapiens for it’s analysis of human belief, were - you guessed it - atheists.

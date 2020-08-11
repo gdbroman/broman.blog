@@ -2,6 +2,7 @@
 title: "Why you Should Never go Full Philosopher"
 permalink: never-go-full-philosopher
 ---
+
 Those who like to read, write and think, often find themselves fantasizing about removing the minutia of everyday life. To isolate themselves in a cabin in the woods and just think all day.
 
 Convincing themselves that, then they would get their best work done. The greatest insights when uninterrupted by the external.
@@ -13,6 +14,7 @@ Politician is one of them. And philosopher is certainly another.
 Generally speaking, "thinking", should never be one's full-time occupation. Since you'll otherwise guarantee a disconnect from reality.
 
 # Common Sense is not Common
+
 Because the moment you become successful enough that you can afford to go full time as a "thinker" or "writer" you remove the very feedback loop that got you to there in the first place.
 
 This was Nikola Tesla's main beef with academics. That they lacked what one might call "common sense"...
@@ -51,6 +53,7 @@ These are some serious failures on part of the universities.
 > <cite>Allain de Botton</cite>
 
 # Practice Beats Theory
+
 > In theory, theory and practice are the same.
 > 
 > In practice, they are not.
@@ -84,6 +87,7 @@ And later Nicholas Taleb added that...
 Theory must arise out of practice. Not the other way around.
 
 ## Discomfort is the Greatest Teacher
+
 Because life's deepest truths are not found up in the ivory tower.
 
 No, they're discovered through hardships. To paraphrase ultra endurance athlete David Goggins: listen to the guy who immersed himself in hell and found a way to get through it, not the theoretician...
@@ -105,6 +109,7 @@ These, what one might call "near-life experiences", are what unravels life's dee
 Never go full philosopher.
 
 ## Related & Further Reading
+
 * The Republic by Plato
 * Skin in the Game by Nassim Nicholas Taleb
 * Ego is the Enemy by Ryan Holiday

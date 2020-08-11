@@ -2,6 +2,7 @@
 title: "Non Negotiables"
 permalink: non-negotiables
 ---
+
 > If you don't have a plan, you become part of somebody else's plan
 > 
 > <cite>Terence McKenna</cite>

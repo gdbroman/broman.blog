@@ -2,6 +2,7 @@
 title: "The Adult is a Lie"
 permalink: the-adult-is-a-lie
 ---
+
 I just discovered Santa Claus doesn’t exist. And by Santa Claus I mean adults. Adults do not exist.
 
 The other day I witnessed a man die. He was a neighbor of mine and we had had a pretty good relationship.

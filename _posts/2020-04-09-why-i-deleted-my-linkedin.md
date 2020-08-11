@@ -2,6 +2,7 @@
 title: "Wu Wei and Why I Deleted my LinkedIn"
 permalink: why-i-deleted-my-linkedin
 ---
+
 I just deleted my LinkedIn.
 
 And all the 1000 or so followers and contacts with it.
@@ -13,6 +14,7 @@ Maybe.
 But I don't think so.
 
 ## I thought LinkedIn was different. Boy, was I wrong.
+
 It all started with Facebook.
 
 Instagram was my second victim.
@@ -34,6 +36,7 @@ And fair enough. It might.
 But here's some reasoning for why you might consider doing it.
 
 ## Wu Wei - Movement vs Progress
+
 Fanatically emailing people is movement.
 
 Learning is progress.
@@ -56,6 +59,7 @@ And for me, I realized that if I took the time and energy LinkedIn sucked out of
 Ha! Who would've thought? Social media harming your happiness and productivity!?
 
 ## Don't be boring.
+
 If you want to have a good career, you'll have to master the art of story telling. Specifically, telling your story.
 
 This is how you differentiate yourself.
@@ -91,6 +95,7 @@ And I did not like that it did that to me.
 Not one bit.
 
 ## Network is EVERYTHING!!! Hmm, maybe.
+
 How many times have you heard that networking is essential when it comes to landing a job?
 
 But networking doesn't work.
@@ -116,6 +121,7 @@ A few meaningful connections beats multiple weak ones.
 A few meaningful connections and a unique talent stack makes you unstoppable.
 
 ## Going Forward...Being Yourself?
+
 We talked about how telling a unique story is your best bet at making it big in today's economy.
 
 But more important than that, writing your own story is what will make your life meaningful.

@@ -2,6 +2,7 @@
 title: "Idea Pendulums and Loops"
 permalink: idea-pendulums
 ---
+
 Oh look! X! Finally there's a new thing. Let's look at the new thing! X - how fascinating!
 
 *Time passes*

@@ -2,6 +2,7 @@
 title: "Hacker > Engineer > Scientist"
 permalink: hacker-engineer-scientist
 ---
+
 The scientist seeks perfect understanding but does not bother with execution.
 
 The engineer seeks perfect execution but does not bother with understanding.
@@ -11,6 +12,7 @@ The engineer seeks perfect execution but does not bother with understanding.
 Thusly, the hacker gets more done than the engineer and the engineer more than the scientist.
 
 ## If you want to get shit done - hire a hacker, not a scientist
+
 Though originating from the computer programming world, the concept of a "hacker" that I refer to is more of a mindset we can all adapt.
 
 A mindset that voluntarily accepts chaos with the understanding that it's ultimately the only way to order.
@@ -22,5 +24,7 @@ An internalization that one is always greater than zero. That a thousand mediocr
 So, if you want to feel good about yourself in fairy tale land, by all means, become a scientist.
 
 But if you later on want to get shit done, you'll have to hire a hacker.
+
 ---
-Image credit: Vitalik Buterin on "The Portal" with Eric Weinstein. I reckon you can guess who's the hacker vs. the academic scientist in this case. No disrespect intended here though, I admire both of these guys.
+
+Image credit: _Vitalik Buterin on "The Portal" with Eric Weinstein. I reckon you can guess who's the hacker vs. the academic scientist in this case. No disrespect intended here though, I admire both of these guys._

@@ -2,6 +2,7 @@
 title: "Why Programming Makes You Courageous"
 permalink: why-programming-makes-you-courageous
 ---
+
 It’s not the logic.
 
 And it’s not the math.

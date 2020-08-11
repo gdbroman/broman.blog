@@ -2,6 +2,7 @@
 title: "Beliefs as Vehicles"
 permalink: "beliefs-as-vehicles"
 ---
+
 > People don't have ideas. Ideas have people.
 > 
 > <cite>- Carl Jung</cite>

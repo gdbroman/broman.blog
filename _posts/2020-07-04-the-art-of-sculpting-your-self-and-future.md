@@ -2,6 +2,7 @@
 title: "The Art of Sculpting One's Self and Future"
 permalink: the-art-of-sculpting-your-self-and-future
 ---
+
 > Everyone holds his future in his own hands, like a sculptor the raw material he will fashion into a figure.
 > 
 > But it’s the same with that type of artistic activity as with all others: We are merely born with the capability to do it.

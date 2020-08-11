@@ -2,6 +2,7 @@
 title: "Thoughts on How to Overcome Writer's Block (or, Procrastination Altogether)"
 permalink: writers-block
 ---
+
 There's 30 minutes left to hand in your thesis and you haven't even started yet. You're staring at the blank page with an increasing feel of frustration together with a hint of - nay, full bucket of - panic. Why can't you think of anything? 
 
 Your head's empty. Not even the slightest idea will present itself. Nothing, _nichts, nada_. You're desperate but slowly start to come to terms with the reality that your life is soon and finally over. This is how it all ends. And there's nothing to be done.
@@ -9,6 +10,7 @@ Your head's empty. Not even the slightest idea will present itself. Nothing, _ni
 That's writer's block for you. Well...You get the idea. Maybe you're a blogger, professional writer or student who sometimes just get irritated when you can't get yourself to write. Down below I share some thoughts that might help you out. Most of these can also be applied to fight procrastination in general.
 
 ## Don't stop.
+
 Writing's a funny thing. Sometimes the words just flow and other times you can't conjure up a single sentence even if your life depended on it. So here's a fairly obvious but not commonly utilized tip: don't stop! When a flow settles - don't let it flee!
 
 You stop - and you become stupid. You gotta keep moving. That's the surest way to keep up creativity and continue learning at a high pace. Use the idea muscle or it atrophies. And when you're constantly in motion, you eliminate procrastination all together because you never need to ask yourself about taking action or not.
@@ -30,6 +32,7 @@ But in order to keep a macro flow that aids your consistency, you'll need a rout
 > <cite>Octavia E. Butler</cite>
 
 ## Write something that's pure garbage
+
 Procrastination is often the result of perfectionism. When putting something off, you're probably thinking that you'll do a bad job. And YES! You will. You'll most likely suck. But the best thing to do is to embrace it. Just lower your standards, man.
 
 Telling yourself that you won't produce anything unless it's absolutely perfect might seem like a good thing. Why not strive for perfection? But, guess what? With that attitude you'll never write a single word. Perfectionism is the biggest enemy of getting things done.
@@ -43,6 +46,7 @@ Ironically however, by lowering your standards, you'll eventually end up with be
 People of action know that he who has 99 failures but 1 success under his belt is far more successful than he with 0 of both. 1 is better than 0. Stasis is for dead people.
 
 ## It's mostly output
+
 > If you want to be a writer, you must do two things above all others: read a lot and write a lot.
 > 
 

@@ -2,6 +2,7 @@
 title: "Philosophy Doesn't Belong in the Ivory Tower"
 permalink: philosophy-ivory-tower
 ---
+
 Philosophy is way too important only to be reserved for academics. Sadly however, that's exactly what has happened.
 
 > ...this kind of wisdom has been taken from us, co-opted and deliberately obscured by selfish, sheltered academics. They deprived us of philosophy's true use: as an operating system for the difficulties and hardships of life.

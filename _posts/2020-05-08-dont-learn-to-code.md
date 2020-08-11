@@ -2,6 +2,7 @@
 title: "Forget Coding - Do This Instead"
 permalink: dont-learn-to-code
 ---
+
 It has become fashionable to preach coding nowadays. That everyone should #learntocode RIGHT NOW!
 
 The reasoning is that, since software is so ubiquitous now, everyone should at least understand the basics of computer programming.
@@ -27,6 +28,7 @@ No. No you don’t. That’s wrong.
 Learning how to write is not a binary thing that you either know or don’t. The ability to conjure up grammatically correct sentences doesn’t cut it. Then you’ve barely scratched the surface of what it means to become a good writer.
 
 ## Writing Every Day Has Been My Best Life Decision So Far
+
 I started writing every day about six months ago.
 
 I’m like a machine now.
@@ -38,6 +40,7 @@ Because writing is thinking, really. Crystalized thinking.
 Everyone’s a genius up in their own head. It’s not until you put down your thoughts on paper that you can start to build some self awareness of your thought process - or lack of it, rather.
 
 ## Three Sentences a Day Keeps Delusion Away
+
 Pick up a journal, typewriter or open Google Docs - it doesn’t matter. Just sit down at the same time every day and jot down your thoughts.
 
 How much is not the point. But at least three sentences can be a good goal. You’ll probably surpass that, but it’s small enough to not be intimidating and give you writer’s block.

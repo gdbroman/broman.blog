@@ -2,6 +2,7 @@
 title: "Go Meta on Your Own Risk"
 permalink: go-meta-on-your-own-risk
 ---
+
 > The trouble with the rat race is that even if you win, you're still a rat.
 > 
 > <cite>Lily Tomlin</cite>
@@ -75,5 +76,9 @@ That you'd have to start questioning a whole host of other stories.
 That a part of your reality, and by extension, ego - dies.
 
 And we don’t want to let that happen - now do we?
+
+> People may spend their whole lives climbing the ladder of success only to find, once they reach the top, that the ladder is leaning against the wrong wall.
+> 
+> <cite>- Thomas Merton</cite>
 
 Go meta on your own risk.

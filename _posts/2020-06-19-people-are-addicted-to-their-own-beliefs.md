@@ -2,6 +2,7 @@
 title: "Thoughts as Security Blankets"
 permalink: thoughts-as-security-blankets
 ---
+
 You know that feeling when you’re out hiking and you get lost? Maybe you’re hungry and don’t have much food left. You’re tired and want to go home.
 
 Well, most of our awake time, we’re like that - just not as severely.

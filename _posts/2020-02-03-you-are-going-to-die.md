@@ -2,6 +2,7 @@
 title: "You are Going to Die."
 permalink: you-are-going-to-die
 ---
+
 Everyone I know are going to die. _I_ am going to die! I was about five years old when that reality first hit me.
 
 Most have an existential crisis around the same age when they first fully realize the implication of living. But the crisis tends to be short-lived and long forgotten about in adulthood.

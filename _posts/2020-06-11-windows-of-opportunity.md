@@ -2,6 +2,7 @@
 title: "Windows of Opportunity"
 permalink: windows-of-opportunity
 ---
+
 Sometimes you just gotta say "screw it, let's do it."
 
 In spite of fear.

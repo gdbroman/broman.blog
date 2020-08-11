@@ -2,6 +2,7 @@
 title: "Escape not Needed"
 permalink: escape-not-needed
 ---
+
 Is there ever a place for shallow activity? For playing video games or going out drinking?
 
 The common answer would be yes - that you do it to “relax”. To unwind and forget about your problems for a second. To escape.

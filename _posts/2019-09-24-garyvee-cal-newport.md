@@ -1,6 +1,7 @@
 ---
 title: "Who's right: Garyvee or Cal Newport?"
-permalink: 
+permalink: garyvee-cal-newport
+category: "business"
 ---
 Social media guru or digital minimalist? 64 pieces of content a day or deep work? 
 

@@ -2,6 +2,7 @@
 title: "Life as a Game - an Antidote to Apathy?"
 permalink: life-as-a-game
 ---
+
 There are all these areas in which we start at zero.
 
 Health, money, relationships, etc.

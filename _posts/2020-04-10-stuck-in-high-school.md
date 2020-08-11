@@ -2,6 +2,7 @@
 title: "The World is Stuck in High School"
 permalink: stuck-in-high-school
 ---
+
 Whenever you feel bad about yourself, there's a high chance it's because you're valuing other people's opinions over your own happiness.
 
 It doesn't mean you shouldn't listen to people and their feedback. But for most, that's a lesser problem than the fear of judgement.

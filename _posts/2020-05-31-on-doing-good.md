@@ -2,6 +2,7 @@
 title: "On Doing Good"
 permalink: on-doing-good
 ---
+
 Things are complicated, man.
 
 And a good cause is seldom enough.

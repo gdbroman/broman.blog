@@ -2,6 +2,7 @@
 title: "What the Hell Is Water?"
 permalink: what-is-water
 ---
+
 > There are these two young fish swimming along, and they happen to meet an older fish swimming the other way, who nods at them and says, “Morning, boys, how's the water?” And the two young fish swim on for a bit, and then eventually one of them looks over at the other and goes, “What the hell is water?”
 > 
 > <cite>David Foster Wallace, <i>This Is Water</i></cite>

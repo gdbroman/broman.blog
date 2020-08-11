@@ -2,6 +2,7 @@
 title: "The Field of AI Needs an Identity Crisis"
 permalink: machine-learning-is-boring
 ---
+
 > Deep Learning is not AI. Deep Learning is a class of highly useful algorithms for automating statistical modeling. Almost none of its practitioners entertain ideas about the mind and intelligence, the way Minsky, Turing or Newell did.
 > 
 > <cite>Joscha Bach</cite>

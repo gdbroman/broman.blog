@@ -2,6 +2,7 @@
 title: "Utility Trumps Truth"
 permalink: utility-trumps-truth
 ---
+
 Are some truths not worth exploring?
 
 Is truth the noblest goal there is? Is it more important than beauty? Than usefulness? Or are they always the same thing?

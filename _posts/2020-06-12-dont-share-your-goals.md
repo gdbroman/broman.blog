@@ -2,6 +2,7 @@
 title: "Don't Tell Anyone What You're Doing Untill it is Done"
 permalink: dont-share-your-goals
 ---
+
 The problem with sharing your goals is twofold:
 
 If you get praised, that’ll trigger the same reward mechanisms as actual achievement. This tricks your brain into thinking that your work is done and consequently you won’t try as hard. Finishing becomes harder.

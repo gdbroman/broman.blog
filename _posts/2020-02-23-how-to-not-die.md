@@ -2,6 +2,7 @@
 title: "How to Not Die"
 permalink: how-to-not-die
 ---
+
 > There is an idea of a Patrick Bateman, some kind of abstraction, but there is no real me, only an entity, something illusory.
 > 
 > And though I can hide my cold gaze and you can shake my hand and feel flesh gripping yours and maybe you can even sense our lifestyles are probably comparable: I simply am not there.
@@ -28,4 +29,5 @@ In other words: if you live life fully based on someone else's goals or ideals (
 The solution, then, is to strategically rebel against conventions and others expectations. This is a necessity. Your north star and the path it illuminates, will never fully align with that of another.
 
 ## Footnotes
+
 Obviously, there is no disrespect intended here, whatsoever. It's impossible to know the cause of his long lived depression, so I'm not claiming anything about his life philosophy's role in that.

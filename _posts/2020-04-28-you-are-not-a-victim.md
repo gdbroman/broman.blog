@@ -2,6 +2,7 @@
 title: "You are NOT a Victim"
 permalink: you-are-not-a-victim
 ---
+
 The absolute worst thing you can do to someone is to rob them of their responsibility. To convince them of being a victim. Regardless of its level of truth.
 
 That it’s not their fault. That they’re a result of circumstances outside of their control.

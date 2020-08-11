@@ -1,7 +1,9 @@
 ---
 title: "Freedom: A Love Letter"
 permalink: freedom-love-letter
+category: poems
 ---
+
 It is the most precious gift.
 
 The most important right.

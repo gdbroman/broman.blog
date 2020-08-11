@@ -2,6 +2,7 @@
 title: "Not Consuming Knowledge for Its Own Sake"
 permalink: knowledge
 ---
+
 > I'm a very, very selfish consumer of culture. I wan't to know things that'll work.
 > 
 > I'm the opposite of a disinterested academic who looks at the pantheon of culture as a kind of lofty guardian of this, for its own sake.

@@ -2,6 +2,7 @@
 title: "Most People Never Change (and That's Okay)"
 permalink: most-never-change
 ---
+
 So much of our frustrations in life stem from one singular belief.
 
 The belief that people can change.

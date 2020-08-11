@@ -2,6 +2,7 @@
 title: "Roger that. Read it again."
 permalink: read-it-again-goggins
 ---
+
 Why get back up from failures when it's so painful? Why go through hardships?
 
 Because staying down is even more painful.

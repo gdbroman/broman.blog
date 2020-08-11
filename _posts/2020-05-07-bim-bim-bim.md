@@ -2,6 +2,7 @@
 title: "Bim bim bim!"
 permalink: bim-bim-bim
 ---
+
 What makes good writing?
 
 Here’s poet Charles Bukowski’s answer in an interview:

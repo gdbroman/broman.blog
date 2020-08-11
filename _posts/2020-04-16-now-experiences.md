@@ -2,6 +2,7 @@
 title: "Now Experiences"
 permalink: now-experiences
 ---
+
 How come that near death experiences, almost always, also turn into near life experiences?
 
 That we feel the most alive when we look death in the eye?

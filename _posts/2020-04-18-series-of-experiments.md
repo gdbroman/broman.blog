@@ -1,7 +1,8 @@
 ---
-title: "Treat Your Life as a Series of Experiments"
+title: "Life as a Series of Experiments"
 permalink: series-of-experiments
 ---
+
 Every person comes stumbling into this world, without a clue of what to do.
 
 Gradually, your surrounding seems to get the hang of things. So you start pretending that you do aswell.
@@ -15,6 +16,7 @@ But how much do you miss out on by stopping to experiment somewhere in your twen
 How much more could you learn and experience if you never defaulted to pretending that you've learnt everything there is?
 
 ## Be Careful of Role Models
+
 I reckon much of the pressure to start pretending (i.e. "adulting") early on, stems from all the successful role models we see in media.
 
 Their success and confidence makes it seem like they've got it all figured out. But these entrepreneurs, actors and artists got to where they are because of experimenting!

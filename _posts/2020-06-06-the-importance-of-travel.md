@@ -2,6 +2,7 @@
 title: The Importance of Travel
 permalink: the-importance-of-travel
 ---
+
 Maybe you seek to become more compassionate.
 
 To take better care of yourself.

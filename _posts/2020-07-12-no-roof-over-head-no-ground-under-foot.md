@@ -2,6 +2,7 @@
 title: "No Roof Over Head, No Ground Under Foot"
 permalink: no-roof-over-head-no-ground-under-foot
 ---
+
 It's perhaps one of life’s most valuable skills: The ability to be comfortable with uncertainty.
 
 Being comfortable not knowing what’s gonna happen and not having all the answers.

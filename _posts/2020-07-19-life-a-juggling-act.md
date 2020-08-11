@@ -2,6 +2,7 @@
 title: "Life: A Juggling Act?"
 permalink: balance
 ---
+
 Balance: Is it a lie?
 
 One’s time and mental energy - whilst more abundant than most probably think - is, undeniably limited.

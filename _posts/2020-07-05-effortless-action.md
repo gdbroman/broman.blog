@@ -2,6 +2,7 @@
 title: "Moving Fast Versus Effortless Action"
 permalink: effortless-action
 ---
+
 Do you want to go through life struggling or at ease?
 
 Suffering or flowing?

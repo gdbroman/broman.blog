@@ -2,6 +2,7 @@
 title: "Mathematics as a Separate World"
 permalink: mathematics
 ---
+
 These are some thoughts after having listened to artist London Tsai on Eric Weinstein's podcast The Portal, Ep. #014.
 
 The cards that evolution have dealt us only allow our brains to perceive a fraction of all light. A fraction which we solopsistically call "visible light".

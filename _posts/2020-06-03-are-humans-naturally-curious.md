@@ -2,6 +2,7 @@
 title: "Are humans naturally curious?"
 permalink: are-humans-naturally-curious
 ---
+
 Look at babies.
 
 They’re naturally the most curious things you’ve ever seen. Always grabbing stuff - licking them - playing games, and mimicking their adult surroundings.

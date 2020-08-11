@@ -1,7 +1,9 @@
 ---
 title: "The Non-Locality of Consciousness"
-permalink: consciousness
+permalink: consciousness-locality
+category: "technical"
 ---
+
 Everyone, including lifelong meditators from time to time, experience a locality of self. That feeling of being located in one’s skull and looking out through the eyes. This feeling of being geographically located somewhere in space, however, is an illusion - or so I will argue. “But I’m right here!” might an ego object. And to be clear, the location of one’s physical body is very real - but the location of your consciousness is not. Before further reading, notice that I'm not making any metaphysical claims about consciousness, this is simply a matter of first person experience.
 
 ## Sensory Inputs and Their Deception

@@ -2,6 +2,7 @@
 title: "When in Doubt, Take a Walk"
 permalink: take-a-walk
 ---
+
 People seldom take walks anymore.
 
 With Ubers, subways and electric scooters, there’s simply no need.

@@ -1,6 +1,7 @@
 ---
 title: "Be Vulnerable."
 permalink: be-vulnerable
+
 ---
 > It's scary.
 > 
@@ -25,6 +26,7 @@ I bring this up because all three are encapsulated in the preluding quote. Altuc
 By writing something that makes you vulnerable, you (1) create, (2) experience something thrilling and (3) embrace unavoidable suffering (other's judgements). No wonder writing can feel so meaningful!
 
 ## Heroic suffering
+
 How does this apply to non-writing? As Frankl said, creation is not the only path to meaning. The other option is through love. And the third way is through heroic suffering. The latter is how Frankl himself managed to go through Auschwitz and what Atlucher was hinting at in the interview.
 
 > Everything can be taken from a man but one thing: the last of the human freedoms – to choose one's attitude in any given set of circumstances
@@ -34,6 +36,7 @@ How does this apply to non-writing? As Frankl said, creation is not the only pat
 Heroic suffering means accepting that life is suffering. It means taking on full responsibility for all your actions. Both your failures and successes. This is scary. But it's also meaningful. Because when everything you do matters - per definition - you will live a meaningful life. It's the ultimate form of vulnerability.
 
 ## Being yourself
+
 > Vulnerability is a way of trading some aspect of your privacy for freedom.
 > 
 > Being free allows you to be yourself.

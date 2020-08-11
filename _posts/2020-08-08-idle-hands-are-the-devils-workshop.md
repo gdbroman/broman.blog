@@ -2,6 +2,7 @@
 title: "Idle Hands: the Devil's Workshop?"
 permalink: "idle-hands-are-the-devils-workshop"
 ---
+
 > All of humanity's problems stem from man's inability to sit quietly in a room alone.
 >
 > <cite>Blaise Pascal</cite>

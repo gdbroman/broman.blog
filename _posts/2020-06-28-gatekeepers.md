@@ -2,6 +2,7 @@
 title: "Gatekeepers"
 permalink: gatekeepers
 ---
+
 The recruiter at the job interview.
 
 Investors.

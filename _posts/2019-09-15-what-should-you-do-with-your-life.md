@@ -1,13 +1,13 @@
 ---
 title: What to do with your life?
 permalink: what-should-you-do-with-your-life
-thumbnail: "/assets/images/thumbnails/what-should-you-do-with-your-life.jpg"
 ---
 Maybe there is another life after this one. Maybe not. It’s hard to know that’s for sure. It’s the kind of thing you just have to wait and see to find out about. But that’s always something - at least you have something to look forward to.
 
 Either way; it would be one hell of a bummer to live your whole life believing in another life after death only to find out you were wrong this whole time. So it seems to me that it’s safest to assume that this is all you will ever get. "You’re all in. Whether you like it or not - this thing will kill you" (Peterson). So why not try to make something useful of this thing called life?
 
 ## Recognize It Is You Who Is Being Asked
+
 This raises a natural follow up question: what the heck should you do? It is perhaps the most important question any sentient and sufficiently intelligent being could ask oneself. It is also important to acknowledge that “it is we ourselves who must answer the questions that life asks of us” (Victor Frankl). In other words: it is up to you to determine your life’s meaning. 
 
 Unfortunately not very many people give the question serious thought. Most cling to whatever cliché they like the sound of the most given their life circumstances, such as “follow your passion” or “do what makes you happy”. These are not necessarily bad frameworks, but the point is that most people embrace prepackaged answers with no regard to their level of truth. 
@@ -19,6 +19,7 @@ We’ve all had a moment of realization as adolescents when it truly hit us that
 If you’re hesitant to believe me, ask the wisest people you know the following: “You’re a real smart guy. So I had this little question regarding the very nature of existence. What and why should one do with one’s life?”. You’ll be lucky if you get even one coherent and - more importantly - original answer. Because any fool can recite the answer given by an ideology or another thinker but to answer for yourself requires more discipline and open-mindedness than most are willing to spare.
 
 ## An Algorithm for Figuring Out Life
+
 > Experimenting with the skills and options related to your personality and inclinations is not only the single most important step in developing a high sense of purpose, it is perhaps the most important step in life in general.
 >
 > <cite>Robert Greene, The Laws of Human Nature (p.380)</cite>

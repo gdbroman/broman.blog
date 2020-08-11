@@ -2,6 +2,7 @@
 title: "Welcome Uncertainty"
 permalink: welcome-uncertainty
 ---
+
 In today's world, certainty is seen as a virtue, and its opposite a sin.
 
 At all cost we try to signal to other's that we know what we're doing and why we're doing it.

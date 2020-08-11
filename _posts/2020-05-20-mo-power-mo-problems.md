@@ -1,7 +1,9 @@
 ---
 title: "Mo Power, Mo Problems?"
 permalink: mo-power-mo-problems
+category: "technical"
 ---
+
 The larger the company the less innovative and agile.
 
 The bigger the country, the more corrupt and thinner the safety net.
@@ -49,7 +51,7 @@ But if you seek freedom you should be more sceptical about organizations as a wh
 > 
 > <cite>John Dalberg-Acton</cite>
 
-Many who fear man made existential threats, such as climate change and nuclear war, suggest globalization as a solution. That we have to get everybody on the same page and tackle our problems together as a species.
+Many who fear man-made existential threats, such as climate change and nuclear war, suggest globalization as a solution. That we have to get everybody on the same page and tackle our problems together as a species.
 
 It’s a beautiful thought. Nevertheless naive.
 

@@ -2,6 +2,7 @@
 title: "On Being (or Feeling) Unqualified"
 permalink: feeling-unqualified
 ---
+
 People don't try new and difficult things because they don't feel qualified enough to do so.
 
 But you'll never be qualified enough.

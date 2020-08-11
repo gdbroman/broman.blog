@@ -1,7 +1,9 @@
 ---
 title: "The Best Marketing Strategy (Hint: It's Not SEO)"
 permalink: vulnerable-marketing
+category: "business"
 ---
+
 You gotta learn the right technique or you'll snap your back doing deadlifts!
 
 So what's the right technique for blogging, Youtube or podcasting?
@@ -40,6 +42,7 @@ Being a good marketer is thus analogous to being a good comedian. Because it's o
 Take a look at these two different bios:
 
 ### Bio #1
+
 * Stanford, Harvard and MIT valedictorian
 * Sold trendy startup for 3 trillion dollars
 * Owner of the New York Jets
@@ -47,6 +50,7 @@ Take a look at these two different bios:
 * Have written 30 NYT bestsellers
 
 ### Bio #2
+
 > I’ve started 20 companies, 17 of which have failed. But I’ve learned a lot along the way.
 > 
 > If you’ve ever been stuck—in a job you hate, in a house you can’t afford, in a life you don’t want, in your own depressed mind, anything—I want to help you.
@@ -70,6 +74,7 @@ Instead, tell your personal story whilst focusing on your failures and how you o
 Now, of course there should be a balance. You can't completely ignore your accomplishments or else you run the risk of loosing credibility.
 
 ## Bleeding is surprisingly liberating
+
 By following Ernest Hemingways philosophy that "There is nothing to writing. All you do is sit down at a typewriter and bleed" you'll notice that, whilst initially painful, it's a form of self realization.
 
 You learn to come to terms with who you really are. To not be afraid of opening yourself up.

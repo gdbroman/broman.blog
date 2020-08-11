@@ -2,6 +2,7 @@
 title: "The Antitode is a Better Story"
 permalink: "the-antidote-is-a-better-story"
 ---
+
 Humans are story driven creatures. 
 
 No matter your pursuits, you'll need to master the art of storytelling. It's the only skill there is.

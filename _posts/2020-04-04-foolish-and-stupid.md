@@ -2,6 +2,7 @@
 title: "Be Content to be Thought Foolish and Stupid"
 permalink: foolish-and-stupid
 ---
+
 Social pressure is a very real thing.
 
 And at the same time - it's not.

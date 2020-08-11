@@ -11,6 +11,7 @@ But one of the main principles in economics is that specialization is beneficial
 So which way is it? Given that you want to maximize your fulfilment and financial benefit as an individual - should you try to narrow your skills or become a jack of all trades?
 
 ## Leonardo da Vinci and The Specialization Theory
+
 The specialization theory was first developed by Adam smith in The Wealth of Nations, 1776. It states that total power output and therefore economic growth is increased when labor is distributed between individuals. 
 
 Economic actors that specialize in a skill simply become better at it; making the whole process more efficient. But what about genius polymaths like Leonardo da Vinci who have the ability to master multiple skills?
@@ -24,6 +25,7 @@ So in other words, you're - financially speaking - a better painter than enginee
 The conclusion thus becomes: if you seek to maximize income you should gain a comparative advantage by specializing.
 
 ## Intersect!
+
 Note, however that specialization doesn't necessarily mean more narrow. In fact, many of the most lucrative comparative advantages are intersections of multiple domains and skills, not a funnel of one skill.
 
 This is good news! It means that you don't have to become a brain surgeon or ant eater researcher for the rest of your life. By intersecting the areas you're interested in and good at you can gain a unique comparative advantage. This is what Scott Adams eloquently likes to call building an edge by developing a unique talent stack.
@@ -33,6 +35,7 @@ Let's illustrate this with Scott himself as an example. With all due respect, Sc
 > When you add in my ordinary business skills, my strong work ethic, my risk tolerance, and my reasonably good sense of humor, I’m fairly unique. And in this case that uniqueness has commercial value.
 
 ## Conclusion - Was Adam Smith Wrong?
+
 That Adam Smith guy was on to something. Though to simply advice a person, at the begging of his or her career, to specialize at all cost would not be entirely optimal in my opinion.
 
 Times have changed. Because of technology, monetizing your talent stack has become easier. Brute force specialization, in the form of a concert level piano player or a world class engineer, is no longer the only option. And quite frankly it's neither the most lucrative one.
