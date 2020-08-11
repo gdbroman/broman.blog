@@ -20,7 +20,7 @@ We make our own meaning, don’t you see?
 
 Suffering we can transcend.
 
-But never forget - there is no end.
+But never forget: there isn't an end.
 
 It may be absurd, perhaps make you vengeful.
 
