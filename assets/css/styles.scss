@@ -18,8 +18,18 @@ article {
     .meta {
         font-size: 14px;
         color:#828282;
-        .middot {
-            margin: 0 4px;
+        * {
+            line-height: 18px;
+            display: inline-block;
+            vertical-align: top;
+        }
+        .date {
+            margin-right: 16px;
+        }
+        img {
+            background: transparent;
+            margin-right:2px;
+            opacity:0.4;
         }
     }
     .meta a, .meta a:hover {
