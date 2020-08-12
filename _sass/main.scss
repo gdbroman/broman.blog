@@ -96,8 +96,6 @@ section.mh {
 @media screen and (max-width:$xl) {
 }
 @media screen and (max-width:$l) {
-}
-@media screen and (max-width:$m) {
     section.mh {
         display: block;
     }
@@ -114,6 +112,9 @@ section.mh {
         padding-right: 32px;
         margin: 20px auto 0 auto;
     }
+}
+@media screen and (max-width:$m) {
+    
 }
 @media screen and (max-width:500px) {
     header {

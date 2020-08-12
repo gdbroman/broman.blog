@@ -4,15 +4,11 @@ permalink: economic-machine-ray-dalio
 category: "technical"
 ---
 
-This is a summary of Ray Dalio’s educational video _How the Economic Machine Works_. It’s worth a watch. But if you don’t have 30 minutes — you can read this quick summary instead.
+What’s the economic machine and how does it work? Few know and those who do, seldom agree with each other. 
 
-Note: this is a simplified summary of an already simplified model. Take it with a grain of salt and enjoy!
+Ray Dalio is the founder of the world’s biggest hedge fund firm, Bridgewater Associates which manages over $160 billion. Here’s what he thinks. [1]
 
----
-
-What’s the economic machine and how does it work? Few know and those who do, seldom agree with each other. Ray Dalio is the founder of the world’s biggest hedge fund firm, Bridgewater Associates which manages over $160 billion. Here’s what he thinks.
-
-## The constituents
+## The Constituents
 
 The economy is built by a few simple pieces and many transactions. The transactions are driven by human nature and create three fundamental forces which drive the economy:
 
@@ -38,9 +34,7 @@ And because one person’s spending is another one’s income; this leads to eco
 
 ## Cycles
 
-When we learn new things this as a civilization, living standards are raised. We call this growth.
-
-Growth depends on two factors:
+When we learn new things this as a civilization, living standards are raised. We call this growth. Growth depends on two factors:
 
 Innovation and productivity increase growth in the long term.
 Credit determines growth in the short term.
@@ -73,7 +67,7 @@ The problem with a depression is that the central bank can’t fix it with lower
 3. Distribute wealth amongst individuals
 4. Print new money
 
-Dalio states that a deleveraging can be “beautiful” if you balance 3. and 4. just right.
+Dalio states that a deleveraging indeed can be _“beautiful”_ if you balance 3 and 4 just right.
 
 ## Dalio’s Three Rules of Thumb for Individuals and Policy Makers
 
@@ -82,3 +76,6 @@ Lastly, Dalio, encourages you to do the following:
 1. Don’t let debt increase faster than income
 2. Don’t let income increase faster than productivity
 3. Do everything you can to increase productivity
+
+## Footnotes
+[1] [How The Economic Machine Works by Ray Dalio](https://www.youtube.com/watch?v=PHe0bXAIuk0){:target="_blank"}
