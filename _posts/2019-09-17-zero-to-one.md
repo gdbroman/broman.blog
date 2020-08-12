@@ -87,4 +87,4 @@ Lastly, Thiel emphasizes that success is not about luck. He denies Malcom Gladwe
 
 ## Closing Remark
 
-These three valuable tips by Thiel are in a way all saying the same thing: be unique. Or, as an old legendary marketing slogan once said: Think Different.
+These three valuable tips by Thiel are in a way all saying the same thing: be unique. Or, as an legendary marketing slogan once said: Think Different.
