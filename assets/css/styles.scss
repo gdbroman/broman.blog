@@ -106,6 +106,9 @@ article.page {
 .category {
     text-transform: capitalize;
 }
+h3.category * {
+    color:inherit;
+}
 
 .entry {
     padding:0;
