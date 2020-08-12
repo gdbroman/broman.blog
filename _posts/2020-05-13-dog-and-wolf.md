@@ -1,5 +1,5 @@
 ---
-title: "Better Starve Free Than be a Fat Slave"
+title: "Better Starve Free Than Be a Fat Slave"
 permalink: dog-and-wolf
 ---
 
@@ -19,8 +19,7 @@ But you accept and embrace the uncertainty. And in it you find calm.
 
 Because you’re on a journey.
 
-And in the chaos, stillness has arrived.
----
+And in the chaos, _stillness has arrived._
 
 This sort of heightened sense of purpose and awareness was our default setting as hunters and gatherers.
 
