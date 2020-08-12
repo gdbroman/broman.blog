@@ -1,4 +1,4 @@
 ---
 layout: articles
-title: Every Article by Category
+title: Latest Articles by Category
 ---

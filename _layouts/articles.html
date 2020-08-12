@@ -5,9 +5,9 @@ layout: page
 {{ content }}
 
 {% for category in site.categories  %}
-    <h3 class="category"><a href="{{ category[0] }}">{{ category[0] }}</a></h3></a>
+    <h3 class="category"><a href="{{ category[0] }}">{{ category[0] }} <span class="all">Show all</span></a></h3></a>
     <ul>
-        {% for post in category[1] %}
+        {% for post in category[1] limit:10 %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
     </ul>

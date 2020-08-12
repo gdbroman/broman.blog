@@ -79,6 +79,7 @@ article {
     hr {
         color:$gray;
         margin-bottom: 20px;
+        border-style: solid;
     }
     blockquote {
         padding-left: 20px;
@@ -103,8 +104,20 @@ article {
 .category {
     text-transform: capitalize;
 }
-h3.category * {
-    color:inherit;
+h3.category {
+    margin: 26px 0 16px 0;
+    padding-bottom:8px;
+    border-bottom: 1px dashed $gray;
+    * {
+        color:inherit;
+        text-decoration: none;
+    }
+    .all {
+        float:right;
+        color: $black_light;
+        font-size: 0.6em;
+        text-transform: uppercase;
+    }
 }
 
 .entry {
@@ -286,7 +299,7 @@ aside {
             min-height: 150px;
         }
         .text {
-            margin: 30px;
+            margin: 30px 30px 40px 30px;
         }
     }
     article.entry {
