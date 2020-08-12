@@ -1,6 +1,7 @@
 ---
 title: "Thoughts on How to Overcome Writer's Block (or, Procrastination Altogether)"
 permalink: writers-block
+category: "writing"
 ---
 
 There's 30 minutes left to hand in your thesis and you haven't even started yet. You're staring at the blank page with an increasing feel of frustration together with a hint of - nay, full bucket of - panic. Why can't you think of anything? 
@@ -9,7 +10,7 @@ Your head's empty. Not even the slightest idea will present itself. Nothing, _ni
 
 That's writer's block for you. Well...You get the idea. Maybe you're a blogger, professional writer or student who sometimes just get irritated when you can't get yourself to write. Down below I share some thoughts that might help you out. Most of these can also be applied to fight procrastination in general.
 
-## Don't stop.
+## Don't Macro Stop
 
 Writing's a funny thing. Sometimes the words just flow and other times you can't conjure up a single sentence even if your life depended on it. So here's a fairly obvious but not commonly utilized tip: don't stop! When a flow settles - don't let it flee!
 
@@ -31,7 +32,7 @@ But in order to keep a macro flow that aids your consistency, you'll need a rout
 > 
 > <cite>Octavia E. Butler</cite>
 
-## Write something that's pure garbage
+## Write Something That's Pure Garbage
 
 Procrastination is often the result of perfectionism. When putting something off, you're probably thinking that you'll do a bad job. And YES! You will. You'll most likely suck. But the best thing to do is to embrace it. Just lower your standards, man.
 
@@ -45,7 +46,7 @@ Ironically however, by lowering your standards, you'll eventually end up with be
 
 People of action know that he who has 99 failures but 1 success under his belt is far more successful than he with 0 of both. 1 is better than 0. Stasis is for dead people.
 
-## It's mostly output
+## It's Mostly Output
 
 > If you want to be a writer, you must do two things above all others: read a lot and write a lot.
 > 

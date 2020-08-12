@@ -1,6 +1,7 @@
 ---
 title: "How to Overcome the Fear of Blogging and Putting Yourself Out There"
 permalink: overcome-fear-of-blogging
+category: "writing"
 ---
 
 No one cares. Don't worry about it.
@@ -17,7 +18,7 @@ Well, I can't prove it. So, for the sake of argument, let's say people do care.
 
 Still. What does it matter? It's your life.
 
-## you should really consider stop being afraid of heights
+## You Should Really Consider Stop Being Afraid of Heights
 
 Some give the advice to "stop taking yourself so seriously". But I think that's completely backwards.
 
@@ -43,8 +44,9 @@ You really need to stop taking yourself so seriously.
 
 And second, if these people have a blog...
 
-*Bill Gates
+* Bill Gates
 * Arianna Huffington
 * Richard Branson
 * Mark Cuban
-...and don't complain about being "too good" for personal blogging, so can you.
+
+...and don't complain about being _"too good"_ for personal blogging, so can you.

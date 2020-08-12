@@ -1,6 +1,7 @@
 ---
-title: "Why you Should Never go Full Philosopher"
+title: "Never Go Full Philosopher"
 permalink: never-go-full-philosopher
+category: "writing"
 ---
 
 Those who like to read, write and think, often find themselves fantasizing about removing the minutia of everyday life. To isolate themselves in a cabin in the woods and just think all day.
@@ -13,7 +14,7 @@ Politician is one of them. And philosopher is certainly another.
 
 Generally speaking, "thinking", should never be one's full-time occupation. Since you'll otherwise guarantee a disconnect from reality.
 
-# Common Sense is not Common
+## Common Sense Is Not Common
 
 Because the moment you become successful enough that you can afford to go full time as a "thinker" or "writer" you remove the very feedback loop that got you to there in the first place.
 
@@ -52,7 +53,7 @@ These are some serious failures on part of the universities.
 > 
 > <cite>Allain de Botton</cite>
 
-# Practice Beats Theory
+## Practice Beats Theory
 
 > In theory, theory and practice are the same.
 > 
@@ -86,7 +87,7 @@ And later Nicholas Taleb added that...
 
 Theory must arise out of practice. Not the other way around.
 
-## Discomfort is the Greatest Teacher
+## Discomfort Is the Greatest Teacher
 
 Because life's deepest truths are not found up in the ivory tower.
 

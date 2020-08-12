@@ -1,6 +1,7 @@
 ---
 title: "Bim bim bim!"
 permalink: bim-bim-bim
+category: "writing" 
 ---
 
 What makes good writing?
