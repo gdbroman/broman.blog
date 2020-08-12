@@ -4,7 +4,9 @@ permalink: consciousness-locality
 category: "technical"
 ---
 
-Everyone, including lifelong meditators from time to time, experience a locality of self. That feeling of being located in one’s skull and looking out through the eyes. This feeling of being geographically located somewhere in space, however, is an illusion - or so I will argue. “But I’m right here!” might an ego object. And to be clear, the location of one’s physical body is very real - but the location of your consciousness is not. Before further reading, notice that I'm not making any metaphysical claims about consciousness, this is simply a matter of first person experience.
+Everyone, including lifelong meditators from time to time, experience a locality of self. That feeling of being inside in one’s skull and looking out through the eyes. This feeling of being geographically located somewhere in space, however, is an illusion - or so I will argue.
+
+_“But I’m right here!”_ might an ego object. And to be clear, the location of one’s _physical body_ is very real - but the location of your _consciousness_ is not. Before further reading, notice that I'm not making any metaphysical claims about consciousness, this is simply a matter of one's first-person experience.
 
 ## Sensory Inputs and Their Deception
 
@@ -34,6 +36,8 @@ On a personal note, I have understanding for feelings of doubt and weirdness. Ev
 
 But then again, evolution have only shaped our thinking to understand practical everyday phenomena. It’s only in the last fraction of humanity’s history that we have started to ponder upon abstract questions. No wonder we find quantum mechanics, consciousness and metaphysical topics counterintuitive - the evolution of our brains have not had the time to catch up with our curiosity! In fact, we should thus be surprised if an answer to any of the fundamental questions of life and the universe does make sense to us.
 
-## Practical implications
+## Practical Implications
 
-Hopefully you are now convinced that your experience - what we might call information since that's all sensory input and a thought presumably really is - does not have a position in space. And because the feeling of having a self/I/ego is simply the sum of all experiences, you do not have a position in space. In other words, sounds, feelings, thoughts, etc. are all appearing in consciousness which in turn is non-local. All of this, along with noting that you are the consciousness, not its contents, can be a healthy reminder whenever you get caught up in strong emotions or anxiety provoking thoughts (but beware there's also a risk of an existential crisis).
+Hopefully you are now convinced that your experience - what we might call information since that's all sensory input and thought presumably really is - does not have a position in space. And because the feeling of having a self/I/ego is simply the sum of all experiences, you do not have a position in space. 
+
+In other words, sounds, feelings, thoughts, etc. are all appearing in consciousness which in turn is non-local. All of this, along with noting that you _are_ the consciousness - not its contents - can be a healthy reminder whenever you get caught up in strong emotions or anxiety provoking thoughts.
