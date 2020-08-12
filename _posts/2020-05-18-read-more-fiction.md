@@ -1,0 +1,32 @@
+---
+title: "Why you Should Read More Fiction"
+permalink: read-more-fiction
+---
+
+> Fiction’s about what it is to be a fucking human being.
+> 
+> <cite>David Foster Wallace</cite>
+
+Non-fiction can provide some helpful tips about this or that.
+
+But fiction can permanently change your life.
+
+It’s the ultimate self-help.
+
+Because nothing beats a good story.
+
+It’s just how we’re wired.
+
+Sorry, top 10-lists.
+
+And you might think that’s naive: “How can possibly unreal events help me deal with real life?”
+
+Well, one could argue that fiction is even more real - even more true - than reality. Because what are fictional stories but archetypes?
+
+Fiction deals with problems that humans have struggled with throughout all times. A good fictional story is thus a distilled version of life. Hypertruth.
+
+Also, if you want to become a better writer: study fiction authors.
+
+The best writers primarily write fiction.
+
+You won’t find them in the Business section at the bookstore.
