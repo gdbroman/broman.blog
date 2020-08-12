@@ -13,7 +13,7 @@ Maybe.
 
 But I don't think so.
 
-## I thought LinkedIn was different. Boy, was I wrong.
+## I Thought LinkedIn Was Different. Boy, Was I Wrong.
 
 It all started with Facebook.
 
@@ -58,7 +58,7 @@ And for me, I realized that if I took the time and energy LinkedIn sucked out of
 
 Ha! Who would've thought? Social media harming your happiness and productivity!?
 
-## Don't be boring.
+## Don't Be Boring
 
 If you want to have a good career, you'll have to master the art of story telling. Specifically, telling your story.
 
@@ -94,21 +94,15 @@ And I did not like that it did that to me.
 
 Not one bit.
 
-## Network is EVERYTHING!!! Hmm, maybe.
+## Network Is Everything! Yeah, But
 
 How many times have you heard that networking is essential when it comes to landing a job?
 
-But networking doesn't work.
+But networking doesn't work. At least not in the traditional sense.
 
-At least not in the traditional sense.
+Because what are you doing? Just exchanging emails and business cards over flat conversations at events you couldn't care less about.
 
-Because what are you doing?
-
-Just exchanging emails and business cards over flat conversations at events you couldn't care less about.
-
-Or worse, becoming one in the crowd of LinkedIn direct messages.
-
-This is not how you build meaningful relationships.
+Or worse, becoming one in the crowd of LinkedIn direct messages. This is not how you build meaningful relationships.
 
 "But networking isn't about meaningful relationships!" you might object. Yeah, maybe not. But even if you're just seeking a job referral, that will still not take you all the way.
 
@@ -116,9 +110,7 @@ My two cents is this: handcrafting an incredibly well researched email, letter o
 
 It's faster than running around gathering business cards. And with that time you can instead focus more on improving your skills that actually make you valuable.
 
-A few meaningful connections beats multiple weak ones.
-
-A few meaningful connections and a unique talent stack makes you unstoppable.
+A few meaningful connections beats multiple weak ones. A few meaningful connections and a unique talent stack makes you unstoppable.
 
 ## Going Forward...Being Yourself?
 

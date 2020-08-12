@@ -1,8 +1,8 @@
 ---
-title: "Be Vulnerable."
-permalink: be-vulnerable
-
+title: "Let's Get Vulnerable"
+permalink: lets-get-vurnable
 ---
+
 > It's scary.
 > 
 > Whenever I publish something I refuse to hit publish unless I'm afraid of what other people will think.
@@ -25,7 +25,7 @@ I bring this up because all three are encapsulated in the preluding quote. Altuc
 
 By writing something that makes you vulnerable, you (1) create, (2) experience something thrilling and (3) embrace unavoidable suffering (other's judgements). No wonder writing can feel so meaningful!
 
-## Heroic suffering
+## Heroic Suffering
 
 How does this apply to non-writing? As Frankl said, creation is not the only path to meaning. The other option is through love. And the third way is through heroic suffering. The latter is how Frankl himself managed to go through Auschwitz and what Atlucher was hinting at in the interview.
 
@@ -35,7 +35,7 @@ How does this apply to non-writing? As Frankl said, creation is not the only pat
 
 Heroic suffering means accepting that life is suffering. It means taking on full responsibility for all your actions. Both your failures and successes. This is scary. But it's also meaningful. Because when everything you do matters - per definition - you will live a meaningful life. It's the ultimate form of vulnerability.
 
-## Being yourself
+## Being Yourself
 
 > Vulnerability is a way of trading some aspect of your privacy for freedom.
 > 
@@ -43,6 +43,4 @@ Heroic suffering means accepting that life is suffering. It means taking on full
 
 Being vulnerable is not exclusively about meaning. It will also make you seem more trustworthy as well as enabling you to connect with others on a deeper level. But most importantly it will connect you with your true self.
 
-Lastly, "be vulnerable" is much more helpful advice than "be yourself". They both point at the same thing but the former is more practical, and a easier to implement tip, than the latter.
-
-Be vulnerable.
+Lastly, "be vulnerable" is much more helpful advice than "be yourself". They both point at the same thing but the former is more practical, and a easier to implement tip, than the latter. So let's get vulnerable, shall we?

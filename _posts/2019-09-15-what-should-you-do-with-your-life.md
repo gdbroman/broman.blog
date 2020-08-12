@@ -4,7 +4,7 @@ permalink: what-should-you-do-with-your-life
 ---
 Maybe there is another life after this one. Maybe not. It’s hard to know that’s for sure. It’s the kind of thing you just have to wait and see to find out about. But that’s always something - at least you have something to look forward to.
 
-Either way; it would be one hell of a bummer to live your whole life believing in another life after death only to find out you were wrong this whole time. So it seems to me that it’s safest to assume that this is all you will ever get. "You’re all in. Whether you like it or not - this thing will kill you" (Peterson). So why not try to make something useful of this thing called life?
+Either way; it would be one hell of a bummer to live your whole life believing in another life after death only to find out you were wrong this whole time. So it seems to me that it’s safest to assume that this is all you will ever get. As Jordan Peterson eloquently laid out in an lecture: _"You’re all in. Whether you like it or not - this thing will kill you"_. So why not try to make something useful of this thing called life?
 
 ## Recognize It Is You Who Is Being Asked
 
