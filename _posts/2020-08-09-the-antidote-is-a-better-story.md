@@ -1,5 +1,5 @@
 ---
-title: "The Antitode is a Better Story"
+title: "The Antitode Is a Better Story"
 permalink: "the-antidote-is-a-better-story"
 ---
 
