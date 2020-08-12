@@ -111,7 +111,9 @@ h3.category {
     line-height: 1.2em;
     * {
         color:inherit;
-        text-decoration: none;
+    }
+    a {
+        display: block;
     }
 }
 
