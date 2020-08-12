@@ -1,5 +1,5 @@
 ---
-title: "Idle Hands: the Devil's Workshop?"
+title: "Idle Hands: The Devil's Workshop?"
 permalink: "idle-hands-are-the-devils-workshop"
 ---
 
