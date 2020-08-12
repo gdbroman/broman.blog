@@ -14,7 +14,7 @@ $secondary_font: 'Merriweather', serif;
 // Breakpoints
 $xs: 360px;
 $s: 420px;
-$m: 780px;
+$m: 600px;
 $l: 830px;
 $xl: 870px;
 
@@ -114,9 +114,6 @@ section.mh {
     }
 }
 @media screen and (max-width:$m) {
-    
-}
-@media screen and (max-width:500px) {
     header {
         border-bottom: 1px solid $gray;
         div.mw {
@@ -130,7 +127,7 @@ section.mh {
     }
     .pads {
         padding:0;
-    }
+    }   
 }
 @media screen and (max-width:$xs) {
     section.mh aside {
