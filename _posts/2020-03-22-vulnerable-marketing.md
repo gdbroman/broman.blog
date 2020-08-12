@@ -4,40 +4,29 @@ permalink: vulnerable-marketing
 category: "business"
 ---
 
-You gotta learn the right technique or you'll snap your back doing deadlifts!
+_You gotta learn the right technique or you'll snap your back doing deadlifts!_
 
-So what's the right technique for blogging, Youtube or podcasting?
+So what's the right technique for blogging, Youtube or podcasting? Unlike physical exercise I'd argue there's just one single technique to rule them all: Vulnerability.
 
-Unlike physical exercise I'd argue there's just one single technique to rule them all.
-
-**Vulnerability.**
-
-To be open about your flaws, shortcomings and failures.
-
-A perfect example of this is James Altucher.
+To be open about your flaws, shortcomings and failures. A perfect example of this is James Altucher.
 
 > I've never seen anyone build a large, committed readership faster than James.
 > 
-> <cite>Blogger and personal branding genius Tim Ferriss, Tools of Titans</cite>
+> <cite>Blogger and personal branding genius Tim Ferriss, _Tools of Titans_</cite>
 
-So why is being vulnerable so effective?
+So why is being vulnerable so effective? My take is this: Because we are all basically the same. At least in terms of our bad experiences.
 
-My take is this: Because we are all basically the same. At least in terms of our bad experiences.
-
-* We've all had relatives pass away.
-* We've all had embarrassing failures.
-* We'e all had an imperfect childhood.
-* We all have a quirky part of our personality that we almost never dare to show in daylight.
-* We all have parts of ourselves we do not like.
+* We've all had relatives pass away
+* We've all had embarrassing failures
+* We'e all had an imperfect childhood
+* We all have a quirky part of our personality that we almost never dare to show in daylight
 * We all have periods of anxiety, depression or some other negative feeling.
 
-This is the human condition.
+This is the human condition. And it's so obvious when you say these things. But yet, almost no one ever does say it.
 
-And it's so obvious when you say these things. Because every person can relate. But yet, almost no one ever does say it.
+And _that's_ why it's so effective! It's like a breath of fresh air when someone finally does acknowledge what it means to be human.
 
-And that's why it's so effective! It's like a breath of fresh air when someone finally does acknowledge what it means to be human.
-
-Being a good marketer is thus analogous to being a good comedian. Because it's often said that what makes a comedian effective is that he says what's on everybody's mind (but no one dares to say). People are afraid of being judged so it's a relief when someone finally dares to speak their mind.
+Being a good marketer is thus analogous to being a good comedian. Because it's often said that what makes a comedian effective is that he says what's on everybody's mind, but no one dares to say. People are afraid of being judged so it's a relief when someone finally dares to speak their mind.
 
 Take a look at these two different bios:
 
@@ -67,16 +56,12 @@ Whereas the second one would make you exclaim:
 
 By the way, the first bio is obviously fictional whereas the second one is from Altucher's blog.
 
-So. When writing your bio, do not just list your accomplishments. It's superficial and unrelatable.
-
-Instead, tell your personal story whilst focusing on your failures and how you overcame them.
+The lesson here is that when you're writing your bio, don't just list your accomplishments. It's superficial and unrelatable. Instead, tell your personal story whilst focusing on how you overcame your struggles.
 
 Now, of course there should be a balance. You can't completely ignore your accomplishments or else you run the risk of loosing credibility.
 
-## Bleeding is surprisingly liberating
+## Bleeding is Surprisingly Liberating
 
-By following Ernest Hemingways philosophy that "There is nothing to writing. All you do is sit down at a typewriter and bleed" you'll notice that, whilst initially painful, it's a form of self realization.
+In accordance with Ernest Hemingway's quote, _"There is nothing to writing. All you do is sit down at a typewriter and bleed"_, you'll notice that, whilst initially painful, it's a form of self realization.
 
-You learn to come to terms with who you really are. To not be afraid of opening yourself up.
-
-And when you're not anymore imprisoned by other's judgement it will come to serve as a form of liberation.
+You learn to come to terms with who you really are. To not be afraid of opening yourself up. And when you're not anymore imprisoned by other's judgement it can come to serve as a form of liberation.

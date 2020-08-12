@@ -3,7 +3,12 @@ title: "A List of Side Hustles for 2020"
 permalink: side-hustles-2020
 category: "business"
 ---
-These are viable online side hustles for 2020 (though most can also be turned into full-time jobs). It's time to start cashing in that sweet online money! Here we go.
+
+Let's get real: money is important. And times are changing. You won't be able to do as the previous generation did: to get a stable job and work there till you retire.
+
+Things are a lot more uncertain nowadays. But there is also way more oppurtunity than there has ever been! _If_ you take the time to learn some high income skills.
+
+The following are viable online side hustles for 2020, though most can also be turned into full-time jobs.
 
 ## 1. Blogging
 
@@ -15,21 +20,19 @@ The most common ways of monetizing a blog is to use affiliate marketing or displ
 
 ## 2. Flipping on Ebay and Amazon (or just selling via Amazon FBA)
 
-Along with garage sales, this has become somewhat of a Garyvee meme. But as of 2020, selling on Amazon actually still seem to be pretty profitable. Gary himself suggests buying stuff cheap on Ebay and selling them at a higher price on Amazon (don't ask me why that works).
+Along with garage sales, this has become somewhat of a Garyvee meme. But as of 2020, selling on Amazon actually still seem to be pretty profitable. Gary Vaynerchuk himself suggests buying stuff cheap on Ebay and selling them at a higher price on Amazon.
 
 And to paraphrase Gary: if you're living in your mom's basement, don't tell me flipping "isn't scalable". First, make enough money to sustain yourself - then we can start talking about scaling.
 
-Also, I'd like to shout out this and this hilarious Garyvee impression.
+## 3. Code and Sell Software
 
-## 3. Build and sell a SAAS-product (Software as a Service)
+This one's for the tech-savvy out there. If you know how to code - preferably web development - you can make money off of web applications.
 
-This one's for the tech-savvy out there. If you know how to code - preferably web development - you can make money off of web apps.
+What's so great about web apps is that the financial barrier of entry is so low. All you basically need to pay for is a domain, server hosting and then you're good to go.
 
-What's so great about web apps is that the financial barrier of entry is low. All you basically need to pay for is a domain, server hosting and then you're good to go.
+And what makes it even better is, because of the knowledge barrier of entry (i.e. programming skills) the competition isn't as intense as for Shopify drop shipping for instance.
 
-And what makes it even better is, because of the knowledge barrier of entry (i.e. programming skills) the competition isn't as intense as for drop shipping for instance.
-
-Then there's many other options such as selling iOS and android apps, or downloadable desktop software. These are also viable options but they're not as hot as web applications. Or at least mobile apps. The competition is ridiculous. It's just easier to grab people's attention in the web browser than in the app store.
+Then there's many other options such as selling iOS and android apps, or downloadable desktop software. These are also viable options but they're not as easy as web applications. No one downloads a new app anymore. It's just easier to grab people's attention in the web browser than in the app store.
 
 ## 4. Building a Youtube channel
 
@@ -43,9 +46,11 @@ That’s my two cents at least.
 
 ## 5. Social Media Marketing (SMM)
 
-As a social media marketing agency you simply help other companies out with their online presence. One option is to freelance and only do one time gigs such as creating Facebook ads. Or you can acquire long term clients as a marketing agency. Another option is becoming part time employed as a social media marketer or consultant for a company.
+As a social media marketing agency you simply help other companies out with their online presence. One option is to freelance and only do one time gigs such as creating Facebook ads. 
 
-## 6. Drop shipping with Shopify
+Alternatively, if this is your thing, you can acquire long-term clients as a marketing consultancy agency.
+
+## 6. Drop Shipping With Shopify
 
 I've saved drop shipping for last since it has undeniably become less lucrative as a business model the last few years. That's partly because the barrier of entry has become ridiculously low and therefore the competition sky high thanks to Shopify. Any kid with a laptop can open up a e-commerce store now.
 
@@ -57,7 +62,7 @@ With the possible exceptions of dropshipping and SMM (due to a saturated market)
 
 All in all and In my opinion, blogging and software in general are the most scalable and reliable side (and full-time) hustle’s because they offer the most differentiability for your product.
 
-## Bonus resources
+## Bonus Resources
 
 If you're reading this article, then you've probably heard of these websites before. But since they're really helpful, they're still worth a mention just in case:
 

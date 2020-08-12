@@ -12,11 +12,11 @@ To achieve adequate results - in other words, **to follow the index, is easier t
 
 One would think that to do a little better than average, one would just have to spend a little more time than the average person researching stocks - but this couldn’t be further from the truth.
 
-Warren Buffett has said that during his whole lifetime he’s only been able to identify ten people(!) who have consistently been able to beat the market. 
+Warren Buffett has said that during his whole lifetime he’s only been able to identify _ten people_ who have consistently been able to beat the market! 
 
-So it is _possible_ to to consistently beat the market. With discipline and resilience you _could_ it. But probably not.
+So it is _possible_ to to consistently beat the market. With discipline and resilience, you _could_ it. Though probably not.
 
-But if you do want to give beating Mr. Market a try you will have to exploit that he's seldom right. **The stock market is merely a reflection of people's expectations.** It may correlate with the companies' real value, but _they're not the same thing._
+But if you _do_ want to give beating Mr. Market a try you will have to exploit that he's seldom right. **The stock market is merely a reflection of people's expectations.** It may correlate with the companies' real value, but _they're not the same thing._
 
 The idea is unsurprisingly to buy a stock when the company is undervalued by the market. This should be done mechanically following a checklist.
 
@@ -28,4 +28,4 @@ Only a gambler is manic about the daily price and bets on the stock’s short te
 
 And if you want to be a passive investor - not spending much time thinking about investing but still having your money work for you - the best way is undeniably to buy index funds with low fees.
 
-Lastly, focus on what you _can_ control. You can’t control if any given stock will go up or down but you can control fees, expectations, risk, taxes and most importantly your behavior.
+Lastly, focus on what you _can_ control. You can’t control if any given stock will go up or down but you can control fees, expectations, risk, taxes and most importantly, your behavior.
