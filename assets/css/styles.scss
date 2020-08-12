@@ -27,8 +27,11 @@ article {
             margin-right: 16px;
         }
         img {
+            height:18px;
+            width:18px;
             background: transparent;
-            margin-right:2px;
+            padding: 1px 1px 0 0;
+            margin-right:1px;
             opacity:0.4;
         }
     }
