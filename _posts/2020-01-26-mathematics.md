@@ -1,6 +1,6 @@
 ---
 title: "Mathematics as a Separate World"
-permalink: mathematics
+permalink: mathematics-as-a-separate-world
 category: "technical"
 ---
 
