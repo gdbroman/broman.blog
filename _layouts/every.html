@@ -2,12 +2,10 @@
 layout: page
 ---
 
-<p>
-    Here you find every article I've posted, sorted by category.
-</p>
+{{ content }}
 
 {% for category in site.categories  %}
-    <h3 class="category">{{ category[0] }}</h3>
+    <a href="{{ category[0] }}"><h3 class="category">{{ category[0] }}</h3></a>
     <ul>
         {% for post in category[1] %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
