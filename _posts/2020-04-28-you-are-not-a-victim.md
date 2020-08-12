@@ -1,5 +1,5 @@
 ---
-title: "You are NOT a Victim"
+title: "You're Not a Victim"
 permalink: you-are-not-a-victim
 ---
 
