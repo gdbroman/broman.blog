@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "Category: Life Lessons"
+title: "Category: Life"
 category: life
 permalink: life
 ---

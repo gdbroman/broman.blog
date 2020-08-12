@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "Poems"
+title: "Category: Poems"
 category: poems
 permalink: poems
 ---
