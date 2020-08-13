@@ -1,6 +1,6 @@
 ---
 title: "Artificial Humanism: On Being Employable"
-permalink: artificial-humanism-on-being-employable
+permalink: artificial-humanism
 ---
 
 Why does being "employable" sometimes feel so orthogonal to being human?
