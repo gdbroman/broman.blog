@@ -3,7 +3,7 @@ title: "Artificial Humanism: On Being Employable"
 permalink: on-being-employable
 ---
 
-What is it? And why does it sometimes feel orthogonal to being human?
+Being employable. What is it? And why does it sometimes feel orthogonal to being human?
 
 Well how could it not? Forcing a smile for the job interview, talking about your love for this and that void-of-meaning corporate buzzword. Claiming natural giftedness for teamwork and office socializing, even though both you and the interviewer very well know you’re an eremite wanting to be left alone if there ever was one.
 
@@ -13,6 +13,6 @@ And then when you’re employed; returning home at noon with 90% of your mental 
 
 Dystopian? A bit, I’ll admit. I'm definitely not being _professional_, anyways. In fact, if a recruiter were to read this, I’d probably be removed from that company’s hiring list.
 
-What being employable really means might be thought of as a sort of artificial humanism. The perfect employee is what you’d get if you instructed a robot to act human: An incapability with negative emotions, only displaying good will and enterprise. It's really quite simple: If you feel sad, stuff it inside and only let it out when there's no witnesses. Some emotions are even better if you yourself don’t even acknowledge: _Finding your work soul-destroyingly boring? Of course you aren’t!_
+What being employable really means might be thought of as a sort of artificial humanism. The perfect employee is what you’d get if you instructed a robot to act human: An incapability with negative emotions - only displaying good will and enterprise. It's really quite simple: If you feel sad, stuff it inside and only let it out when there's no no one to witness. Some emotions are even better if you yourself don’t acknowledge: _Finding your work soul-destroyingly boring? Of course you aren’t!_
 
 And thanks to the publicity of the internet, you'll need to keep your “employability ranking” in mind even when you're on platforms that are supposedly not work-related such as Facebook and Instagram, since _anything you say on the internet may be used against you in the court of hiring._ Everything you post can be found with a quick Google search - and the recruiter _will_ Google search, mind you - so you better stay professional.
