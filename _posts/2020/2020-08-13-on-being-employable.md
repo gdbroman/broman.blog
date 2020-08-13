@@ -3,7 +3,7 @@ title: On Being "Employable"
 permalink: on-being-employable
 ---
 
-What is it? And why does it sometimes feel so detrimental to the soul and orthogonal to being human?
+What is it? And why does it sometimes feel so detrimental to the soul? So orthogonal to being human?
 
 Well how couldn’t it? Putting on a fake smile for the interview, talking about your love for this and that void-of-meaning corporate buzzword. Claiming a natural inclination for teamwork and office socializing, even though both you and the interviewer know you’re an eremite wanting to be left alone if there ever was one. 
 
