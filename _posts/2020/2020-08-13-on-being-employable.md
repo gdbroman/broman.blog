@@ -1,11 +1,11 @@
 ---
-title: On Being "Employable"
+title: On Being Employable
 permalink: on-being-employable
 ---
 
-What is it? And why does it sometimes feel so detrimental to the soul - so orthogonal to being human?
+What is it? And why does it sometimes feel orthogonal to being human?
 
-Well how could it not? Putting on a fake smile for the interview, talking about your love for this and that void-of-meaning corporate buzzword. Claiming a natural inclination for teamwork and office socializing, even though both you and the interviewer very well know you’re an eremite wanting to be left alone if there ever was one.
+Well how could it not? Putting on fake smiles for the interview, talking about your love for this and that void-of-meaning corporate buzzword. Claiming a natural inclination for teamwork and office socializing, even though both you and the interviewer very well know you’re an eremite wanting to be left alone if there ever was one.
 
 You sitting there with a bright flickering LED lamp in your face thinking, _is this what we’re supposed to do? Is this humanity at its peak: Sitting inside rectangular shaped cement blocks during the day’s most precious hours?_ You don’t say that of course - or that would be _“unprofessional”_. Instead you go on about how you, as an [insert bullshit corporate title here] _love_ what you do (even though you never use that word even for your family members), how you’re always on time and do not shy away from working hard (sort of implicitly communicating that you indeed will do as you’re told and be an office slave from nine to five every weekday and maybe even on the weekends).
 
