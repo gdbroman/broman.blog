@@ -3,7 +3,7 @@ title: "Artificial Humanism: On Being Employable"
 permalink: on-being-employable
 ---
 
-Being employable. What is it? And why does it sometimes feel orthogonal to being human?
+Being "employable": What is it? And why does it sometimes feel orthogonal to being human?
 
 Well how could it not? Forcing a smile for the job interview, talking about your love for this and that void-of-meaning corporate buzzword. Claiming natural giftedness for teamwork and office socializing, even though both you and the interviewer very well know you’re an eremite wanting to be left alone if there ever was one.
 
