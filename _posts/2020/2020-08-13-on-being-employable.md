@@ -11,7 +11,7 @@ You're sitting there with a bright flickering LED lamp in your face thinking, _i
 
 And then when you’re employed; returning home at noon with 90% of your mental energy already used up, using those 10% that’s left to microwave some processed food and mindlessly consume social media news feeds, slowly lowering your consciousness until your thoughts are down to “hungry - more snacks” and “feeling tired - one more Netflix”. Then waking up the next morning to once again squeeze yourself together amongst hundreds of other stressed workers on their way to rectangular cement blocks.
 
-Dystopian? A bit, I’ll admit. It’s definitely not _professional_ to point this out anyways. In fact, if a recruiter were to see this, I’d probably be removed from that company’s hiring list.
+Dystopian? A bit, I’ll admit. I'm definitely not being _professional_ anyways. In fact, if a recruiter were to see this, I’d probably be removed from that company’s hiring list.
 
 What being employable really means can be thought of as a sort of artificial humanism. The perfect employee is what you’d get if you instructed a robot to act human. Incapable of having negative emotions, only displaying good will and enterprise. It's really quite simple: If you feel sad, stuff it in and only let it out if no one can see you. Some emotions are even better if you yourself don’t even acknowledge: _Finding your work soul-destroyingly boring? Of course you aren’t!_
 
