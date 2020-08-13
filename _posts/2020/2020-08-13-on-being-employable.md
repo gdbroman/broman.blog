@@ -5,7 +5,7 @@ permalink: artificial-humanism
 
 Why does being "employable" sometimes feel so orthogonal to being human?
 
-Forcing a smile for the job interviewer, talking about your love for this and that void-of-meaning corporate buzzword. Claiming natural giftedness for teamwork and office socializing, even though both of you very well know you’re an eremite wanting to be left alone if there ever was one.
+Forcing a smile for the job interviewer, talking about your love for this and that void-of-meaning corporate buzzword. Claiming natural giftedness for teamwork and office socializing, even though both of you know very well that you’re an eremite wanting to be left alone if there ever was one.
 
 You're sitting there with a bright flickering LED lamp in your face thinking, _is this what we’re supposed to do? Is this humanity at its peak: Sitting inside rectangular shaped cement blocks during the day’s most precious hours?_ You don’t say that of course - or that would be _unprofessional_. Instead you go on about how you, as an [insert bullshit corporate title here] _love_ what you do (even though you never use that word even for your family), how you’re always on time and do not shy away from working hard (sort of implicitly communicating that you indeed will do as you’re told and be an office slave from nine to five every weekday and maybe also on weekends).
 
