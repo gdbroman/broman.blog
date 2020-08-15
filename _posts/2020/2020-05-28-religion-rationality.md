@@ -18,11 +18,11 @@ So it does not matter why you’re an obedient citizen - as long as it keeps you
 
 Because talk is cheap. We’ve all went to the kitchen, opened the fridge and stood there like an idiot because we can’t remember our errand.
 
-It makes you think: How much of our reasoning for doing stuff is simply rationalising, after the fact? God only knows why we do the things we do. 
+It makes you think: _How much of our reasoning for doing stuff is simply rationalising, after the fact?_ God only knows why we do the things we do.
 
 Didn’t Yuval Noah Harari already make it crystal clear how our entire lives rely on fictional stories? And how it’s not necessarily a bad thing!? [1]
 
-Money, nations, companies and culture. These are useful, and therefore rational, beliefs. 
+Money, nations, companies and culture. These are useful, and therefore rational, beliefs.
 
 So show me an atheist who acts without belief. I’ll wait.
 
