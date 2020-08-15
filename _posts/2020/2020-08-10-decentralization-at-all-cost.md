@@ -10,7 +10,7 @@ You know the type: social outcast, libertarian nerd who believes blockchain will
 
 The problem is, as much as you may want it to be true, **you’re not an island.**
 
-This cypherpunk stereotype I’m describing is also often someone introverted, which may explain the appeal that decentralization has to him. A kind of rebellious reaction against not being able to partake as a node in the social network of regular people.
+This cypherpunk stereotype I’m describing is also often someone very introverted, which may explain the appeal decentralization has to him. A kind of rebellious reaction against not being able to partake as a node in the social network of regular people.
 
 But only because _your_ node doesn’t utilize many connections, doesn’t mean we should get rid of the network idea altogether.
 
