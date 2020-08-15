@@ -4,11 +4,11 @@ permalink: side-hustles-2020
 category: "business"
 ---
 
-Let's get real: money is important. And times are changing. You won't be able to do as the previous generation did: to get a stable job and work there till you retire.
+Let's get real: money is important. And times are changing. You won't be able to do what the previous generation did: to get a stable job at twnty and work there till you retire at 65.
 
-Things are a lot more uncertain nowadays. But there is also way more oppurtunity than there has ever been! _If_ you take the time to learn some high income skills.
+Things are a lot more uncertain nowadays, but there is also way more oppurtunity than there has ever been! _If_ you take the time to learn some high income skills.
 
-The following are viable online side hustles for 2020, though most can also be turned into full-time jobs.
+The following are thus some viable online side hustles for 2020, though most can also be turned into full-time jobs.
 
 ## 1. Blogging
 
