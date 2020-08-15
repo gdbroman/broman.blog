@@ -19,7 +19,7 @@ The realization that you're not as smart as you thought you were, though initial
 
 Of course, there is a risk that this can go too far. You don't want to underestimate your capabilities. Unfortunately this is fairly common and it was mentioned in my case against college. 
 
-### A Note Peer Pressure
+### A Note on Peer Pressure
 
 As Malcom Gladwell pointed out in a talk, feeling inadequate is probably the number one reason why students drop out. No matter where you look, all the colleges consistently show the same trend: the bottom third of the class (ranked by SAT score) has the lowest chance of graduation.
 
