@@ -16,9 +16,8 @@ To be open about your flaws, shortcomings and failures. A perfect example of thi
 
 So why is being vulnerable so effective? My take is this: Because we are all basically the same. At least in terms of our bad experiences.
 
-* We've all had relatives pass away
-* We've all had embarrassing failures
-* We'e all had an imperfect childhood
+* We all have embarrassing failures
+* We all have an imperfect childhood
 * We all have a quirky part of our personality that we almost never dare to show in daylight
 * We all have periods of anxiety, depression or some other negative feeling.
 
@@ -60,7 +59,7 @@ The lesson here is that when you're writing your bio, don't just list your accom
 
 Now, of course there should be a balance. You can't completely ignore your accomplishments or else you run the risk of loosing credibility.
 
-## Bleeding is Surprisingly Liberating
+## Bleeding Is Surprisingly Liberating
 
 In accordance with Ernest Hemingway's quote, _"There is nothing to writing. All you do is sit down at a typewriter and bleed"_, you'll notice that, whilst initially painful, it's a form of self realization.
 
