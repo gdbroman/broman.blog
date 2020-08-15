@@ -46,6 +46,6 @@ Pick up a journal, typewriter or open Google Docs - it doesn’t matter. Just si
 
 How much is not the point. But at least three sentences can be a good goal. You’ll probably surpass that, but it’s small enough to not be intimidating and give you writer’s block.
 
-If you do this, slowly but steadily you’ll clear up your thinking. Your mind will become stiller, sharper and more creative.
+If you do this, slowly but steadily you’ll clear up your thinking and your mind will become stiller, sharper and more creative.
 
 Good luck.
