@@ -49,10 +49,7 @@ People of action know that he who has 99 failures but 1 success under his belt i
 ## It's Mostly Output
 
 > If you want to be a writer, you must do two things above all others: read a lot and write a lot.
-> 
 
 That's a quote from Stephen King. And I'm not disagreeing with a legend. Reading and writing are the top two activities for improving on your writing. But I would still like to nuance that a bit. Because guess what the best thing for improving your writing is? WRITING.
 
-Pondering, reading, gathering ideas and studying other's styles is certainly good, but don't do it exclusively. If you have to choose between reading and writing - just write. Prioritize output over input. In fact, I can't think of any skill where this doesn't apply (except reading in and of itself). Doing is the most efficient form of learning.
-
-Consume less, do more.
+Pondering, reading, gathering ideas and studying other's styles is certainly good, but don't do it exclusively. If you have to choose between reading and writing - just write. Prioritize output over input. In fact, I can't think of any skill where this doesn't apply (except reading in and of itself).
