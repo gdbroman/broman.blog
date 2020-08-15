@@ -25,7 +25,7 @@ This presents a somewhat paradoxical emotional nature of creatives. As Rollo May
 
 > A curious paradox characteristic of every kind of courage here confronts us. It is the seeming contradiction that we must be fully committed, but we must also be aware at the same time that we might possibly be wrong.
 
-## To Create is to be Courageous
+## To Create is to Be Courageous
 
 This reality, being opposite to common belief, is also analogous to a key difference between Stoicism and Epicureanism. As Seneca writes in his classic Letters from a Stoic:
 
@@ -33,4 +33,4 @@ This reality, being opposite to common belief, is also analogous to a key differ
 
 This key difference presents a far more optimistic view on creativity: Instead of viewing the act of creating as something only reserved for the Übermensch who never feel fear, it is something accessible for far more people: Those who are simply willing to take on the inevitable suffering that accompanies creation.
 
-To create is to be courageous. To create is to embark on a journey full of uncertainty, doubt and anxiety. But it is also a journey to ultimate meaning in life.
+To create is to be courageous. It's to embark on a journey full of uncertainty, doubt and anxiety. But it is also a journey to ultimate meaning in life.
