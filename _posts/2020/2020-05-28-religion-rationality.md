@@ -4,13 +4,13 @@ permalink: religion-rationality
 category: "technical"
 ---
 
-Soul, demons, spirits and God. Some situations require that kind of language. And if you don’t agree, I’d say you’ve probably never had an experience at either tail of the distribution; neither horrific nor transcendental.
+Soul, demons, spirits and God. Some situations require that kind of language and if you don’t agree, I’d say you’ve probably never had an experience at either tail of the distribution. Neither horrific nor transcendental.
 
-I’m sick of these ‘rationalists’ and self-proclaimed atheists who think they’re somehow special because they don’t literally believe what's in the Bible, say. They're making the same mistake as the fundamentalists who do believe in a literal sense.
+I’m sick of these "rationalists" and self-proclaimed atheists who think they’re somehow special because they don’t literally believe what's in the Bible, say. They're making the same mistake as the fundamentalists who _do_ believe in a literal sense.
 
 Religious language was never intended to be used literally. It offers something secular language can’t. The Bible for example, contains undeniable gems if read as a metaphorical work.
 
-You don’t need to be 'religious' (whatever that means) to extract useful lessons from religion. As Nassim Nicholas Taleb (somewhat) eloquently lays out in Skin in the Game (he’s somewhat of a rambler):
+You don’t need to be _religious_ (whatever that means) to extract useful lessons from religion. As Nassim Nicholas Taleb (somewhat) eloquently lays out in Skin in the Game (he’s somewhat of a rambler):
 
 > The only definition of rationality that makes sense, is behavior that increases your chances of survival.
 
