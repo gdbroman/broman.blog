@@ -1,5 +1,5 @@
 ---
-title: "Branding Beats Sales and Don't be Needy!"
+title: "Branding Beats Sales"
 permalink: branding-beats-sales
 category: "business"
 ---
@@ -22,4 +22,4 @@ Paradoxically, that mentality will get people promoting your business for you. V
 
 ## Put a Cat in Your Lap and it Immediately Jumps Down
 
-Let it voluntarily jump up and the cat will repeatedly return no matter how many times you push it down. This is why branding beats sales.
+Let it voluntarily jump up and the cat will repeatedly return no matter how many times you push it down.
