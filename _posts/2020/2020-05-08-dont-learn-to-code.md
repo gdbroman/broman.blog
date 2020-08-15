@@ -6,7 +6,7 @@ category: "writing"
 
 It has become fashionable to preach coding nowadays. That everyone should #learntocode RIGHT NOW!
 
-The reasoning is that, since software is so ubiquitous now, everyone should at least understand the basics of computer programming.
+The reasoning is that, since software is now so ubiquitous, everyone should at least understand the basics of computer programming.
 
 But as someone who started programming at 13 years old, I think this is somewhat lazy thinking.
 
