@@ -22,6 +22,4 @@ To be totally clear, I’m actually writing this critique with one foot in the l
 
 It’s just that some of its proponents undermine these philosophies by becoming ideological about it. 
 
-Forgetting the very thing which makes decentralization so beautiful, namely the absence of absolutism.
-
-The allowance of a middle ground to be reached through free market mechanisms.
+Forgetting the very thing which makes decentralization so beautiful, namely the absence of absolutism. The allowance of a middle ground to be reached through free market mechanisms.
