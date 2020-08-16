@@ -11,6 +11,7 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       name: "Broman's Blog"
+      title: "Broman's Blog"
       layout: post
       author: "Gustaf Broman"
       category: "life"
