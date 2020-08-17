@@ -15,30 +15,6 @@ article {
     border-radius: 10px;
     background-color: #fff;
     border:1px solid $gray;
-    .meta {
-        font-size: 14px;
-        color:#828282;
-        * {
-            line-height: 18px;
-            display: inline-block;
-            vertical-align: top;
-        }
-        .date {
-            margin-right: 16px;
-        }
-        img {
-            height:18px;
-            width:18px;
-            background: transparent;
-            padding: 1px;
-            margin-right:1px;
-            opacity:0.3;
-        }
-    }
-    .meta a, .meta a:hover {
-        text-decoration: none;
-        color:#828282;
-    }
     img {
         background-color: #eee;
     }
@@ -110,8 +86,43 @@ article {
         }
     }
     .meta {
+        font-size: 14px;
+        color:#828282;
         padding-top: 20px;
         border-top: 1px solid $gray;
+        * {
+            line-height: 18px;
+            display: inline-block;
+            vertical-align: top;
+        }
+        .date {
+            margin-right: 16px;
+        }
+        img {
+            height:18px;
+            width:18px;
+            background: transparent;
+            padding: 1px;
+            margin-right:1px;
+            opacity:0.3;
+        }
+    }
+    .meta a, .meta a:hover {
+        text-decoration: none;
+        color:#828282;
+    }
+    .share {
+        height:20px;
+        margin-top: 20px;
+        .share-btn {
+            height:20px;
+            display: inline-block;
+            margin-right: 12px;
+            vertical-align: top;
+            .twitter-share-button {
+                margin-top: 1px;
+            }
+        }
     }
 }
 .category {

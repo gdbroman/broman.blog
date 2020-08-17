@@ -8,13 +8,7 @@ layout: default
     <div class="text">
         <h1>{{ page.title }}</h1>
         {{ content }}
-        <div class="meta">
-            <img src="/assets/images/icons/time.svg" />
-            <span class="date">{{ page.date | date: '%B %d, %Y' }}</span>
-            <a href="{{ page.category }}">
-                <img src="/assets/images/icons/tag.svg" />
-                <span class="category">Category: {{ page.category }}</span>
-            </a>
-        </div>
+        {% include info.html %}
+        {% include share.html %}
     </div>
 </article>
