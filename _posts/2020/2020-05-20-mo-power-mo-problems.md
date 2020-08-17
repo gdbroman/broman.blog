@@ -1,7 +1,6 @@
 ---
 title: "Mo Power, Mo Problems?"
 permalink: mo-power-mo-problems
-category: "technical"
 ---
 
 The larger the company the less innovative and agile. The bigger the country, the more corrupt and thinner the safety net. These are not proposed laws, simply observations.

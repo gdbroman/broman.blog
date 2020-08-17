@@ -1,7 +1,6 @@
 ---
 title: "What School Taught You About Writing Is Wrong"
 permalink: what-school-taught-you-about-writing-is-wrong
-category: "writing"
 ---
 
 In school, teachers tell us that there's a difference between writing and talking. And indeed it naturally is. You talk sloppy and write eloquently. And school teachers encourage us to differentiate our communication in this way. But if you want others to read your stuff - that's horrible advice!

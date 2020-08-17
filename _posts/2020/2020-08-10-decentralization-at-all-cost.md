@@ -1,7 +1,6 @@
 ---
 title: Decentralization at All Cost?
 permalink: decentralization-at-all-cost
-category: "technical"
 ---
 
 You know the type: social outcast, libertarian nerd who believes blockchain will solve all our problems.

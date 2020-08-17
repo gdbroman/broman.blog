@@ -1,6 +1,8 @@
 ---
 layout: category
-title: "Category: Life"
-category: life
-permalink: life
+title: "Category: Essays"
+category: essays
+permalink: essays
 ---
+
+Writings where content > form.

@@ -1,7 +1,6 @@
 ---
 title: "Produce Utter Garbage"
 permalink: produce-garbage
-category: "writing"
 ---
 
 We’ve all heard it.

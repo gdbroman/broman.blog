@@ -1,5 +1,5 @@
 ---
-title: "Life's a Marathon, not a Sprint - But It's Also Always Now"
+title: "Life's a Marathon, Not a Sprint - But It's Also Always Now"
 permalink: life-is-a-marathon
 ---
 

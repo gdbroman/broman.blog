@@ -1,7 +1,6 @@
 ---
 title: "Forget Coding - Do This Instead"
 permalink: dont-learn-to-code
-category: "writing"
 ---
 
 It has become fashionable to preach coding nowadays. That everyone should #learntocode RIGHT NOW!

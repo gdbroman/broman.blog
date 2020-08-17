@@ -1,4 +1,4 @@
 ---
 layout: articles
-title: Latest Articles by Category
+title: Latest Writings by Category
 ---

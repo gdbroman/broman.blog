@@ -1,7 +1,6 @@
 ---
 title: "Never Go Full Philosopher"
 permalink: never-go-full-philosopher
-category: "writing"
 ---
 
 Those who like to read, write and think, often find themselves fantasizing about removing the minutia of everyday life. To isolate themselves in a cabin in the woods and just think all day.

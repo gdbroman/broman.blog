@@ -1,7 +1,6 @@
 ---
 title: "Mathematics as a Separate World"
 permalink: mathematics-as-a-separate-world
-category: "technical"
 ---
 
 These are some thoughts after having listened to artist London Tsai on Eric Weinstein's podcast The Portal, Ep. #014.

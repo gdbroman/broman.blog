@@ -1,7 +1,6 @@
 ---
 title: "On Religion and Rationality"
 permalink: religion-rationality
-category: "technical"
 ---
 
 Soul, demons, spirits and God. Some situations require that kind of language and if you don’t agree, I’d say you’ve probably never had an experience at either tail of the distribution. Neither horrific nor transcendental.

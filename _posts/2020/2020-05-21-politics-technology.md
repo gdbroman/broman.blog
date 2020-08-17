@@ -1,7 +1,6 @@
 ---
 title: "Is Technology Superior to Politics?"
 permalink: politics-technology
-category: "technical"
 ---
 
 What is politics? Let's say: A set of questions which the average person can’t easily be persuaded into changing his mind about.

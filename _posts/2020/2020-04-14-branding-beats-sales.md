@@ -1,7 +1,6 @@
 ---
 title: "Branding Beats Sales"
 permalink: branding-beats-sales
-category: "business"
 ---
 
 I think most would agree that a personal trainer should provide their clients with the tools that make them obsolete as teachers. Teach a man to fish-kind of thing.

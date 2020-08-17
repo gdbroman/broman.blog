@@ -1,7 +1,6 @@
 ---
 title: "Is Specialization Only for Insects?"
 permalink: specialization
-category: "business"
 ---
 
 In the science fiction novel _Time Enough for Love_, Robert Heinlein, through the fictional character Lazarus, gives the following description of a competent man:

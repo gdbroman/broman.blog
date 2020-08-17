@@ -1,7 +1,6 @@
 ---
 title: "Three Contrarian Truths From Zero to One by Peter Thiel"
 permalink: zero-to-one
-category: "business"
 ---
 
 This is a short book summary of Zero to One by Peter Thiel which is about startups and innovation. I highly recommend reading it to those with entrepreneurial ambitions.

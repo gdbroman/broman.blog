@@ -1,7 +1,6 @@
 ---
 title: "Thoughts on How to Overcome Writer's Block (or, Procrastination Altogether)"
 permalink: writers-block
-category: "writing"
 ---
 
 There's 30 minutes left to hand in your thesis and you haven't even started yet. You're staring at the blank page with an increasing feel of frustration together with a hint of - nay, full bucket of - panic. Why can't you think of anything? 

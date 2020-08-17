@@ -1,7 +1,6 @@
 ---
 title: "Economics According to Dalio"
 permalink: economic-machine-ray-dalio
-category: "technical"
 ---
 
 What’s the economic machine and how does it work? Few know and those who do, seldom agree with each other. 
