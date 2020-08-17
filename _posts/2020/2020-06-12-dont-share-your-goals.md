@@ -1,5 +1,5 @@
 ---
-title: "Don't Tell Anyone What You're Doing Untill it is Done"
+title: "Don't Tell Anyone What You're Doing Untill It Is Done"
 permalink: dont-share-your-goals
 ---
 
