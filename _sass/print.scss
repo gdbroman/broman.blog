@@ -1,9 +1,12 @@
-
 @media print {
     body {
-        background-color:#fff;
+        background-color:#fff !important;
     }
-    aside {
-        display:none;
+    main {
+        display: block;
+        margin: 0 auto;
+    }
+    aside, footer, .share {
+        display:none !important;
     }
 }
