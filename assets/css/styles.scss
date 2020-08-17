@@ -3,6 +3,7 @@
 @import "main";
 @import "header";
 @import "typography";
+@import "print";
 
 article {
     position: relative;
@@ -73,7 +74,7 @@ article {
     blockquote {
         padding-left: 20px;
         margin-bottom: 22px;
-        border-left: 2px solid #333;
+        border-left: 2px solid $black_light;
         font-style: italic;
         cite {            
             font-style: normal;
@@ -121,6 +122,20 @@ article {
             vertical-align: top;
             .twitter-share-button {
                 margin-top: 1px;
+            }
+            &.print {
+                cursor: pointer;
+                height:20px;
+                margin-top: 1px;
+                padding:0 8px;
+                border:none;
+                color: #656565!important;
+                background: #f8f8f8;
+                border: 1px solid #ccc;
+                font-size: 12px;
+                line-height: 15px;
+                font-weight: 500;
+                border-radius: 3px;
             }
         }
     }
