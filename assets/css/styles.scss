@@ -87,14 +87,19 @@ article {
         }
     }
     .meta {
+        margin-top:20px;
         font-size: 14px;
         color:#828282;
         padding-top: 20px;
         border-top: 1px solid $gray;
+        padding-bottom:20px;
         * {
             line-height: 18px;
-            display: inline-block;
             vertical-align: top;
+        }
+        .meta-item {
+            display: inline-block;
+            margin-bottom: 4px;
         }
         .date {
             margin-right: 16px;
@@ -113,29 +118,37 @@ article {
         color:#828282;
     }
     .share {
-        height:20px;
-        margin-top: 20px;
-        .share-btn {
-            height:20px;
+        position: relative;
+        margin-top: 1px;
+        margin-bottom: -8px;
+        a.share-button {
             display: inline-block;
-            margin-right: 12px;
+            height:23px;
             vertical-align: top;
-            .twitter-share-button {
-                margin-top: 1px;
+            margin: 0 6px 8px 0;
+            padding:0 8px;
+            color: #656565!important;
+            background: #f8f8f8;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            box-shadow: 0 1px 0 rgba(0,0,0,.08);
+            &:hover {
+                text-decoration: none;
+                border: 1px solid #aaa;
             }
-            &.print {
-                cursor: pointer;
-                height:20px;
-                margin-top: 1px;
-                padding:0 8px;
-                border:none;
-                color: #656565!important;
-                background: #f8f8f8;
-                border: 1px solid #ccc;
+            * {
+                display: inline-block;
+                line-height: 20px;
+                vertical-align: top;
+            }
+            span {
                 font-size: 12px;
-                line-height: 15px;
-                font-weight: 500;
-                border-radius: 3px;
+            }
+            img {
+                background: transparent;  
+                width:14px;
+                padding: 3px 0; 
+                opacity: 0.42;
             }
         }
     }

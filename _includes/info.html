@@ -1,8 +1,12 @@
 <div class="meta">
-    <img src="/assets/images/icons/time.svg" />
-    <span class="date">{{ page.date | date: '%B %d, %Y' }}</span>
-    <a href="{{ page.category }}">
-        <img src="/assets/images/icons/tag.svg" />
-        <span class="category">Category: {{ page.category }}</span>
-    </a>
+    <div class="meta-item">
+        <img src="/assets/images/icons/time.svg" />
+        <span class="date">{{ page.date | date: '%B %d, %Y' }}</span>
+    </div>
+    <div class="meta-item">
+        <a href="{{ page.category }}">
+            <img src="/assets/images/icons/tag.svg" />
+            <span class="category">Category: {{ page.category }}</span>
+        </a>
+    </div>
 </div>
