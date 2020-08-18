@@ -89,7 +89,7 @@ article {
     .meta {
         margin-top:20px;
         font-size: 14px;
-        color:#828282;
+        color:$gray_dark;
         padding-top: 20px;
         border-top: 1px solid $gray;
         padding-bottom:20px;
@@ -115,7 +115,7 @@ article {
     }
     .meta a, .meta a:hover {
         text-decoration: none;
-        color:#828282;
+        color:$gray_dark;
     }
     .share {
         position: relative;
@@ -173,7 +173,7 @@ h3.category {
     padding:0;
     overflow: hidden;
     max-height: 150px;
-    margin-bottom: 20px;
+    margin-bottom: 16px;
     .flex {
         display: flex;
         position:relative;
@@ -223,6 +223,10 @@ h3.category {
                     -webkit-box-orient: vertical;
                     overflow: hidden;
                     text-overflow: ellipsis;
+                }
+                .meta {
+                    font-size: 16px;
+                    color:$gray_dark;
                 }
             }
         }
