@@ -92,7 +92,7 @@ article {
         color:$gray_dark;
         padding-top: 20px;
         border-top: 1px solid $gray;
-        padding-bottom:20px;
+        padding-bottom:12px;
         * {
             line-height: 18px;
             vertical-align: top;
@@ -124,8 +124,8 @@ article {
             vertical-align: top;
             margin: 0 6px 8px 0;
             padding:0 8px;
-            color: #656565!important;
-            background: #f8f8f8;
+            color: $gray_dark;
+            background: $background;
             border: 1px solid #ccc;
             border-radius: 3px;
             box-shadow: 0 1px 0 rgba(0,0,0,.08);
@@ -145,7 +145,7 @@ article {
                 background: transparent;  
                 width:14px;
                 padding: 3px 0; 
-                opacity: 0.42;
+                opacity: 0.3;
             }
         }
     }
