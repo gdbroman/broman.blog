@@ -12,9 +12,11 @@ The fighters and the apathetics.
 
 Troublemaking winners, and lazy losers.
 
-Then there are those who don’t fight - but still succeed.
+There are those who don’t fight, but still succeed.
 
-They don’t declare war - nor do they surrender.
+They don’t declare war.
+
+Nor surrender.
 
 They are the non-competitors.
 
