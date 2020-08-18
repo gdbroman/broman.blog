@@ -49,7 +49,7 @@ section.mh {
     display: flex;
     min-height: calc(100vh - 64px - 64px);
     height:auto;
-    padding-top: 32px;
+    padding-top: 16px;
     padding-bottom: 32px;
     main {
         display: inline-block;
@@ -116,7 +116,6 @@ section.mh {
 }
 @media screen and (max-width:$m) {
     header {
-        border-bottom: 1px solid $gray;
         div.mw {
             padding-top:0;
             padding-bottom:0;
