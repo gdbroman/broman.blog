@@ -10,7 +10,7 @@ The fighters, and apathetics.
 
 Troublemaking winners, and lazy losers.
 
-There are those who don’t fight, but still succeed.
+There are also those who don’t fight, but still succeed.
 
 They don’t declare war.
 
