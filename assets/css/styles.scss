@@ -99,10 +99,8 @@ article {
         }
         .meta-item {
             display: inline-block;
-            margin-bottom: 4px;
-        }
-        .date {
-            margin-right: 16px;
+            margin-bottom: 8px;
+            margin-right: 12px;
         }
         img {
             height:18px;
@@ -119,7 +117,6 @@ article {
     }
     .share {
         position: relative;
-        margin-top: 1px;
         margin-bottom: -8px;
         a.share-button {
             display: inline-block;

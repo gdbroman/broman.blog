@@ -13,7 +13,7 @@ defaults:
       name: "Broman's Blog"
       title: "Broman's Blog"
       layout: post
-      author: "Gustaf Broman"
+      author: "Broman"
       category: "essays"
 
 social:
