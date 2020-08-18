@@ -8,7 +8,7 @@ There are those who compete.
 
 And those who don’t.
 
-The fighters and the apathetics.
+The fighters and apathetics.
 
 Troublemaking winners, and lazy losers.
 
