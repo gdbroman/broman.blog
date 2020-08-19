@@ -19,9 +19,9 @@ So much of civilized human existence relies on people who know what to do - how 
 
 An “adult” is someone responsible. Someone who you can rely on and who can answer your questions. Someone who gets things done and knows how stuff works.
 
-When the car gets broken down, we call a competent mechanic to fix it for us. An *adult* car mechanic.
+When the car gets broken down, we call a competent mechanic to fix it for us.
 
-Whenever there’s some sort of crisis we turn on the TV or go on the internet, listen to news anchors and experts to tell us what’s up. Once again we turn to adults.
+Whenever there’s some sort of crisis we turn on the TV or go on the internet, listen to news anchors and experts to tell us what’s up.
 
 When someone’s dying, we turn to the doctor for status reports. To answer our questions.
 
