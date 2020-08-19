@@ -4,13 +4,11 @@ permalink: the-ultimate-winners
 category: poems
 ---
 
-There are those who compete - and those who don’t.
+There are fighters - and apathetics.
 
-The fighters, and apathetics.
+The troublemaking winners, and lazy losers.
 
-Troublemaking winners, and lazy losers.
-
-There are also those who don’t fight, but still succeed.
+There are also those who *don’t* fight, but still succeed.
 
 They don’t declare war.
 
