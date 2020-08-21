@@ -61,6 +61,7 @@ article {
         margin-bottom: 22px;
     }
     li {
+        font-size: 17px;
         margin-bottom: 2px;
     }
     hr {
@@ -334,7 +335,7 @@ aside {
         img.main {
             min-height: 220px;
         }
-        p, p * {
+        p, p *, li {
             font-size: 16px;
         }
     }
