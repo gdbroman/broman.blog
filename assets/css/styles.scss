@@ -48,7 +48,7 @@ article {
     p {
         margin-bottom: 22px;
     }
-    p * {
+    p, p * {
         font-family: $secondary_font;
         font-size: 17px;
         line-height: 1.6em;
@@ -334,7 +334,7 @@ aside {
         img.main {
             min-height: 220px;
         }
-        p * {
+        p, p * {
             font-size: 16px;
         }
     }
