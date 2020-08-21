@@ -50,7 +50,7 @@ article {
     }
     p * {
         font-family: $secondary_font;
-        font-size: 16px;
+        font-size: 17px;
         line-height: 1.6em;
     }
     p, p *:not(a), li, li *:not(a) {
@@ -333,6 +333,9 @@ aside {
     .post {
         img.main {
             min-height: 220px;
+        }
+        p * {
+            font-size: 16px;
         }
     }
 }
