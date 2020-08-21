@@ -15,7 +15,6 @@ article {
     padding:32px;
     border-radius: 10px;
     background-color: #fff;
-    border:1px solid $gray;
     img {
         background-color: #eee;
     }
@@ -30,7 +29,6 @@ article {
         min-height: 320px;
         max-height: 320px;
         border-radius: 2px;
-        margin-bottom: 20px;
     }
     h1, h2, h3 {
         font-weight: 700;
@@ -43,7 +41,8 @@ article {
     h1 {
         font-size: 32px;
         margin-top: 0px;
-        margin-bottom: 22px;
+        margin-bottom: 32px;
+        padding-top: 32px;
         padding-bottom: 12px;
         border-bottom: 1px solid $gray;
         color:$black_dark;
@@ -116,6 +115,7 @@ article {
         position: relative;
         display: table;
         width: 100%;
+        margin-top: 32px;
         margin-bottom:1px;
         padding-top: 20px;
         border-top: 1px solid $gray;
@@ -349,7 +349,7 @@ aside {
             min-height: 150px;
         }
         .text {
-            margin: 30px 30px 40px 30px;
+            padding: 0px 32px 40px 32px;
         }
     }
     article.entry {
