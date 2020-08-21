@@ -1,9 +1,9 @@
 ---
-title: "Everybody Has a Teacher"
-permalink: everybody-has-a-teacher
+title: "Everyone Has a Teacher"
+permalink: everyone-has-a-teacher
 ---
 
-Everybody has
+Everyone has
 
 1. A boss, and
 2. A teacher
