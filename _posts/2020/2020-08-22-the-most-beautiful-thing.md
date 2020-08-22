@@ -4,9 +4,9 @@ permalink: the-most-beautiful-thing
 category: poems
 ---
 
-It's effortless.
+It's effortless fun.
 
-Fun and courageous.
+Heroic and courageous.
 
 It's seeing and being.
 
