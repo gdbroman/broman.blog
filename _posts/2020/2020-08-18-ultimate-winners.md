@@ -1,6 +1,6 @@
 ---
-title: "The Ultimate Winners"
-permalink: the-ultimate-winners
+title: "Ultimate Winners"
+permalink: ultimate-winners
 category: poems
 ---
 
