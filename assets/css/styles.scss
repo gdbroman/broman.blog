@@ -12,7 +12,7 @@ article {
     margin-left: auto;
     margin-right: auto;
     min-height: 100px;
-    padding:0 32px 32px 32px;
+    padding:0 40px 40px 40px;
     border-radius: 10px;
     background-color: #fff;
     p, p *, li, li * {
@@ -313,6 +313,12 @@ aside {
     }
     #gr_quote_body {
         margin:0;
+    }
+}
+
+@media screen and (max-width:$xl) {
+    article {
+        padding:0 32px 32px 32px;
     }
 }
 
