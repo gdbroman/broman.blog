@@ -8,6 +8,6 @@ All you need is one true sentence.
 
 Write the truest sentence that you know.
 
-Good writing:
+Good writing?
 
 It's nothing but hard boiled eggs.
