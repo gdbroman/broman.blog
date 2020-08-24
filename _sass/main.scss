@@ -9,7 +9,7 @@ $gray: #cccccc;
 $gray_dark: #828282;
 
 // Fonts
-$main_font: 'Segoe UI';
+$main_font: 'Noto Sans JP', sans-serif;
 $secondary_font: 'Merriweather', serif;
 
 // Breakpoints
@@ -62,17 +62,18 @@ section.mh {
         padding: 32px 0px 0px 32px;
         h3 {
             font-size: 15px;
-            font-weight: 600;
+            font-weight: 500;
             letter-spacing: 0em;
+            color:#3d3d3d;
             text-transform: uppercase;
             margin-bottom: 12px;
             text-align: center;
         }
         p {
             font-family: $main_font;
-            font-size: 14px;
+            font-size: 13px;
             font-weight: 400;
-            color:$black_light;
+            color:#3d3d3d;
             text-align: justify;
             margin-bottom:12px;
         }

@@ -26,6 +26,7 @@ header, footer {
             overflow: hidden;
             a {
                 margin-left:12px;
+                font-size:15px;
                 img {
                     display: inline-block;
                     height:16px;
@@ -60,7 +61,7 @@ footer {
 h2.logo {
     display:inline-block;
     font-size: 16px;
-    font-weight: 700;
+    font-weight: 800;
     text-transform: uppercase;
     text-decoration: none;
     &:hover a {
