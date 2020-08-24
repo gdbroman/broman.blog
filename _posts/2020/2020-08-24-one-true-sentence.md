@@ -10,4 +10,4 @@ Write the truest sentence that you know.
 
 Good writing?
 
-It's nothing but hard boiled eggs.
+Nothing but hard boiled eggs.
