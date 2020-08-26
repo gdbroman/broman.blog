@@ -22,11 +22,10 @@ article {
 }
 .post {
     img.main {
-        display: block;
         width: 100%;
-        min-height: 320px;
-        max-height: 352px;
-        padding-top: 32px;
+        min-height: 200px;
+        max-height: 400px;
+        margin-top: 32px;
         border-radius: 2px;
     }
     h1, h2, h3 {
@@ -358,7 +357,7 @@ aside {
         img.main {
             border-radius: 0;
             min-height: 150px;
-            padding-top: 0px;
+            margin-top: 0px;
         }
         .text {
             padding: 0px 32px 40px 32px;
