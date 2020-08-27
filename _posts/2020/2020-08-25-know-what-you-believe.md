@@ -12,6 +12,6 @@ Knowledge is not belief; knowledge must be *transformed* into belief. Refined an
 
 Writing allows this. It let's us explore and refine our thinking. To share and thereby borrow other mind's perspectives.
 
-Don't hoard knowledge; share it. Come to know what you believe.
+**Don't hoard knowledge; share it.** Come to know what you believe.
 
 Because if you don't, someone else will.
