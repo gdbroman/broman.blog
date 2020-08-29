@@ -8,9 +8,9 @@ category: essays
 
 It's not the *wrong* question. It's the very act of questioning that is mistaken. The egoic mind playing games. Tricks!
 
-It's an act which only makes sense when you don't *experience* meaning. You never ask in the middle of flow or equanimity.
+The question only arises in moments lacking meaningful *experience*. You never ask "why" when you're in the middle of a flow experience.
 
-> People say that what we’re all seeking is a meaning for life. I don’t think that’s what we’re really seeking. **I think that what we’re seeking is an experience of being alive,** so that our life experiences on the purely physical plane will have resonances with our own innermost being and reality, so that we actually feel the rapture of being alive.
+> People say that what we’re all seeking is a meaning for life. I don’t think that’s what we’re really seeking. **I think that what we’re seeking is an experience of being alive**
 >
 > <cite>Joseph Campbell</cite>
 
