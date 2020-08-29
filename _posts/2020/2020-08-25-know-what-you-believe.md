@@ -6,7 +6,7 @@ category: essays
 
 We *think* we know what we think - until we try to articulate it.
 
-But it is through the act of articulation that we discover what we think. By nailing our thoughts down and examining them.
+But it is through the act of articulation that we discover what we really think. By nailing down our thoughts and examining them.
 
 Knowledge is not belief; knowledge must be transformed into belief. Refined and embodied.
 
