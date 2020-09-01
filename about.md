@@ -40,7 +40,7 @@ Here's me being a bit more professional: [Portfolio](https://gustafbroman.github
 
 ## Okay. How do I reach out?
 
-Send me an email: [contact@gustafdbroman.com](mailto:contact@gustafdbroman.com).
+Send me an email: [gustafbroman@hey.com](mailto:gustafbroman@hey.com).
 
 ☕️ Wanna chat? I'm always up for meeting new people. Include [Coffee] in the subject line and we'll work something out.
 
