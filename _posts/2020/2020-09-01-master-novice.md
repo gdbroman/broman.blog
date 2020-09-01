@@ -1,6 +1,6 @@
 ---
-title: "White Belt Mentality"
-permalink: white-belt-mentality
+title: "The Master Novice"
+permalink: master-novice
 ---
 
 A karate kid walked up to the black belt and asked excitedly, *"how do I get as good as thou?"*
