@@ -42,7 +42,7 @@ Here's me being a bit more professional: [Portfolio](https://gustafbroman.github
 
 Send me an email: [contact@gustafdbroman.com](mailto:contact@gustafdbroman.com).
 
-☕️ Wanna chat? I'm always up for meeting new people. Include [Coffee] in the subject line and we can work something out.
+☕️ Wanna chat? I'm always up for meeting new people. Include [Coffee] in the subject line and we'll work something out.
 
 ## What Wordpress theme is this?
 
