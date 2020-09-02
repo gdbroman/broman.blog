@@ -32,7 +32,7 @@ I’m gonna have to come back for a more definite answer.
 
 ## What's your day job?
 
-💻 I'm an indie hacker, which means I code stuff on the internet.
+💻 I'm an indie hacker, which means I [code](https://github.com/gustafbroman){:target="_blank"} stuff on the internet.
 
 I'm also an engineering student in my spare time, currently based in cold Stockholm.
 
@@ -40,7 +40,7 @@ Here's me being a bit more professional: [Portfolio](https://gustafbroman.github
 
 ## Okay. How do I reach out?
 
-Send me an email: [gustafbroman@hey.com](mailto:gustafbroman@hey.com).
+Send me an email: [hello@broman.blog](mailto:hello@broman.blog).
 
 ☕️ Wanna chat? I'm always up for meeting new people. Include [Coffee] in the subject line and we'll work something out.
 
