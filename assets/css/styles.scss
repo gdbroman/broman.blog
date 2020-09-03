@@ -318,7 +318,7 @@ aside {
     }
 }
 
-@media screen and (max-width:$xl) {
+@media screen and (max-width:calc(#{$xl} + 2*#{$padding})) {
     .post {
         img.main {
             min-height: 220px;
