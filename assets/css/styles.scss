@@ -319,6 +319,17 @@ aside {
 }
 
 @media screen and (max-width:$xl) {
+    .post {
+        img.main {
+            min-height: 220px;
+        }
+        p {
+            line-height: 1.6em;
+        }
+        p, p *, li {
+            font-size: 16px;
+        }
+    }
 }
 
 @media screen and (max-width:$l) {
@@ -334,17 +345,6 @@ aside {
                     min-width: 132px;
                 }
             }
-        }
-    }
-    .post {
-        img.main {
-            min-height: 220px;
-        }
-        p {
-            line-height: 1.6em;
-        }
-        p, p *, li {
-            font-size: 16px;
         }
     }
 }
