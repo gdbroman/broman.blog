@@ -1,5 +1,5 @@
 // Header and footer mostly same styling
-$inner_height: 44px;
+$inner_height: 42px;
 
 header, footer {
     width:100%;
@@ -66,5 +66,14 @@ h2.logo {
     text-decoration: none;
     &:hover a {
         text-decoration: none;
+    }
+}
+
+@media screen and (max-width:$m) {
+    header {
+        div.mw {
+            //padding-top:0;
+            //padding-bottom:0;
+        }
     }
 }

@@ -117,13 +117,6 @@ section.mh {
     }
 }
 @media screen and (max-width:$m) {
-    header {
-        div.mw {
-            padding-top:0;
-            padding-bottom:0;
-            border-bottom: none;
-        }
-    }
     .mh {
         min-height: calc(100vh - 56px - 64px);
     }
