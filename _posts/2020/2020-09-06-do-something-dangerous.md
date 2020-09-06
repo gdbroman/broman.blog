@@ -19,6 +19,4 @@ Safety implying unrealization.
 
 And pondering scary undertakings, one always concludes the worst-case _better_ than the amygdala's stories.
 
-We suffer only in imagination-kind-of-thing.
-
 A calm mind has little to fear.
