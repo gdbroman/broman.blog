@@ -3,9 +3,9 @@ title: "Do Something Dangerous"
 permalink: do-something-dangerous
 ---
 
-We live to live, not merely survive.
+Not to take unnecessary risk, but risk nonetheless.
 
-Not to take unnecessary risks, but risks nonetheless.
+We live to live, not merely survive.
 
 The quickest way from despair is doing something dangerous. Or scary. As long as the brain interprets it as dangerous it seems to do the trick, does it not?
 
