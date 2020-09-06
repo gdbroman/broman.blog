@@ -46,9 +46,9 @@ Send me an email: [hello@broman.blog](mailto:hello@broman.blog).
 
 ## What Wordpress theme is this?
 
-This website is not running bloated Slowpress. I created my own [Jekyll](https://jekyllrb.com/){:target="_blank"} theme and deployed it for free using Github Pages.
+This website is not running Slowpress. I created my own Jekyll theme and deployed it for free using Github Pages.
 
-Like what you see? Good news: This website is open source! You can find the source code [here](https://github.com/gustafbroman/broman.blog){:target="_blank"}.
+Like what you see? Good news: This website is open source! You find the source code [here](https://github.com/gustafbroman/broman.blog){:target="_blank"}.
 
 ## What's been your greatest realization in life?
 
