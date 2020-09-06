@@ -34,7 +34,7 @@ I’m gonna have to come back for a more definite answer.
 
 💻 I'm an indie hacker, which means I [code](https://github.com/gustafbroman){:target="_blank"} stuff on the internet.
 
-I'm also an engineering student in my spare time, currently based in cold Stockholm.
+I'm also an university student, currently experimenting with the digital nomad lifestyle due to all learning being held online.
 
 Here's me being a bit more professional: [Portfolio](https://gustafbroman.github.io){:target="_blank"}.
 
