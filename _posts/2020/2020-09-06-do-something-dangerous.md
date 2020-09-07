@@ -7,7 +7,7 @@ Not to take unnecessary risk, but risk nonetheless.
 
 To live, not merely survive.
 
-The quickest way from despair is doing something dangerous. Or scary. As long as the brain interprets it seems to do the trick, does it not?
+The quickest way from despair is doing something dangerous. Or scary. As long as the brain *interprets* danger, it seems to do the trick, does it not?
 
 Such as moving to another country or quitting a safe 9 to 5.
 
