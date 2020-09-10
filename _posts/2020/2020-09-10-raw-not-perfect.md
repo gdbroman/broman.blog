@@ -5,7 +5,7 @@ permalink: raw-not-perfect
 
 Perfection being the enemy is such a cliché.
 
-But no matter how many times we hear it, I think everybody has to go through their own unique journey of internalization. Battling *"the resistance"*, as Steven Pressfield calls it, is a mandatory step for every creator.
+But no matter how many times we hear it, I think everybody has to go through their own unique journey of internalization. Battling *"the resistance"*, as Steven Pressfield calls it, is mandatory for every creator.
 
 It's not a matter of winning or losing. You never *defeat* resistance, nor does it ever disappear.
 
