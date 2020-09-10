@@ -6,7 +6,7 @@ category: essays
 
 *"What's the meaning of life?"* is a meaningless question.
 
-It's not the *wrong* question. It's the very act of questioning is mistaken. The egoic mind playing games. Tricks!
+It's not the *wrong* question. It's the very act of questioning that is mistaken. The egoic mind playing games. Tricks!
 
 The question only arises in moments lacking meaningful *experience*. You never ask why when in presence.
 
