@@ -15,8 +15,6 @@ Partly, I think, because one realizes that our highest selves reside in a place 
 
 Being human is rough. Our communication has to match that.
 
-Perfection's about removing flaws but art is about opening up.
-
-Perfection prohibits expression.
-
 Rawness allows us to connect.
+
+Perfection's about removing flaws but art is about opening up.
