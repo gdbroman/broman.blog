@@ -11,4 +11,4 @@ But for the purpose of realizing one's true nature, it does not really matter ho
 
 It's up to awareness to gain self-objectivity; and with it, resilience, kindness, wisdom; equanimity.
 
-The cup slowly emptying itself.
+The cup emptying itself.
