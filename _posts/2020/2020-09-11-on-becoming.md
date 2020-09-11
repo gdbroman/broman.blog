@@ -3,7 +3,7 @@ title: "On Becoming"
 permalink: "on-becoming"
 ---
 
-For a system to change, and recursively change the way it changes itself, ad infinitum, seems like a logical impossibility.
+For a system to change, and recursively change the way it changes itself, ad infinitum, seems logically impossible.
 
 Yet, the mind does it all the time.
 
