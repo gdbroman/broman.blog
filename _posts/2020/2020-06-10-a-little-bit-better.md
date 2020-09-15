@@ -26,6 +26,6 @@ Of the person you’re slowly turning into.
 
 But initiated, we may ask:
 
-Am I doing one thing _a little bit better_ today?
+Am I doing _one thing_ a little bit better today?
 
 This is our compass.
