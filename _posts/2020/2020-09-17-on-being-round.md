@@ -20,7 +20,7 @@ The shape analogy have been sloppy so far but I think I have some clarity to off
 1. *Being well rounded in skills,* vs.
 2. *Being well rounded emotionally*
 
-The former is more of a binary thing. You either know enough about a lot or not. And if you do, you may T-specialize and have an awesome career.
+The former is more of a binary thing. You either know enough about a lot, or not. And if you do, you may [T-specialize](https://en.wikipedia.org/wiki/T-shaped_skills){:target="_blank"} and have an awesome career.
 
 The latter, is a lifelong journey. A process of **figuring out how you *lie to yourself* on a daily basis.**
 
@@ -34,4 +34,4 @@ The latter is hard: Do things which make you uncomfortable.
 * Some people hate running. They need to run.
 * Some people hate pop music. Good for them.
 
-Being round career-wise is financially dumb. Being a round human being is the only alternative to subconscious sabotage.
+Being round career-wise is financially dumb. Being round emotionally is the only antidote to subconscious sabotage.
