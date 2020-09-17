@@ -4,13 +4,15 @@ h1, h2, h3 {
     letter-spacing: 0.02em;
     color: $black_dark;
 }
-p, li {
+p {
     line-height: 1.6em;
     font-weight: 400;
     color: $black_light;
 }
 li {
     line-height: 1.4em;
+    font-weight: 400;
+    color: $black_light;
 }
 a {
     text-decoration: none;
