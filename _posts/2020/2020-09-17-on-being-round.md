@@ -34,4 +34,4 @@ The latter is hard: Do things which make you uncomfortable.
 * Some people hate running. They need to run.
 * Some people hate pop music. Good for them.
 
-Being round career-wise is financially dumb. Being round emotionally is the only antidote to subconscious sabotage.
+Being round career-wise is financially dumb, but being round emotionally is the only antidote to subconscious sabotage.
