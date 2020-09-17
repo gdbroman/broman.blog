@@ -17,8 +17,8 @@ Blindness will ruin your life.
 
 The shape analogy have been sloppy so far but I think I have some clarity to offer. It requires the following distinction:
 
-1. *Being well rounded in skills,* vs.
-2. *Being well rounded emotionally*
+1. *Being well-rounded in skills,* vs.
+2. *Being well-rounded emotionally*
 
 The former is more of a binary thing. You either know enough about a lot, or not. And if you do, you may [T-specialize](https://en.wikipedia.org/wiki/T-shaped_skills){:target="_blank"} and have an awesome career.
 
