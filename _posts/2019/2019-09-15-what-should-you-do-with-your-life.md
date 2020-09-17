@@ -17,17 +17,17 @@ This unwillingness to ponder might be because the question of what one should do
 
 We’ve all had a moment of realization as adolescents when it truly hit us that these authority figures called adults haven’t really got it all figured out. In fact, most people don’t have any idea of what’s really going on.
 
-If you’re hesitant to believe me, ask the wisest people you know the following: “You’re a real smart guy. So I had this little question regarding the very nature of existence. What should one do with one's life - and why?”. You’ll be lucky if you get even one coherent and - more importantly - original answer. Because any fool can recite the answer given by ideology or another thinker, but to answer for yourself requires more discipline and open-mindedness than most are willing to spare.
+If you’re hesitant to believe me, ask the wisest person you know: *“You’re a real smart guy. So I had this little question regarding the very nature of existence. What should one do with one's life - and why?”*. You’ll be lucky if you get even one coherent and - more importantly - original answer. Because any fool can recite the answer given by ideology or another thinker, but to answer for yourself requires more discipline and open-mindedness than most are willing to spare.
 
 ## An Algorithm for Figuring Out Life
 
-> Experimenting with the skills and options related to your personality and inclinations is not only the single most important step in developing a high sense of purpose, it is perhaps the most important step in life in general.
+> *Experimenting with the skills and options related to your personality and inclinations is not only the single most important step in developing a high sense of purpose, it is perhaps the most important step in life in general.*
 >
 > <cite>Robert Greene, The Laws of Human Nature (p.380)</cite>
 
-Considering no one really knows what’s going on, neither what one should do here in life, maybe it’s wisest to just pick a target and aim for it without thinking too much about what the target should be? To my estimation this is necessary but not sufficient. In order to really figure life out you need to do one more thing: evaluation. Repeated such. In other words, iterating.
+Considering no one really knows what’s going on, neither what one should do here in life, maybe it’s wisest to just pick a target and get going without thinking too much about what the target should be? To my estimation this is necessary but not sufficient. In order to really figure life out you need to do one more thing: repeated evaluation.
 
-Every time you realize that the target you’ve been aiming for wasn’t that good of a choice, you have to be able to change course - and quickly! This willingness to try and error is your best bet for finding truth. The only way to really know something is through direct experience.
+Every time you realize that the target you’ve been aiming for wasn’t that good of a choice (which will be always), you have to be able to change course - and quickly! This willingness to try and err is your best bet for finding truth. The only way to really know something is through direct experience.
 
 But constant iteration isn’t enough either. Since life is limited there is a possibility, though a low probability, that you might never hit the right target before you die. Therefore you also need to be smart about choosing new targets. You have to be able to analyze what was wrong with your previous target and based on that information, choose a new one. It also makes sense to maximize the amount of targets you try since a large sample size improves your ability to evaluate.
 
@@ -38,7 +38,7 @@ We can thus stipulate the following algorithm for figuring life out (math geeks 
 3. Evaluate
 4. Repeat
 
-Now, anyone can pick a target and most can also aim their efforts somewhat but the third step might be easier said than done. How do you objectively evaluate your situation? After all, the easiest person to fool is yourself. You will never reach full objectiveness since your perspective will nevertheless always be a perspective and thus a subjective evaluation. But you can improve, and in order to do that you will need a map.
+Now, anyone can pick a target and most can also aim their efforts somewhat but the third step might be easier said than done. How do you objectively evaluate your situation? After all, the easiest person to fool is yourself. You will never reach full objectiveness since your perspective will nevertheless always be a perspective and therefore subjective. But you can improve, and in order to do that you will need a map.
 
 What map you choose will impact your evaluation and therefore also future targets. In other words; the map will fully influence your journey to truth. The choice of map should thus be of highest interest.
 
