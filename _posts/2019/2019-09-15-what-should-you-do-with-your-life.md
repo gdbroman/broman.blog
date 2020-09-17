@@ -13,11 +13,11 @@ This raises a natural follow-up question: *What the heck should you do?* It is p
 
 Unfortunately not very many people give the question serious thought. Most cling to whatever cliché they like the sound of the most given their aggregated experience, such as “follow your passion” or “do what makes you happy”. These are not necessarily bad frameworks, but the point is that most people embrace pre-packaged answers with disinterest in truth.
 
-This unwillingness to ponder might be because the question of what one should do seems too big for a mortal to ever answer. Some might reason that it’s better then to just pick an answer and get going. Times running out - better not waste any time! This might actually not be such a bad strategy.
+This unwillingness to ponder might be because the question of what one should do, seems too big for a mortal to ever answer. Some might reason that it’s better then to just pick an answer and get going. Times running out - better not waste any time! This might actually not be such a bad idea.
 
 We’ve all had a moment of realization as adolescents when it truly hit us that these authority figures called adults haven’t really got it all figured out. In fact, most people don’t have any idea of what’s really going on.
 
-If you’re hesitant to believe me, ask the wisest people you know the following: “You’re a real smart guy. So I had this little question regarding the very nature of existence. What and why should one do with one’s life?”. You’ll be lucky if you get even one coherent and - more importantly - original answer. Because any fool can recite the answer given by an ideology or another thinker but to answer for yourself requires more discipline and open-mindedness than most are willing to spare.
+If you’re hesitant to believe me, ask the wisest people you know the following: “You’re a real smart guy. So I had this little question regarding the very nature of existence. What should one do with one's life - and why?”. You’ll be lucky if you get even one coherent and - more importantly - original answer. Because any fool can recite the answer given by ideology or another thinker, but to answer for yourself requires more discipline and open-mindedness than most are willing to spare.
 
 ## An Algorithm for Figuring Out Life
 
@@ -25,11 +25,11 @@ If you’re hesitant to believe me, ask the wisest people you know the following
 >
 > <cite>Robert Greene, The Laws of Human Nature (p.380)</cite>
 
-Considering the premise that no one really knows what’s going on, neither what one should do here in life, maybe it’s wisest to just pick a target and aim for it without thinking too much about what the target should be? To my estimation this is necessary but not sufficient. In order to really figure life out you need to do one more thing: evaluation.
+Considering no one really knows what’s going on, neither what one should do here in life, maybe it’s wisest to just pick a target and aim for it without thinking too much about what the target should be? To my estimation this is necessary but not sufficient. In order to really figure life out you need to do one more thing: evaluation. Repeated such. In other words, iterating.
 
-Every time you realize that the target you’ve been aiming for wasn’t that good of a choice, you have to be able to change course - and quickly! This ability to reiterate one’s attempts by trial and error is the only tool available to he who wishes to find truth. The only way to really know something is to try it. 
+Every time you realize that the target you’ve been aiming for wasn’t that good of a choice, you have to be able to change course - and quickly! This willingness to try and error is your best bet for finding truth. The only way to really know something is through direct experience.
 
-But constant reiteration isn’t enough either. Since life is limited there is a possibility that you might get unlucky and never hit the right target before death. Therefore you also need to be smart about choosing new targets. You have to be able to analyze what was wrong with your previous target and based on that choose a new one. And it also makes sense to maximize the amount of targets you try since a larger sample size increases your ability to evaluate your endevours.
+But constant iteration isn’t enough either. Since life is limited there is a possibility, though a low probability, that you might never hit the right target before you die. Therefore you also need to be smart about choosing new targets. You have to be able to analyze what was wrong with your previous target and based on that information, choose a new one. It also makes sense to maximize the amount of targets you try since a large sample size improves your ability to evaluate.
 
 We can thus stipulate the following algorithm for figuring life out (math geeks will realize this is analogous to some numerical methods for approximately solving differential equations such as Euler's method):
 
