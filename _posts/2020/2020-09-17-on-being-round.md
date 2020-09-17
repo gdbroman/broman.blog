@@ -11,11 +11,7 @@ Those seeking to improve, face the dilemma of doubling down on strengths, or cor
 
 Squares acknowledge their weak spots to some degree, but circles dedicate their whole life to it.
 
-And whilst you might not want to become a jack of all trades, master of none, it still beats lying to yourself.
-
-Blindness will ruin your life.
-
-The shape analogy have been sloppy so far but I think I have some clarity to offer. It requires the following distinction:
+Excuse the sloppy shape analogy. I think the following distinction offers some clarity:
 
 1. *Being well-rounded in skills,* vs.
 2. *Being well-rounded emotionally*
