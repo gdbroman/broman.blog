@@ -13,12 +13,13 @@ Squares acknowledge their weak spots to some degree, but circles dedicate their 
 
 Excuse the sloppy shape analogy. I think the following distinction offers some clarity:
 
-1. *Being well-rounded in skills,* vs.
+1. *Being well-rounded in skills*
+
+    * This more of a binary thing. You're either well-read or not. And if you are, you may [T-specialize](https://en.wikipedia.org/wiki/T-shaped_skills){:target="_blank"} and enjoy an awesome career.
+
 2. *Being well-rounded emotionally*
 
-The former is more of a binary thing. You're either well-read or not. And if you are, you may [T-specialize](https://en.wikipedia.org/wiki/T-shaped_skills){:target="_blank"} and enjoy an awesome career.
-
-The latter, is a lifelong journey. A process of **figuring out how you lie to yourself on a daily basis.**
+    * This is a lifelong journey. A process of figuring out how you lie to yourself on a daily basis.
 
 So my current thinking is this: Be T-shaped in your craft, but round personality-wise.
 
