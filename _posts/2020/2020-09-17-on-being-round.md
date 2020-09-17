@@ -1,0 +1,37 @@
+---
+title: "On Being Round"
+permalink: "on-being-round"
+---
+
+Being well-rounded isn't being dull or mediocre, is it?
+
+*Is it?*
+
+Those seeking to improve, face the dilemma of doubling down on strengths, or correcting weaknesses.
+
+Squares acknowledge their weak spots to some degree, but circles dedicate their whole life to it.
+
+And whilst you might not want to become a jack of all trades, master of none, it still beats lying to yourself.
+
+Blindness will ruin your life.
+
+The shape analogy have been sloppy so far but I think I have some clarity to offer. It requires the following distinction:
+
+1. *Being well rounded in skills,* vs.
+2. *Being well rounded emotionally*
+
+The former is more of a binary thing. You either know enough about a lot or not. And if you do, you may T-specialize and have an awesome career.
+
+The latter, is a lifelong journey. A process of **figuring out how you *lie to yourself* on a daily basis.**
+
+So my current thinking is this: Be T-shaped in your craft but round personality-wise.
+
+The former is simple: Find a passion and read widely.
+
+The latter is hard: Do things which make you uncomfortable.
+
+* Some people hate socializing. They need to socialize.
+* Some people hate running. They need to run.
+* Some people hate pop music. Good for them.
+
+Being round career-wise is financially dumb. Being a round human being is the only alternative to subconscious sabotage.
