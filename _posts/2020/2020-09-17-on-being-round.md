@@ -23,9 +23,7 @@ Excuse the sloppy shape analogy. I think the following distinction offers some c
 
 So my current thinking is this: Be T-shaped in your craft, but round personality-wise.
 
-The former is simple: Find a passion - and read widely.
-
-The latter is hard: Do things which make you uncomfortable.
+The former is simple: Find a passion - read widely. The latter is hard: Do things which make you uncomfortable.
 
 * Some people hate socializing. They need to socialize.
 * Some people hate running. They need to run.
