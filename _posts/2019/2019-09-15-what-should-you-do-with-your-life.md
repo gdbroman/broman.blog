@@ -3,15 +3,15 @@ title: What to do with your life?
 permalink: what-should-you-do-with-your-life
 ---
 
-Maybe there is another life after this one. But maybe not. It’s hard to know that’s for sure. It’s the kind of thing you just have to wait and see to find out about. But that’s always something - at least you have something to look forward to.
+Maybe there is another life after this one. Maybe not. It’s hard to know that’s for sure. It’s the kind of thing you just have to wait and see to find out about. But that’s always something - at least you have something to look forward to.
 
-Either way; it would be one hell of a bummer to live your whole life believing in another life after death only to find out you were wrong this whole time. So it seems to me that it’s safest to assume that this is all you will ever get. As Jordan Peterson eloquently laid out in an lecture: _"You’re all in. Whether you like it or not - this thing will kill you"_. So why not try to make something useful of this thing called life?
+Either way; it would be one hell of a bummer to live your whole life believing in life after death, only to find out you were wrong this whole time. So it seems to me that it’s safest to assume that this is all we get. As alpha lobster, Jordan Peterson, eloquently laid out in a lecture: _"You’re all in. Whether you like it or not - this thing will kill you"_. So why not try to make something useful of this thing called life?
 
 ## Recognize It Is You Who Is Being Asked
 
-This raises a natural follow up question: what the heck should you do? It is perhaps the most important question any sentient and sufficiently intelligent being could ask oneself. It is also important to acknowledge that “it is we ourselves who must answer the questions that life asks of us” (Victor Frankl). In other words: it is up to you to determine your life’s meaning. 
+This raises a natural follow-up question: *What the heck should you do?* It is perhaps the most important question any sentient and sufficiently intelligent being could ask oneself. It is also important to acknowledge that “it is we ourselves who must answer the questions that life asks of us” (Victor Frankl). In other words, it is up to you to determine your life’s meaning, since it is you who's being asked.
 
-Unfortunately not very many people give the question serious thought. Most cling to whatever cliché they like the sound of the most given their life circumstances, such as “follow your passion” or “do what makes you happy”. These are not necessarily bad frameworks, but the point is that most people embrace prepackaged answers with no regard to their level of truth. 
+Unfortunately not very many people give the question serious thought. Most cling to whatever cliché they like the sound of the most given their aggregated experience, such as “follow your passion” or “do what makes you happy”. These are not necessarily bad frameworks, but the point is that most people embrace pre-packaged answers with disinterest in truth.
 
 This unwillingness to ponder might be because the question of what one should do seems too big for a mortal to ever answer. Some might reason that it’s better then to just pick an answer and get going. Times running out - better not waste any time! This might actually not be such a bad strategy.
 
