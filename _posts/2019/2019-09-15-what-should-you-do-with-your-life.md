@@ -27,7 +27,7 @@ If you’re hesitant to believe me, ask the wisest person you know: *“You’re
 
 Considering no one really knows what’s going on, neither what one should do here in life, maybe it’s wisest to just pick a target and get going without thinking too much about what the target should be? To my estimation this is necessary but not sufficient. In order to really figure life out you need to do one more thing: repeated evaluation.
 
-Every time you realize that the target you’ve been aiming for wasn’t that good of a choice (which will be always), you have to be able to change course - and quickly! This willingness to try and err is your best bet for finding truth. The only way to really know something is through direct experience.
+Every time you realize that the target you’ve been aiming for wasn’t that good of a choice (read: constantly), you have to be able to change course - and quickly! This willingness to try and err is your best bet for finding truth. The only way to really know something is through direct experience.
 
 But constant iteration isn’t enough either. Since life is limited there is a possibility, though a low probability, that you might never hit the right target before you die. Therefore you also need to be smart about choosing new targets. You have to be able to analyze what was wrong with your previous target and based on that information, choose a new one. It also makes sense to maximize the amount of targets you try since a large sample size improves your ability to evaluate.
 
