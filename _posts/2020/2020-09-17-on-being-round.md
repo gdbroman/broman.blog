@@ -26,7 +26,7 @@ The latter, is a lifelong journey. A process of **figuring out how you *lie to y
 
 So my current thinking is this: Be T-shaped in your craft but round personality-wise.
 
-The former is simple: Find a passion and read widely.
+The former is simple: Find a passion - and read widely.
 
 The latter is hard: Do things which make you uncomfortable.
 
