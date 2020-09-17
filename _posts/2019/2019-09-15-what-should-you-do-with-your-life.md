@@ -40,14 +40,10 @@ We can thus stipulate the following algorithm for figuring life out (math geeks 
 
 Now, anyone can pick a target and most can also aim their efforts somewhat but the third step might be easier said than done. How do you objectively evaluate your situation? After all, the easiest person to fool is yourself. You will never reach full objectiveness since your perspective will nevertheless always be a perspective and thus a subjective evaluation. But you can improve, and in order to do that you will need a map.
 
-What map you choose will impact your evaluation and therefore also future targets. In other words; the map will fully influence your journey to truth. The choice of map should thus be of the highest interest. 
+What map you choose will impact your evaluation and therefore also future targets. In other words; the map will fully influence your journey to truth. The choice of map should thus be of highest interest.
 
 When it comes to maps, many different alternatives have been suggested throughout history but only lately have non-religious versions become widespread. Examples of this would be philosophies such as nihilism, hedonism and stoicism.
 
-It is up to each individual to evaluate the helpfulness of different maps but I'd lastly like to present a framework which I personally resonate with. 
+It is up to each individual to evaluate the helpfulness of different maps but I'd lastly like to present a framework which I personally resonate with. It was first presented to me by Victor Frankl, although the idea far predates him. It goes something along the lines of: *Life is suffering so the only way forward is to transcend it. This can be done by taking on more responsibility and trying to be some kind of hero who makes the suffering in the world less.*
 
-It was first presented to me by Victor Frankl, although the idea far predates him. 
-
-It goes something like this: Life is suffering so the only way forward is to transcend it. This can be done by taking on more responsibility and trying to be some kind of hero who makes the suffering in the world less. 
-
-By assigning meaning to each and every action, life will by definition, become ultimately meaningful.
+By assigning meaning to each and every action, life will, by definition, become ultimately meaningful.
