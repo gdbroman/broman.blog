@@ -9,7 +9,7 @@ Being well-rounded isn't being dull or mediocre, is it?
 
 Those seeking to improve, face the dilemma of doubling down on strengths, or correcting weaknesses.
 
-Squares acknowledge their weak spots to some degree, but circles dedicate their whole life to it.
+Squares acknowledge their weak spots to some degree, but circles dedicate their whole lives to it.
 
 Excuse the sloppy shape analogy. I think the following distinction offers some clarity:
 
