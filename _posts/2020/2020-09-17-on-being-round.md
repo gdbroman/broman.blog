@@ -15,7 +15,7 @@ Excuse the sloppy shape analogy. I think the following distinction offers some c
 
 1. *Being well-rounded in skills*
 
-    * This more of a binary thing. You're either well-read or not. And if you are, you may [T-specialize](https://en.wikipedia.org/wiki/T-shaped_skills){:target="_blank"} and enjoy an awesome career.
+    * This is more of a binary thing. You're either well-read or not. And if you are, you may [T-specialize](https://en.wikipedia.org/wiki/T-shaped_skills){:target="_blank"} and enjoy an awesome career.
 
 2. *Being well-rounded emotionally*
 
