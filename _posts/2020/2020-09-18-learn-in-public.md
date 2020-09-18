@@ -15,7 +15,7 @@ Surely, this requires humility. Putting yourself out there can be scary. But it'
 
 When you read someone's helpful article or watch a vlog, do you think: *"What a goofball!"* Or, do you appreciate the insight he or she might have shared with you?
 
-And the benefits are for both parties: Not only does learning in public help other's out, which can be rewarding in its own right, but benefits for yourself are insanely practical.
+And the benefits are for both parties: Not only does learning in public help other's out, which can be rewarding in its own right, but the benefits for yourself are insanely practical.
 
 The first set of benefits is independent of whether other's ever find your stuff:
 
