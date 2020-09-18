@@ -5,13 +5,13 @@ permalink: what-should-you-do-with-your-life
 
 Maybe there is another life after this one. Maybe not. It’s hard to know that’s for sure. It’s the kind of thing you just have to wait and see to find out about. But that’s always something - at least you have something to look forward to.
 
-Either way; it would be one hell of a bummer to live your whole life believing in life after death, only to find out you were wrong this whole time. So it seems to me that it’s safest to assume that this is all we get. As alpha lobster, Jordan Peterson, eloquently laid out in a lecture: _"You’re all in. Whether you like it or not - this thing will kill you"_. So why not try to make something useful of this thing called life?
+Either way; it would be one hell of a bummer to live your whole life believing in life after death, only to find out you were wrong this whole time. So it seems to me that it’s safest to assume that this is all we get. As alpha lobster, Jordan Peterson, eloquently laid out in a lecture: *"You’re all in. Whether you like it or not - this thing will kill you"*. So why not try to make something useful of this thing called life?
 
 ## Recognize It Is You Who Is Being Asked
 
-This raises a natural follow-up question: *What the heck should you do?* It is perhaps the most important question any sentient and sufficiently intelligent being could ask oneself. It is also important to acknowledge that “it is we ourselves who must answer the questions that life asks of us” (Victor Frankl). In other words, it is up to you to determine your life’s meaning, since it is you who's being asked.
+This raises a natural follow-up question: *What the heck should you do?* It is perhaps the most important question any sentient and sufficiently intelligent being could ask oneself. It is also important to acknowledge that *“it is we ourselves who must answer the questions that life asks of us”* (Victor Frankl). In other words, it is up to you to determine your life’s meaning, since it is you who's being asked.
 
-Unfortunately not very many people give the question serious thought. Most cling to whatever cliché they like the sound of the most given their aggregated experience, such as “follow your passion” or “do what makes you happy”. These are not necessarily bad frameworks, but the point is that most people embrace pre-packaged answers with disinterest in truth.
+Unfortunately not very many people give the question serious thought. Most cling to whatever cliché they like the sound of the most given their aggregated experience, such as *“follow your passion”* or *“do what makes you happy”*. These are not necessarily bad frameworks, but the point is that most people embrace pre-packaged answers with disinterest in truth.
 
 This unwillingness to ponder might be because the question of what one should do, seems too big for a mortal to ever answer. Some might reason that it’s better then to just pick an answer and get going. Times running out - better not waste any time! This might actually not be such a bad idea.
 
@@ -31,7 +31,7 @@ Every time you realize that the target you’ve been aiming for wasn’t that go
 
 But constant iteration isn’t enough either. Since life is limited there is a possibility, though a low probability, that you might never hit the right target before you die. With this time limit, you also need to be smart about picking new targets. You have to be able to analyze what was wrong with your previous target and based on that information, choose a new one. It also makes sense to maximize the amount of targets you try since a large sample size improves your ability to evaluate.
 
-We can thus stipulate the following algorithm for figuring life out (math geeks will realize this is analogous to some numerical methods for approximately solving differential equations such as Euler's method):
+We can thus stipulate the following algorithm for figuring out life:
 
 1. Pick a target
 2. Work towards it (for a while)
