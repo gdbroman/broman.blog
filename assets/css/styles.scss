@@ -153,20 +153,9 @@ article {
         }
     }
 }
-.category {
-    text-transform: capitalize;
-}
-h3.category {
-    margin: 32px 0 12px 0;
-    padding-bottom:12px;
-    border-bottom: 1px dotted $gray;
-    line-height: 1.2em;
-    * {
-        color:inherit;
-    }
-    a {
-        display: block;
-    }
+#about-image {
+    max-width: 100%;
+    border-radius: 2px;
 }
 
 .entry {

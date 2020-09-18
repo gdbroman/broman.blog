@@ -26,6 +26,8 @@ Accordingly, I don't run any ads or analytics on here - nor will I ever. The goa
 
 ## Err...Who are you?
 
+<img src="/assets/images/profile2.png" alt="Who am I?" id="about-image" loading="lazy" />
+
 Who am I? That’s a tough one.
 
 I’m gonna have to come back for a more definite answer.
@@ -34,15 +36,15 @@ I’m gonna have to come back for a more definite answer.
 
 💻 I'm an indie hacker, which means I [code](https://github.com/gustafbroman){:target="_blank"} stuff on the internet.
 
-🎓 I'm also an university student, currently experimenting with the digital nomad lifestyle due to all learning being held online.
+🌎 I'm also an university student, currently experimenting with the digital nomad lifestyle due to all learning being held online.
 
 Here's me being a bit more professional: [Portfolio](https://gustafbroman.github.io){:target="_blank"}.
 
 ## Okay. How do I reach out?
 
-Send me an email: [hello@broman.blog](mailto:hello@broman.blog).
+☕️ Wanna chat? Send me an email: [hello@broman.blog](mailto:hello@broman.blog).
 
-☕️ Wanna chat? I'm always up for meeting new people. Either over Zoom, or in person over a coffee if we happen to be in the same city. Include [Chat] in the subject line and we'll work something out.
+I'm always up for meeting new people. Either over Zoom, or in person over a coffee if we happen to be in the same city. Include [Chat] in the subject line and we'll work something out.
 
 ## What Wordpress theme is this?
 
