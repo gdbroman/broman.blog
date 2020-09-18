@@ -26,7 +26,7 @@ Accordingly, I don't run any ads or analytics on here - nor will I ever. The goa
 
 ## Err...Who are you?
 
-<img src="/assets/images/profile2.png" alt="Who am I?" id="about-image" loading="lazy" />
+<img src="/assets/images/profile2.jpg" alt="Who am I?" id="about-image" loading="lazy" />
 
 Who am I? That’s a tough one.
 
