@@ -38,7 +38,7 @@ We thus stipulate the following algorithm for figuring out life:
 3. Evaluate
 4. Repeat
 
-Now, anyone can pick a target and most can also aim their efforts somewhat but the third step might be easier said than done. How do you objectively evaluate your situation? After all, the easiest person to fool is yourself. You will never reach full objectiveness since your perspective will nevertheless always be a perspective and therefore subjective. But you can improve, and in order to do that you will need a map.
+Now, anyone can pick a target, and most can also aim their efforts somewhat, but the third step might be easier said than done: *How do you objectively evaluate your situation?* After all, the easiest person to fool is yourself. You will never reach full objectiveness since your perspective will nevertheless always be a perspective and therefore subjective. But you can improve, and in order to do that you will need a map.
 
 What map you choose will impact your evaluation and therefore also future targets. In other words; the map will fully influence your journey to truth. The choice of map should thus be of highest interest.
 
