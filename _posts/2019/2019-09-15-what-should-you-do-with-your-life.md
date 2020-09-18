@@ -31,7 +31,7 @@ Every time you realize that the target you’ve been aiming for wasn’t that go
 
 But constant iteration isn’t enough either. Since life is limited there is a possibility, though a low probability, that you might never hit the right target before you die. With this time limit, you also need to be smart about picking new targets. You have to be able to analyze what was wrong with your previous target and based on that information, choose a new one. It also makes sense to maximize the amount of targets you try since a large sample size improves your ability to evaluate.
 
-We can thus stipulate the following algorithm for figuring out life:
+We thus stipulate the following algorithm for figuring out life:
 
 1. Pick a target
 2. Work towards it (for a while)
