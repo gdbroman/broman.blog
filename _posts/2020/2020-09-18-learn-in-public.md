@@ -36,4 +36,4 @@ Here are some good examples of people learning in public:
 - [Ali Abdaal](https://www.youtube.com/watch?v=ukLnPbIffxE){:target="blank"} sharing his exam study techniques as a Cambridge MD student
 - [Daniel Bourke](https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ){:target="_blank"} documenting his journey of becoming a machine learning engineer
 - [Ruby Granger](https://www.youtube.com/channel/UC6a8lp6vaCMhUVXPyynhjUA){:target="_blank"} sharing her academic journey as a book worm
-- [Bryan Johnson](https://medium.com/@bryan_johnson){:target="_blank"}'s Newsletter on being a neuroscience tech startup founder
+- [Bryan Johnson](https://medium.com/@bryan_johnson){:target="_blank"}'s newsletter on being a neuroscience tech startup founder
