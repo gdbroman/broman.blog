@@ -19,13 +19,13 @@ And the benefits are for both parties: Not only does learning in public help oth
 
 The first set of benefits is independent of whether other's ever find your stuff:
 
-- It forces you to be more active and intentional in your learning (see, Feynman Technique)
+- It forces you to be more active and intentional in your learning (see Feynman Technique)
 - It helps you [discover what you think](https://broman.blog/know-what-you-believe){:target="blank"}
 - It's fun to get a bird's-eye view of your progress
 
-And the second set of benefits requires people interacting with your content:
+The second set of benefits requires people interacting with your content:
 
-- Public thinking creates a positive feedback loop when other's get to interact with your ideas
+- Public thinking creates a positive feedback loop when other's interact with your ideas
 - It builds an internet presence in a very effortless way
 - It helps others out
 
