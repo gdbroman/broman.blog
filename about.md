@@ -44,7 +44,7 @@ Here's me being a bit more professional: [Portfolio](https://gustafbroman.github
 
 ☕️ Wanna chat? Send me an email: [hello@broman.blog](mailto:hello@broman.blog).
 
-I'm always up for meeting new people. Either with Zoom, or in person over a coffee if we happen to be in the same city. Include [Chat] in the subject line and we'll work something out.
+I'm always up for meeting new people. Either with Zoom or in person over a coffee, if we happen to be in the same city. Include [Chat] in the subject line and we'll work something out.
 
 ## What WordPress theme is this?
 
