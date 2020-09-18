@@ -11,7 +11,7 @@ What I mean by that is, **documenting your journey of development** in some area
 - Documenting the process of learning some skill on Youtube
 - Publishing daily insights on a blog or social media platform (which is what I'm doing here)
 
-Surely, this requires humility. Putting yourself out there can be scary. But it's not as bad as you might think.
+Surely, this requires humility. Putting yourself out there can be scary. But it's not as bad as one might think.
 
 When you read someone's helpful article or watch a vlog, do you think: *"What a goofball!"* Or, do you appreciate the insight he or she might have shared with you?
 
