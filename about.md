@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What's this website about? 🤔
+title: What's this website about? 
 ---
 
 Hello.
@@ -11,7 +11,7 @@ Every morning I sit down and write for about an hour.
 
 This website is the result.
 
-## Why?
+## Why? 🤔
 
 The quick answer is...
 
@@ -20,7 +20,7 @@ The quick answer is...
 
 The complicated answer is that I can't _not_ write. 
 
-🧠 That I begin to rot if I go more than one day without writing. Like as if my thoughts are tangling themselves into a big knot up there. It's a weird form of therapy.
+That I begin to rot if I go more than one day without writing. Like as if my thoughts are tangling themselves into a big knot up there 🧠 It's a weird form of therapy.
 
 Accordingly, I don't run any ads or analytics on here - nor will I ever. The goal is authentic expression.
 
