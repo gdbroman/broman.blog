@@ -23,7 +23,7 @@ The first set of benefits is independent of whether other's ever find your stuff
 - It helps you [discover what you think](https://broman.blog/know-what-you-believe){:target="blank"}
 - It's fun to get a bird's-eye view of your progress
 
-And the latter set of benefits has to do with people interacting with it:
+The second set of benefits has to do with people interacting with it:
 
 - Public thinking creates a positive feedback loop when other's get to interact with your ideas
 - It builds an internet presence in a very effortless way
