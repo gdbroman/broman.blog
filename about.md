@@ -38,7 +38,7 @@ I’m gonna have to come back for a more definite answer.
 
 🌎 I'm also a university student, currently experimenting with the digital nomad lifestyle due to all learning being held online.
 
-Here's me being a bit more professional: [Portfolio](https://gustafbroman.github.io){:target="_blank"}.
+Here's me being a bit more professional: [About Gustaf Broman](https://gustafbroman.github.io){:target="_blank"}.
 
 ## Okay. How do I reach out?
 
