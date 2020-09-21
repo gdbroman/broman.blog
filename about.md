@@ -11,7 +11,7 @@ Every morning I sit down and write for about an hour.
 
 This website is the result.
 
-## Why? 🤔
+## Why?
 
 The quick answer is...
 
