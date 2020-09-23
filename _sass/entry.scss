@@ -1,4 +1,4 @@
-$entry_height: 120px;
+$entry_height: 110px;
 $thumbnail_width: $entry_height * (4/3);
 
 .entry {
@@ -27,6 +27,7 @@ $thumbnail_width: $entry_height * (4/3);
                 max-height: $entry_height;
                 min-width: $thumbnail_width;
                 max-width: $thumbnail_width;
+                object-position: center;
             }
         }
         .text {
@@ -40,6 +41,7 @@ $thumbnail_width: $entry_height * (4/3);
                 font-size: 19px;
                 margin-top: 0;
                 margin-bottom: 12px;
+                padding-top: 2px;
                 font-weight: 700;
                 color:$black;
                 display: -webkit-box;
@@ -89,10 +91,11 @@ $thumbnail_width: $entry_height * (4/3);
                 }
             }
             a.image {
-                min-width: 0;
+                max-height: $entry_height;
                 max-width: $entry_height;
                 img {
                     max-height: $entry_height;
+                    max-width: $entry_height;
                 }
             }
         }
