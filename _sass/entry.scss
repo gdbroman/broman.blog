@@ -62,6 +62,9 @@ $thumbnail_width: $entry_height * (4/3);
 @media screen and (max-width:$m) {
     article.entry {
         .flex {
+            img {
+                border-radius: 0;
+            }
             .text {
                 padding-left:16px;
                 padding-right: 12px;
