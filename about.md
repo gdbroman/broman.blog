@@ -18,7 +18,7 @@ The quick answer is...
 1. Writing is fun
 2. It helps me think
 
-The complicated answer is that I can't _not_ write. 
+The complicated answer is that I can't _not_ write.
 
 That I begin to rot if I go more than one day without writing. Like as if my thoughts are tangling themselves into a big knot up there 🧠 It's a weird form of therapy.
 
@@ -36,7 +36,7 @@ I’m gonna have to come back for a more definite answer.
 
 💻 I'm an indie hacker, which means I [code](https://github.com/gustafbroman){:target="_blank"} stuff on the internet.
 
-🌎 I'm also a university student, currently experimenting with the digital nomad lifestyle due to all learning being held online.
+🌎 I'm also a university student, currently experimenting with the whole digital nomad thing due to all learning being held online.
 
 Here's me being a bit more professional: [About Gustaf Broman](https://gustafbroman.github.io){:target="_blank"}.
 
