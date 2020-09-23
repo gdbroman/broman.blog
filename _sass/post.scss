@@ -16,10 +16,6 @@ article {
         height:auto;
         margin-bottom: 20px;
     }
-    .text {
-        padding-left: 32px;
-        padding-right: 32px;
-    }   
     h1, h2, h3 {
         font-weight: 700;
         line-height: 1.4em;
@@ -152,6 +148,10 @@ article {
     img.main {
         border-radius: 0;
     }
+    .text {
+        padding-left: 32px;
+        padding-right: 32px;
+    }   
 }
 @media screen and (max-width:$s) {
     article.post {
