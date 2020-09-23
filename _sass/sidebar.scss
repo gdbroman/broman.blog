@@ -1,8 +1,10 @@
+$width: 262px;
+
 // Sidebar
 aside {
     display: inline-block;
-    max-width: 284px;
-    min-width: 284px;
+    max-width: $width;
+    min-width: $width;
     padding-top: 24px;
     padding-left: 40px;
     h3 {
