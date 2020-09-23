@@ -1,5 +1,5 @@
-$entry_height: 110px;
-$thumbnail_width: $entry_height * (4/3);
+$entry_height: 112px;
+$thumbnail_width: $entry_height * (13/9);
 
 .entry {
     padding:0;
@@ -91,10 +91,14 @@ $thumbnail_width: $entry_height * (4/3);
                 }
             }
             a.image {
+                min-height: $entry_height;
                 max-height: $entry_height;
+                min-width: $entry_height;
                 max-width: $entry_height;
                 img {
+                    min-height: $entry_height;
                     max-height: $entry_height;
+                    min-width: $entry_height;
                     max-width: $entry_height;
                 }
             }
