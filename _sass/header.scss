@@ -1,5 +1,6 @@
 // Header and footer mostly same styling
 $inner_height: 42px;
+$tb_padding: 4px;
 
 header, footer {
     width:100%;
@@ -11,8 +12,8 @@ header, footer {
     .mw {
         display: flex;
         height:auto;
-        padding-top: 4px;
-        padding-bottom: 4px;
+        padding-top: $tb_padding;
+        padding-bottom: $tb_padding;
         * {
             height:$inner_height;
             line-height: $inner_height;
@@ -39,6 +40,10 @@ header, footer {
     }
 }
 
+section.mh {
+    min-height: calc(100vh - 2* (#{$inner_height} + 2 * #{$tb_padding}));
+}
+
 // Divergernt color styling
 header {
     background-color:transparent;
@@ -50,6 +55,7 @@ header {
 }
 footer {
     background-color: $black;
+    
     .mw {
         *, *:visited {
             color:$background;
@@ -69,11 +75,10 @@ h2.logo {
     }
 }
 
-@media screen and (max-width:$m) {
+@media screen and (max-width:$s) {
     header {
-        div.mw {
-            //padding-top:0;
-            //padding-bottom:0;
+        .mw nav a {
+            font-size: 15px;
         }
     }
 }

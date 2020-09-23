@@ -11,12 +11,8 @@ thumbnail: "/assets/images/profile.jpg"
             <img src="{{'/assets/images/thumbnails/' | append: post.permalink | append: '.jpg'}}" loading="lazy" onerror='this.style.display = "none"'>
         </a>
         <div class="text">
-            <div class="va">
-                <div class="var">
-                    <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
-                    <div class="meta">{{ post.date | date: '%B %d, %Y' }}</div>
-                </div>
-            </div>
+            <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+            <div class="meta">{{ post.date | date: '%B %d, %Y' }}</div>
         </div>
     </div>
     </article>

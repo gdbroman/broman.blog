@@ -16,10 +16,9 @@ $secondary_font: 'Merriweather', serif;
 $xs: 340px;
 $s: 420px;
 $m: 600px;
-$l: 860px;
-$xl: 880px;
+$l: 880px;
 
-$padding:12px;
+$padding:20px;
 $transition: all 0.16s ease-in-out;
 
 //Generalities
@@ -37,49 +36,23 @@ body {
 }
 img {
     object-fit: cover;
+    border-radius: 3px;
 }
 
 // Utils
 .mw {
-    max-width: $xl;
+    max-width: $l;
     margin-left: auto;
     margin-right: auto;
 }
 section.mh {
     display: flex;
-    min-height: calc(100vh - 58px - 58px);
     height:auto;
     padding-top: 16px;
-    padding-bottom: 32px;
+    padding-bottom: 40px;
     main {
         display: inline-block;
         flex:1;
-    }
-    aside {
-        display: inline-block;
-        max-width: 276px;
-        min-width: 276px;
-        padding: 32px 0px 0px 32px;
-        h3 {
-            font-size: 15px;
-            font-weight: 500;
-            letter-spacing: 0em;
-            color:#3d3d3d;
-            text-transform: uppercase;
-            margin-bottom: 12px;
-            text-align: center;
-        }
-        p {
-            font-family: $main_font;
-            font-size: 13px;
-            font-weight: 400;
-            color:#3d3d3d;
-            text-align: justify;
-            margin-bottom:12px;
-        }
-        li {
-            font-size: 14px;
-        }
     }
 }
 .pads {
@@ -95,11 +68,10 @@ section.mh {
     vertical-align: middle;
 }
 
-@media screen and (max-width:$xl) {
-}
-@media screen and (max-width:$l) {
+@media screen and (max-width:calc(#{$l} + 2*#{$padding})) {
     section.mh {
         display: block;
+        padding-bottom: 8px;
     }
     section.mh main {
         display: block;
@@ -108,27 +80,9 @@ section.mh {
         flex:0;
         max-width: $m;
     }
-    section.mh aside {
-        display: block;
-        max-width:310px;
-        width:100%;
-        padding-right: 32px;
-        margin: 20px auto 0 auto;
-    }
 }
 @media screen and (max-width:$m) {
-    .mh {
-        min-height: calc(100vh - 56px - 64px);
-    }
     .pads {
         padding:0;
     }   
-}
-@media screen and (max-width:$xs) {
-    section.mh aside {
-        max-width: 100%;
-        min-width: 100%;
-        padding-left:20px;
-        padding-right: 20px;
-    }
 }
