@@ -166,3 +166,9 @@ article {
         }
     }
 }
+@media screen and (max-width:$xs) {
+    .text {
+        padding-left: $padding;
+        padding-right: $padding;
+    }
+}
