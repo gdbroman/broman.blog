@@ -48,7 +48,7 @@ I'm always up for meeting new people. Either over Zoom, or in person over a coff
 
 ## What WordPress theme is this?
 
-🐌 This website is not running SlowPress. I created my own Jekyll theme and deployed it for free using Github Pages.
+This website is not running SlowPress. I created my own Jekyll theme and deployed it for free using Github Pages.
 
 Like what you see? Good news: This website is open source! You find the source code [here](https://github.com/gustafbroman/broman.blog){:target="_blank"}.
 
@@ -56,4 +56,4 @@ Like what you see? Good news: This website is open source! You find the source c
 
 That no one really knows what's going on. We just vary in our ability to pretend we do. But really...no one does.
 
-🕊️ This has made me freer to try new things and more daring to ask stupid questions.
+This has made me freer to try new things and more daring to ask stupid questions.
