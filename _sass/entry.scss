@@ -1,0 +1,97 @@
+$entry_height: 120px;
+$thumbnail_width: $entry_height * (4/3);
+
+.entry {
+    padding:0;
+    overflow: hidden;
+    max-height: $entry_height;
+    margin-bottom: 20px;
+    .flex {
+        display: flex;
+        position:relative;
+        min-height: $entry_height;
+        max-height: $entry_height;
+        a.image {
+            position: relative;
+            display: inline-block;
+            min-height: 100%;
+            max-height: $entry_height;
+            min-width: 0;
+            max-width: $thumbnail_width;
+            width:auto;
+            text-align: center;
+            overflow: hidden;
+            img {
+                background-color: #eee;
+                min-height:100%;
+                max-height: $entry_height;
+                min-width: $thumbnail_width;
+                max-width: $thumbnail_width;
+            }
+        }
+        .text {
+            display: inline-block;
+            padding: 0 20px;
+            flex: 1;
+            a {
+                text-decoration-color: $black;
+            }
+            h2 {
+                font-size: 21px;
+                margin-top: 0;
+                margin-bottom: 12px;
+                font-weight: 700;
+                color:$black;
+                display: -webkit-box;
+                -webkit-line-clamp: 2;
+                -webkit-box-orient: vertical;
+                overflow: hidden;
+                text-overflow: ellipsis;
+            }
+            .meta {
+                font-size: 15px;
+                color:$gray_dark;
+            }
+        }
+    }
+    &:last-child {
+        margin-bottom: 0;
+    }
+}
+
+@media screen and (max-width:$m) {
+    article.entry {
+        .flex {
+            .text {
+                padding-left:16px;
+                padding-right: 12px;
+                .va {
+                    h2 {
+                        font-size: 16px;
+                        -webkit-line-clamp: 3;
+                    }
+                }
+            }
+        }
+    }
+}
+@media screen and (max-width:$s) {
+    article.entry {
+        margin-bottom: 16px;
+        .flex {
+            .text {
+                h2 {
+                    font-size: 16px;
+                    letter-spacing: 0;
+                }
+            }
+            a.image {
+                min-width: 0;
+                max-width: $entry_height;
+                img {
+                    max-height: $entry_height;
+                }
+            }
+        }
+    }
+}
