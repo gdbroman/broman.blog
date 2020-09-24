@@ -102,12 +102,10 @@ $thumbnail_width: $entry_height * (13/9);
                 border-radius: 0;
             }
             .container {
-                .va {
-                    h2 {
-                        font-size: 16px;
-                        -webkit-line-clamp: 3;
-                        letter-spacing: 0;
-                    }
+                h2 {
+                    font-size: 18px;
+                    -webkit-line-clamp: 3;
+                    letter-spacing: 0;
                 }
             }
         }
@@ -122,6 +120,11 @@ $thumbnail_width: $entry_height * (13/9);
         .flex {
             .container {
                 padding-right: $padding_s;
+                h2 {
+                    font-size: 16px;
+                    -webkit-line-clamp: 3;
+                    letter-spacing: 0;
+                }
             }
             a.image {
                 min-height: $entry_height;
