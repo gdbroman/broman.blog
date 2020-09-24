@@ -1,3 +1,6 @@
+$font_size_s: 16px;
+$font_size: 17px;
+
 article {
     position: relative;
     display: block;
@@ -35,7 +38,7 @@ article {
     }
     p, p * {
         font-family: $secondary_font;
-        font-size: 16px;
+        font-size: $font_size;
         line-height: 1.6em;
     }
     p, p *:not(a), li, li *:not(a) {
@@ -46,7 +49,7 @@ article {
         margin-bottom: 22px;
     }
     li {
-        font-size: 16px;
+        font-size: $font_size;
         margin-bottom: 4px;
     }
     hr {
@@ -173,6 +176,9 @@ article {
         }
         h3 {
             font-size: 18px;
+        }
+        p, p *, li, li * {
+            font-size: $font_size_s;
         }
     }
 }
