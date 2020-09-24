@@ -4,8 +4,7 @@ $thumbnail_width: $entry_height * (13/9);
 .entry {
     padding:0;
     overflow: hidden;
-    max-height: $entry_height;
-    margin-bottom: 20px;
+    margin-bottom: $padding_l;
     .flex {
         display: flex;
         position:relative;
@@ -63,6 +62,7 @@ $thumbnail_width: $entry_height * (13/9);
 
 @media screen and (max-width:$m) {
     article.entry {
+        margin-bottom: $padding;
         .flex {
             img {
                 border-radius: 0;
