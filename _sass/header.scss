@@ -76,6 +76,10 @@ h2.logo {
 }
 
 @media screen and (max-width:$s) {
+    header, footer {
+        padding-left:$padding_s;
+        padding-right:$padding_s;
+    }
     header {
         .mw nav a {
             font-size: 15px;

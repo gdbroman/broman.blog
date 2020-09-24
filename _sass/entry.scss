@@ -32,7 +32,7 @@ $thumbnail_width: $entry_height * (13/9);
         }
         .text {
             display: inline-block;
-            padding: 0 20px;
+            padding: 0 $padding;
             flex: 1;
             a {
                 text-decoration-color: $black;
@@ -68,8 +68,6 @@ $thumbnail_width: $entry_height * (13/9);
                 border-radius: 0;
             }
             .text {
-                padding-left:16px;
-                padding-right: 12px;
                 .va {
                     h2 {
                         font-size: 16px;
@@ -85,6 +83,8 @@ $thumbnail_width: $entry_height * (13/9);
         margin-bottom: 16px;
         .flex {
             .text {
+                padding-left:$padding_s;
+                padding-right: $padding_s;
                 h2 {
                     font-size: 16px;
                     letter-spacing: 0;

@@ -168,7 +168,7 @@ article {
 }
 @media screen and (max-width:$xs) {
     .text {
-        padding-left: $padding;
-        padding-right: $padding;
+        padding-left: $padding_s;
+        padding-right: $padding_s;
     }
 }
