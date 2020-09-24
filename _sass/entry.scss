@@ -18,6 +18,7 @@ $thumbnail_width: $entry_height * (13/9);
             min-width: 0;
             max-width: $thumbnail_width;
             width:auto;
+            margin-right: $padding;
             text-align: center;
             overflow: hidden;
             img {
@@ -29,9 +30,9 @@ $thumbnail_width: $entry_height * (13/9);
                 object-position: center;
             }
         }
-        .text {
+        .container {
             display: inline-block;
-            padding: 0 $padding;
+            padding-right: $padding;
             flex: 1;
             a {
                 text-decoration-color: $black;
@@ -49,7 +50,7 @@ $thumbnail_width: $entry_height * (13/9);
                 overflow: hidden;
                 text-overflow: ellipsis;
             }
-            .meta {
+            .date {
                 font-size: 15px;
                 color:$gray_dark;
             }
@@ -60,6 +61,27 @@ $thumbnail_width: $entry_height * (13/9);
     }
 }
 
+.up-next {
+    .entry {
+        opacity: 0.95;
+        &:hover {
+            opacity: 1;
+        }
+        .flex {
+            a.image {
+                border-radius: 3px !important;
+            }
+        }
+    }
+}
+
+@media screen and (max-width:$l) {
+    .up-next {
+        padding-bottom: 20px;
+        margin-bottom: 16px;
+        border-bottom: 1px solid $gray_light;
+    }
+}
 @media screen and (max-width:$m) {
     article.entry {
         margin-bottom: $padding;
@@ -67,7 +89,7 @@ $thumbnail_width: $entry_height * (13/9);
             img {
                 border-radius: 0;
             }
-            .text {
+            .container {
                 .va {
                     h2 {
                         font-size: 16px;
@@ -82,8 +104,7 @@ $thumbnail_width: $entry_height * (13/9);
     article.entry {
         margin-bottom: 16px;
         .flex {
-            .text {
-                padding-left:$padding_s;
+            .container {
                 padding-right: $padding_s;
                 h2 {
                     font-size: 16px;
@@ -93,8 +114,8 @@ $thumbnail_width: $entry_height * (13/9);
             a.image {
                 min-height: $entry_height;
                 max-height: $entry_height;
-                min-width: $entry_height;
                 max-width: $entry_height;
+                margin-right: $padding_s;
                 img {
                     min-height: $entry_height;
                     max-height: $entry_height;

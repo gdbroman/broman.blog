@@ -10,5 +10,12 @@ layout: default
         {{ content }}
         {% include share.html %}
         {% include info.html %}
+        <div class="up-next">
+            <h4>Up next</h4>
+            {% assign posts = site.posts | where_exp:"post", "post.url != page.url" | sample:2 %}
+            {% for post in posts limit:1 %}
+                {% include entry.html %}
+            {% endfor %}
+        </div>
     </div>
 </article>
