@@ -104,7 +104,7 @@ $thumbnail_width: $entry_height * (13/9);
             .container {
                 h2 {
                     font-size: 18px;
-                    -webkit-line-clamp: 3;
+                    -webkit-line-clamp: 2;
                     letter-spacing: 0;
                 }
             }
@@ -122,13 +122,15 @@ $thumbnail_width: $entry_height * (13/9);
                 padding-right: $padding_s;
                 h2 {
                     font-size: 16px;
+                    line-height: 1.35em;
                     -webkit-line-clamp: 3;
-                    letter-spacing: 0;
+                    margin-bottom: 4px;
                 }
             }
             a.image {
                 min-height: $entry_height;
                 max-height: $entry_height;
+                min-width: $entry_height;
                 max-width: $entry_height;
                 margin-right: $padding_s;
                 img {
