@@ -2,7 +2,6 @@ $entry_height: 110px;
 $thumbnail_width: $entry_height * (13/9);
 
 .entry {
-    padding:0;
     overflow: hidden;
     margin-bottom: $padding_l;
     .flex {
@@ -60,26 +59,38 @@ $thumbnail_width: $entry_height * (13/9);
         margin-bottom: 0;
     }
 }
-
-.up-next {
-    .entry {
-        opacity: 0.95;
-        &:hover {
-            opacity: 1;
-        }
-        .flex {
-            a.image {
-                border-radius: 3px !important;
-            }
-        }
+.up-next-entry {
+    min-height: $entry_height;
+    max-height: $entry_height;
+    width: 100%;
+    padding:$padding_l;
+    border: 1px solid $gray_light;
+    border-radius: 3px;
+    a, a:visited {
+        color: $black;
+        text-decoration-color: $black;
+    }
+    h4 {
+        font-size: 20px;
+        margin-top: 0;
+        margin-bottom: 12px;
+        font-weight: 700;
+        color:$black;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .date {
+        font-size: 15px;
+        color:$gray_dark;
     }
 }
 
 @media screen and (max-width:$l) {
     .up-next {
         padding-bottom: 20px;
-        margin-bottom: 16px;
-        border-bottom: 1px solid $gray_light;
     }
 }
 @media screen and (max-width:$m) {
@@ -94,9 +105,18 @@ $thumbnail_width: $entry_height * (13/9);
                     h2 {
                         font-size: 16px;
                         -webkit-line-clamp: 3;
+                        letter-spacing: 0;
                     }
                 }
             }
+        }
+    }
+    .up-next-entry {
+        padding:$padding;
+        h4 {
+            font-size: 16px;
+            -webkit-line-clamp: 3;
+            letter-spacing: 0;
         }
     }
 }
@@ -106,10 +126,6 @@ $thumbnail_width: $entry_height * (13/9);
         .flex {
             .container {
                 padding-right: $padding_s;
-                h2 {
-                    font-size: 16px;
-                    letter-spacing: 0;
-                }
             }
             a.image {
                 min-height: $entry_height;
