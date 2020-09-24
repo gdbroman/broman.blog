@@ -103,9 +103,7 @@ $thumbnail_width: $entry_height * (13/9);
             }
             .container {
                 h2 {
-                    font-size: 18px;
-                    -webkit-line-clamp: 2;
-                    letter-spacing: 0;
+                    font-size: 19px;
                 }
             }
         }
@@ -121,10 +119,7 @@ $thumbnail_width: $entry_height * (13/9);
             .container {
                 padding-right: $padding_s;
                 h2 {
-                    font-size: 16px;
-                    line-height: 1.35em;
-                    -webkit-line-clamp: 3;
-                    margin-bottom: 4px;
+                    font-size: 18px;
                 }
             }
             a.image {
@@ -138,6 +133,19 @@ $thumbnail_width: $entry_height * (13/9);
                     max-height: $entry_height;
                     min-width: $entry_height;
                     max-width: $entry_height;
+                }
+            }
+        }
+    }
+}
+@media screen and (max-width:$xs) {
+    article.entry {
+        .flex {
+            .container {
+                h2 {
+                    font-size: 16px;
+                    -webkit-line-clamp: 3;
+                    margin-bottom: 15px;
                 }
             }
         }
