@@ -9,7 +9,7 @@
 {% if page.thumbnail %}
 {% assign image = site.url | append: page.thumbnail %}
 {% else %}
-{% assign image = site.url | append: 'assets/images/thumbnails/' | append: page.permalink | append: '.jpg' %}
+{% assign image = site.url | append: '_assets/images/thumbnails/' | append: page.permalink | append: '.jpg' %}
 {% endif %}
 
 <meta name="category" content="{{page.category}}" />
