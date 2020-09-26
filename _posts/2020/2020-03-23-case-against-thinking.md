@@ -9,7 +9,7 @@ Sometimes, thinking isn't the answer.
 > 
 > <cite>Tim Ferriss, Tools of Titans</cite>
 
-The lower the state of consciousness, the higher the need to think. The higher the seeming necessity of "figuring things out". Whereas when your state is uplifted - when your biochemistry on point - no problem seems too big to solve. No hurdle to big to overcome. Everything's already perfect.
+The lower the state of consciousness, the higher the need to think. The higher the seeming necessity of "figuring things out". Whereas when your state is uplifted - your biochemistry on point - no problem seems too big to solve. No hurdle to big to overcome. Everything's already perfect.
 
 Sounds like woo-woo? You've probably experienced it yourself. Think about the last time you finished a 60 minute jog. Or when you plunged into an ice cold lake during winter. You're on top of the world. You can't even remember why you were worried.
 
