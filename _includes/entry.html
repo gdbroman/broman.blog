@@ -1,7 +1,7 @@
 <article class="entry">
     <div class="flex">
         <a href="{{ post.url }}" class="image">
-            <img src="{{'/_assets/images/thumbnails/' | append: post.permalink | append: '.webp'}}" loading="lazy" onerror='this.style.display = "none"' alt="{{ post.title }}">
+            <img src="{{'/assets/images/thumbnails/' | append: post.permalink | append: '.webp'}}" loading="lazy" onerror='this.style.display = "none"' alt="{{ post.title }}">
         </a>
         <div class="container">
             <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
