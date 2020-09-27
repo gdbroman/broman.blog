@@ -1,5 +1,10 @@
 {% assign title = page.title %}
+
+{% if page.description %}
 {% assign description = page.description %}
+{% else %}
+{% assign description = site.description %}
+{% endif %}
 
 {% if page.thumbnail %}
 {% assign image = site.url | append: page.thumbnail %}
@@ -7,17 +12,8 @@
 {% assign image = site.url | append: 'assets/images/thumbnails/' | append: page.permalink | append: '.jpg' %}
 {% endif %}
 
-<meta name="category" content="{{page.category}}" />
-<!-- Facebook -->
-<meta property="og:url"             content="https://broman.blog/{{ page.permalink }}" />
-<meta property="og:type"            content="website" />
-<meta property="og:title"           content="{{ title }}" />
-<meta property="og:description"    content="{{ description }}" />
-<meta property="og:image"           content="{{ image }}" />
 <!-- Twitter -->
 <meta name="twitter:card"           content="summary_large_image" />
-<meta name="twitter:site"           content="@gustafbroman" />
-<meta name="twitter:creator"        content="@gustafbroman">
 <meta name="twitter:title"          content="{{ title }}" />
 <meta name="twitter:description"    content="{{ description }}" />
 <meta name="twitter:image"          content="{{ image }}" />
