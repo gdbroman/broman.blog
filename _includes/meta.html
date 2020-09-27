@@ -1,10 +1,5 @@
 {% assign title = page.title %}
-
-{% if page.description != "" %}
-{% assign description = page.description }}
-{% else %}
-{% assign description = page.content | markdownify | strip_html | truncatewords: 50 %}
-{% endif %}
+{% assign description = page.description %}
 
 {% if page.thumbnail %}
 {% assign image = site.url | append: page.thumbnail %}
