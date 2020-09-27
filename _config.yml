@@ -1,4 +1,4 @@
-url: https://broman.blog/
+url: "https://broman.blog/"
 
 plugins:
   - jekyll-feed
@@ -18,9 +18,3 @@ defaults:
 
 social:
   name: Gustaf Broman
-  links:
-    - https://www.twitter.com/gustafbroman
-    - https://www.goodreads.com/gustafbroman
-    - https://www.github.com/gustafbroman
-    - https://www.quora.com/gustaf-broman
-    - https://www.youtube.com/channel/UCZn_YFOirdcayfrGzT4P1RA
