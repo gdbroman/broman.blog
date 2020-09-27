@@ -1,4 +1,4 @@
-# Gustaf Broman's Blog (https://broman.blog)
+# Gustaf Broman's Blog
 
 Repo for https://broman.blog - The home of my Gustaf Broman's ramblings about life
 
