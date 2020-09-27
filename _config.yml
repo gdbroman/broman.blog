@@ -16,5 +16,4 @@ defaults:
       author: "Gustaf Broman"
       category: "essays"
 
-social:
-  name: Gustaf Broman
+encoding: UTF-8
