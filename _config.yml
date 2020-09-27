@@ -1,4 +1,4 @@
-url: "https://broman.blog/"
+url: "https://broman.blog"
 
 plugins:
   - jekyll-feed
