@@ -1,6 +1,6 @@
-# Gustaf Broman's Blog
+# broman.blog
 
-Repo for https://broman.blog - The home of my Gustaf Broman's ramblings about life
+Repo for https://broman.blog - The home of Gustaf Broman's ramblings about life.
 
 This is a Jekyll project. Like most other Jekyll users, the choice was made as a reaction against bloated Wordpress.
 
