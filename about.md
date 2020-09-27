@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What's this website about? 
+title: "What's this website about?"
 ---
 
 Hello.
