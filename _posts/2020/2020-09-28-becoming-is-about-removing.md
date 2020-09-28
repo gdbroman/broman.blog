@@ -7,7 +7,7 @@ Have been doing a lot of meditation in the last few days. I think it's finally s
 
 Unpacking all that baggage you've accumulated over the years; opinions, beliefs and stories.
 
-Unknotting knots, unwiring loops and emptying the cup. Resetting the default setting.
+Unknotting knots, unwiring loops, emptying the cup. Resetting the default setting.
 
 Stripping away all your clever little ideas and concepts.
 
