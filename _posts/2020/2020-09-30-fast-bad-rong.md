@@ -21,6 +21,6 @@ It's opposite to what we're taught in school, and it works.
 
 It really works.
 
-> “Art is never finished, only abandoned.”
+> Art is never finished, only abandoned.
 > 
 > <cite>Leonardo da Vinci</cite>
