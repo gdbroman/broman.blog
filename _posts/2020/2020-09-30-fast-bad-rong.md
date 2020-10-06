@@ -1,26 +1,23 @@
 ---
-title: "Fast, Bad, Rong"
-permalink: "fast-bad-rong"
+title: "We Watch Because It Is Us"
+permalink: "we-watch-because-it-is-us"
+category: poems
 ---
 
-It's my new favorite motto - isn’t it neat?
+Great movies are as much about stories
 
-Basically, don't think - just do.
+As they are about ourselves
 
-Refining's important, but first you need a draft. 
+Fiction's about being human
 
-Heck, *THIS* is a draft.
+And we read because it teaches us
 
-And make it suck: Paint an ugly painting, write an incoherent essay, shoot a boring movie.
+Great art makes us feel heard
 
-Because transforming something bad into something good is 10x easier than producing something good from scratch.
+Less alone
 
-Publish at 80%, when you're a little bit embarrassed. If you're not embarrassed, you're not producing often enough.
+It sympathizes and enlightens
 
-It's opposite to what we're taught in school, and it works. 
+Imitates
 
-It really works.
-
-> Art is never finished, only abandoned.
-> 
-> <cite>Leonardo da Vinci</cite>
+And we watch because it is us
