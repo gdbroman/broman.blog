@@ -6,7 +6,7 @@ category: poems
 
 There are fighters - and there are apathetics.
 
-The troublemaking winners, and lazy losers.
+Troublemaking winners, and lazy losers.
 
 There are also those who *don’t* fight, but still succeed.
 
