@@ -1,23 +1,14 @@
 ---
-title: "We Watch Because It Is Us"
-permalink: "we-watch-because-it-is-us"
-category: poems
+title: "Engaged, but Detached"
+permalink: "engaged-but-detached"
 ---
 
-Great movies are as much about stories
+Doing the work - whilst indifferent to the outcome.
 
-As they are about ourselves
+It seems like it's only in the west we have trouble wrapping our heads around such contradictory concepts. We want rules that apply 100% of the time - otherwise it's an *oxymoron, dammit!*
 
-Fiction's about being human
+But easterners don't seem to have any problem with it at all: There's always a yin and a yang. No need to straighten something out that's inherently curvy.
 
-And we read because it teaches us
+It's really not confusing at all. Being engaged and detached, is simply valuing process over outcome; journey over destination.
 
-Great art makes us feel heard
-
-Less alone
-
-It sympathizes and enlightens
-
-Imitates
-
-And we watch because it is us
+Giving your very best but not expecting one iota in return: I think this is a healthy mindset.
