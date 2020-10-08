@@ -7,7 +7,7 @@ The following are some thoughts after having listened to artist London Tsai on E
 
 ---
 
-The cards evolution have dealt us only allow our brains to perceive a fraction of all light. A fraction which we solopsistically call "visible light".
+The cards evolution have dealt us only allow our brains to perceive a fraction of all light. A fraction which we solopsistically call *"visible"* light.
 
 Analogously, in mathematics, because of the prefrontal cortex humans have been dealt, we can only visualize a small fraction of all mathematical ideas. So there's this whole world out there which we can't visualize - much less, see.
 
