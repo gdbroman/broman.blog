@@ -13,6 +13,6 @@ Going to the same good school as everyone else; choose the same career, live in 
 
 If you have the same set of experiences as everyone else, you're gonna make the same connections.
 
-We wear clothes others made, we eat food others cook, we use technology others have invented. Constantly taking from that giant pool.
+We wear clothes others make, we eat food others cook, we use technology others invent. Constantly taking from that giant pool.
 
 One of the best feelings there is, is putting something back into the pool.
