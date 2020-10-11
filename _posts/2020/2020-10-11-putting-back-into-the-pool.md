@@ -3,7 +3,7 @@ title: "Putting Back Into the Pool"
 permalink: "putting-back-into-the-pool"
 ---
 
-If you're somewhat smart, there's a big trap of conformity. You're expected to tread one of a handful laid out paths.
+If you're somewhat smart (in the conventional sense of the term), there's a big trap of conformity. You're expected to tread one of a handful laid out paths.
 
 Go to the same good school as everyone else, choose the same career, live in the same area, etc. And when someone bright doesn't walk a preset path, we say *"what a waste!"*
 
