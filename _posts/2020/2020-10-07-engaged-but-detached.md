@@ -1,5 +1,5 @@
 ---
-title: "Engaged, but Detached"
+title: "Engaged but Detached"
 permalink: "engaged-but-detached"
 ---
 
