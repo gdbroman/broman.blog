@@ -5,7 +5,7 @@ permalink: "putting-back-into-the-pool"
 
 If you're somewhat smart (in the conventional sense of the word), there's a big trap of conformity. You're expected to tread one of a handful laid out paths.
 
-Going to the same good school as everyone else, choosing the same career, living in the same area, etc. And when someone bright doesn't walk a preset path, we say *"what a waste!"*
+Going to the same good school as everyone else, chasing the same career, living in the same area, etc. And when someone bright doesn't walk a preset path, we say *"what a waste!"*
 
 > But you might wanna think about going to paris and being a poet for a few years
 > 
