@@ -9,6 +9,6 @@ It seems like, only in the west, do we struggle wrapping our heads around such c
 
 But easterners don't seem to have much trouble with it at all: Always a yin and a yang; no need to straighten something out that's inherently curvy.
 
-It's really not confusing at all. Being engaged and detached, is simply valuing process over outcome; journey over destination.
+It's really not confusing. Being engaged and detached, is simply valuing process over outcome; journey over destination.
 
 Giving your very best but not expecting one iota in return: I think this is a healthy mindset.
