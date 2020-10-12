@@ -13,6 +13,6 @@ Going to the same good school as everyone else, chasing the same career, living 
 
 If you have the same set of experiences as everyone else, you're gonna make the same connections.
 
-We wear clothes others make, eat food others cook, use technology others invent. Constantly taking from that giant pool.
+We wear clothes others make, eat food others cook, use technology others invent. Always taking from that giant pool.
 
-One of the best feelings there is, is putting something back into the pool.
+One of the best feelings there is, is doing the whole poet in paris-thing, and then putting something back into the pool.
