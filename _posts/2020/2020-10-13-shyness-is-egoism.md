@@ -15,6 +15,4 @@ Those we call humble and egoless are simply hiding behind culturally acceptable 
 
 It's the egomaniacs that have given up on worrying about other's perceptions of them. Learned to turn their focus outwards, when the situation calls for it.
 
-To be unapollagetically open and risk your self-image in order to potentially contribute.
-
-This is the way of egolessness if there ever was one.
+To be unapollagetically open and risk your self-image in order to potentially contribute: This is the way of egolessness if there ever was one.
