@@ -9,7 +9,7 @@ _“But I’m right here!”_ might an ego object. And to be clear, the location
 
 ## Sensory Inputs and Their Deception
 
-An important component of human consciousness is input through the five senses and I believe this is the biggest driver of the illusion of consciousness’ locality. Sight, hearing and touch in particular. 
+An important component of human consciousness is input through the five senses and I believe this is the biggest driver of the illusion of consciousness’ locality. Sight, hearing and touch in particular.
 
 When one uses touch to feel the handle of a coffee mug, one can very easily figure out where that mug is located in space - even without the use of sight. This is no big deal for most organisms. Based on sensory input, the brain subconsciously creates a mental 3D model of the surroundings. Though some are better at this than others. People who have been blind since birth tend to develop an above human average sonar ability, but they in turn pale in comparison to organisms like bats.
 
@@ -19,7 +19,7 @@ There is nothing about what you sense through touch, listening or sight that has
 
 Notice the distinction that every bulb throughout your body does have a position whilst the experience of the gathered information does not.
 
-An enlightening example of the illusory nature of sensations is phantom itches. It can occur after amputation of a body part and is when one experiences an itch on an area that is missing and thus cannot be scratched. Phantom itches are indeed a dreadful phenomenon but not very spooky as the name suggests. It is simply a calculation error on the part of the brain. 
+An enlightening example of the illusory nature of sensations is phantom itches. It can occur after amputation of a body part and is when one experiences an itch on an area that is missing and thus cannot be scratched. Phantom itches are indeed a dreadful phenomenon but not very spooky as the name suggests. It is simply a calculation error on the part of the brain.
 
 Now, realizing that it is a complicated area of research, I’m not trying to oversimplify the diagnose. The point I’m trying to make is simply that whilst some perceptions seem acutely real and out there in the real world, their apparent locality is nonetheless merely products of the mind.
 
@@ -37,6 +37,6 @@ But then again, evolution have only shaped our thinking to understand practical 
 
 ## Practical Implications
 
-Hopefully you are now convinced that your experience - what we might call information since that's all sensory input and thought presumably really is - does not have a position in space. And because the feeling of having a self/I/ego is simply the sum of all experiences, you do not have a position in space. 
+Hopefully you are now convinced that your experience - what we might call information since that's all sensory input and thought presumably really is - does not have a position in space. And because the feeling of having a self/I/ego is simply the sum of all experiences, you do not have a position in space.
 
 In other words, sounds, feelings, thoughts, etc. are all appearing in consciousness which in turn is non-local. All of this, along with noting that you _are_ the consciousness - not its contents - can be a healthy reminder whenever you get caught up in strong emotions or anxiety provoking thoughts.
