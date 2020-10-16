@@ -1,7 +1,7 @@
 ---
 title: "The Unconscious, Conscious"
 permalink: "the-unconscious-conscious"
-category: poem
+category: poems
 ---
 
 Continous self-sabotage
