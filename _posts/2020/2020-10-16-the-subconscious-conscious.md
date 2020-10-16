@@ -1,6 +1,6 @@
 ---
-title: "The Unconscious, Conscious"
-permalink: "the-unconscious-conscious"
+title: "Shining Light Underground"
+permalink: "shining-light-underground"
 category: poems
 ---
 
@@ -8,11 +8,11 @@ Continous self-sabotage
 
 It's what you see in others
 
-What I thought I didn't
+From which you think you're exempt
 
-But my unconscious does
+But the unconscious handles
 
-Thinking not worthy
+Feeling unworthy
 
 Tripping yourself up
 
@@ -22,8 +22,8 @@ Would be not
 
 Rising what's lurking
 
-A life of our own making
+For a life of our making
 
-To shine light
+To shine light underground
 
-That's the undertaking
+That is the undertaking
