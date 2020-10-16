@@ -9,8 +9,6 @@ But then another, less pleasant feeling of doubt introduces itself. Could we rea
 
 Sadly, this is were the process ends for most. The overwhelming self-doubt suffocates the initial motivation.
 
-## The Emotionally Paradoxical Nature of Creatives
-
 But contrary to popular belief, it's not that successful creatives don't doubt or feel fear. As psychologist Rollo May writes in his classic Courage to Create,
 
 > Courage is not the absence of despair; it is, rather, the capacity to move ahead in spite of despair.
@@ -25,7 +23,7 @@ This presents a somewhat paradoxical emotional nature of creatives. As Rollo May
 
 > A curious paradox characteristic of every kind of courage here confronts us. It is the seeming contradiction that we must be fully committed, but we must also be aware at the same time that we might possibly be wrong.
 
-## To Create is to Be Courageous
+## To Create Is to Be Courageous
 
 This reality, being opposite to common belief, is also analogous to a key difference between Stoicism and Epicureanism. As Seneca writes in his classic Letters from a Stoic:
 

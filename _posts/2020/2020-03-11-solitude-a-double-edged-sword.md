@@ -1,5 +1,5 @@
 ---
-title: "Solitude: A Double Edged Sword"
+title: "Solitude a Double Edged Sword"
 permalink: solitude-a-double-edged-sword
 ---
 
@@ -17,7 +17,7 @@ The origins of this common belief is easily understood. Humans are a social anim
 
 But since the benefits of social interactions are more widely understood and accepted than those of solitude, we will not be exploring it furthermore here.
 
-## Overcompliance - the Greatest Danger of Socializing
+## Overcompliance: The Greatest Danger of Socializing
 
 Contrary to what Adam Smith might have thought, that which is beneficial for the group is not necessarily optimal for the individual. Because, whilst socializing might keep our genes happy, it might also come at the expense of our individual happiness and meaning in life.
 
@@ -29,7 +29,7 @@ And the longer we let this continue, the greater the fear of being left alone gr
 > 
 > <cite>André Gide, _The Immoralist_</cite>
 
-## To Be Alone is to be Human
+## To Be Alone Is to Be Human
 
 Being alone is an absolute necessity for creating something unique since it means carving your own path, not being influenced by other's preconceived notions, attitudes and values.
 
