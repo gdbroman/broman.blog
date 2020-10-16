@@ -10,7 +10,7 @@ It's what you see in others
 
 From which you think you're exempt
 
-But the unconscious handles
+But the unconscious bothers
 
 Feeling unworthy
 
