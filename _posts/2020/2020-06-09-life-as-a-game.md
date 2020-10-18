@@ -7,9 +7,7 @@ There are all these areas in which we start at zero.
 
 Health, money, relationships, etc.
 
-And then you can level up.
-
-And there’s not even a cap. Just a time limit.
+And then you can level up. Not even a cap - just a time limit.
 
 With freedom to experiment and develop our own strategies.
 
@@ -39,6 +37,4 @@ Is it just me or do those who flirt with nihilism play an awful lot of video gam
 
 Whereas those who adopt this playful mentality have no need for that.
 
-Because nothing beats life.
-
-The best game there will ever be.
+Because nothing beats life: The best game there will ever be.
