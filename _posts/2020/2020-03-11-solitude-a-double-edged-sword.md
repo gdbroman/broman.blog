@@ -3,11 +3,7 @@ title: "Solitude a Double Edged Sword"
 permalink: solitude-a-double-edged-sword
 ---
 
-Whatever balance between eremite and socializer one ultimately chooses, it's important to be aware of its effects - good and bad. This essay is such an exploration.
-
 > The mind is sharper and keener in seclusion and uninterrupted solitude. No big laboratory is needed in which to think. Originality thrives in seclusion free of outside influences beating upon us to cripple the creative mind. Be alone, that is the secret of invention; be alone, that is when ideas are born.
-> 
-> <cite>Nikola Tesla, _My Inventions_</cite>
 
 That's inventor Nikola Tesla. An individual so inventive that you may choose to call him father of the modern world. Tesla was also known for being extremely reclusive; spending days upon days in his New York research laboratory: "Of all things, I liked books best."
 
