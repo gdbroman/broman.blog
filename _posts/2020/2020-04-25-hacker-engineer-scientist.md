@@ -1,5 +1,5 @@
 ---
-title: "Hacker > Engineer > Scientist (Or, Practice > Theory)"
+title: "Hacker > Engineer > Scientist"
 permalink: hacker-engineer-scientist
 ---
 
