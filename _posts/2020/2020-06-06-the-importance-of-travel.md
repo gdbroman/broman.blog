@@ -15,9 +15,7 @@ Stay in the same place for too long and you get stuck in a rut.
 
 Some of this wisdom lives on in our modern culture, though on a very low level. We know that we’re supposed to travel - *why?*
 
-Do we know?
-
-Not really.
+Do we know? Not really.
 
 It’s relaxing - or something like that. To be totally honest, we mostly do it because everyone else does.
 
