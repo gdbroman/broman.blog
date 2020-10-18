@@ -5,4 +5,4 @@ category: essays
 permalink: essays
 ---
 
-Read anything older than 10 posts ago at your own risk. I can't stand it.
+Read anything older than 10 posts ago at your own risk.
