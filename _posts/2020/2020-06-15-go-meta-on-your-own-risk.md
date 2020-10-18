@@ -1,6 +1,6 @@
 ---
-title: "Go Meta on Your Own Risk"
-permalink: go-meta-on-your-own-risk
+title: "Go Meta at Your Own Risk"
+permalink: go-meta-at-your-own-risk
 ---
 
 > The trouble with the rat race is that even if you win, you're still a rat.
