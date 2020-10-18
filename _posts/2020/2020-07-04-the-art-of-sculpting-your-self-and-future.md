@@ -1,6 +1,6 @@
 ---
-title: "The Art of Sculpting One's Self and Future"
-permalink: the-art-of-sculpting-your-self-and-future
+title: "The Art of Sculpting One's Self"
+permalink: the-art-of-sculpting-yourself
 ---
 
 > Everyone holds his future in his own hands, like a sculptor the raw material he will fashion into a figure.

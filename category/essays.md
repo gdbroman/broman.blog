@@ -5,5 +5,4 @@ category: essays
 permalink: essays
 ---
 
-I can't stand anything I've written that
-s more than 10 days old.
+Read anything older than 10 posts ago at your own risk. I can't stand it.
