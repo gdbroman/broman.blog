@@ -3,15 +3,7 @@ title: "Gatekeepers"
 permalink: gatekeepers
 ---
 
-The recruiter at the job interview.
-
-Investors.
-
-The panel at the acting audition.
-
-College admissions.
-
-Gatekeepers can be found everywhere.
+The recruiter at the job interview, investors, the panel at the acting audition, and college admissions. Gatekeepers can be found everywhere.
 
 What to do about this?
 
