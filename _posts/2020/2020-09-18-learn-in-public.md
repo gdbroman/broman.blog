@@ -3,7 +3,7 @@ title: "A Plea to Learn in Public"
 permalink: "learn-in-public"
 ---
 
-I used to subscribe to the motto, *"work hard in silence and let the results speak for themselves"* (*[Don't tell people about your goals](/dont-share-your-goals){:target="blank"})*. And while I still kind of hold my stance on that within the context of more grandiose projects, I've recently awakened to the power of learning in public.
+I used to subscribe to the motto, *"work hard in silence and let the results speak for themselves"*. And while I still kind of hold my stance on that within the context of more grandiose projects, I've recently awakened to the power of learning in public.
 
 What I mean by that is, **documenting your journey of development** in some area. It might mean:
 
