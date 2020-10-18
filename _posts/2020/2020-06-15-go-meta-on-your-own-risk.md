@@ -19,7 +19,7 @@ Another dull person: “You’re wrong! My political opinion is far superior!”
 
 You: “Hmm. Do you think politics is a helpful tool for improving society? How would you define it? Is it just being opinionated? In other words, something innate in human nature? Or is it something we’ll eventually get rid of in pursuit of something more effective?”
 
-If you do this, even the most dry of conversations will light up.
+Even the most dry of conversations will light up.
 
 But is there ever a reason not to go meta?
 
