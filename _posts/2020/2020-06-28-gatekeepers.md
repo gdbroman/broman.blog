@@ -13,17 +13,11 @@ Your future does not lie in the gatekeeper's hands.
 
 **It’s your job to sell.**
 
-Whether it’s selling yourself to the recruiter or your idea to the investor.
-
-You are in control.
-
-Really etch that into your brain.
+Whether it’s selling yourself to the recruiter or your idea to the investor. You are in control. Really etch that into your brain.
 
 Step two is to always have a backup plan.
 
-That way you won’t become desperate.
-
-This is essential.
+That way you won’t become desperate. This is essential.
 
 Gatekeepers can smell desperation from a mile away and it makes them shut that gate quicker than anything else.
 
