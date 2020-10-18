@@ -9,7 +9,7 @@ Self-subjectivity: To know yourself the worst.
 
 To think you're incredibly self-aware, but de facto self-delusional. To be the only one blind to one's blindness.
 
-Shutter Island-kind-of-a-thing.
+Shutter Island - that kind of thing.
 
 I tell myself I have great self-confidence, yet I freeze up whenever I talk to beautiful women.
 
