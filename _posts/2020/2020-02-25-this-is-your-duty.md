@@ -1,6 +1,6 @@
 ---
-title: "This Is Your Duty"
-permalink: this-is-your-duty
+title: "This Is Our Duty"
+permalink: this-is-our-duty
 ---
 
 How many are nailed into a coffin, never having discovered their truer self? Never having cultivated their inner essence and unique set of talents? To have merely gone through the motions? Accepting the path handed to them at birth? To have lived a life short of meaning?
@@ -15,4 +15,4 @@ And if it doesn't, it's because you have too little life experience. Go travel! 
 
 Lastly, when you've detected your core, you'll have to polish it. Train and integrate these abilities that make you _you_. Conquer and stick a flag in them.
 
-This is your duty, because meaning in your life depends on it. It's the only good fight there is.
+This is our duty, because meaning in life depends on it. And it's the only good fight there is.
