@@ -7,7 +7,7 @@ Human's problem is not of knowing, but of action.
 
 What if, tomorrow morning upon awakening, you did everything *knowing* to be of goodness and importance, whilst avoiding the counter?
 
-How would such a humiliatingly simple, indeed, laughable promise - if kept - affect one's life, and humanity?
+How would such a humiliatingly simple - indeed laughable promise - if kept, affect one's life and humanity?
 
 Why don't we? Why the Übermensch an unrealizable ideal?
 
