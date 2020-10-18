@@ -3,7 +3,7 @@ title: "The Importance of Anxiety"
 permalink: the-importance-of-anxiety
 ---
 
-How should you live your life? Being adventurous and saying yes to every opportunity? Or: Being structured, holding your own schedule dear. Should you strive for chaos or order?
+To be adventurous; saying yes to every opportunity. Or: Being structured, holding your own schedule dear. Should you strive for chaos or order?
 
 Humans have an evolutionary bias for order. We see this very clearly in today's society where in which we try to find a quick fix for every negative feeling:
 
