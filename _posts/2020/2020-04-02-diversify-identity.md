@@ -1,11 +1,9 @@
 ---
-title: "Why you Should Diversify your Identity"
+title: "Diversifying One's Identity"
 permalink: diversify-identity
 ---
 
-So, what do you do?
-
-The first question everyone asks upon meeting someone new.
+So, what do you do? The first question everyone asks upon meeting someone new.
 
 And depending on your answer, the person asking will either, suddenly become very interested, or never talk to you again.
 
@@ -17,7 +15,7 @@ Because one day, that basket will no longer be there. Stolen. With all of your e
 
 This is life. The only guarantee is that there are no guarantees. Tragedies happen. People get fired from jobs, students make mistakes and our bodies degenerate.
 
-## Identity Diversification to Reduce Emotional Volatility
+## Reducing Emotional Volatility
 
 And so just like one strives to diversify an investment portfolio to reduce it's risk and volatility, it might thus be wise to do the same for your identity.
 

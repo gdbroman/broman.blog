@@ -1,23 +1,13 @@
 ---
-title: "Be Content to be Thought Foolish and Stupid"
+title: "Being Thought Foolish and Stupid"
 permalink: foolish-and-stupid
 ---
 
-Social pressure is a very real thing.
+Social pressure is a very real thing, and at the same time - it's not.
 
-And at the same time - it's not.
+It can _feel_ very real - realer than anything else. But it's all in our heads.
 
-It can _feel_ very real.
-
-Realer than anything else.
-
-But it's all in our heads.
-
-A product of hundreds of thousands of years of evolution.
-
-Conditioning. Telling you not to deviate.
-
-To play it safe and stick to the tribe.
+A product of hundreds of thousands of years of evolution. Conditioning. Telling you not to deviate. To play it safe and stick to the tribe.
 
 Why is that? Historically, if you lost the tribe's trust you ran the risk of getting ejected. And we all know what that meant: Not reproducing. Or, even worse - death. This baloney is still baked into our genes! How crazy is that?
 
