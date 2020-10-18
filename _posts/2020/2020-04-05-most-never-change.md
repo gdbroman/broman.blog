@@ -1,5 +1,5 @@
 ---
-title: "Most People Never Change (and That's Okay)"
+title: "Most Never Change and That's Okay"
 permalink: most-never-change
 ---
 
