@@ -1,5 +1,5 @@
 ---
-title: "Escape not Needed"
+title: "Escape Not Needed"
 permalink: escape-not-needed
 ---
 
@@ -17,7 +17,7 @@ Life is an ever-growing series of problems. So to turn away from them is not a l
 
 But then another objection would be that escapism is fun. That it gives life a bit more flavor. And that maybe it isn’t wasted time after all if you have fun while doing it?
 
-Dios mío, man.
+*Dios mío, man.*
 
 See, that’s the problem. You’re using happiness as a metric. The thing is; life is suffering. So good luck with that. I’ll stick to maximizing meaning.
 

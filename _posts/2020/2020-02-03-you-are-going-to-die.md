@@ -1,5 +1,5 @@
 ---
-title: "You are Going to Die."
+title: "You Are Going to Die."
 permalink: you-are-going-to-die
 ---
 
@@ -27,8 +27,6 @@ But either way, it will happen. No matter how long technology will permit us to 
 
 The death reaper has a deadline in his calendar for each and every one of us.
 
-So what do you do about that? Voluntarily accept it! Embrace it. Let it be a reminder that you probably won't get another chance. Conclusively, there's no reason not to give this thing your very best.
+So what do you do about that? Voluntarily accept it! Embrace it. Let it be a reminder that you probably won't get another chance. Conclusively, there's no reason *not* to give this thing our very best.
 
-Why? you might ask.
-
-Why not? Do you have anything better to do?
+Do we have anything better to do?
