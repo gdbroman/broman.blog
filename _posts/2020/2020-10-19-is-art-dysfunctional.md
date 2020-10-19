@@ -3,8 +3,20 @@ title: "Is Art Dysfunctional?"
 permalink: "is-art-dysfunctional"
 ---
 
-The artist says the purpose of art is art-  and the normal person considers that to be an end, not a means. 
+Thomas Edison and Frida Kahlo settle down at a table at the local restaurant, awaiting the waitress.
 
-What is art but capturing states of consciousness? I'd say each artwork is another swing at kicking our stagnant-ass brains into a new gear.
+**EDISON:** *Thank you for swinging by, but I have got to be frank with you. Whilst your paintings move me, I have always struggled to see, what's the purpose of it?*
 
-Art is telepathy - the sharing of consciousness. And upon consuming another state of mind, some part of our own has to die. That's not dysfunctional - it's the ultimate transformer!
+**KAHLO:** *The purpose of art is art.*
+
+**EDISON:** *What silliness! It's a means to an end - not an end in itself. Entertainment! And so on, and so forth.*
+
+**KAHLO:** *What's this end you're talking about? Is capturing states of consciousness an end? I'd say each artwork is another swing at kicking our stagnant brains into a new gear. It's telepathy - the sharing of consciousness.*
+
+**EDISON:** *What is it with you artists and pseudoscientific terms? Telepathy, ha! You sound like my worker Tesla. Tell me, what's that any good for?*
+
+**KAHLO:** *Upon consuming another state of mind, some part of our own has to die - has it not?*
+
+**EDISON:** *I reckon, in some way it has. Nonetheless, a painting will not help me get across the country as a locomotive will. It is a dysfunctional form of innovation.*
+
+**KAHLO:** *You said it yourself. My paintings moved you. That's not dysfunctional - I consider it the ultimate mover.*
