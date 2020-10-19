@@ -17,4 +17,4 @@ I tell myself I want to improve, yet I often self-sabotage whenever I get close 
 
 I tell myself I'm conscious, yet I walk around in a continuous state of fight-or-flight.
 
-This is how I lie to myself. To name things for what they are, so they hopefully, may not.
+This is how I lie to myself. And to name things for what they are, so they hopefully, may not.
