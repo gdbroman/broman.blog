@@ -17,6 +17,12 @@ Frida Kahlo and Thomas Edison settle down at a table at the local restaurant, aw
 
 **KAHLO:** *Upon consuming another state of mind, some part of our own has to die - has it not?*
 
-**EDISON:** *I reckon, in some way it has - in order to make space for it. Nonetheless, a painting will never help me get across the country as a locomotive will. It is a dysfunctional form of innovation.*
+**EDISON:** *I reckon, in some way it has - in order to make space for it, that is. Nonetheless, a painting will never help me get across the country as a locomotive will. It is a dysfunctional form of innovation.*
 
-**KAHLO:** *You said it yourself. My paintings moved you. That's not dysfunctional - I consider it the ultimate mover!*
+**KAHLO:** *But you said it yourself! My paintings moved you. That's not dysfunctional - I consider it the ultimate mover.*
+
+**WAITRESS:** *Hello. Would you like to order something to drink? Or perhaps, an appetizer?*
+
+**EDISON:** *Yes, I wou-*
+
+**KAHLO:** *A glass of red wine, thank you. But I doubt this gentleman would like anything. It won't get him across the country, after all!*
