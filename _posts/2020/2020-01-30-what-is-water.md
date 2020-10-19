@@ -3,11 +3,17 @@ title: "What the Hell Is Water?"
 permalink: what-is-water
 ---
 
-> There are these two young fish swimming along, and they happen to meet an older fish swimming the other way, who nods at them and says, “Morning, boys, how's the water?” And the two young fish swim on for a bit, and then eventually one of them looks over at the other and goes, “What the hell is water?”
+> There are these two young fish swimming along, and they happen to meet an older fish swimming the other way, who nods at them and says,
 > 
-> <cite>David Foster Wallace, <i>This Is Water</i></cite>
+> “Morning, boys, how's the water?”
+> 
+> And the two young fish swim on for a bit, and then eventually one of them looks over at the other and goes,
+> 
+> “What the hell is water?”
+> 
+> <cite>David Foster Wallace, *This Is Water*</cite>
 
-Life is ordinary. Mundane and boring by nature. The long check out lines at the grocery store. A mediocre job. And boring conversations: "How's it going?" - "Same old, same old."
+Life's ordinary, mundane and boring by nature. The long check out lines at the grocery store, a mediocre job, and boring conversations: *"How's it going?"* - *"Same old, same old."*
 
 Analogous to the fish becoming ignorant of the medium they're constantly in, the banalities of life often make us forget why we're here. What we're supposed to do. How to not be miserable.
 
