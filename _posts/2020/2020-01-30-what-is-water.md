@@ -17,14 +17,12 @@ Life's ordinary, mundane and boring by nature. The long check out lines at the g
 
 Analogous to the fish becoming ignorant of the medium they're constantly in, the banalities of life often make us forget why we're here. What we're supposed to do. How to not be miserable.
 
-It can be easy to identify with the greek mythology of Sisyphus. Destined for rolling a massive boulder uphill. Day in, day out. Only to have the boulder roll back down when he finally reaches the top. And then to do it again and again.
+It can be easy to identify with the greek mythology of Sisyphus. Destined for rolling a massive boulder uphill. Day in, day out. Only to have the boulder roll back down when he finally reaches the top. And then to do it again, and again.
 
-**But Sisyphus eventually comes to terms with his destiny. He makes a conscious shift in attitude. From suffering to thriving. Embracing the repetitive nature of life...And so can we.**
+**But Sisyphus eventually comes to terms with his destiny. He makes a conscious shift in attitude, from suffering to thriving. Embracing the repetitive nature of life...And so can we.**
 
-We can assign value to our tasks at hand, no matter how dull or seemingly meaningless. Because everything you do matters.
+We can assign value to our tasks at hand, no matter how dull or seemingly meaningless. Because everything we do, matters.
 
-It's up to ourselves to assign meaning. As Ryan Holiday writes in The Obstacle Is the Way:
-
-> There is no good or bad without us, there is only perception. There is the event itself and the story we tell ourselves about what it means.
+It's up to ourselves to assign meaning.
 
 This is water.
