@@ -3,7 +3,7 @@ title: "Is Art Dysfunctional?"
 permalink: "is-art-dysfunctional"
 ---
 
-Frida Kahlo and Thomas Edison settle down at a table at the local restaurant, awaiting the waitress.
+Frida Kahlo and Thomas Edison settled down at a table at the local restaurant, awaiting the waitress.
 
 **EDISON:** *Thank you for swinging by, but I have got to be frank with you. Whilst your paintings move me, I have always struggled to see, what's the purpose of it?*
 
