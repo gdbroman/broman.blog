@@ -21,7 +21,7 @@ Frida Kahlo and Thomas Edison settled down at a table at the local restaurant, a
 
 **KAHLO:** *But you said it yourself! My paintings moved you. That's not dysfunctional - I consider it the ultimate mover.*
 
-**WAITRESS:** *Hello. Would you like to order something to drink? Or perhaps, an appetizer?*
+**WAITRESS:** *Hello - would you like to order something to drink? Perhaps, an appetizer?*
 
 **EDISON:** *Yes, I wou-*
 
