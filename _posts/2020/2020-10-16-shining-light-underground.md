@@ -4,8 +4,6 @@ permalink: "shining-light-underground"
 category: poems
 ---
 
-Continous self-sabotage
-
 It's what you see in others
 
 From which you think you're exempt
