@@ -3,7 +3,7 @@ title: "Fearing Selfhood"
 permalink: "fearing-selfhood"
 ---
 
-An arm, a leg - all other things - is loud and violent, when we lose them.
+An arm, a leg - all other things - is loud and violent when we lose them.
 
 Losing ourselves is silent.
 
