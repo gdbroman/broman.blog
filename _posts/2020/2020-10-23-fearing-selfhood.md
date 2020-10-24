@@ -7,7 +7,7 @@ An arm, a leg - all other things - is loud and violent, when we lose them.
 
 Losing ourselves is silent.
 
-Rediscovering one's self becomes a task by contrast. So we drown in the herd, perceiving selfhood too risky.
+Rediscovering one's self, then, becomes a task by contrast. So we drown in the herd, perceiving selfhood too risky.
 
 Becoming a copy in quiet desperation:
 
