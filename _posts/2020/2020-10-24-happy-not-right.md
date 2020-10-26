@@ -5,8 +5,6 @@ permalink: "happy-not-right"
 
 Never before have so many unhappy people sought to *"make the world a better place."*
 
-You think protesting will solve anything? Arguing? Seeking to control?
-
 If you're so smart, why aren't you happy? Prioritizing *"truth"* over one's own happiness sounds pretty dumb to me.
 
 This fella gets it:
