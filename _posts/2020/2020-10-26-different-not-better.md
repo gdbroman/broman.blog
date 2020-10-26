@@ -3,7 +3,7 @@ title: "Different, Not Better"
 permalink: "different-not-better"
 ---
 
-Different is not the same as better, it's better than better.
+Different is not the same as better: It's better than better.
 
 Considering the mediocrity of the average human life. Simply going about things differently isn't such a bad strategy.
 
