@@ -16,7 +16,7 @@ Sometimes others see,
 
 whilst we seem to find - no, nothing at all.
 
-Even so, it requires unraveling,
+It requires unraveling,
 
 in our own mind's eye.
 
