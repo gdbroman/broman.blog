@@ -1,6 +1,6 @@
 ---
 title: "Finding One's Way"
-permalink: "Finding-ones-way"
+permalink: "finding-ones-way"
 ---
 
 Potential more a moon,
