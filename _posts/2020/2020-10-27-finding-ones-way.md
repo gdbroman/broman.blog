@@ -16,11 +16,11 @@ Sometimes others see,
 
 and we? No, nothing at all.
 
-It requires unraveling,
+It calls for unraveling,
 
 in our own mind's eye.
 
-Ha - you prefer blind traveling?
+You prefer blind traveling?
 
 Think I'd rather die!
 
