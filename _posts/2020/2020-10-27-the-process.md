@@ -14,7 +14,7 @@ how murky clouds, they are!
 
 Sometimes others see,
 
-when we can't seem to find - no, nothing at all.
+whilst we seem to find - no, nothing at all.
 
 Even so, it requires unraveling,
 
@@ -30,6 +30,6 @@ as well as worst critic.
 
 Seeing what could be,
 
-and how far - so far away.
+how far - so far away.
 
 I mustn't go astray.
