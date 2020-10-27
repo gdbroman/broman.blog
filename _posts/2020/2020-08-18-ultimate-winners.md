@@ -4,16 +4,22 @@ permalink: ultimate-winners
 category: poems
 ---
 
-There are fighters - and there are apathetics.
+There are fighters
 
-Troublemaking winners, and lazy losers.
+And there are apathetics
 
-There are also those who *don’t* fight, but still succeed.
+Troublemaking winners
 
-They don’t declare war.
+And lazy losers
+
+There are also those who don’t fight, but still succeed
+
+They don’t declare war
 
 Nor surrender!
 
-They are the non-competitors; the still and happy.
+They are the non-competitors
 
-The ultimate winners.
+Still and happy
+
+The ultimate winners
