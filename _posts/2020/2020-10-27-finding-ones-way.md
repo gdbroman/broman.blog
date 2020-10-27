@@ -4,7 +4,7 @@ permalink: "finding-ones-way"
 category: poems
 ---
 
-Potential: More a moon,
+Potential is more a moon,
 
 than everglowing star.
 
