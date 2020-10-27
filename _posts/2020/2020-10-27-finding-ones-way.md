@@ -18,11 +18,11 @@ and we? No, nothing at all.
 
 It requires unraveling,
 
-in our mind's eye.
+in our own mind's eye.
 
-You prefer blind traveling?
+Ha - you prefer blind traveling?
 
-Ha - I think I'd rather die!
+Think I'd rather die!
 
 I, my own cheerleader,
 
