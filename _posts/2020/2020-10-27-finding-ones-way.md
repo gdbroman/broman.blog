@@ -4,7 +4,7 @@ permalink: "finding-ones-way"
 category: poems
 ---
 
-Potential - more a moon,
+Potential: More a moon,
 
 than everglowing star.
 
@@ -20,7 +20,7 @@ It calls for unraveling,
 
 in our own mind's eye.
 
-You prefer blind traveling?
+Ha - prefer blind traveling?
 
 Think I'd rather die!
 
