@@ -1,7 +1,6 @@
 ---
 title: "Be the Change You Wish to See"
 permalink: be-the-change
-category: essays
 ---
 
 Everybody wanna change the world but ain't nobody wanna change themselves.

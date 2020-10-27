@@ -1,7 +1,6 @@
 ---
 title: "The Meaning of It All? Don't Ask"
 permalink: dont-seek-meaning
-category: essays
 ---
 
 *"What's the meaning of life?"* is a meaningless question.

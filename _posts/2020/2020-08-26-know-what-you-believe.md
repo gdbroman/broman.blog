@@ -1,7 +1,6 @@
 ---
 title: "Know What You Believe"
 permalink: know-what-you-believe
-category: essays
 ---
 
 We *think* we know what we think - until we try to articulate it.

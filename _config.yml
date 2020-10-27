@@ -14,7 +14,7 @@ defaults:
       title: "Broman's Blog"
       layout: post
       author: "Gustaf Broman"
-      category: "essays"
+      category: "micro-essays"
 
 social:
   name: Gustaf Broman
