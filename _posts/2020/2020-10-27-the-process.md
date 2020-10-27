@@ -30,6 +30,8 @@ as well as worst critic.
 
 Seeing what could be,
 
-how far - so far away.
+and oh, so far away.
+
+This is the process.
 
 I mustn't go astray.
