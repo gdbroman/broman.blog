@@ -1,12 +1,34 @@
 ---
-title: "The Process"
-permalink: "the-process"
+title: "Finding One's Way"
+permalink: "Finding-ones-way"
 ---
 
-Potential is more of a moon, than an everglowing star. Sometimes you barely see it - deeply hidden behind the clouds.
+Potential more a moon,
 
-Sometimes, you can't seem to find it at all, and other people recognize it before you do. Even so, it's necessary to unravel it in our own mind's eye.
+than everglowing star.
 
-Being one's own cheerleader - and worst critic: Knowing what I could be, and how far that is from where I currently am.
+At times deeply hidden -
 
-The game of closing that gap.
+how murky clouds, they are!
+
+Sometimes others see,
+
+when we can't seem to find - no, nothing at all.
+
+Even so, it requires unraveling,
+
+in our own mind's eye.
+
+You prefer blind traveling?
+
+Ha - I think I'd rather die!
+
+I, my own cheerleader,
+
+as well as worst critic.
+
+Seeing what could be,
+
+and how far - so far away.
+
+I mustn't go astray.
