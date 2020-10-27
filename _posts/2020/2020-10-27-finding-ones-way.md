@@ -14,11 +14,11 @@ how murky clouds, they are!
 
 Sometimes others see,
 
-whilst we seem to find - no, nothing at all.
+and we? No, nothing at all.
 
 It requires unraveling,
 
-in our own mind's eye.
+in our mind's eye.
 
 You prefer blind traveling?
 
