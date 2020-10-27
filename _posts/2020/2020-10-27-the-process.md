@@ -1,6 +1,7 @@
 ---
 title: "Finding One's Way"
 permalink: "finding-ones-way"
+category: poems
 ---
 
 Potential more a moon,
