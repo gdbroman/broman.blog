@@ -1,6 +1,6 @@
 ---
-title: "Finding One's Way"
-permalink: "finding-ones-way"
+title: "Making One's Way"
+permalink: "making-ones-way"
 category: poems
 ---
 
