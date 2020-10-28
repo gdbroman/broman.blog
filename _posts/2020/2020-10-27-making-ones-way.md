@@ -20,7 +20,7 @@ It calls for unraveling,
 
 in our own mind's eye.
 
-Ha - prefer blind traveling?
+Ha! Prefer blind traveling?
 
 Think I'd rather die!
 
