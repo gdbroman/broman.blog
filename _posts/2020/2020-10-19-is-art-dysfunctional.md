@@ -1,6 +1,7 @@
 ---
 title: "Is Art Dysfunctional?"
 permalink: "is-art-dysfunctional"
+category: fiction
 ---
 
 Frida Kahlo and Thomas Edison settled down at a table at the local restaurant, awaiting the waitress.
