@@ -1,5 +1,5 @@
 ---
-title: "Not Wanting Better Than Having"
+title: "Not Wanting: Better Than Having"
 permalink: not-wanting-something
 ---
 
