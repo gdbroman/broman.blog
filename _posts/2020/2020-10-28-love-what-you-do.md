@@ -7,7 +7,7 @@ permalink: "love-what-you-do"
 
 "Love what you do" is for professionals.
 
-"Doing what you love" means only practicing your craft when you feel like it.
+"Doing what you love" means only practicing the craft when inspiration strikes.
 
 "Loving what you do" is showing up regardless.
 
