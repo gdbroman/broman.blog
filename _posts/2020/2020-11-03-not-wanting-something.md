@@ -1,14 +1,18 @@
 ---
-title: "Not Wanting: Better Than Having"
+title: "Not Wanting: Better Than Having?"
 permalink: not-wanting-something
 ---
 
-Having it means another background program running in your brain. Thinking about it, taking care of it, worrying about it, etc.
+*Having it* means another background program in the brain.
 
-*Not* wanting it, closes the loop.
+Thinking about it, taking care of it, worrying about it, etc.
+
+*Not wanting it*, closes the loop.
 
 Or so minimalists, and tangential nutcases such as myself, would argue.
 
-Is this simply fear of commitment manifesting? As long as it's only applied to *stuff*, and not people, it seems healthy.
+Is this simply fear of commitment manifesting?
+
+As long as this thinking is only applied to *stuff*, and not people, it seems healthy.
 
 I'm not sure.
