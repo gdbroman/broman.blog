@@ -58,17 +58,17 @@ aside {
                 background-color: #eee;
                 width: 100%;
                 height:100%;
-                transform: scale(1.06);
+                transform: scale(1.02);
             }
             &:hover {
                 opacity: 1.0;
                 img {
-                    transform: scale(1.16);
+                    transform: scale(1.1);
                 }
             }
         }
     }
-    .newsletter {
+    .widget.newsletter {
         #mc_embed_signup_scroll {
             display: flex;
             width:100%;
@@ -101,8 +101,11 @@ aside {
             }
         }
     }
-    #gr_quote_body {
-        margin:0;
+    .widget.quotes {
+        margin-bottom:0;
+        #gr_quote_body {
+            margin:0;
+        }
     }
 }
 
@@ -114,6 +117,9 @@ aside {
         padding-right: 32px;
         padding-left: 32px;
         margin: 16px auto 0 auto;
+        .widget.quotes {
+            margin-bottom: 32px;
+        }
     }
 }
 @media screen and (max-width:$xs) {

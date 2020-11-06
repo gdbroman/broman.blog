@@ -11,11 +11,13 @@ article {
     p, p *, li, li * {
         font-family: $secondary_font;
     }
+    img {
+        width: 100%;
+    }
 }
 .post {
     img.main {
         display: inherit;
-        width: 100%;
         height:auto;
         margin-bottom: 20px;
     }
