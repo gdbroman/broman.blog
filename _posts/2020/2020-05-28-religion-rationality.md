@@ -3,9 +3,9 @@ title: "On Religion and Rationality"
 permalink: religion-rationality
 ---
 
-Soul, demons, spirits and God. Some situations require that kind of language and if you don’t agree, I’d say you’ve probably never had an experience at either tail of the distribution. Neither horrific nor transcendental.
+Soul, demons, spirits and God. Some situations require that kind of language. And if you don’t agree, I’d say you’ve probably never had an experience at either tail of the distribution: Neither horrific nor transcendental.
 
-I’m sick of these "rationalists" and self-proclaimed atheists who think they’re somehow special because they don’t literally believe what's in the Bible, say. They're making the same mistake as the fundamentalists who _do_ believe in a literal sense.
+I’m sick of these "rationalists" and self-proclaimed atheists who think they’re somehow special because they don’t literally believe what's in the Bible, say. They're making the same mistake as the fundamentalists, who _do_ believe in a literal sense.
 
 Religious language was never intended to be used literally. It offers something secular language can’t. The Bible for example, contains undeniable gems if read as a metaphorical work.
 
