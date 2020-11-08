@@ -3,11 +3,11 @@ title: "Fearing Selfhood"
 permalink: "fearing-selfhood"
 ---
 
-An arm, a leg - all other things - is loud and violent when we lose them.
+An arm or leg is violent.
 
 Losing ourselves is silent.
 
-Rediscovering one's self, then, becomes a task by contrast. So we drown in the herd, perceiving selfhood too risky.
+Rediscovering then becomes a task by contrast. So we drown in the herd, perceiving selfhood too risky.
 
 Becoming a copy in quiet desperation:
 
