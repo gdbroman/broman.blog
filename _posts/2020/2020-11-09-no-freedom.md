@@ -5,7 +5,7 @@ permalink: no-freedom
 
 Choice is perhaps the worst thing we ever got.
 
-There's no aim in an infitely dimensional problem space.
+There's no aim in an infinitely dimensional problem space.
 
 You want rules, constraints, and limitations.
 
