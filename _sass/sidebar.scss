@@ -1,16 +1,16 @@
-$width: 262px;
+$width: 252px;
 
 // Sidebar
 aside {
     display: inline-block;
     max-width: $width;
     min-width: $width;
-    padding-top: 24px;
+    padding-top: 26px;
     padding-left: 48px;
     h3 {
         font-size: 14px;
         font-weight: 500;
-        letter-spacing: 0em;
+        letter-spacing: 0.01em;
         color:$gray_dark;
         text-transform: uppercase;
         margin-bottom: 12px;
@@ -21,8 +21,9 @@ aside {
         font-size: 13px;
         line-height:1.4em;
         font-weight: 400;
+        letter-spacing: 0.005em;
         color:$gray_dark; 
-        text-align: justify;
+        text-align: left;
         margin-bottom:12px;
     }
     li {
@@ -48,10 +49,10 @@ aside {
         a.picture {
             display: block;
             position: relative;
-            width:152px;
-            height:152px;
+            width:148px;
+            height:148px;
             border-radius: 50%;
-            margin: 0 auto 20px auto;
+            margin: 0 auto 24px auto;
             overflow:hidden;
             opacity: 0.96;
             img {
