@@ -100,12 +100,6 @@ aside {
             }
         }
     }
-    .widget.quotes {
-        margin-bottom:0;
-        #gr_quote_body {
-            margin:0;
-        }
-    }
 }
 
 @media screen and (max-width:calc(#{$l} + 2*#{$padding})) {
@@ -116,9 +110,6 @@ aside {
         padding-right: 32px;
         padding-left: 32px;
         margin: 16px auto 0 auto;
-        .widget.quotes {
-            margin-bottom: 32px;
-        }
     }
 }
 @media screen and (max-width:$xs) {
