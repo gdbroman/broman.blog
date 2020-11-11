@@ -15,4 +15,4 @@ To sit quietly in a room.
 
 > To pick up a signal, turn off mobile service
 >
-> <cite>Austin Kleaon, *Show Your Work!*</cite>
+> <cite>Austin Kleon, *Show Your Work!*</cite>
