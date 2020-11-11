@@ -9,7 +9,7 @@ A meaningful life demands passionate activity.
 
 But to be idle for shorter periods of time, is essential for mental health and creativity.
 
-To take walks without purpose - without a phone or podcast neurotically playing at 2x speed in your ears.
+To take walks without purpose. Without a phone or podcast neurotically buzzing at 2x speed in your ears.
 
 To sit quietly in a room.
 
