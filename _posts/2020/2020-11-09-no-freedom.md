@@ -7,7 +7,7 @@ Choice is perhaps the worst thing you can possess.
 
 There's no aim in an infinitely dimensional problem space.
 
-You want rules, constraints, and limitations.
+You want rules and constraints.
 
 Stories: *This is what I do, and this is who I am.*
 
@@ -15,4 +15,4 @@ So you don't have to solve a mystery every morning.
 
 Ultimate freedom paralyzes, and eats you up alive.
 
-Limited freedom forces concentrated action.
+Limitations enforce concentrated action.
