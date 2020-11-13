@@ -10,4 +10,4 @@ To express or depress one's self.
 
 These are the choices we have.
 
-Everyone are capable of hiding, but to be - unapologetically - only you can do.
+Everyone is capable of hiding, but to be - unapologetically - only you can do.
