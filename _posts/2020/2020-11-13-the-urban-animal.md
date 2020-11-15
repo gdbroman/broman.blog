@@ -13,7 +13,7 @@ As if, not secretly afraid we're the only one experiencing this shitshow - or if
 
 We're embarrassed by our own condition and look up to technology because it's clean and predictable.
 
-Industrial society has taken on a life-form of its own, that can only be appropriately described as parasitism. It's made us adopt its goals in preference to our own.
+Industrial society has taken on a life of its own, that can only be appropriately described as parasitism. It's made us adopt its goals in preference to our own.
 
 Technology's our god and the robot our hero: Does exactly what it's told, without farting or complaining.
 
