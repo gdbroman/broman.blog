@@ -7,7 +7,7 @@ We head to work, acting as if we've never heard of sex or shitting. *No sir - al
 
 As if we're not messy creatures, constantly driven by survival.
 
-As if we're not scared the show could end at any moment - confused as to what we're supposed to do about it?
+As if we're not scared it all could end at any moment - confused as to what we're supposed to do about it?
 
 As if, not secretly afraid we're the only one experiencing this shitshow - or if everyone else is simply hiding it?
 
