@@ -17,6 +17,6 @@ Industrial society has taken on a life of its own, that can only be appropriatel
 
 Technology's our god and the robot our hero: Does exactly what it's told, without complications.
 
-Sure, we're messy, vulnerable creatures. But as much as we'd like to, our truer nature cannot be overridden after only a couple of hundred years.
+Sure, we're messy, vulnerable creatures. But as much as we'd like to, our truer nature cannot be overridden after a mere couple of hundred years.
 
 Being human is embarrassing - but only if we suppress it. Embracing it, one finds real beauty in it.
