@@ -3,7 +3,7 @@ title: "The Urban Animal"
 permalink: the-urban-animal
 ---
 
-We head to work, acting as if we've never heard of sex or shitting. *No sir - all neocortex here!*
+We head to work, acting as if we've never heard of sex or shitting. *No, sir - all neocortex here!*
 
 As if we're not messy creatures, constantly driven by survival.
 
