@@ -5,7 +5,7 @@ permalink: the-urban-animal
 
 We head to work, acting as if we've never heard of sex, sadness, or shitting. *No, sir - all neocortex here!*
 
-As if we're not messy creatures, constantly driven by survival.
+As if we're not messy creatures, deeply driven by survival.
 
 As if we're not scared it could all end at any moment - confused as to what we're supposed to do about it?
 
@@ -15,7 +15,7 @@ We're embarrassed by our own condition and look up to technology because it's cl
 
 Industrial society has taken on a life of its own, that can only be appropriately described as parasitism. It's made us adopt its goals in preference to our own.
 
-Technology's our god and the robot our hero: Does exactly what it's told, without complications.
+Technology's our god and the robot our hero: It does exactly what it's told, without complications.
 
 Sure, we're messy, vulnerable creatures. But as much as we'd like to, our truer nature cannot be overridden after a mere couple of hundred years.
 
