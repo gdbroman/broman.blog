@@ -32,7 +32,7 @@ I’m gonna have to come back for a more definite answer.
 
 ## What's your day job?
 
-💻 I'm an indie hacker, which means I [code](https://github.com/gustafbroman){:target="_blank"} stuff on the internet.
+💻 I'm an indie hacker, which means I ship [code](https://github.com/gustafbroman){:target="_blank"} on the internet.
 
 🌎 I'm also a university student, currently experimenting with the whole digital nomad thing due to all learning being held online.
 
@@ -42,7 +42,7 @@ Here's me being a bit more professional: [About Gustaf Broman](https://gustafbro
 
 ☕️ Wanna chat? Send me an email: [hello@broman.blog](mailto:hello@broman.blog).
 
-I'm always up for meeting new people. Either over Zoom, or in person over a coffee (if we happen to be in the same city). Include [Chat] in the subject line and we'll work something out.
+I'm always up for meeting new people - either through video chat, or in person over a coffee if we happen to be in the same city. Hit me up and we'll work something out!
 
 ## What WordPress theme is this?
 
