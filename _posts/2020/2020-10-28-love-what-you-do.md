@@ -7,7 +7,7 @@ permalink: "love-what-you-do"
 
 "Love what you do" is for professionals.
 
-Doing what you love means relying on passion.
+Doing what you love is relying on passion.
 
 Loving what you do is showing up regardless.
 
