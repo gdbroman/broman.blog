@@ -110,13 +110,26 @@ aside {
         width:100%;
         padding-right: 32px;
         padding-left: 32px;
-        margin: 16px auto 0 auto;
+        margin: 26px auto 0 auto;
+    }
+}
+@media screen and (max-width:$s) {
+    section.mh aside {
+        max-width: 100%;
+        min-width: 100%;
+        padding-left: 32px;
+        padding-right: 32px;
+        h3 {
+            font-size: 14px;
+            font-weight: 600;
+        }
+        p {
+            font-size: 14px;
+        }
     }
 }
 @media screen and (max-width:$xs) {
     section.mh aside {
-        max-width: 100%;
-        min-width: 100%;
         padding-left: $padding_s;
         padding-right: $padding_s;
     }
