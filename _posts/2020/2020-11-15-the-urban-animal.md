@@ -3,9 +3,9 @@ title: "The Urban Animal"
 permalink: the-urban-animal
 ---
 
-We head to work, acting as if we've never heard of sex, sadness, or shitting. *No, sir - all neocortex here!*
+We head to work, acting as if we've never heard of sex, sadness, or shitting.
 
-As if we're not messy creatures, deeply driven by survival.
+As if we're all neocortex, not deeply driven by survival.
 
 As if we're not scared it could all end at any moment - confused as to what we're supposed to do about it?
 
@@ -17,6 +17,6 @@ Industrial society has taken on a life of its own, that can only be appropriatel
 
 Technology's our god and the robot our hero: It does exactly what it's told, without complications.
 
-Sure, we're messy, vulnerable creatures. But as much as we'd like to, our truer nature cannot be overridden after a mere couple of hundred years.
+We're messy, vulnerable creatures. But as much as we'd like to, our truer nature cannot be overridden after a mere couple of hundred years.
 
 Being human is embarrassing - but only if we suppress it. Embracing it, one finds real beauty in it.

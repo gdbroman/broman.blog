@@ -3,7 +3,7 @@ title: "You Don't Want Freedom"
 permalink: no-freedom
 ---
 
-Choice is perhaps the worst thing you can possess.
+Choice is perhaps the worst thing one can possess.
 
 There's no aim in an infinitely dimensional problem space.
 
