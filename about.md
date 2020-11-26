@@ -40,7 +40,7 @@ It's kind of a scandinavian mouthful, so you can just call me Alex Broman.
 
 🌎 I'm also a university student, currently experimenting with the whole digital nomad thing due to all learning being held online.
 
-Here's me being a bit more professional: [Resume Website](https://gustafbroman.github.io){:target="_blank"}.
+Here's me being a bit more professional: [Resume Website](https://bromanbuilds.github.io/){:target="_blank"}.
 
 ## Okay. How do I reach out?
 
