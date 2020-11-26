@@ -5,7 +5,7 @@ title: "What's this website about?"
 
 Hello.
 
-I'm Alex.
+I'm Alex Broman.
 
 Every morning I sit down and write for about an hour.
 
@@ -39,6 +39,7 @@ I’m gonna have to come back for a more definite answer.
 ## Is Alex Broman a pseudonym?
 
 Yes, my real name is a scandinavian mouthful.
+
 ## Okay. How do I reach out?
 
 ☕️ Wanna chat? Send me an email: [hello@broman.blog](mailto:hello@broman.blog).
