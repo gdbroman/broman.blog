@@ -5,7 +5,7 @@ title: "What's this website about?"
 
 Hello.
 
-I'm Gustaf.
+I'm Alex.
 
 Every morning I sit down and write for about an hour.
 
@@ -36,7 +36,11 @@ I’m gonna have to come back for a more definite answer.
 
 🌎 I'm also a university student, currently experimenting with the whole digital nomad thing due to all learning being held online.
 
-Here's me being a bit more professional: [About Gustaf Broman](https://gustafbroman.github.io){:target="_blank"}.
+Here's me being a bit more professional: [Resume Website](https://gustafbroman.github.io){:target="_blank"}.
+
+## What's your full name?
+
+It's kind of a scandinavian mouthful, so you can just call me Alex Broman.
 
 ## Okay. How do I reach out?
 
@@ -50,7 +54,7 @@ This website is not running SlowPress. I created my own Jekyll theme and deploye
 
 Like what you see? Good news: This website is open [source](https://github.com/gustafbroman/broman.blog){:target="_blank"}!
 
-## What's been your greatest realization in life?
+## What's been your greatest realization?
 
 That no one really knows what's going on. We just vary in our ability to pretend we do. But really...no one does.
 
