@@ -48,7 +48,7 @@ I'm always up for meeting new people - either through video chat, or in person o
 
 This website is not running SlowPress. I created my own Jekyll theme and deployed it for free using Github Pages.
 
-Like what you see? Good news: This website is open [source](https://github.com/gustafbroman/broman.blog){:target="_blank"}!
+Like what you see? Good news: This website is open [source](https://github.com/bromanbuilds/broman.blog){:target="_blank"}!
 
 ## What's been your greatest realization?
 
