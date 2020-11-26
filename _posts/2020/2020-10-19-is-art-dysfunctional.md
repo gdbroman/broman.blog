@@ -20,7 +20,7 @@ Frida Kahlo and Thomas Edison sat down at a table at the local restaurant, await
 
 **EDISON:** *I reckon, in some way it has - in order to make space for it, that is. Nonetheless, a painting will never help me get across the country as a locomotive will. It is a dysfunctional form of innovation.*
 
-**KAHLO:** *But you said it yourself! My paintings moved you. That's not dysfunctional - I consider it the ultimate mover.*
+**KAHLO:** *But you said it yourself! My paintings touched you - that's not dysfunctional. I consider it the ultimate mover.*
 
 **WAITRESS:** *Hello - would you like to order something to drink? Perhaps, an appetizer?*
 
