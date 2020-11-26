@@ -30,10 +30,6 @@ Who am I? That’s a tough one.
 
 I’m gonna have to come back for a more definite answer.
 
-## What's your full name?
-
-It's kind of a scandinavian mouthful, so you can just call me Alex Broman.
-
 ## What's your day job?
 
 💻 I'm an indie hacker, which means I ship [code](https://github.com/gustafbroman){:target="_blank"} on the internet.
