@@ -5,7 +5,7 @@ title: "What's this website about?"
 
 Hello.
 
-I'm Alex Broman.
+I'm Alex.
 
 Every morning I sit down and write for about an hour.
 
