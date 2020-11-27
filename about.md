@@ -32,7 +32,7 @@ I’m gonna have to come back for a more definite answer.
 
 ## What's your day job?
 
-💻 I'm an indie hacker, which means I ship [code](https://github.com/gustafbroman){:target="_blank"} on the internet.
+💻 I'm an indie hacker, which means I ship [code](https://github.com/broman-builds){:target="_blank"} on the internet.
 
 🌎 I'm also a university student, currently experimenting with the whole digital nomad thing due to all learning being held online.
 
@@ -50,7 +50,7 @@ I'm always up for meeting new people - either through video chat, or in person o
 
 This website is not running SlowPress. I created my own Jekyll theme and deployed it for free using Github Pages.
 
-Like what you see? Good news: This website is open [source](https://github.com/bromanbuilds/broman.blog){:target="_blank"}!
+Like what you see? Good news: This website is open [source](https://github.com/broman-builds/broman.blog){:target="_blank"}!
 
 ## What's been your greatest realization?
 
