@@ -13,5 +13,5 @@ defaults:
       name: "Broman's Blog"
       title: "Broman's Blog"
       layout: post
-      author: "Alex Broman"
+      author: "Alexander Broman"
       category: "micro-essays"
