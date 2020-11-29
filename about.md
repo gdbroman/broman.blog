@@ -38,7 +38,7 @@ I’m gonna have to come back for a more definite answer.
 
 ## Is Alex Broman a pseudonym?
 
-Yes, my real name is a scandinavian mouthful.
+Kind of, my full name is a scandinavian mouthful.
 
 ## Okay. How do I reach out?
 
