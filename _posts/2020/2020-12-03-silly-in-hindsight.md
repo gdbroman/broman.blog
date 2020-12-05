@@ -13,4 +13,4 @@ The whole *thing* is gonna look silly in hindsight.
 
 Relax! You're a fool! We all are.
 
-Now what silliness can I conjure up today?
+Now, what silliness can I conjure up today?
