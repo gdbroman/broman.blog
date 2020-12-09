@@ -52,7 +52,7 @@ This website is not running SlowPress. I created my own Jekyll theme and deploye
 
 Like what you see? Good news: This website is open [source](https://github.com/broman-builds/broman.blog){:target="_blank"}!
 
-## What's been your greatest realization?
+## What's been your greatest realization in life?
 
 That no one really knows what's going on. We just vary in our ability to pretend we do. But really...no one does.
 

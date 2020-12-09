@@ -3,7 +3,7 @@ title: "Express Your Self"
 permalink: express-your-self
 ---
 
-It can't be a coincidence that *expression* is the linguistical opposite of *depression*.
+It can't be a coincidence that *expression* is linguistically opposite to *depression*.
 
 To be liked by many for a shell, or loved by a few for your core.
 To express or depress one's self.
