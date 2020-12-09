@@ -18,5 +18,5 @@ You can also follow me on social:
 
 * [@broman-books](https://www.goodreads.com/broman-books){:target="_blank"} on Goodreads
 * [@gustaf-broman](https://www.quora.com/profile/Gustaf-Broman){:target="_blank"} on Quora
-* [@some-rubbish](https://www.youtube.com/channel/UCt4LJZdKaAfWd-QZgg0FNPg?view_as=subscriber){:target="_blank"} on Youtube
+* [@alex-broman](https://www.youtube.com/channel/UCt4LJZdKaAfWd-QZgg0FNPg?view_as=subscriber){:target="_blank"} on Youtube
 * [@broman-builds](https://github.com/broman-builds){:target="_blank"} on Github
