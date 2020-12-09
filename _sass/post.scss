@@ -104,10 +104,43 @@ article {
         }
     }
 }
-#about-image {
-    max-width: 100%;
-    border-radius: 2px;
+
+.post-link {
+    display: block;
+    margin-bottom: 6px;
+    font-size: 17px;
 }
+#revue-embed {
+    margin-bottom: 20px;
+    form {
+        display: flex;
+        width:100%;
+        margin: 16px auto 0 auto;
+        overflow: hidden;
+        border: 1px solid $gray_light;
+        border-radius: 2px;
+        input {
+            display: inline-block;
+            border: 0;
+            padding: 10px 2px 10px 12px;
+            flex:1;
+            min-width: 42px;
+        }
+        input#member_submit {
+            max-width: 68px;
+            font-size: 13px;
+            font-weight: 500;
+            text-transform: uppercase;
+            padding-left: 2px;
+            padding-right: 2px;
+            text-align: center;
+            color: $black;
+            border-left: 1px solid $gray_light;
+            cursor:pointer;
+        }
+    }
+}
+
 .up-next {
     margin-top: 20px;
     h5 {
@@ -117,11 +150,6 @@ article {
         margin-bottom: 12px;
         font-weight: 400;
     }
-}
-.post-link {
-    display: block;
-    margin-bottom: 6px;
-    font-size: 17px;
 }
 
 @media screen and (max-width:$mobile) {

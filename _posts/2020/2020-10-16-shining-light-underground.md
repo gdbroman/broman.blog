@@ -1,7 +1,7 @@
 ---
 title: "Shining Light Underground"
 permalink: "shining-light-underground"
-category: poems
+category: not-essays
 ---
 
 It's what you see in others

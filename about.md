@@ -5,7 +5,9 @@ title: "What's this website about?"
 
 Hello.
 
-I'm Alexander.
+I'm Gustaf.
+
+You can call me Alex if you're anglophonic.
 
 Every morning I sit down and write for about an hour.
 
@@ -36,15 +38,11 @@ I’m gonna have to come back for a more definite answer.
 
 🌎 I'm also a university student, currently experimenting with the whole digital nomad thing due to all learning being held online.
 
-## Is Alex Broman a pseudonym?
-
-Yes, my full name is a scandinavian mouthful.
-
 ## Okay. How do I reach out?
 
-☕️ Wanna chat? Send me an email: [hello@broman.blog](mailto:hello@broman.blog).
+☕️ Wanna chat? Send me an email: hello@broman.blog.
 
-I'm always up for meeting new people - either through video chat, or in person over a coffee if we happen to be in the same city. Hit me up and we'll work something out!
+I’m always up for meeting new people - either through video chat, or in person over a coffee if we happen to be in the same city. Hit me up and we’ll work something out!
 
 ## What WordPress theme is this?
 

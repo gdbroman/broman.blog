@@ -1,7 +1,7 @@
 ---
 title: "The Master Beginner"
 permalink: master-beginner
-category: fiction
+category: not-essays
 ---
 
 A karate kid walked up to the black belt and asked excitedly, *"how do I get as good as thou?"*

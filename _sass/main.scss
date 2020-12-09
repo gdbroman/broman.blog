@@ -47,6 +47,7 @@ aside {
             line-height: 1em;
             margin-bottom: 12px;
             letter-spacing: 0.02em;
+            font-size:15px;
         }
     }
 }
@@ -75,7 +76,7 @@ aside {
         border-right:none;
         header {
             display: block;
-            margin-bottom: 10px;
+            margin-bottom: 12px;
             a {
                 display: inline-block;
             }
@@ -98,7 +99,6 @@ aside {
             a {
                 display: inline-block;
                 margin: 0 6px 0 0;
-                font-size:14px;
                 line-height: 1em;
             }
         }
@@ -114,10 +114,11 @@ aside {
         padding-left: $padding_mobile_small;
         padding-right: $padding_mobile_small;
         header {
-            margin-bottom: 8px;
+            margin-bottom: 10px;
         }
         nav {
             a {
+                font-size: 14px;
                 margin-right: 4px;
             }
         }

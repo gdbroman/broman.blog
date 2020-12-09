@@ -1,7 +1,7 @@
 ---
 title: "A Little Bit Better"
 permalink: a-little-bit-better
-category: poems
+category: not-essays
 ---
 
 The boiling frog who does not realize its impending death.

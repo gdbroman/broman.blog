@@ -1,7 +1,7 @@
 ---
 title: "The Most Beautiful Thing"
 permalink: the-most-beautiful-thing
-category: poems
+category: not-essays
 ---
 
 It's effortless fun.

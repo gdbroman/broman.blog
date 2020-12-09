@@ -1,7 +1,7 @@
 ---
 title: "Freedom: A Love Letter"
 permalink: freedom-love-letter
-category: poems
+category: not-essays
 ---
 
 It is the most precious gift.

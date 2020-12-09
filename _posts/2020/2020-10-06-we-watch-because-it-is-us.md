@@ -1,7 +1,7 @@
 ---
 title: "We Watch Because It Is Us"
 permalink: "we-watch-because-it-is-us"
-category: poems
+category: not-essays
 ---
 
 Great movies are as much about stories
