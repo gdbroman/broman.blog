@@ -68,7 +68,7 @@ aside {
         position: relative;
         width: 100%;
         height: auto;
-        padding-top: 12px;
+        padding-top: 11px;
         padding-bottom: 14px;
         padding-left: $padding_mobile;
         padding-right: $padding_mobile;
@@ -76,7 +76,7 @@ aside {
         border-right:none;
         header {
             display: block;
-            margin-bottom: 12px;
+            padding-bottom: 12px;
             a {
                 display: inline-block;
             }

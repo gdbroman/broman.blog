@@ -15,9 +15,6 @@
         margin-top: -2px;
         border-top: 1px solid $gray_light;
     }
-    p {
-        font-size: 17px;
-    }
     a:hover {
         text-decoration-color: $black;
     }
@@ -48,5 +45,11 @@
         font-size: 15px;
         color:$gray;
         margin-bottom: 2px;
+    }
+}
+
+@media screen and (max-width:$mobile_small) {
+    .up-next-entry {
+        padding: 24px 28px;
     }
 }

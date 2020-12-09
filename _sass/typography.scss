@@ -113,9 +113,6 @@ a:hover {
     h3 {
         font-size: 18px;
     }
-    p, p *, li, li * {
-        font-size: $font_size_s;
-    }
 }
 
 @media screen and (max-width:$mobile_small) {
@@ -124,5 +121,8 @@ a:hover {
     }
     h2 {
         font-size: 20px;
+    }
+    p, p *, li, li * {
+        font-size: $font_size_s;
     }
 }
