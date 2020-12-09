@@ -11,4 +11,4 @@ Don't worry - it'll all disgust you soon.
 
 *Relax! You're a fool!* We all are.
 
-Now, what silliness can I conjure up today?
+Now, what silliness can we conjure up today?
