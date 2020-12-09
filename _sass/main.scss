@@ -114,6 +114,11 @@ aside {
     aside {
         padding-left: $padding_mobile_small;
         padding-right: $padding_mobile_small;
+        header {
+            h2 {
+                font-size: 19px;
+            }
+        }
         nav {
             a {
                 margin-right: 4px;
