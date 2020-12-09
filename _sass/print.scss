@@ -1,12 +1,16 @@
 @media print {
     body {
+        display: block;
         background-color:#fff !important;
+        margin:32px;
     }
     main {
         display: block;
         margin: 0 auto;
+        width: 100%;
+        padding:0;
     }
-    aside, footer, .share, .up-next {
+    aside, .share, .up-next {
         display:none !important;
     }
 }
