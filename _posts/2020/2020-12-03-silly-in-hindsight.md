@@ -3,7 +3,7 @@ title: "You're Gonna Look Silly"
 permalink: silly-in-hindsight
 ---
 
-Think you have it all figured out, haven't you?
+Think you have it all figured out, yes?
 
 With all your takes, and cute little projects.
 
