@@ -12,4 +12,4 @@ Every Sunday I write a short email with an interesting resource on the creative 
     </form>
 </div>
 
-[You can read previous issues here.](https://www.getrevue.co/profile/bromanblog){:target="_blank"}
+<a href="https://www.getrevue.co/profile/bromanblog" class="post-link" target="_blank">You can read previous issues here</a>

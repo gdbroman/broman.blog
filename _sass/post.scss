@@ -104,9 +104,10 @@ article {
         }
     }
 }
-
 .post-link {
     display: block;
+    font-family: $main_font;
+    font-weight: 400;
     margin-bottom: 8px;
     font-size: 17px;
 }
