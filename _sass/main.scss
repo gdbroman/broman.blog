@@ -48,6 +48,10 @@ aside {
             margin-bottom: 12px;
             letter-spacing: 0.03em;
             font-size:15px;
+            color: $blue_light;
+            &:visited {
+                color: $blue_light;
+            }
         }
     }
 }
