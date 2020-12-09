@@ -44,6 +44,13 @@ I’m gonna have to come back for a more definite answer.
 
 I’m always up for meeting new people - either through video chat, or in person over a coffee if we happen to be in the same city. Hit me up and we’ll work something out!
 
+You can also follow me on social:
+
+* [@broman-books](https://www.goodreads.com/broman-books){:target="_blank"} on Goodreads
+* [@gustaf-broman](https://www.quora.com/profile/Gustaf-Broman){:target="_blank"} on Quora
+* [@alex-broman](https://www.youtube.com/channel/UCt4LJZdKaAfWd-QZgg0FNPg?view_as=subscriber){:target="_blank"} on Youtube
+* [@broman-builds](https://github.com/broman-builds){:target="_blank"} on Github
+
 ## What WordPress theme is this?
 
 This website is not running SlowPress. I created my own Jekyll theme and deployed it for free using Github Pages.

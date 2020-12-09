@@ -12,11 +12,4 @@ Every Sunday I send out a short email with an interesting resource on the creati
     </form>
 </div>
 
----
-
-You can also follow me on social:
-
-* [@broman-books](https://www.goodreads.com/broman-books){:target="_blank"} on Goodreads
-* [@gustaf-broman](https://www.quora.com/profile/Gustaf-Broman){:target="_blank"} on Quora
-* [@alex-broman](https://www.youtube.com/channel/UCt4LJZdKaAfWd-QZgg0FNPg?view_as=subscriber){:target="_blank"} on Youtube
-* [@broman-builds](https://github.com/broman-builds){:target="_blank"} on Github
+[You can read previous issues here.](https://www.getrevue.co/profile/bromanblog){:target="_blank"}
