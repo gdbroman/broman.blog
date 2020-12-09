@@ -7,7 +7,7 @@ Think you have it all figured out, yes?
 
 With all your takes, and cute little projects.
 
-Don't worry - give it five years and it'll all disgust you.
+Don't worry - it'll all disgust you soon.
 
 *Relax! You're a fool!* We all are.
 
