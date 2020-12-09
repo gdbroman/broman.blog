@@ -63,4 +63,4 @@ Like what you see? Good news: This website is open [source](https://github.com/b
 
 That no one really knows what's going on. We just vary in our ability to pretend we do. But really...no one does.
 
-This has made me freer to try new things and more daring to ask stupid questions.
+This has made me freer to try new things and more willing to look stupid.
