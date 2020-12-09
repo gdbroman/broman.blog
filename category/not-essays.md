@@ -5,4 +5,4 @@ category: not-essays
 permalink: not-essays
 ---
 
-Definitely not essays.
+Some fiction and poems. Definitely not essays.
