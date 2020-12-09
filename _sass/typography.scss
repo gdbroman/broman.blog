@@ -104,16 +104,25 @@ a:hover {
 }
 
 @media screen and (max-width:$mobile) {
-    h1 {
-        font-size: 24px;
+    h1, article.entry h2 {
+        font-size: 26px;
     }
     h2 {
-        font-size: 20px;
+        font-size: 22px;
     }
     h3 {
         font-size: 18px;
     }
     p, p *, li, li * {
         font-size: $font_size_s;
+    }
+}
+
+@media screen and (max-width:$mobile_small) {
+    h1, article.entry h2 {
+        font-size: 24px;
+    }
+    h2 {
+        font-size: 20px;
     }
 }
