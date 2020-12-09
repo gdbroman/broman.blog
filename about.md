@@ -36,7 +36,7 @@ Question: *Are you confused?* This uniquely weird universe confuses me every day
 
 ## What's your day job?
 
-👨‍💻 I'm an indie hacker, as well as a university student, currently experimenting with the whole 🌎 digital nomad thing due to all learning being held online.
+👨‍💻 I'm an indie hacker, as well as a university student, currently experimenting with the whole 🌎 digital nomad thing, due to all learning being held online.
 
 [Here's me being a bit more professional.](https://broman-builds.github.io/){:target="_blank"}
 
