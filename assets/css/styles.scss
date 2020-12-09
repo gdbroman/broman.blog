@@ -1,10 +1,52 @@
 ---
 ---
 
+// Colors
+$black: #0d0d0d;
+$black_light: #333333;
+$background: #fafbfc;
+$blue: #002171;
+$blue_light: #065fd4;
+$gray_light: #cccccc;
+$gray: #828282;
+$gray_dark: #3d3d3d;
+
+// Fonts
+$main_font: 'Noto Sans JP', sans-serif;
+$secondary_font: 'Merriweather', serif;
+
+$font_size_s: 16px;
+$font_size: 17px;
+
+// Breakpoints
+$mobile: 670px;
+$mobile_small: 400px;
+
+//Generalities
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    font-family: $main_font;
+}
+html, body {
+    width: 100%;
+    height: 100%;
+}
+body {
+    display: flex;
+    max-width: 800px;
+    min-height: 100vh;
+    height: auto;
+    margin:0 auto;
+    background-color: $background;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
 @import "main";
-@import "header";
+@import "typography";
+@import "aside";
 @import "entry";
 @import "post";
-@import "sidebar";
-@import "typography";
 @import "print";

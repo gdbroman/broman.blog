@@ -6,23 +6,16 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
     <link rel="shortcut icon" href="/assets/images/favicon.jpg" />
-    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
     {% seo %}
     {% include meta.html %}
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&family=Noto+Sans+JP:wght@400;500;700;900&display=swap" rel="stylesheet">
   </head>
   <body>
-    {% include header.html %}
-    <div class="pads">
-      <section class="mh mw">
-        <main>
-          {{ content }}
-        </main>
-        <aside>
-          {% include sidebar.html %}
-        </aside>
-      </section>
+    {% include aside.html %}
+    <main>
+      {{ content }}
+    </main>
     </div>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&display=swap" rel="stylesheet">
-    {% include footer.html %}
   </body>
 </html>

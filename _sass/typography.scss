@@ -1,18 +1,96 @@
+@font-face {
+    font-family: 'Noto Sans JP', sans-serif;
+    src: url("/assets/fonts/Noto_Sans_JP/NotoSansJP-Black.otf");
+    font-weight: 900;
+}
+@font-face {
+    font-family: 'Noto Sans JP', sans-serif;
+    src: url("/assets/fonts/Noto_Sans_JP/NotoSansJP-Bold.otf");
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'Noto Sans JP', sans-serif;
+    src: url("/assets/fonts/Noto_Sans_JP/NotoSansJP-Regular.otf");
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Noto Sans JP', sans-serif;
+    src: url("/assets/fonts/Noto_Sans_JP/NotoSansJP-Light.otf");
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Noto Sans JP', sans-serif;
+    src: url("/assets/fonts/Noto_Sans_JP/NotoSansJP-Thin.otf");
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'Merriweather', serif;
+    src: url("/assets/fonts/Merriweather/Merriweather-Regular.ttf");
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Merriweather', serif;
+    src: url("/assets/fonts/Merriweather/Merriweather-Bold.ttf");
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'Merriweather', serif;
+    src: url("/assets/fonts/Merriweather/Merriweather-BoldItalic.ttf");
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Merriweather', serif;
+    src: url("/assets/fonts/Merriweather/Merriweather-Black.ttf");
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'Merriweather', serif;
+    src: url("/assets/fonts/Merriweather/Merriweather-BlackItalic.ttf");
+    font-weight: 700;
+    font-style: italic;
+}
+
 h1, h2, h3 {
-    font-weight: 500;
+    font-weight: 700;
     line-height: 1.4em;
-    letter-spacing: 0.02em;
-    color: $black_dark;
+    letter-spacing: 0.015em;
+    margin-bottom: 20px;
+    color:$black;
+}
+h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid $gray_light;
+    color:$black;
 }
 p {
     line-height: 1.6em;
     font-weight: 400;
     color: $black_light;
+    margin-bottom: 22px;
+}
+p, p * {
+    font-family: $secondary_font;
+    font-size: $font_size;
+    line-height: 1.6em;
+    font-weight: 500;
+}
+p, p *:not(a), li, li *:not(a) {
+    color:$black_light;
+}
+ul, ol {
+    padding-left: 26px;
+    margin-bottom: 22px;
 }
 li {
     line-height: 1.4em;
     font-weight: 400;
     color: $black_light;
+    font-size: $font_size;
+    margin-bottom: 4px;
 }
 a {
     text-decoration: none;
