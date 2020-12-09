@@ -7,8 +7,6 @@ Hello.
 
 I'm Gustaf.
 
-You can call me Alex if you're anglophonic.
-
 Every morning I sit down and write for about an hour.
 
 This website is the result.
