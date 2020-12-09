@@ -3,7 +3,7 @@ layout: page
 title: "📬 Newsletter"
 ---
 
-Every Sunday I send out a short email with an interesting resource on the creative process:
+Every Sunday I write a short email with an interesting resource on the creative process:
 
 <div id="revue-embed">
     <form action="https://www.getrevue.co/profile/bromanblog/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
