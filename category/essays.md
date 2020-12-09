@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "Category: Micro-Essays"
+title: "Category: Micro-essays"
 category: micro-essays
 permalink: micro-essays
 ---

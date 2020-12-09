@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "Category: Not Essays"
+title: "Category: Not essays"
 category: not-essays
 permalink: not-essays
 ---
