@@ -1,7 +1,7 @@
 ---
 title: "One True Sentence"
 permalink: one-true-sentence
-category: not-essays
+category: literary
 ---
 
 All you need is one true sentence.

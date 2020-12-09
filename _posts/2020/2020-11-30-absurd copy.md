@@ -1,7 +1,7 @@
 ---
 title: "That's Odd"
 permalink: odd
-category: not-essays
+category: literary
 ---
 
 Once upon a time, on a tiny speck,

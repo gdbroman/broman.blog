@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Winners"
 permalink: ultimate-winners
-category: not-essays
+category: literary
 ---
 
 There are fighters

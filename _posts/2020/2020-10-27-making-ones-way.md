@@ -1,7 +1,7 @@
 ---
 title: "Making One's Way"
 permalink: "making-ones-way"
-category: not-essays
+category: literary
 ---
 
 Potential: More a moon,

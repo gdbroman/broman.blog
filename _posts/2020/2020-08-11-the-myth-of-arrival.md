@@ -1,7 +1,7 @@
 ---
 title: "The Myth of Arrival"
 permalink: the-myth-of-arrival
-category: not-essays
+category: literary
 ---
 
 We seek completion yet there is none.
