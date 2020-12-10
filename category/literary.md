@@ -5,4 +5,4 @@ category: literary
 permalink: literary/
 ---
 
-A bunch of poems, and some fiction from times when I really bled.
+A bunch of poems, and some fiction.
