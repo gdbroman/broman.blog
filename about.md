@@ -38,7 +38,7 @@ Question: *Are you confused?* This uniquely weird universe confuses me every day
 
 👨‍💻 I'm an indie hacker, as well as a university student, currently experimenting with the whole 🌎 digital nomad thing, due to all learning being held online.
 
-[Here's me being a bit more professional.](https://broman-builds.github.io/){:target="_blank"}
+<a href="https://broman-builds.github.io/" target="_blank" class="post-link">Here's me being a bit more professional.</a>
 
 ## Okay. How do I reach out?
 
@@ -48,10 +48,10 @@ I’m always up for meeting new people - either through video chat, or over a co
 
 You can also follow me on social:
 
-* [@broman-books](https://www.goodreads.com/broman-books){:target="_blank"} on Goodreads
-* [@gustaf-broman](https://www.quora.com/profile/Gustaf-Broman){:target="_blank"} on Quora
-* [@alex-broman](https://www.youtube.com/channel/UCt4LJZdKaAfWd-QZgg0FNPg?view_as=subscriber){:target="_blank"} on Youtube
-* [@broman-builds](https://github.com/broman-builds){:target="_blank"} on Github
+* <a href="https://www.goodreads.com/broman-books" target="_blank" class="post-link inline">@broman-books</a> on Goodreads
+* <a href="https://www.quora.com/profile/Gustaf-Broman" target="_blank" class="post-link inline">@gustaf-broman</a> on Quora
+* <a href="https://www.youtube.com/channel/UCt4LJZdKaAfWd-QZgg0FNPg" target="_blank" class="post-link inline">@alex-broman</a> on Youtube
+* <a href="https://github.com/broman-builds" target="_blank" class="post-link inline">@broman-builds</a> on Github
 
 ## What WordPress theme is this?
 

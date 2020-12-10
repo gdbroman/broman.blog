@@ -111,6 +111,9 @@ article {
     font-weight: 400;
     margin-bottom: 8px;
     font-size: 17px;
+    &.inline {
+        display: inline-block;
+    }
 }
 #revue-embed {
     margin-bottom: 20px;
