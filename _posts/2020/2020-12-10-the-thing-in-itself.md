@@ -27,9 +27,9 @@ BUDDHA: *I can sense you are almost there. But like the forms, you're busy point
 NIETZSCHE: *All perception starts out as nerve stimuli, but at that instance, it - whatever that is - has already left the
 thing in itself and turned into representation.*
 
-BUDDHA: *Indeed, forms can point us towards it, yet it is not accessible through second derivate relations. So I ask you once again, have you ever tried observing this very moment? And this - what about this one?*
+BUDDHA: *Have you ever tried observing this moment? And this - what about this one?*
 
-NIETZSCHE: *The distinction between general concept and individual instance is also dogmatic. If it originates from the nature of things, we cannot know. Nonetheless, I shall do as you ask and observe nature with my mind's own eye.*
+NIETZSCHE: *The distinction between the general - such as time - and individual instance - such as now - is also dogmatic. If it originates from the nature of things, we cannot know. Nonetheless, I shall do as you ask and observe nature with my mind's own eye.*
 
 BUDDHA: *And?*
 
