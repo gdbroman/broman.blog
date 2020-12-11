@@ -44,7 +44,7 @@ Question: *Are you confused?* This uniquely weird universe confuses me every day
 
 ☕️ Wanna chat? Send me an email: hello@broman.blog.
 
-I’m always up for meeting new people - either through video chat, or over a coffee if we happen to be in the same city. Hit me up and we’ll work something out!
+I’m always up for meeting new people - either through video chat, or over a coffee, if we happen to be in the same city. Hit me up and we’ll work something out!
 
 You can also follow me on social:
 * <a href="https://www.goodreads.com/broman-books" target="_blank" class="post-link inline">@broman-books</a> on Goodreads
