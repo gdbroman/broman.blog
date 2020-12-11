@@ -33,4 +33,4 @@ NIETZSCHE: *The distinction between the general - such as time - and individual 
 
 BUDDHA: *And?*
 
-Ans so they were. Not forms, nor conepts. Monistic, eternal - one and forever. Here we are.
+Ans so they were. Not forms, nor conepts. Monistic, eternal - one and forever.
