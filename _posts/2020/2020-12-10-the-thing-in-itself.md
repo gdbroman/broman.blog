@@ -16,7 +16,7 @@ NIETZSCHE: *Words -*
 
 BUDDHA: *Thank you.*
 
-NIETZSCHE: *Words - they provide relations, yes. but to mistake language - a human product - with what is, is nothing short of anthropocentrism.*
+NIETZSCHE: *Words - they provide relations. But to mistake language - a human product - with what is, is nothing short of anthropocentrism.*
 
 BUDDHA: *Mmm. Very good.*
 
