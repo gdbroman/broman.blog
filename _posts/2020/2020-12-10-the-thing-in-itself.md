@@ -29,15 +29,7 @@ thing in itself and turned into representation.*
 
 BUDDHA: *Indeed, forms can point us towards it, yet it is not accessible through second derivate relations. So I ask you once again, have you ever tried observing this very moment? And this - what about this one?*
 
-NIETZSCHE: *The distinction between general concept and individual instance is also dogmatic. If it originates from the nature of things, we cannot know. Nonetheless, I shall do as you ask and observe nature with my mind's eye.*
-
-BUDDHA: *And?*
-
-NIETZSCHE: *Nothing.*
-
-BUDDHA: *And?*
-
-NIETZSCHE: *Everything.*
+NIETZSCHE: *The distinction between general concept and individual instance is also dogmatic. If it originates from the nature of things, we cannot know. Nonetheless, I shall do as you ask and observe nature with my mind's own eye.*
 
 BUDDHA: *And?*
 
