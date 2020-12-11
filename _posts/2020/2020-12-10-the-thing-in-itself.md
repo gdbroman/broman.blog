@@ -22,16 +22,12 @@ BUDDHA: *Mmm. Very good.*
 
 NIETZSCHE: *Concepts arise from the equation of ultimately unequal things. This is where human hubris lives.*
 
-BUDDHA: *I can sense you are almost there. But like the forms, the very trap you're talking about - you happily step into them!*
+BUDDHA: *I can sense you are almost there. But like the forms, you're busy pointing! May I ask, have you ever tried observing?*
 
-NIETZSCHE: *Happy? Buddha please, I call you because that is the thing I am least of all!*
-
-BUDDHA: *The trap is pointing at itself! Haha, yes - traps all the way down. May I ask, have you ever tried simply observing?*
-
-NIETZSCHE: *All perception starts out as nerve stimuli, but at that instance it - whatever that is - has already left the
+NIETZSCHE: *All perception starts out as nerve stimuli, but at that instance, it - whatever that is - has already left the
 thing in itself and turned into representation.*
 
-BUDDHA: *Indeed, forms can point us towards it, and it is not accessible through second derivate relations. So I ask you once again, have you ever tried observing this very moment? And this - what about this one?*
+BUDDHA: *Indeed, forms can point us towards it, yet it is not accessible through second derivate relations. So I ask you once again, have you ever tried observing this very moment? And this - what about this one?*
 
 NIETZSCHE: *The distinction between general concept and individual instance is also dogmatic. If it originates from the nature of things, we cannot know. Nonetheless, I shall do as you ask and observe nature with my mind's eye.*
 
