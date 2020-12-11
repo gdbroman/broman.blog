@@ -15,7 +15,7 @@ We're embarrassed by our own condition and look up to technology because it's cl
 
 Industrial society has taken on a life of its own, that can only be appropriately described as parasitism. It's made us adopt its goals in preference to our own.
 
-Technology's our god and the robot our hero: It does exactly what it's told, without complications.
+Technology's our god and the robot our hero: does exactly what it's told, without complications.
 
 We're messy, vulnerable creatures. But as much as we'd like to, our truer nature cannot be overridden after a mere couple of hundred years.
 
