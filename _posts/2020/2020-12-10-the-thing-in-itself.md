@@ -4,7 +4,7 @@ permalink: the-thing-in-itself
 category: literary
 ---
 
-Friedrich had been having troubles with finding ground under foot lately, so in a last attempt to restore some sanity he called up a friend for advice.
+Friedrich had been having trouble with finding ground under foot lately, so in a last attempt to restore some sanity he called up a friend for advice.
 
 BUDDHA: *Yes, this is Buddhahood?*
 
