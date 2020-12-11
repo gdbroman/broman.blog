@@ -27,7 +27,7 @@ BUDDHA: *Mmm. Very good. I can sense you are almost there. But like the forms, y
 NIETZSCHE: *All perception starts out as nerve stimuli, but at that instance, it - whatever that is - has already left the
 thing in itself and turned into representation.*
 
-BUDDHA: *Have you ever tried observing this moment? And...this?*
+BUDDHA: *Have you tried observing this moment? And...this?*
 
 NIETZSCHE: *The distinction between the general - such as time - and individual instance - such as now - is also dogmatic. If it originates from the nature of things, we cannot know. Nonetheless, I shall do as you ask and observe nature with my mind's own eye.*
 
