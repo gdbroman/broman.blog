@@ -1,6 +1,6 @@
 ---
 title: "The Thing In Itself"
-permalink: the-thing-iteself
+permalink: the-thing-in-itself
 category: literary
 ---
 
