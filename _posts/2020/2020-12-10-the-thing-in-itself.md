@@ -25,12 +25,12 @@ NIETZSCHE: *Concepts arise from the equation of ultimately unequal things. This 
 BUDDHA: *Mmm. Very good. I can sense you are almost there. But like the forms, you're busy pointing! May I ask, have you ever tried observing?*
 
 NIETZSCHE: *All perception starts out as nerve stimuli, but at that instance, it - whatever that is - has already left the
-thing in itself and turned into representation.*
+thing in itself and turned into a representation.*
 
 BUDDHA: *Have you tried observing this moment? And...this?*
 
-NIETZSCHE: *The distinction between the general - such as time - and individual instance - such as now - is also dogmatic. If it originates from the nature of things, we cannot know. Nonetheless, I shall do as you ask and observe nature with my mind's own eye.*
+NIETZSCHE: *The distinction between the general - such as time - and individual instance - such as now - is also dogmatic. If it originates from the nature of things, we cannot know. Nonetheless, I shall do as you ask and observe nature with my own mind's eye.*
 
 BUDDHA: *And?*
 
-NIETZSCHE: *Mmm.*
+Ans so they were. Not forms, nor conepts. Monistic, eternal - one and forever. Here we are.
