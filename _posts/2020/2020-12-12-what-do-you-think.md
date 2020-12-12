@@ -5,4 +5,4 @@ permalink: what-do-you-think
 
 Not your parents, not your neighbour, not your president.
 
-The potential of our future is inversely correlated to what degree we let an external government replace internal governing.
+The potential of our future is inversely correlated to what degree we let an external government replace our internal governing.
