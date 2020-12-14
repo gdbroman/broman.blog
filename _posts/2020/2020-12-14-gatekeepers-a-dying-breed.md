@@ -3,7 +3,7 @@ title: "Gatekeepers a Dying Breed"
 permalink: gatekeepers-a-dying-breed
 ---
 
-It’s the ever-narrower tracks that are working less well: University, monotonous jobs, pre-internet entertainment.
+It’s the ever-narrower tracks that are working less well: University, monotonous jobs, and traditional media.
 
 A slowness of adaptation combined with general cluelessness.
 
