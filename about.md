@@ -7,7 +7,7 @@ Hello.
 
 I'm Gustaf.
 
-Every morning I sit down and bleed.
+Every morning I sit down and write.
 
 This website is the result.
 
