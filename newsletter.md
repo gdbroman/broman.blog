@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "📬 Newsletter"
+permalink: /newsletter/
 ---
 
 Every Sunday I write a short email with an interesting resource on the creative process:

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "What's this website about?"
+permalink: /about/
 ---
 
 Hello.
