@@ -13,4 +13,4 @@ Analogously, bad parents are the best parents. Good childhoods do not equip peop
 
 *Parents? Horses? Where are we going?*
 
-Here: Imperfection is what motivates way-seeking.
+Here: Imperfection is our carrot.
