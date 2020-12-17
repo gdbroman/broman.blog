@@ -3,7 +3,7 @@ title: "Bad Horse, Good Horse"
 permalink: bad-horse-good-horse
 ---
 
-In *Zen Mind, Beginner’s Mind*, the author Suzuki asks; would you rather be a bad horse, or a good horse?
+In *Zen Mind, Beginner’s Mind*, author Shunryu Suzuki asks; would you rather be a bad horse, or a good horse?
 
 Naturally, we’d all want to be a good horse.
 
