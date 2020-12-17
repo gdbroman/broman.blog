@@ -3,10 +3,14 @@ title: "Bad Horse, Good Horse"
 permalink: bad-horse-good-horse
 ---
 
-In *Zen Mind, Beginner’s Mind*, Suzuki asks; would you rather be a bad horse or a good horse? Naturally, we’d all want to be a good horse.
+In *Zen Mind, Beginner’s Mind*, the author Suzuki asks; would you rather be a bad horse, or a good horse?
 
-His point? It does not matter what we choose. But also, the bad one is better.
+Naturally, we’d all want to be a good horse.
 
-For the same reason, I think bad parents are the best parents. Good childhoods do not equip people for life.
+*But*, he says, it does not matter what we choose. And the bad horse is also better. This is zen.
 
-It is the imperfections that motivate our way-seeking.
+Analogously, bad parents are the best parents. Good childhoods do not equip people for life.
+
+*Parents? Horses? Where are we going?*
+
+Here: Imperfection is what motivates way-seeking.
