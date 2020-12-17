@@ -14,7 +14,7 @@ layout: default
             <div class="up-next-entry va">
                 <div class="var">
                     <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
-                    <div class="date">{{ post.date | date: '%B %d, %Y' }}</div>
+                    <time>{{ post.date | date: '%B %d, %Y' }}</time>
                 </div>
             </div>
         {% endfor %}

@@ -40,7 +40,7 @@ article {
         font-size: 14px;
         color:$gray;
         padding-top: 4px;
-        padding-bottom: 20px;
+        padding-bottom: 22px;
         border-bottom: 1px solid $gray_light;
         * {
             line-height: 18px;
@@ -147,7 +147,7 @@ article {
 }
 
 .up-next {
-    margin-top: 20px;
+    margin-top: 22px;
     margin-bottom: 22px;
     h5 {
         font-size: 15px;
@@ -156,4 +156,12 @@ article {
         margin-bottom: 12px;
         font-weight: 400;
     }
+    h4 {
+    }
+}
+time {
+    display: block;
+    line-height: 1em;
+    color:$gray;
+    font-size:15px;
 }
