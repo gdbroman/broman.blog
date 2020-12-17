@@ -11,8 +11,7 @@
         line-height: 1em;
         color:$gray;
         font-size:15px;
-        padding-top: 18px;
-        margin-top: -2px;
+        padding-top: 21px;
         border-top: 1px solid $gray_light;
     }
     a:hover {
@@ -40,11 +39,6 @@
         -webkit-box-orient: vertical;
         overflow: hidden;
         text-overflow: ellipsis;
-    }
-    .date {
-        font-size: 15px;
-        color:$gray;
-        margin-bottom: 2px;
     }
 }
 
