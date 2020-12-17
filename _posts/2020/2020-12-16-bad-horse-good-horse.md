@@ -9,7 +9,7 @@ Naturally, we’d all want to be a good horse.
 
 *But* - he says - it does not matter what we choose! And the bad horse is also better. This is Zen.
 
-Analogously, bad parents are the best parents. A good childhood does not equip for life.
+Likewise, bad parents are the best parents. A good childhood does not equip for life.
 
 *Parents? Horses? Where are we going?*
 
