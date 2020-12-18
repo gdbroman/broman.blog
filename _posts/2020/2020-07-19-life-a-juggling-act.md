@@ -11,17 +11,9 @@ Each day we’re handed a certain amount of fuel units and it’s our job to spe
 
 Indeed, we can increase those fuel units through lifestyle design. But no matter how much meditating or fasted exercise one does - we ain't getting mo' time.
 
-_Everybody_ gets 24 hours - **so what’s your strategy gonna be like?** 
+Everybody gets 24 hours - what’s your strategy? Because you only get to have one spike. Each hour you spend on activity A, could be an hour spent on B. There's _always_ an opportunity cost.
 
-Balance - or focus?
-
-Because you only get to have one spike. Each hour you spend on activity A, could be an hour spent on B.
-
-There's _always_ an opportunity cost.
-
-Ideally you choose your habits synergistically. So that they empower each other.
-
-But other times you’ll have to let something go. 
+Ideally you spend time synergistically. So that actions empower each other. Other times you’ll have to let something go.
 
 It may be a hobby very dear to your heart, but which you recognize is eating up valuable time, so you have to let it go.
 
