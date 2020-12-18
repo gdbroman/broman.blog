@@ -3,11 +3,11 @@ title: "You Are Going to Die"
 permalink: you-are-going-to-die
 ---
 
-Everyone I know are going to die...*I am going to die!!!*
+Everyone I know are going to die. *I am going to die!!*
 
-I was about five years old when that reality first hit me. Most have an existential crisis around the same age when they first fully realize the implication of living. But the crisis tends to be short-lived and long forgotten in adulthood.
+I was about five years old when that first hit me. Most have an existential crisis around the same age when they first fully realize the implications of living. But the crisis tends to be short-lived and long forgotten about in adulthood.
 
-Some, however, reawaken this reality later in life as a tool, and it has been used by the stoics in particular to achieve clarity in everyday life - as a filter for what truly matters. And some who fully internalize it, such as Steve Jobs, attribute it as the most important factor for their success in life:
+Some, however, reawaken this reality later in life as a tool. It has been used by the stoics in particular to achieve clarity in everyday life - as a filter for what truly matters. And some who fully internalize it, such as Steve Jobs, attribute it as the most important factor for their success in life:
 
 > Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life.
 
