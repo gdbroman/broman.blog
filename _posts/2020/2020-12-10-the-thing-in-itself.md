@@ -29,7 +29,7 @@ thing in itself and turned into a representation.*
 
 BUDDHA: *Have you tried observing this moment? And...this?*
 
-NIETZSCHE: *The distinction between the general - such as time - and individual instance - such as now - is also dogmatic. If it originates from the nature of things, we cannot know. Nonetheless, I shall do as you ask and observe nature with my own mind's eye.*
+NIETZSCHE: *The distinction between the general - such as time - and individual instance - such as now - is also dogmatic. If it originates from the nature of things, we cannot know. Nonetheless, I shall do as you ask and observe with my own mind's eye.*
 
 BUDDHA: *And?*
 

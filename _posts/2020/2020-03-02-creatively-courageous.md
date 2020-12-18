@@ -31,4 +31,4 @@ This reality, being opposite to common belief, is also analogous to a key differ
 
 This key difference presents a far more optimistic view on creativity: Instead of viewing the act of creating as something only reserved for the Übermensch who never feel fear, it is something accessible for far more people: Those who are simply willing to take on the inevitable suffering that accompanies creation.
 
-To create is to be courageous and to embark on a journey full of doubt, uncertainty and anxiety. But it is also a journey to ultimate meaning in life.
+To create is to be courageous, and to embark on a journey full of doubt, uncertainty, and anxiety. It is however, also a journey to ultimate meaning in life.
