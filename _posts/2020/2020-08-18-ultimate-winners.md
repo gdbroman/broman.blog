@@ -16,7 +16,7 @@ There are also those who don’t fight, but still succeed
 
 They don’t declare war
 
-Nor surrender!
+Neither surrender!
 
 They are the non-competitors
 
