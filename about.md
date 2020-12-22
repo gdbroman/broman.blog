@@ -49,8 +49,8 @@ I’m always up for meeting new people - either through video chat, or over a co
 
 You can also follow me on social:
 * <a href="https://www.goodreads.com/broman-books" target="_blank" class="post-link inline">@broman-books</a> on Goodreads
-* <a href="https://www.quora.com/profile/Gustaf-Broman" target="_blank" class="post-link inline">@gustaf-broman</a> on Quora
 * <a href="https://github.com/broman-builds" target="_blank" class="post-link inline">@broman-builds</a> on Github
+* <a href="https://www.quora.com/profile/Gustaf-Broman" target="_blank" class="post-link inline">@gustaf-broman</a> on Quora
 
 ## What WordPress theme is this?
 
