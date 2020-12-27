@@ -9,7 +9,7 @@ article {
         font-family: $secondary_font;
     }
 }
-.post {
+.post, .entry {
     hr {
         color:$gray_light;
         margin-bottom: 20px;
