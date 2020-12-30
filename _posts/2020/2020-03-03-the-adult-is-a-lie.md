@@ -7,7 +7,7 @@ I just discovered Santa Claus doesn’t exist. And by Santa Claus I mean adults.
 
 The other day I witnessed a man die. He was a neighbor of mine and we had had a pretty good relationship.
 
-As I sat by his hospital bed, I felt relief. He was 95 years old and had been suffering lately. But I primarily felt uniquely present. Because at that moment I was once again reminded of the scarce nature of life. How we live out our days like we have an endless supply. As if we’ll always get another chance.
+As I sat down by his hospital bed, I felt relief. He was 95 years old and had been suffering lately. But I primarily felt uniquely present. Because at that moment I was once again reminded of the scarce nature of life. How we live out our days like we have an endless supply. As if we’ll always get another chance.
 
 But we won’t - and we *know* we won’t. Some moment will have to be our last. But this reality is lost in the minutiae of everyday life. Except for in certain moments. Like in the presence of death.
 
