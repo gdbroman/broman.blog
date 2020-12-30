@@ -25,7 +25,7 @@ Whenever there’s some sort of crisis we turn on the TV or go on the internet, 
 
 When someone’s dying, we turn to the doctor for status reports. To answer our questions.
 
-It seems like we are surrounded by adults. But at a second glance it becomes obvious that this is merely an illusion. Social dynamics tricking your brain. Let us for a moment think about what we *don’t* see.
+It seems like we are surrounded by adults. But let's for a moment think about what we *don’t* see.
 
 What you don't see is that the skilled car mechanic is also clueless with women.
 
@@ -33,20 +33,20 @@ That the confident news anchor on TV recently had a fight with her husband and i
 
 That the knowledgeable doctor who you turned to for answers is depressed, prays to God every single night, and is as clueless as you about what death really entails.
 
-We do not see these things because people never share them. They are what we call *“private”.* **Modern man is thus living a doubled life:** One private and one public.
+We do not see these things because people never share them. They are what we call *“private”.* Modern man lives a doubled life: One private, and one public.
 
 At home we get to do what we like. Watch our embarrassing TV-shows, dance shamelessly, sing and cry. We get to be ourselves. But the moment we step out our front door, a *shell* is put on. A shell in the form of achievements, conveniently hiding our flaws. We turn *“professional”*.
 
-We smile and tell everyone about what’s going so great in our lives. Never revealing our bad sides, because that would make us vulnerable. Consequently, **we perceive everyone else as flawless, happy human beings. Whereas we can only verify how untrue that is for ourselves.**
+We smile and tell everyone about what’s going so great in our lives. Never revealing our bad sides, because that would make us vulnerable. Consequently, we perceive everyone else as flawless, happy human beings. Whereas we can only verify how untrue that is for ourselves.
 
 Living this sort of doubled life is very unfortunate for everyone’s - but especially our own - wellbeing. Because while comfortable to hide our shortcomings in the moment, it will ultimately make us feel what you might choose to call "unwhole”. Superficial. A fraud always on the verge of being found out. Not being ourselves. Never *finding* ourselves.
 
-The solution is not running around naked, shouting out our quirky secrets. Because most likely, that’s not something you’d identify with neither. Instead, one might propose to unify your “public” and “private” selves as much as possible. Maybe they can meet somewhere in the middle.
+The solution is probably not opening up completely; running around naked in the streets and shouting our quirky little secrets to strangers. Because most likely, that’s not something you’d identify with neither. Instead, one might propose to unify your “public” and “private” selves as much as possible. Maybe they can meet somewhere in the middle.
 
-This might mean letting loose a bit more in public, and at the same time taking your alone time more seriously. To reveal something embarrassing you did yesterday to your co-worker, and read a novel instead of watching TV before bed. Maybe even contemplate death à la the stoics. Internalizing the scarcity of life will give you a great deal of courage - enough to be vulnerable.
+This might mean letting loose a bit more in public, and at the same time taking your alone time more seriously. To reveal something embarrassing you did yesterday to your co-worker, and read a novel instead of watching TV before bed. Maybe even contemplate death à la the stoics. Internalizing the scarcity of life provides a great deal of courage - enough to be vulnerable.
 
-Yesterday I realized that the adult is a myth. That it is an unreachable abstraction. And everyone you think of as responsible, perfect or knowledgeable, you probably just need to spend some more time around. A genius is just someone you haven’t got to know yet.
+Yesterday I realized the adult is a myth. That it is an unreachable abstraction. And everyone we like to think of as happy, or perfect human beings, we probably just need to spend some more time around. A genius is just someone you haven’t got to know yet.
 
-But it is through bridging the gap between our two selves that we can mature. Not wearing a shell as a fear response, but instead cultivating a personality that is constant throughout all environments - regardless of who’s watching. To become whole.
+But it is through bridging the gap between our two selves that we can mature. Not wearing a shell as a fear response, but instead cultivating a personality that is somewhat constant throughout environments - regardless of who’s watching. To become whole.
 
 That is what it should mean to become an adult.
