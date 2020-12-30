@@ -3,13 +3,13 @@ title: "A Plea to Learn in Public"
 permalink: "learn-in-public"
 ---
 
-I used to subscribe to the motto, *"work hard in silence and let the results speak for themselves"*. And while I still kind of hold my stance on that within the context of more grandiose projects, I've recently awakened to the power of learning in public.
+I used to subscribe to the motto, *"work hard in silence and let the results speak for themselves"*. And, while I still kind of hold my stance on that, within the context of more grandiose projects, I've recently awakened to the power of learning in public.
 
-What I mean by that is, **documenting your journey of development** in some area. It might mean:
+Namely, documenting your progress in some area. It might mean:
 
 - Writing book reviews on Goodreads, or publishing your Kindle notes & highlights
-- Documenting the process of learning some skill on Youtube
-- Publishing daily insights on a blog or social media platform (which is what I'm doing here)
+- Documenting the process of learning some skill on YouTube
+- Publishing daily insights on a blog or social media platform (kind of what I'm doing here)
 
 Surely, this requires humility. Putting yourself out there can be scary. But it's not as bad as one might think.
 
