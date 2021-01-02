@@ -1,6 +1,6 @@
 ---
-title: "This day we start anew"
-permalink: this-day-we-start-anew
+title: "Now we start anew"
+permalink: now-we-start-anew
 category: literary
 ---
 
@@ -12,4 +12,4 @@ This day I want to do something else, express myself more, and meet someone new.
 
 Today we were given a chance.
 
-The past is passed and this day we start anew.
+The past is passed and now we start anew.
