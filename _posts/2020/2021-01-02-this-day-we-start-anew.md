@@ -1,6 +1,6 @@
 ---
 title: "This day we start anew"
-permalink: This-day-we-start-anew
+permalink: this-day-we-start-anew
 category: literary
 ---
 
