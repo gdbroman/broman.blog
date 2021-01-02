@@ -10,6 +10,4 @@ Today we were given a chance.
 
 This day I want to do something else, express myself more, and meet someone new.
 
-Today is all there is, ever was, and forever will be.
-
 The past is passed and now we start anew.
