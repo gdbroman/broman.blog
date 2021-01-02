@@ -8,7 +8,7 @@ I don't want to hear what I said, read what I wrote, think what I thought, or se
 
 Today is alive, today brings potential.
 
-This day I want to do something else.
+This day I want to do something else; express the unsaid, appreciate the unseen, and meet someone new.
 
 The past is passed, the passed is dead.
 
