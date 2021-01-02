@@ -4,7 +4,7 @@ permalink: this-day-we-start-anew
 category: literary
 ---
 
-I don't want to hear what I said, read what I wrote, think what I thought, or see what I built.
+I don't want to hear what I said, read what I wrote, think what I thought, or know what I knew.
 
 Today is alive, today brings potential.
 
