@@ -10,6 +10,6 @@ Today is alive, today brings potential.
 
 This day I want to do something else; express the unsaid, appreciate the unseen, and meet someone new.
 
-The past is passed, the passed is dead.
+The past is, the past is dead.
 
 This day we start anew.
