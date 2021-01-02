@@ -6,9 +6,9 @@ category: literary
 
 I don't want to hear what I said, read what I wrote, think what I thought, or see what I built.
 
-Today is all there was, ever is, and ever will.
+This day is all there is, ever was, and forever will be.
 
-Today I want to do something else, express myself more, and meet someone new.
+This day I want to do something else, express myself more, and meet someone new.
 
 Today we were given a chance.
 
