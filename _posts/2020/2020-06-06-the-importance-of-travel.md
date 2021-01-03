@@ -3,9 +3,7 @@ title: The Importance of Travel
 permalink: the-importance-of-travel
 ---
 
-Maybe you seek to become more compassionate.
-
-To take better care of yourself; or, to find a greater purpose?
+Maybe you seek to become more compassionate. To take better care of yourself; or, to find a greater purpose?
 
 We’re all on our own unique journey, though some are more conscious of it than others.
 
