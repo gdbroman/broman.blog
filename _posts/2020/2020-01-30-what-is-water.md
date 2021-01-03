@@ -11,7 +11,7 @@ permalink: what-is-water
 >
 > -- What the hell is water?
 >
-> <cite>-- David Foster Wallace, *This Is Water*</cite>
+> <cite>-- David Foster Wallace</cite>
 
 Analogous to the fish becoming ignorant of the medium they're constantly in, the banalities of life often make us forget why we're here. What we're supposed to do. How to not be miserable.
 
