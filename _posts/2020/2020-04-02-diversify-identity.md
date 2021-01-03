@@ -3,9 +3,9 @@ title: "Diversifying One's Identity"
 permalink: diversify-identity
 ---
 
-So, what do you do? The first question everyone asks upon meeting someone new.
+*So, what do you do?*
 
-And depending on your answer, the person asking will either, suddenly become very interested, or never talk to you again.
+The first question everyone asks upon meeting someone new. And depending on your answer, the person asking will either, suddenly become very interested, or never talk to you again.
 
 Most cultures place tremendous value on occupation. And, being a participant in such culture, it can be easy to wrap one's whole identity up in one thing.
 
@@ -31,4 +31,4 @@ Initially you'll have to pay the price of a little bit of humiliation for being 
 
 Eventually, it will no longer freak people out when you're a little weird - it'll just be who you are.
 
-Diversify your identity and you shall become a freer individual.
+Diversify, be free.
