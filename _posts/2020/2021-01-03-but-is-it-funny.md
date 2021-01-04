@@ -6,7 +6,7 @@ category: literary
 
 Be wary of dryness.
 
-Be wary of works that don't contain any humor, outrageous claims, or schizophrenic qualities.
+Be wary of works that don't contain any humor, outrageous claims, or schizo qualities.
 
 Forget that previous line. Just this: A work's number of jokes is proportional to its level of truth.
 
