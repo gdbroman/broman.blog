@@ -4,7 +4,7 @@ permalink: but-is-it-funny
 category: literary
 ---
 
-Be wary of staleness. 
+Be wary of dryness.
 
 Be wary of works that don't contain any humor, outrageous claims, or schizophrenic qualities.
 
