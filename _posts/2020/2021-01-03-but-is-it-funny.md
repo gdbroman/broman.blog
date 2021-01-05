@@ -1,7 +1,6 @@
 ---
 title: "But is it funny?"
 permalink: but-is-it-funny
-category: literary
 ---
 
 Be wary of dryness.
