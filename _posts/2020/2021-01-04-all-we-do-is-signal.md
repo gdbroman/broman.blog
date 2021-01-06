@@ -11,4 +11,4 @@ There's wanting to be seen *not wanting* to do the thing.
 
 The signaling never ends. Even not caring about signaling is a form of signaling - inescapable! All we do is signal.
 
-With how many layers of meta-cognition would you like to obscure it with? This is all there is.
+With how many layers of meta-cognition would you like to obscure it? This is all there is.
