@@ -9,6 +9,6 @@ There's wanting to be seen *wanting* to do the thing.
 
 There's wanting to be seen *not wanting* to do the thing.
 
-And on and on. Even not caring about signaling is a form of signaling - inescapable.
+The signaling never ends. Even not caring about signaling is a form of signaling - inescapable! All we do is signal.
 
-All we do is signal; With how many layers of meta-cognition would you like to obscure it with? This is all it is.
+With how many layers of meta-cognition would you like to obscure it with? This is all there is.
