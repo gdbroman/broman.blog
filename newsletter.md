@@ -13,4 +13,4 @@ Every Sunday I write a short email with an interesting resource on the creative 
     </form>
 </div>
 
-<a href="https://www.getrevue.co/profile/bromanblog" class="post-link" target="_blank">You can read previous issues here</a>
+<a href="https://www.getrevue.co/profile/bromanblog" class="post-link" target="_blank">You can read previous issues here.</a>
