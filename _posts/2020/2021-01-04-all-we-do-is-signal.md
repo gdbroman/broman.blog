@@ -11,4 +11,6 @@ Wanting to be seen *not wanting* the thing.
 
 Also not caring about signaling is a form of signaling - inescapably! all we do is signal.
 
-How many layers of meta-cognition would you like to obscure it with? This is the freedom we have.
+How many layers of meta-cognition would you like to obscure it with? This freedom we have.
+
+Ultimately, we want to be seen - period! So really, love is the biggest freedom we have.
