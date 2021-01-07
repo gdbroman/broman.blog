@@ -13,4 +13,4 @@ Also not caring about signaling is a form of signaling - inescapably! all we do 
 
 How many layers of meta-cognition would you like to obscure it with? This freedom we have.
 
-But above all, we seek to be loved - especially those obscuring their signal. Love is our Freedom.
+But above all, we seek unconditional Love - especially those obscuring their signal. Love is our Freedom.
