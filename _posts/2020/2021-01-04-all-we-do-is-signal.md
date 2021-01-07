@@ -13,4 +13,4 @@ Also not caring about signaling is a form of signaling - inescapably! all we do 
 
 How many layers of meta-cognition would you like to obscure it with? This freedom we have.
 
-But ultimately, we want to be seen - period! So really, our biggest freedom is love.
+But above all, we want to be loved - especially those obscuring their signaling. Love is our biggest freedom.
