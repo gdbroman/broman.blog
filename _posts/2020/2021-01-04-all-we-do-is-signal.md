@@ -3,11 +3,7 @@ title: "All we do is signal"
 permalink: all-we-do-is-signal
 ---
 
-Wanting to be seen *doing* the thing.
-
-Wanting to be seen *wanting* the thing.
-
-Wanting to be seen *not wanting* the thing.
+We want to be seen *doing* the thing, *wanting* the thing, or *not wanting* the thing.
 
 Also not caring about signaling is a form of signaling - inescapably! all we do is signal.
 
