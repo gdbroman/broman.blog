@@ -1,7 +1,6 @@
 ---
 title: "I'm Leaving"
 permalink: im-leaving/
-category: literary
 ---
 
 I'm crying as I'm writing this, and I'm not even sure why. Nostalgia, I guess. It's in moments like these you get to pause, and reflect on your whole life's journey so far.
