@@ -7,14 +7,14 @@ permalink: dont-seek-meaning
 
 It's not the *wrong* question. It's the very act of questioning that is mistaken. The egoic mind playing games. Tricks!
 
-The question only arises in moments lacking meaningful *experience*. You never ask why when in presence.
+The question only arises in moments lacking meaningful *experience*. You never ask why in presence.
 
 > People say that what we’re all seeking is a meaning for life. I don’t think that’s what we’re really seeking. **I think that what we’re seeking is an experience of being alive**
 >
-> <cite>Joseph Campbell</cite>
+> <cite>-- Joseph Campbell</cite>
 
 > Sometimes, you think you have to figure out your life’s purpose, but you really just need some macadamia nuts and a cold fucking shower.
 >
-> <cite>Tim Ferriss</cite>
+> <cite>-- Tim Ferriss</cite>
 
 Chop wood, carry water.
