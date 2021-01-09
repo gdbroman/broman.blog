@@ -5,4 +5,4 @@ category: literary
 permalink: /literary/
 ---
 
-A bunch of poems, and some fiction.
+A bunch of poems, dialogues and some fiction.
