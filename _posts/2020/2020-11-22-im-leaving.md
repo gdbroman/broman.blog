@@ -7,7 +7,7 @@ I'm crying as I'm writing this, and I'm not even sure why. Nostalgia, I guess. I
 
 It's been about three months of solo traveling, and at last, I'm leaving for Canada. It has probably been my life's most important chapter yet. I'm wondering what the next chapter will bring.
 
-I'm thinking about my days in grade school - the friends I made. I'm thinking about some of the more meaningful trips I've done - the insights they've spurred. Most of the episodic memories are of a bunch of mundanities, colored with love: Standing up for your best friend, or the electric text exchange with your crush. Things you didn't think much of in the moment, but that clung on as emotional passengers.
+I'm thinking about my days in grade school - the friends I made. I'm thinking about some of the more meaningful trips I've done - the insights they've spurred. Most of the episodic memories are of a bunch of mundanities, colored with love: Standing up for your friend, or the late-night electric text exchange with your crush. Things you didn't think much of in the moment, but that clung on as emotional passengers.
 
 It's clear what is meaningful in retrospect. Not the surface-level vacations, or escapism activities. Not necessarily the most joyful moments - hard mountain hikes, ambitious projects, and odd conversations. Moments of courage, love - dread and despair. The challenges: Because whether we turn them around or not, through them we nonetheless go. Exiting; more present beings.
 
