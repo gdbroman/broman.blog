@@ -6,13 +6,13 @@ category: literary
 
 Frida Kahlo and Thomas Edison sat down at a table at the local restaurant, awaiting the waitress.
 
-**EDISON:** *Thank you for swinging by, but I have got to be frank with you. Whilst your paintings move me, I have always struggled to see; what's the purpose of it?*
+**EDISON:** *Thank you for swinging by, but I have got to be frank. Whilst your paintings move me, I have always struggled to see; what's the purpose of it?*
 
 **KAHLO:** *The purpose of art is art.*
 
-**EDISON:** *What silliness! It's a means to an end - not an end in itself. Entertainment! And so on, and so forth.*
+**EDISON:** *What silliness! It's a means to an end - not an end in itself. Entertainment! and so on, and so forth.*
 
-**KAHLO:** *What's this "end" you're talking about? Is capturing states of consciousness an end? I'd say each artwork is another swing at kicking our stagnant brains into a new gear. It's telepathy - the sharing of consciousness.*
+**KAHLO:** *What's this "end?" Is capturing states of consciousness an end? I'd say each artwork is another swing at kicking our stagnant brains into a new gear. It's telepathy - the sharing of consciousness.*
 
 **EDISON:** *What is it with you artists and pseudoscientific terms? Telepathy, ha! You sound like my worker Tesla. Tell me, what's that any good for?*
 
@@ -20,9 +20,9 @@ Frida Kahlo and Thomas Edison sat down at a table at the local restaurant, await
 
 **EDISON:** *I reckon, in some way it has - in order to make space for it, that is. Nonetheless, a painting will never help me get across the country as a locomotive will. It is a dysfunctional form of innovation.*
 
-**KAHLO:** *But you said it yourself! My paintings moved you - that's not dysfunctional. I consider it the ultimate force.*
+**KAHLO:** *But you said it yourself! My paintings moved you - that's not dysfunctional. I consider it the ultimate mover.*
 
-**WAITRESS:** *Hello - would you like to order something to drink? Perhaps, an appetizer?*
+**WAITRESS:** *Hello - would you like to order something to drink? Appetizer, perhaps?*
 
 **EDISON:** *Yes, I wou-*
 
