@@ -47,6 +47,4 @@ This might mean letting loose a bit more in public, and at the same time taking 
 
 Yesterday I realized the adult is a myth. That it is an unreachable abstraction. And everyone we like to think of as happy, or perfect human beings, we probably just need to spend some more time around. A genius is just someone you haven’t got to know yet.
 
-But it is through bridging the gap between our two selves that we can mature. Not wearing a shell as a fear response, but instead cultivating a personality that is somewhat constant throughout environments - regardless of who’s watching. To become whole.
-
-That is what it should mean to become an adult.
+But it is through bridging the gap between our two selves that we can mature. Not wearing a shell as a fear response, but instead cultivating a personality that is somewhat constant throughout environments - regardless of who’s watching. To become whole. This is what it should mean to become an adult.
