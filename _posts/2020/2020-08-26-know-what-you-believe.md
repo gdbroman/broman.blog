@@ -3,9 +3,9 @@ title: "Know What You Believe"
 permalink: know-what-you-believe
 ---
 
-We *think* we know what we think - until we try to articulate it.
+We think we know what we think - until we try verbalizing.
 
-But it is through the act of articulation that we discover what we really think. By nailing down our thoughts and examining them.
+It is through the act of articulation that we discover what we really think. By nailing down our thoughts, and examining them.
 
 Knowledge is not belief; knowledge must be transformed into belief. Refined and embodied.
 
