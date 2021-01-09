@@ -5,7 +5,7 @@ permalink: dont-seek-meaning
 
 *"What's the meaning of life?"* is a meaningless question. It's not the *wrong* question. It's the very act of questioning that is mistaken. The egoic mind playing games. Tricks!
 
-The question only arises in moments lacking meaningful *experience*. You never ask "why", in presence.
+The question only arises in moments lacking meaningful *experience*. You never ask "why" whilst in presence.
 
 > People say that what we’re all seeking is a meaning for life. I don’t think that’s what we’re really seeking. **I think that what we’re seeking is an experience of being alive**
 >
