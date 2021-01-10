@@ -12,7 +12,7 @@ Frida Kahlo and Thomas Edison sat down at a table at the local restaurant, await
 
 **EDISON:** *What silliness! It's a means to an end - not an end in itself. Entertainment! and so on, and so forth.*
 
-**KAHLO:** *What's this "end?" Is capturing states of consciousness an end? I'd say each artwork is another swing at kicking our stagnant brains into a new gear. It's telepathy - the sharing of consciousness.*
+**KAHLO:** *Tell me, what is this "end" you are talking about? Is capturing states of consciousness an end? I'd say each artwork is another swing at kicking our stagnant brains into a new gear. It's telepathy - the sharing of consciousness.*
 
 **EDISON:** *What is it with you artists and pseudoscientific terms? Telepathy, ha! You sound like my worker Tesla. Tell me, what's that any good for?*
 
