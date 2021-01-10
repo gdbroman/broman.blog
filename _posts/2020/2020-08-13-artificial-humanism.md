@@ -1,5 +1,5 @@
 ---
-title: "Artificial Humanism: On Being Employable"
+title: "Artificial Humanism"
 permalink: artificial-humanism
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Breaking One's Vow With Mediocrity"
+title: "Breaking Vow With Mediocrity"
 permalink: "vow-with-mediocrity"
 ---
 
