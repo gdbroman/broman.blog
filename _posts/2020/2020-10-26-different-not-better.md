@@ -9,6 +9,4 @@ Considering the mediocrity of the average human life, simply going about things 
 
 When something's different, you can't measure it with the old stick. But if you're playing the long game, eventually you may get to witness the measuring stick get updated. And now different IS better.
 
-Or maybe you won't - but hey; at least you weren't boring.
-
-Boring's badder than bad.
+Or maybe you won't - but hey; at least you weren't boring. Boring's badder than bad.
