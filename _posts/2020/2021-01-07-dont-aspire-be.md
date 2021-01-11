@@ -1,6 +1,6 @@
 ---
-title: "Don't Aspire, Be"
-permalink: dont-aspire-be
+title: "Be It Now"
+permalink: be-it-now
 ---
 
 Instead of being an aspiring writer, write. Instead of wanting to become a musician, play. *Be it now!*
