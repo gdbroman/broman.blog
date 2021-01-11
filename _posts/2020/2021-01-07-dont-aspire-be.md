@@ -3,7 +3,7 @@ title: "Don't Aspire, Be"
 permalink: dont-aspire-be
 ---
 
-Instead of dreaming of being a musician, play. Instead of being an aspiring writer, write.
+Instead of being an aspiring writer, write. Instead of wanting to become a musician, play. *Be it now!*
 
 The aspirational tic seems to be particularly common in creative fields where qualifications are vague. Never would anyone say they're an "aspiring MD" - you either are one, or *get away from the operating table!*
 
