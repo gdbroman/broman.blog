@@ -3,7 +3,7 @@ title: "Don't Aspire, Be"
 permalink: dont-aspire-be
 ---
 
-Instead of saying it is your *dream* to be a musician - play! Instead of naming yourself an "aspiring writer", just write.
+Instead of dreaming of being a musician, play. Instead of being an aspiring writer, write.
 
 This aspirational tic seems to be particularly common in creative fields where qualifications are vague. Never would anyone say they're an aspiring MD - you either are one, or *get away from the operating table!*
 
