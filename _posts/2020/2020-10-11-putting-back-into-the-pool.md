@@ -17,12 +17,12 @@ If you have the same set of experiences as everyone else, you're gonna make the 
 
 If reality is what is, and 'realistic' everything in its proximity - who gets to decide what is near? Who's job is it to bring closer that which seems far? At least some have got to be bold.
 
-What do *you* think? Not your parents, not your neighbour, not your president. The potential of our future is inversely correlated to the degree we let an external government replace our internal governing.
+What do *you* think? Not your parents, not your neighbor, not your president. The potential of our future is inversely correlated to the degree we let an external government replace our internal governing.
 
-To fear selfhood is natural, but to loose it we should fear more. An arm or leg is violent, losing ourselves is silent. Rediscovering, then, becomes a task by contrast. So we drown in the herd, perceiving selfhood too risky. Becoming a copy in quiet desperation:
+To fear selfhood is natural, but to lose it, we should fear more. An arm or leg is violent, losing ourselves is silent. Rediscovering ourselves, then becomes a task by contrast. So we drown in the herd, perceiving selfhood too risky. Becoming a copy in quiet desperation:
 
 > He feels best, considers himself to be healthiest, can appear to others to be in the pink of condition, just when the illness is at its most critical.
 >
 > <cite>-- Søren Kierkegaard</cite>
 
-Everyone is capable of hiding, but to *be* - unapologetically - only you can do. And one of the best feelings there is, is doing the whole poet in paris-thing, and then putting something back into the pool.
+Everyone is capable of hiding, but to *be* - unapologetically - only you can do. And one of the best feelings there is, is doing the whole poet in Paris-thing, and then putting something back into the pool.
