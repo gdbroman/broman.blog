@@ -15,6 +15,12 @@ To go to the same good school, chase the same career, live in the same area. And
 
 If you have the same set of experiences as everyone else, you're gonna make the same connections. You're also gonna feel terrible. It can't be a coincidence that *expression* is linguistically opposite to *depression*. To be liked by many for a shell, or loved for your core by a few. To express or depress one's self. These are the choices we have.
 
-If reality is what is, and 'realistic' everything in its proximity - who gets to decide what's near? Who's job is it to bring closer that which seems far? At least some have got to be bold.
+If reality is what is, and 'realistic' everything in its proximity - who gets to decide what is near? Who's job is it to bring closer that which seems far? At least some have got to be bold.
+
+To fear selfhood is natural, but to loose it we should fear more. An arm or leg is violent, losing ourselves is silent. Rediscovering, then, becomes a task by contrast. So we drown in the herd, perceiving selfhood too risky. Becoming a copy in quiet desperation:
+
+> He feels best, considers himself to be healthiest, can appear to others to be in the pink of condition, just when the illness is at its most critical.
+>
+> <cite>-- Søren Kierkegaard</cite>
 
 Everyone is capable of hiding, but to *be* - unapologetically - only you can do. And one of the best feelings there is, is doing the whole poet in paris-thing, and then putting something back into the pool.
