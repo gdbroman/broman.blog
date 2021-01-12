@@ -3,7 +3,7 @@ title: "Forget What It Is Called"
 permalink: forget-what-it-is-called
 ---
 
-Whenever someone says *"I'm an aspiring X,"* it should call for skepticality. It's a tell that *X* is probably *not* their calling; that they place value on the label - or the *valuing of* the label (and so on) - as supposed to the craft itself.
+Whenever we hear *"I'm an aspiring X,"* it should call for skepticality. To me, it's a tell that *X* is probably *not* that person's calling; that they place value on the label - or the *valuing of* the label - as supposed to the craft itself.
 
 I think we tend to know what we're supposed to do, it's just that oftentimes we don't like the answer. Sometimes, the answer is uncomfortably inconvenient, and maybe not as trendy as we'd hoped. So we replace it with something more culturally acceptable.
 
