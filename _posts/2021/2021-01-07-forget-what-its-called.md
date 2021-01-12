@@ -3,7 +3,7 @@ title: "Forget What It's Called"
 permalink: forget-what-its-called
 ---
 
-Whenever someone says *"I'm an aspiring X",* it's a sign that X is probably something they shouldn't do. It tells you that they place value on the label (or signaling their valuing of the label) as supposed to the craft itself.
+Whenever someone says *"I'm an aspiring X",* it's time to get a bit wary. It's a sign that X is probably something they shouldn't do. That they place value on the label - or are trying to signal their *valuing of* the label - as supposed to the craft itself.
 
 I think we tend to know what we're meant to do, it's just that sometimes we don't like the answer. The real answer is often uncomfortable - maybe not as convenient as we'd hoped. So we replace it with something more culturally hip.
 
