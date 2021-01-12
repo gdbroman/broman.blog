@@ -19,7 +19,7 @@ If reality is what is, and 'realistic' everything in its proximity - who gets to
 
 What do *you* think? Not your parents, not your neighbor, not your president. The potential of our future is inversely correlated to the degree we let an external government replace our internal governing.
 
-To fear selfhood is natural, but to lose it, we should fear more. An arm or leg is violent, losing ourselves is silent. Rediscovering ourselves, then becomes a task by contrast. So we drown in the herd, perceiving selfhood too risky. Becoming a copy in quiet desperation:
+To fear selfhood is natural, but to lose it, we should fear more. An arm or leg is violent, but losing ourselves is silent. Rediscovering ourselves, then becomes a task by contrast, so we drown in the herd, perceiving selfhood too risky. Becoming a copy in quiet desperation:
 
 > He feels best, considers himself to be healthiest, can appear to others to be in the pink of condition, just when the illness is at its most critical.
 >
