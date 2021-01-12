@@ -17,7 +17,7 @@ If you have the same set of experiences as everyone else, you're gonna make the 
 
 If reality is what is, and 'realistic' everything in its proximity - who gets to decide what is near? Who's job is it to bring closer that which seems far? At least some have got to be bold.
 
-What do *you* think? Not your parents, not your neighbor, not your president. The potential of our future is inversely correlated to the degree we let an external government replace our internal governing.
+What do *you* think? Not your parents, not your neighbor, not your president. The potential of our future is threatened by the degree we let an external government replace our internal governing.
 
 To fear selfhood is natural, but to lose it, we should fear more. An arm or leg is violent, but losing ourselves is silent. Rediscovering ourselves, then becomes a task by contrast, so we drown in the herd, perceiving selfhood too risky. Becoming a copy in quiet desperation:
 
