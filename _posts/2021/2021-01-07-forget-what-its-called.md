@@ -3,7 +3,7 @@ title: "Forget What It's Called"
 permalink: forget-what-its-called
 ---
 
-Language gives rise to so much suffering. Instead of aspiring to be a "writer," just write! Instead of wanting to become a "musician," play. *Do it now!*
+Language gives rise to so much suffering. Instead of being an "aspiring writer," just write! Instead of wanting to become a musician, play. *Do it now!*
 
 The aspirational tic seems to be particularly common in creative fields, where qualifications are vague. Never would anyone say they're an "aspiring MD" - you either are one, or *get away from the operating table!*
 
