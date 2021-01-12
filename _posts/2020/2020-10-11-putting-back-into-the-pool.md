@@ -9,7 +9,7 @@ If you're somewhat smart, in the conventional sense of the word, there's a big t
 
 To go to the same good school, chase the same career, live in the same area. And when someone bright doesn't walk a preset path, we say *"what a waste!"*
 
-> But you might wanna think about going to paris and being a poet for a few years
+> But you might wanna think about going to Paris and being a poet for a few years
 >
 > <cite><a href="https://www.youtube.com/watch?v=oPbcM5N5Sqg">-- Steve Jobs</a></cite>
 
