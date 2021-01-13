@@ -25,8 +25,6 @@ That I begin to rot if I go more than one day without writing. Like as if my tho
 
 Accordingly, I don't run any ads or analytics on here - nor will I ever. The goal is authentic expression.
 
-I don't necessarily agree with everything I've said. But maybe some of it can be of interest to you?
-
 ## Err...Who are you?
 
 Who am I? That’s a tough one.
