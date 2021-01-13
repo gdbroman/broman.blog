@@ -4,7 +4,7 @@ title: "📬 Newsletter"
 permalink: /newsletter/
 ---
 
-Every Sunday I write a short email on a resource (link/person) that helps us create value on the internet:
+Every Sunday I write a short email with a resource (link/person) that helps us create stuff on the internet.
 
 <div id="revue-embed">
     <form action="https://www.getrevue.co/profile/bromanblog/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
