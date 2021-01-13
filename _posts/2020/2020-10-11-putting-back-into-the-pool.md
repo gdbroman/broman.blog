@@ -3,11 +3,11 @@ title: "Putting Back Into the Pool"
 permalink: "putting-back-into-the-pool"
 ---
 
-We wear clothes other people make, eat food other people cook, and use technology other people invent. Always taking from that giant pool.
-
 If you're somewhat smart, in the conventional sense of the word, there's a big trap of conformity. You're expected to tread one of a handful laid out paths.
 
 To go to the same good school, chase the same career, live in the same area. And when someone bright doesn't walk a preset path, we say *"what a waste!"*
+
+We wear clothes other people make, eat food other people cook, and use technology other people invent. Always taking from that giant pool.
 
 > But you might wanna think about going to Paris and being a poet for a few years
 >
