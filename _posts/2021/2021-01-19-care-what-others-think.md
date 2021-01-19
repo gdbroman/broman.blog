@@ -1,5 +1,5 @@
 ---
-title: "Care: What Other's Think"
+title: "Care: What Others Think"
 permalink: care-what-others-think
 ---
 
