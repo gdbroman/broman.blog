@@ -3,7 +3,7 @@ title: "Most Thoughts Are Junk"
 permalink: most-thoughts-are-junk
 ---
 
-I think we have to remember this.
+I think we have to remember this. To not trust indoor thoughts, etc.
 
 Not necessarily that the brain is a liar, but more like a naive processor. We're not obliged to entertain all its processes.
 
