@@ -9,4 +9,4 @@ Differences in language seem symptomatic of different ways of being rather than 
 
 Everyday expressions - because we use them every day - shield off clarity for areas of thought. E.g. “airing one’s dirty laundry in public” implies a badness of vulnerability through sharing. And this particular saying, which happens to be used by boomers, reflects their valuing of privacy.
 
-The more fundamental the area of inquiry, the more effectively language muddies the water. Obviously! since any abstraction has to quickly rise out of the mud in order to be useful. So by "merely" communicating we ignore questions we'd only consider meaningful in a preverbal state. So sometimes, the best we can say is nothing at all.
+The more fundamental the area of inquiry, the more effectively words muddy the water. Obviously! since any abstraction has to quickly rise out the mud in order to be useful. So by "merely" communicating we ignore questions we'd only consider meaningful in a preverbal state. Sometimes, the best we can say is thus nothing at all.
