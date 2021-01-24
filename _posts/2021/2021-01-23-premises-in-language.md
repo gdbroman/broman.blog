@@ -3,7 +3,7 @@ title: "Premises in Language"
 permalink: premises-in-language
 ---
 
-Wherever we go, there we are, and there our problems are. Fundamentally, wherever we go, the same people are. But our ways of sameness differ, and we see this in language.
+Wherever we go, there we are, and there our problems are. Fundamentally, wherever we go, the same people are. But our levels of being differ, and we see this in language.
 
 Language shapes our thinking - yes, this we know - but also thinking shapes our language. So I think differences in language are symptomatic of differences in being, rather than some separate process in itself.  Language is the most contextual invention there is - *being* being the premise.
 
