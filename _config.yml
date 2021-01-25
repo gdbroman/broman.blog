@@ -10,8 +10,9 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      name: "Broman's Blog"
-      title: "Broman's Blog"
+      name: "broman.blog"
+      title: "broman.blog"
+      description: "Micro-essays, fiction and dialogues."
       layout: post
-      author: "Gustaf Alexander Broman"
+      author: "Broman"
       category: "micro-essays"
