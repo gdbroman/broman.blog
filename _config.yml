@@ -12,8 +12,8 @@ defaults:
     values:
       name: "broman.blog"
       title: "broman.blog"
-      description: "Micro-essays, fiction and dialogues."
+      description: "On the oddness of being."
       thumbnail: "/assets/images/profile.jpg"
       layout: post
-      author: "Broman"
+      author: "bromanbuilds"
       category: "micro-essays"
