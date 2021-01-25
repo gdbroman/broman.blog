@@ -12,7 +12,7 @@ defaults:
     values:
       name: "broman.blog"
       title: "broman.blog"
-      description: "On the oddness of being."
+      description: "On the oddness of life."
       thumbnail: "/assets/images/profile.jpg"
       layout: post
       author: "bromanbuilds"
