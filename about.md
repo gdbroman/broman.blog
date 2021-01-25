@@ -35,7 +35,7 @@ Question: *Are you confused?* This uniquely weird universe confuses me every day
 
 ## What's your day job?
 
-👨‍💻 I'm an indie hacker, as well as a university student, currently experimenting with the whole 🌎 digital nomad thing, due to all learning being held online.
+👨‍💻 I'm an indie hacker, as well as a university student, currently experimenting with the whole 🌎 nomadic lifestyle-thing, due to all learning being held online.
 
 <a href="https://broman-builds.github.io/" target="_blank" class="post-link">Here's me being a bit more professional.</a>
 
@@ -43,11 +43,11 @@ Question: *Are you confused?* This uniquely weird universe confuses me every day
 
 ☕️ Wanna chat? Send me an email: hello@broman.blog.
 
-I’m always up for meeting new people - either through video chat, or over a coffee, if we happen to be in the same city. Hit me up and we’ll work something out!
+I’m always up for meeting new people - either through video chat, or over a coffee if we happen to be in the same city. Hit me up and we’ll work something out!
 
 You can also follow me on social:
-* <a href="https://www.goodreads.com/broman-books" target="_blank" class="post-link inline">@broman-books</a> on Goodreads
-* <a href="https://github.com/broman-builds" target="_blank" class="post-link inline">@broman-builds</a> on Github
+* <a href="https://www.goodreads.com/bromanbuilds" target="_blank" class="post-link inline">@bromanbuilds</a> on Goodreads
+* <a href="https://github.com/bromanbuilds" target="_blank" class="post-link inline">@bromanbuilds</a> on Github
 * <a href="https://www.quora.com/profile/Gustaf-Broman" target="_blank" class="post-link inline">@gustaf-broman</a> on Quora
 
 ## What WordPress theme is this?
