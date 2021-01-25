@@ -13,6 +13,7 @@ defaults:
       name: "broman.blog"
       title: "broman.blog"
       description: "Micro-essays, fiction and dialogues."
+      thumbnail: "/assets/images/profile.jpg"
       layout: post
       author: "Broman"
       category: "micro-essays"
