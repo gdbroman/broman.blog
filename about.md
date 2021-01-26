@@ -46,7 +46,7 @@ Question: *Are you confused?* This uniquely weird universe confuses me every day
 I’m always up for meeting new people - either through video chat, or over a coffee if we happen to be in the same city. Hit me up and we’ll work something out!
 
 You can also follow me on social:
-* <a href="https://www.goodreads.com/bromanbooks" target="_blank" class="post-link inline">@bromanbooks</a> on Goodreads
+* <a href="https://www.goodreads.com/broman-books" target="_blank" class="post-link inline">@broman-books</a> on Goodreads
 * <a href="https://github.com/bromanbuilds" target="_blank" class="post-link inline">@bromanbuilds</a> on Github
 * <a href="https://www.quora.com/profile/Gustaf-Broman" target="_blank" class="post-link inline">@gustaf-broman</a> on Quora
 
