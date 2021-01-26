@@ -13,7 +13,7 @@ defaults:
       name: "broman.blog"
       title: "broman.blog"
       description: "On the oddness of being."
-      thumbnail: "/assets/images/profile.jpg"
+      image: "/assets/images/profile.jpg"
       layout: post
       author: "bromanbuilds"
       category: "micro-essays"
