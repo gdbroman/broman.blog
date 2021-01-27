@@ -9,4 +9,4 @@ A value we often come across is *"to not care what others think of us."* It is s
 
 Not that it is *bad* advice, but that it assumes people care in the first place. Which they do - about themselves! Especially when their manners are hurtful and appear directed towards us.
 
-By caring for other's opinions - the emotional baggage that's feeding them - and not desperately shushing them away as a threat, we're freed from their personal grip on us.
+By caring for other's opinions - the emotional baggage that's feeding them - and not desperately shushing them away as threat, we're freed from their personal grip on us.
