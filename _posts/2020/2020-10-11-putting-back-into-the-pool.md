@@ -25,4 +25,4 @@ To fear selfhood is natural, but to lose it, we should fear more. An arm or leg 
 >
 > <cite>-- Søren Kierkegaard</cite>
 
-Everyone is capable of hiding, but to *be* - unapologetically - only you can do. And one of the best feelings there is, is doing the whole poet in Paris-thing, and then putting something back into the pool.
+Everyone is capable of hiding, but to *be* - unapologetically - only you can do. And one of the best feelings there is, is doing the whole poet-in-Paris thing, and then putting something back into the pool.
