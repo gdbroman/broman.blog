@@ -3,7 +3,7 @@ title: "Be Opinionated"
 permalink: be-opinionated
 ---
 
-A quick bad decision is better than no decision - *at least it’s quick!* A wrong belief held strongly is better than being loosely correct - *at least it’s strong!*
+A quick bad decision is better than no decision - at least it is quick. A wrong belief held strongly is better than being loosely correct - at least it is strong. Reclaim responsibility for what you think!
 
 Open-minded is not the same as spineless. Rather be proven wrong, than not at all. Have convictions, or you can’t win (nor know when you’re wrong and need to rethink). Without a goal we can’t score kind-of-a-thing.
 
