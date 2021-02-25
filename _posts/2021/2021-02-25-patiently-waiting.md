@@ -7,8 +7,8 @@ Desperately trying to stay afloat, we grab on to anything that postpones the eve
 
 Knowing we cannot kick forever, some anxiously start to wonder what it is that is waiting? Realizing that one day, we too, will - irrespective of desire - in battle or resignation - have to let go, and confront our situation.
 
-We can sleep in light, or awake in darkness, but most reject death before death and so they die cowards having never lived. Terrified of what lingers in the crevasses of the mind, we answer boredom, solitude, and tragedy, by pressing buttons, swiping cards, and chewing corn. Reflexively reaching for water whenever the flavor grows too strong.
+We can sleep in light, or awake in darkness, but most reject death before death and so they die cowards having never lived. Terrified of what lingers in the crevasses of the mind, we answer to boredom, solitude, and tragedy, by pressing buttons, swiping cards, and chewing corn. Reflexively reaching for water whenever the flavor grows too strong.
 
 I, too, have been fleeing - all the while naively thinking of myself as having an interest in this issue of being, but only now realizing my deceit. Only now dipping my toes in the existential silence and its accompanying discomfort. Albeit with a new faith, that love awaits on the other side.
 
-In the end, we all are - and, as is realized on the other side, always *were* - alone...All one.
+In the end, we all are - and, as is realized on the other side, always *were* - alone...all one.
