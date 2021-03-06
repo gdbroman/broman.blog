@@ -18,7 +18,7 @@ They don’t declare war
 
 Neither surrender!
 
-They are the non-competitors
+They are the non-competing
 
 Still and happy
 

@@ -40,7 +40,7 @@ With courage we can dare to voyage.
 
 To tread the harder path.
 
-Because the alternative is way, way worse.
+Because the alternative is worse.
 
 ---
 
