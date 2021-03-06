@@ -12,5 +12,3 @@ Every Sunday I write a short email on the creative process:
         <input type="submit" value="Subscribe" name="member[subscribe]" id="member_submit">
     </form>
 </div>
-
-<a href="https://www.getrevue.co/profile/bromanblog" class="post-link" target="_blank">You can read previous issues here.</a>
