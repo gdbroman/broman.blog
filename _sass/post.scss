@@ -126,9 +126,10 @@ article {
         border-radius: 2px;
         input {
             display: inline-block;
-            border: 0;
-            padding: 10px 2px 10px 12px;
             flex:1;
+            padding: 10px 2px 10px 12px;
+            font-size: 16px;            
+            border: 0;
             min-width: 42px;
         }
         input#member_submit {
