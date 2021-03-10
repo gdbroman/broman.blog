@@ -1,5 +1,5 @@
 ---
-title: "Bliss: Patiently Awaiting"
+title: "Patiently Awaiting"
 permalink: patiently-waiting
 ---
 
