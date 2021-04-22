@@ -5,7 +5,7 @@ permalink: be-opinionated
 
 Speak absolutely in the abstract, all else is cowardice.
 
-Open-minded is not the same as spineless. Rather be proven wrong, than not at all. Have convictions, or you can’t win - nor know when to rethink.
+Open-minded is not the same as spineless. Rather be proven wrong than not at all.
 
 Not hedging your opinions is also more fun. Comedians are well aware of this, and some use it as a gimmick. For instance, everyone gets that Bill Burr is not *actually* misogynistic when he shits on feminism or whatever.
 
