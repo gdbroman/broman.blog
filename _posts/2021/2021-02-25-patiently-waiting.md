@@ -3,7 +3,7 @@ title: "Patiently Awaiting"
 permalink: patiently-waiting
 ---
 
-Trying to stay afloat, we grab on to anything which postpones the ever-pressing question, patiently awaiting us in silent darkness on the ocean floor.
+Trying to stay afloat, we grab on to anything which postpones the ever-pressing question - patiently awaiting us in silent darkness on the ocean floor.
 
 Knowing we cannot kick forever, some anxiously start to wonder what it is that is waiting? Realizing that one day, we too, will - irrespective of desire - in battle or resignation - have to let go, and confront our situation.
 
