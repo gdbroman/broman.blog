@@ -5,7 +5,7 @@ import Date from '../components/date'
 import { getSortedPostsData } from '../lib/posts'
 import utilStyles from '../styles/utils.module.css'
 import Layout, { siteTitle } from '../components/layout'
-import { SocialIcon } from '../components/social-icon'
+import { SocialIcon } from '../components/icon'
 
 export default function Home({ allPostsData }) {
   return (
@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title }) => (
             <li className={utilStyles.listItem} key={id}>
-              <Link href={`/posts/${id}`}>
+              <Link href={`/${id}`}>
                 <a>{title}</a>
               </Link>
               <br />
