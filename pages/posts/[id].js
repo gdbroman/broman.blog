@@ -5,18 +5,18 @@ import { getAllPostIds, getPostData } from '../../lib/posts'
 import Date from '../../components/date'
 import utilStyles from '../../styles/utils.module.css'
 
-export default function Post({ title, contentHtml, date = '2020-01-01' }) {
+export default function Post({ postData }) {
   return (
     <Layout>
       <Head>
-        <title>{title}</title>
+        <title>{postData.title}</title>
       </Head>
       <article>
-        <h1 className={utilStyles.headingXl}>{title}</h1>
+        <h1 className={utilStyles.headingXl}>{postData.title}</h1>
         <div className={utilStyles.lightText}>
-          <Date dateString={date} />
+          <Date dateString={postData.date ?? '2020-01-01'} />
         </div>
-        <div dangerouslySetInnerHTML={{ __html: contentHtml }} />
+        <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
       </article>
     </Layout>
   )
