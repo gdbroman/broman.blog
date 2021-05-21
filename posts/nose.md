@@ -11,4 +11,4 @@ It is so obvious how your neighbor has character flaws. It is so obvious how you
 
 Everyone has demons, _but why is it so goddamn hard to see your own?_ We like to think we see them. How could you know you're not blind to blindness like every other fool?
 
-Get some brutal friends.
+Get some upright friends.
