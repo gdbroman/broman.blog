@@ -1,0 +1,178 @@
+\documentclass{article}
+\usepackage[cm]{fullpage}
+\usepackage{color}
+\usepackage{hyperref}
+\usepackage[left=2.8cm, right=2.8cm, top=1.42cm, bottom=1cm]{geometry}
+
+\hypersetup{breaklinks=true,%
+	colorlinks=true,%
+	linkcolor=cyan,%
+	urlcolor=MyDarkBlue}
+
+\definecolor{MyDarkBlue}{rgb}{0,0.0,0.45}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Formatting parameters  %
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newlength{\tabin}
+\setlength{\tabin}{1em}
+\newlength{\secsep}
+\setlength{\secsep}{0.12cm}
+
+\setlength{\parindent}{0in}
+\setlength{\parskip}{0in}
+\setlength{\itemsep}{0in}
+\setlength{\topsep}{0in}
+\setlength{\tabcolsep}{0in}
+
+\definecolor{contactgray}{gray}{0.3}
+\pagestyle{empty}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  Template Definitions  %
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\lineunder}{\vspace*{-8pt} \\ \hspace*{4pt} \hrulefill \\ \vspace*{-10pt}}
+\newcommand{\name}[1]{\begin{center}\textsc{\Huge#1}\\\end{center}}
+\newcommand{\program}[1]{\begin{center}\textsc{#1}\end{center}}
+\newcommand{\contact}[1]{\begin{center}\color{contactgray}{\small#1}\end{center}}
+\newcommand{\website}[1]{\color{contactgray}{\small#1}}
+
+\newenvironment{tabbedsection}[1]{
+	\begin{list}{}{
+			\setlength{\itemsep}{0pt}
+			\setlength{\labelsep}{0pt}
+			\setlength{\labelwidth}{0pt}
+			\setlength{\leftmargin}{\tabin}
+			\setlength{\rightmargin}{\tabin}
+			\setlength{\listparindent}{0pt}
+			\setlength{\parsep}{0pt}
+			\setlength{\parskip}{0pt}
+			\setlength{\partopsep}{0pt}
+			\setlength{\topsep}{#1}
+		}
+		\item[]
+	}{\end{list}}
+
+\newenvironment{nospacetabbing}{
+	\begin{tabbing}
+	}{\end{tabbing}\vspace{-1.2em}}
+
+\newenvironment{resume_header}{}{\vspace{8pt}}
+
+
+\newenvironment{resume_section}[1]{
+	\filbreak
+	\vspace{2\secsep}
+	\textsc{\large#1}
+	\lineunder
+	\begin{tabbedsection}{\secsep}
+	}{\end{tabbedsection}}
+
+\newenvironment{resume_subsection}[2][]{
+	\textbf{#2} \hfill {\footnotesize #1}
+	\begin{tabbedsection}{0.5\secsep}
+	}{\end{tabbedsection}}
+
+\newenvironment{subitems}{
+	\renewcommand{\labelitemi}{-}
+	\begin{itemize}
+		\setlength{\labelsep}{1em}
+	}{\end{itemize}}
+
+\newenvironment{resume_employer}[4]{
+	\vspace{\secsep}
+	\textbf{#1} \\ 
+	\indent {\small #2} \hfill {\footnotesize#3 (#4)}
+	\begin{tabbedsection}{0pt}
+		\begin{subitems}
+		}{\end{subitems}\end{tabbedsection}}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Start Document     %
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+	
+	\begin{resume_header}
+		\name{Gustaf Broman}
+		\vspace{4pt}
+		\contact{99gustaf@gmail.com \hspace{0.78cm} +1 (343) 580-9944 \hspace{0.78cm}\href{https://broman-builds.github.io}{\color{contactgray}broman-builds.github.io}}
+	\end{resume_header}
+	
+	\begin{resume_section}{About Me}
+		\begin{nospacetabbing}
+			\textbf{Programming}  \ \ \= JavaScript/TypeScript,  Python, Java, GraphQL, SQL,  Git, Unix/Linux,  \LaTeX\\*
+			\textbf{Web/Media} \> React, React Native, Express.js, ScSS/SaSS, Photoshop, Premiere Pro\\*
+			\textbf{Interests} \> Consumer Internet and Product Development\\*
+		\end{nospacetabbing}		
+	\end{resume_section}
+
+	\begin{resume_section}{Work Experience}
+		\begin{resume_employer}{Curb Food}{Software Engineer}{Remote}{Feb 2021 -}
+			\item Led mobile \& web development of the customer-facing app in React Native TypeScript with strong emphasis on reusable components and clean state management using Context API
+			\item Built and deployed GraphQL server in Express.js using Heroku and Firebase storage
+			\item Managed a full-stack intern with daily standups and agile methodology
+		\end{resume_employer}
+		\begin{resume_employer}{Dryft Technologies}{Software Engineering Intern}{Stockholm, Sweden}{Summer 2020}
+			\item Built and launched React Typescript app which acquired the startup's first automated sign-up (with the help of AWS, such as Elastic Beanstalk and S3 Buckets)
+			\item Developed RESTful API from scratch in Flask together with another intern
+			\item Learned rapid prototype testing and how to interpret customer feedback
+		\end{resume_employer}
+		
+		\begin{resume_employer}{Arkitema Architects}{Web Developer Intern}{Stockholm, Sweden}{June 2018 - October 2018}
+			\item Led development and maintenance of the international firm’s “pinboard” website which handled communication between different departments
+			\item Worked full-time during summer and later part-time for two months alongside university
+		\end{resume_employer}
+	\end{resume_section}
+	
+	
+	\begin{resume_section}{Competitions and Personal Projects}
+		\begin{resume_subsection}[(April 2020)]{Web Scraper for Healthcare Products \website{(\href{https://hittavaran.com}{\color{contactgray}hittavaran.com})}}
+			\begin{subitems}
+				\item Co-founded recommender website during the pandemic to help people find hand sanitizers
+				\item Over 20k visitors within 48 hours of launching (due to Facebook posts going viral)
+				\item Increased the Swedish pharmacies Apohem’s \& MEDS’ sales by approximately 100 000 SEK
+				
+			\end{subitems}
+		\end{resume_subsection}
+	
+		\begin{resume_subsection}[(February 2019)]{Study Hacks Blog \website{(\href{https://studentekonomen.co}{\color{contactgray}studentekonomen.co})}}
+			\begin{subitems}
+				\item Created study hacks blog while in engineering school about how to learn more effectively
+				\item Did sponsorships and collaborations with relevant companies, such as tech and book retailers
+				\item Gained 25k+ unique readers within the first year (fully organic traffic)
+			\end{subitems}
+		\end{resume_subsection}
+	
+		\begin{resume_subsection}[(March 2018)]{National Science Olympiad Competitor}
+			\begin{subitems}
+				\item Built and programmed a remote-controlled battlebot with Arduino, Java, and 10kg of metal
+				\item The robot, along with my thesis, was nominated by The Swedish Federation of Young Scientists (SIYSS) for sophistication (Sweden's leading high school science olympiad)
+			\end{subitems}
+		\end{resume_subsection}
+	\end{resume_section}
+		
+		
+	\begin{resume_section}{Education}
+		\begin{resume_subsection}[Kingston, ON (2020--Present)]{Queen's University at Kingston}
+			\begin{subitems}
+				\item Honours Bachelor of Computing (Comptuter Science)
+				\item Specialization: Cognitive Science
+				\item Cummulative Average: 95\%
+			\end{subitems}
+		\end{resume_subsection}
+		
+		
+		\begin{resume_subsection}[Stockholm, Sweden (2018--2020)]{KTH Royal Institute of Technology}
+			\begin{subitems}
+				\item Bachelor of Science (Engineering Physics)
+				\item Engagement in startup incubator KTH Innovation during second year
+				\item Cummulative Average: 93\%. Transferred upon realizing my greater interest in cs
+			\end{subitems}
+		\end{resume_subsection}
+	\end{resume_section}
+
+\end{document}

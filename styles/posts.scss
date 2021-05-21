@@ -1,0 +1,39 @@
+@import "sizes";
+
+section#posts {
+  margin-bottom: 32px;
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    li {
+      display: flex;
+      align-items: center;
+      margin-bottom: 16px;
+      a {
+        flex: 1;
+        font-size: larger;
+        padding-right: 8px;
+        line-height: 1.4em;
+      }
+      time {
+        font-size: medium;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: $PAGE_WIDTH) {
+  section#posts {
+    ul {
+      li {
+        a {
+          font-size: large;
+        }
+        time {
+          font-size: small;
+        }
+      }
+    }
+  }
+}

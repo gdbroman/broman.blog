@@ -1,0 +1,35 @@
+@use 'print';
+@use 'intro';
+@use 'posts';
+@use 'footer';
+@use 'article';
+@use 'typography';
+
+@import "sizes";
+@import "colors";
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  background-color: $WHITE_LIGHT;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+main#container {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  max-width: $PAGE_WIDTH;
+  margin: 0 auto;
+  padding: 16px;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  object-fit: cover;
+}

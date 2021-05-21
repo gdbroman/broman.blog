@@ -1,0 +1,42 @@
+---
+title: 'The Lake'
+date: '2020-10-29'
+---
+
+_"No!"_ he mimed. Gazing out over the lake surrounded by silent trees. This is magic, he thought. Weird, even. Emotion colours the mind in such unusual ways.
+
+"Follow me, will you? It's no longer occupied." Once again, she turned around to the free table in the opposite end of the boathouse pier and stood there waiting for him with a smile.
+
+He didn't. For some reason, this table in the shade felt just right. Why wouldn't she bow down? Not that it angered him. But, the fact that half the restaurant was now becoming aware of their little theatre - did. And the fact that _that_ did - really did. Simply looking at her was the equivalent of maxing out the gas stove under an already overboiling pot of pasta. So actually, you could say it drove him fucking mad.
+
+He returned to the lake for consultation. Looking; but it wasn't as beautiful as the previous minute. That's it. Getting up from his chair, he approached her while avoiding eye contact. "If you're gonna be this stubborn I'll leave you right now. I'm not even that hungry - I've eaten twice today already."
+
+"No, I want this to be nice, it's our last real day together before you leave."
+
+The pasta was now all over the stove with water running down the floor. He turned, substituting his vision of her for the lake that had now joined the trees in practicing silence.
+
+"I can't see why it's such a big deal, the table's much nicer," she said as they finally sat down in the shade. "What's the matter with you? Why aren't you answering me? It's not nice."
+
+"Answer what?" he retorted, almost hypnotized.
+
+"Well, I've been talking to you - I asked you a question."
+
+"Mm...no you didn't? What did you ask?" Now a bit nicer.
+
+"Why you didn't want to sit in the sun?" Remarkably, still with a smile on her face.
+
+"Is that what you want to discuss before I leave?"
+
+_"HellohowmayIhelpyou?"_ the young waitress delivered in a way only someone who's said it over a thousand times can.
+
+"Well, we haven't gotten around to looking at the menu yet so-"
+
+"Meatballs and a glass of still water, thank you." Handing over his menu.
+
+"Okay, guess I'll have the same then." Following up with an insecure - and under regular circumstances, amusing - laughter.
+
+The waitress retrieved the menu from under the girl's heavy palms and left them observing air in silence. A bypasser would've thought they were attending a funeral right after.
+
+Yes, he was leaving tomorrow, but not now. The lake had shown him. It was eternity, and everything was sparkling. _She_ was sparkling.
+
+"I'm sorry."

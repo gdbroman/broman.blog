@@ -1,0 +1,61 @@
+@import 'sizes';
+@import 'colors';
+@import 'typography';
+
+header.intro {
+  display: flex;
+  margin-bottom: 32px;
+  overflow: hidden;
+  img.profile-picture {
+    width: 92px;
+    height: 92px;
+    margin-top: 9px;
+    margin-right: 16px;
+    border-radius: 50% 0 50% 50%;
+    cursor: pointer;
+  }
+  section {
+    h1 {
+      margin: 0;
+      padding-bottom: 4px;
+      font-size: large;
+      cursor: pointer;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+    p {
+      font-family: $MAIN_FONT;
+      font-size: 16px;
+      margin: 0;
+      a {
+        font-size: 16px;
+        font-weight: 600;
+      }
+    }
+  }
+}
+
+header.intro.mini {
+  align-items: center;
+  h1 {
+    padding: 0;
+  }
+  img.profile-picture {
+    margin-top: 0;
+    width: 32px;
+    height: 32px;
+  }
+}
+
+@media screen and (max-width: $PAGE_WIDTH) {
+  header#intro {
+    background-color: transparent;
+    padding: 0;
+    img.profile-picture {
+      width: 50px;
+      height: 50px;
+      margin-right: 12px;
+    }
+  }
+}

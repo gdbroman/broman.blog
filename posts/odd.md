@@ -1,0 +1,18 @@
+---
+title: "That's Odd"
+date: "2020-11-30"
+---
+
+Once upon a time, on a tiny speck, monkeys became aware, and now they’re depressed.
+
+So off they went on a meaning quest. They tried with values - grandiose and noble!
+
+And how they searched! But to no avail. They had witnessed the absurd, and there was no going back.
+
+Hopelessness! Despair! What were their options? To continue as regular? As if nothing had happened?
+
+Not with pure will - not even death. Unavoiding, unseeable, absurdity prevailed.
+
+Why hold reason to such high regard? When it cannot provide a meaning in life?
+
+Time is brief, but we are not. May I never mistake a hammer for God.

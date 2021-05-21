@@ -1,0 +1,38 @@
+@import "colors";
+
+$MAIN_FONT: Karla, sans-serif;
+$SECONDARY_FONT: "Merriweather", serif;
+
+$FONT_SIZE: 18px;
+
+h1,
+h2,
+h3 {
+  font-family: $MAIN_FONT;
+  line-height: 1.5em;
+  letter-spacing: 0.015em;
+  color: $BLACK;
+}
+
+p,
+p * {
+  font-family: $SECONDARY_FONT;
+  font-size: $FONT_SIZE;
+  line-height: 1.6em;
+  font-weight: 400;
+}
+
+a,
+a:visited {
+  font-family: $MAIN_FONT;
+  text-decoration: none;
+  color: $BLUE;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+time {
+  font-family: $MAIN_FONT;
+  color: $GRAY;
+}

@@ -1,20 +1,16 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import styles from './layout.module.css'
-import utilStyles from '../styles/utils.module.css'
-import Link from 'next/link'
+import Head from "next/head";
+import Link from "next/link";
 
-export const siteTitle = 'broman.blog'
+export const authorName = "Gustaf Broman";
+export const siteTitle = "broman.blog";
+export const siteDescription = "I like to build and I like to explore";
 
 export default function Layout({ children, home }) {
   return (
-    <div className={styles.container}>
+    <section>
       <Head>
-        <link rel="icon" href="/profile.jpg" />
-        <meta
-          name="description"
-          content="Learn how to build a personal website using Next.js"
-        />
+        <link rel="icon" href="/images/me.jpg" />
+        <meta name="description" content={siteDescription} />
         <meta
           property="og:image"
           content={`https://og-image.vercel.app/${encodeURI(
@@ -24,49 +20,7 @@ export default function Layout({ children, home }) {
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
       </Head>
-      <header className={styles.header}>
-        {home ? (
-          <>
-            <Image
-              priority
-              src="/profile.jpg"
-              className={utilStyles.borderCircle}
-              height={144}
-              width={144}
-              alt={siteTitle}
-            />
-            <h1 className={utilStyles.heading2Xl}>{siteTitle}</h1>
-          </>
-        ) : (
-          <>
-            <Link href="/">
-              <a>
-                <Image
-                  priority
-                  src="/profile.jpg"
-                  className={utilStyles.borderCircle}
-                  height={108}
-                  width={108}
-                  alt={siteTitle}
-                />
-              </a>
-            </Link>
-            <h2 className={utilStyles.headingLg}>
-              <Link href="/">
-                <a className={utilStyles.colorInherit}>{siteTitle}</a>
-              </Link>
-            </h2>
-          </>
-        )}
-      </header>
-      <main>{children}</main>
-      {!home && (
-        <div className={styles.backToHome}>
-          <Link href="/">
-            <a>← Back to home</a>
-          </Link>
-        </div>
-      )}
-    </div>
-  )
+      <main id="container">{children}</main>
+    </section>
+  );
 }
