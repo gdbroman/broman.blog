@@ -2,6 +2,7 @@
 title: 'Is Art Dysfunctional?'
 date: '2020-10-19'
 category: 'stories'
+isPinned: true
 ---
 
 Frida Kahlo and Thomas Edison sat down at a table at the local restaurant, awaiting the waitress.

@@ -12,6 +12,7 @@ export type PostData = {
   title: string;
   date: string;
   isDraft?: boolean;
+  isPinned?: boolean;
   thumbnail?: string;
 };
 

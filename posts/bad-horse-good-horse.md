@@ -2,6 +2,7 @@
 title: 'Bad Horse, Good Horse'
 date: '2020-12-16'
 category: 'life'
+isPinned: true
 ---
 
 In _Zen Mind, Beginner’s Mind_, author Shunryū Suzuki asks; would you rather be a bad horse, or a good horse?

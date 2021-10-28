@@ -4,8 +4,15 @@
 
 section#posts {
   margin-bottom: 32px;
+  hr {
+    border: none;
+    height: 1px;
+    margin: 20px 0;
+    color: $GRAY_LIGHT; /* old IE */
+    background-color: $GRAY_LIGHT; /* Modern Browsers */
+  }
   ul {
-    list-style-type: none;
+    list-style-type: none; 
     li {
       display: flex;
       align-items: center;
