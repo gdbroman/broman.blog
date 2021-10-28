@@ -1,0 +1,42 @@
+@import 'sizes';
+@import 'colors';
+@import 'typography';
+
+section#posts {
+  margin-bottom: 32px;
+  ul {
+    list-style-type: none;
+    li {
+      display: flex;
+      align-items: center;
+      margin-bottom: 13px;
+      a {
+        flex: 1;
+        color: $BLACK_LIGHT;
+        font-size: 17px;
+        font-weight: 700;
+        letter-spacing: 0.032em;
+        padding-right: 8px;
+        line-height: 1.46em;
+      }
+      time {
+        font-size: 14px;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: $PAGE_WIDTH) {
+  section#posts {
+    .category {
+      ol, ul {
+        li {
+          margin-bottom: 14px;
+          a {
+            font-size: 17px;
+          }
+        }
+      }
+    }
+  }
+}

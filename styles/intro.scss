@@ -1,0 +1,77 @@
+@import 'sizes';
+@import 'colors';
+@import 'typography';
+
+$profile_size: 84px;
+
+header.intro {
+  display: flex;
+  margin: 4px 0 48px 0;
+  overflow: hidden;
+  a.profile-picture {
+    display: block;
+    position: relative;
+    min-width: $profile_size;
+    max-width: $profile_size;
+    height: $profile_size;
+    max-height: $profile_size;
+    margin-top: 7px;
+    margin-right: 20px;
+    cursor: pointer;
+    img {
+      border-radius: 50% 0 50% 50%;
+      background: linear-gradient(45deg, #EEEEEE, #DAE5E6);
+    }
+  }
+  section {
+    h1,
+    h2 {
+      color: $BLACK_LIGHT;
+      margin: 0;
+      padding-bottom: 4px;
+      font-size: 16px;
+      font-weight: 700;
+      cursor: pointer;
+      letter-spacing: 0;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+    p {
+      margin: 0;
+      max-width: 390px;
+      font-size: 16px;
+      font-weight: 400;
+      font-family: $MAIN_FONT;
+      line-height: 1.66em;
+      color: $GRAY;
+    }
+  }
+}
+
+header.intro.mini {
+  align-items: center;
+  margin-bottom: 32px;
+  h1 {
+    padding: 0;
+  }
+  a.profile-picture {
+    margin-top: 0;
+    min-width: 32px;
+    max-width: 32px;
+    height: 32px;
+  }
+}
+
+@media screen and (max-width: $PAGE_WIDTH) {
+  header.intro {
+    padding: 0;
+    margin: 0 0 32px 0;
+    a.profile-picture {
+      min-width: 64px;
+      max-width: 64px;
+      height: 64px;
+      margin-right: 12px;
+    }
+  }
+}

@@ -1,0 +1,41 @@
+@use 'print';
+@use 'intro';
+@use 'posts';
+@use 'footer';
+@use 'article';
+@use 'typography';
+
+@import 'sizes';
+@import 'colors';
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  background-color: $WHITE_LIGHT;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+main#container {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  max-width: $PAGE_WIDTH;
+  margin: 0 auto;
+  padding: 16px;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  object-fit: cover;
+}

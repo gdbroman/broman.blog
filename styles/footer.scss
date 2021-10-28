@@ -1,0 +1,46 @@
+@import "colors";
+
+footer {
+  display: flex;
+  align-items: center;
+  div#social-icons {
+    flex: 1;
+    a.social-link {
+      margin-right: 24px;
+      width: 18px;
+      height: 18px;
+      img {
+        filter: invert(39%) sepia(1%) saturate(0%) hue-rotate(280deg) brightness(93%) contrast(92%);
+      }
+    }
+  }
+  a#say-hello {
+    padding: 0 17px;
+    line-height: 36px;
+    letter-spacing: 0.012em;
+    text-align: center;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: $BLACK;
+    border: 1px solid $BLACK;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  footer {
+    display: block;
+    div#social-icons {
+      margin-bottom: 24px;
+      text-align: center;
+      a.social-link {
+        margin: 20px;
+      }
+    }
+    a#say-hello {
+      display: block;
+      width: 100%;
+    }
+  }
+}

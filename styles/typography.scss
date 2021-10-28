@@ -1,0 +1,44 @@
+@import 'colors';
+
+$MAIN_FONT: 'Noto Sans JP', sans-serif;
+$SECONDARY_FONT: 'Merriweather', serif;
+
+$FONT_SIZE: 18px;
+
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 700;
+  font-family: $MAIN_FONT;
+  line-height: 1.5em;
+  letter-spacing: 0.015em;
+  color: $BLACK;
+}
+h1 {
+  font-weight: 900;
+}
+p,
+p * {
+  font-family: $SECONDARY_FONT;
+  font-size: $FONT_SIZE;
+  line-height: 1.7em;
+  font-weight: 400;
+  color: $BLACK_LIGHT;
+}
+
+a,
+a:visited {
+  font-family: $MAIN_FONT;
+  text-decoration: none;
+  color: $BLUE;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+time {
+  font-family: $MAIN_FONT;
+  letter-spacing: 0.088em;
+  color: $GRAY_LIGHT;
+}
