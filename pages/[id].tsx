@@ -31,6 +31,10 @@ const Post = ({ title, contentHtml, date, thumbnail }: PostData): JSX.Element =>
           href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.3.2/build/styles/default.min.css"
         ></link>
         <script async src="https://platform.twitter.com/widgets.js" charSet="utf-8"></script>
+        <link
+          href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+          rel="stylesheet"
+        />
       </Head>
       <Intro mini />
       <Article title={title} contentHtml={contentHtml} date={date} thumbnail={thumbnail} />
