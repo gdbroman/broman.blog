@@ -8,8 +8,8 @@ section#posts {
     border: none;
     height: 1px;
     margin: 20px 0;
-    color: $GRAY_LIGHT; /* old IE */
-    background-color: $GRAY_LIGHT; /* Modern Browsers */
+    color: $GRAY_BORDER; /* old IE */
+    background-color: $GRAY_BORDER; /* Modern Browsers */
   }
   ul {
     list-style-type: none; 
