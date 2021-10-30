@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    { "source": "/github", "destination": "https://github.com/gdbroman" },
-    {
-      "source": "/twitter",
-      "destination": "https://twitter.com/gdbroman"
-    }
-  ]
-}

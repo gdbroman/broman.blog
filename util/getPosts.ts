@@ -10,8 +10,8 @@ export type PostData = {
   id: string;
   contentHtml: string;
   title: string;
-  date: string;
-  isDraft?: boolean;
+  date?: string;
+  unlisted?: boolean;
   isPinned?: boolean;
   thumbnail?: string;
 };
@@ -37,13 +37,11 @@ export const getSortedPostsData = (): PostData[] => {
     } as PostData;
   });
 
-  // Sort posts by date
+  // Sort posts in alphabetical order
   return allPostsData.sort((a, b) => {
-    if (a.date < b.date) {
-      return 1;
-    } else {
-      return -1;
-    }
+    if (a.title > b.title) return 1;
+    if (a.title < b.title) return -1;
+    return 0;
   });
 };
 
@@ -75,7 +73,7 @@ export const getPostData = async (id: string): Promise<PostData> => {
     id,
     contentHtml,
     title: matterResult.data.title,
-    date: matterResult.data.date,
+    date: matterResult.data.date ?? '',
     ...matterResult.data
   };
 };

@@ -1,7 +1,6 @@
 @use 'print';
 @use 'intro';
 @use 'posts';
-@use 'footer';
 @use 'article';
 @use 'typography';
 
@@ -14,7 +13,6 @@
   box-sizing: border-box;
 }
 
-html,
 body {
   background-color: $WHITE_LIGHT;
   text-rendering: optimizeLegibility;
@@ -29,6 +27,13 @@ main#container {
   max-width: $PAGE_WIDTH;
   margin: 0 auto;
   padding: 16px;
+  hr {
+    border: none;
+    height: 1px;
+    margin: 20px 0;
+    color: $GRAY_BORDER; /* old IE */
+    background-color: $GRAY_BORDER; /* Modern Browsers */
+  }
 }
 
 img {

@@ -1,13 +1,13 @@
 import Head from 'next/head';
 import { ReactNode } from 'react';
 
-import { usernames } from '../util/socials';
+import { Intro } from '../components/Intro';
 
 export const authorName = 'Gustaf Broman';
 export const siteUrl = 'https://broman.blog';
 export const siteTitle = 'broman.blog';
 export const siteDescription =
-  "Hello, I'm Gustaf—a developer from Stockholm. Building in perpetuity, exploring the unknown. Using this for thinking out loud.";
+  "Hello, I'm Gustaf Broman—a developer from Stockholm. Building in perpetuity, exploring the unknown. Using this for thinking out loud.";
 
 const siteImage = '/images/me.jpg';
 const bannerImage = '/images/banner.png';
@@ -32,9 +32,12 @@ export const Layout = ({ children }: LayoutProps): JSX.Element => (
 
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content={`https://broman.blog${bannerImage}`} />
-      <meta name="twitter:site" content={`@${usernames.twitter}`} />
-      <meta name="twitter:creator" content={`@${usernames.twitter}`} />
+      <meta name="twitter:site" content={'broman.blog'} />
     </Head>
-    <main id="container">{children}</main>
+    <main id="container">
+      <Intro />
+      <hr />
+      {children}
+    </main>
   </section>
 );

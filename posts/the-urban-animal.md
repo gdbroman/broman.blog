@@ -1,7 +1,7 @@
 ---
 title: 'The Urban Animal'
 date: '2020-11-15'
-isDraft: true
+unlisted: true
 ---
 
 We head to work like we've never heard of sex, sadness, or shitting. All neocortex, survival but a story. As if we're not wondering we're alone in this shitshow. Not confused as to what we're supposed to do about it. As if, not secretly dying to know to what degree everyone else is simply acting? Hiding?

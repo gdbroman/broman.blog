@@ -2,13 +2,11 @@ import { GetStaticPaths, GetStaticProps } from 'next';
 import Head from 'next/head';
 
 import { Article } from '../components/Article';
-import { Footer } from '../components/Footer';
-import { Intro } from '../components/Intro';
 import { Layout } from '../components/Layout';
 import { applyHighlight } from '../util/applyHighlight';
 import { getAllPostIds, getPostData, PostData } from '../util/getPosts';
 
-const Post = ({ title, contentHtml, date, thumbnail }: PostData): JSX.Element => {
+const Post = ({ title, contentHtml, date = '', thumbnail }: PostData): JSX.Element => {
   applyHighlight();
 
   let description = contentHtml.substring(0, 165);
@@ -36,9 +34,7 @@ const Post = ({ title, contentHtml, date, thumbnail }: PostData): JSX.Element =>
           rel="stylesheet"
         />
       </Head>
-      <Intro mini />
       <Article title={title} contentHtml={contentHtml} date={date} thumbnail={thumbnail} />
-      <Footer />
     </Layout>
   );
 };

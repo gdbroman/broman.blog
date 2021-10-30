@@ -3,20 +3,13 @@
 @import 'typography';
 
 section#posts {
-  margin-bottom: 32px;
-  hr {
-    border: none;
-    height: 1px;
-    margin: 20px 0;
-    color: $GRAY_BORDER; /* old IE */
-    background-color: $GRAY_BORDER; /* Modern Browsers */
-  }
+  margin-top: 14px;
   ul {
     list-style-type: none; 
     li {
       display: flex;
       align-items: center;
-      margin-bottom: 13px;
+      margin-bottom: 14px;
       a {
         flex: 1;
         color: $BLACK_LIGHT;
@@ -28,21 +21,6 @@ section#posts {
       }
       time {
         font-size: 14px;
-      }
-    }
-  }
-}
-
-@media screen and (max-width: $PAGE_WIDTH) {
-  section#posts {
-    .category {
-      ol, ul {
-        li {
-          margin-bottom: 14px;
-          a {
-            font-size: 17px;
-          }
-        }
       }
     }
   }
