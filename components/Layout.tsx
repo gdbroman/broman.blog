@@ -9,7 +9,6 @@ export const siteTitle = 'broman.blog';
 export const siteDescription =
   "Hello, I'm Gustaf Broman—a developer from Stockholm. Building in perpetuity, exploring the unknown. Using this for thinking out loud.";
 
-const siteImage = '/images/me.jpg';
 const bannerImage = '/images/banner.png';
 
 type LayoutProps = {
@@ -20,7 +19,6 @@ export const Layout = ({ children }: LayoutProps): JSX.Element => (
   <section>
     <Head>
       <title>{siteTitle}</title>
-      <link rel="icon" href={siteImage} />
       <meta name="description" content={siteDescription} />
 
       <meta name="og:title" content={siteTitle} />
@@ -33,6 +31,11 @@ export const Layout = ({ children }: LayoutProps): JSX.Element => (
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content={`https://broman.blog${bannerImage}`} />
       <meta name="twitter:site" content={'broman.blog'} />
+
+      <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
+      <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png" />
+      <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png" />
+      <link rel="manifest" href="/favicon/site.webmanifest"></link>
     </Head>
     <main id="container">
       <Intro />
