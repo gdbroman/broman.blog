@@ -6,7 +6,7 @@ import { Layout } from '../components/Layout';
 import { applyHighlight } from '../util/applyHighlight';
 import { getAllPostIds, getPostData, PostData } from '../util/getPosts';
 
-const Post = ({ title, contentHtml, date = '', thumbnail }: PostData): JSX.Element => {
+const Post = ({ title, contentHtml, date = '', thumbnail, category }: PostData): JSX.Element => {
   applyHighlight();
 
   let description = contentHtml.substring(0, 165);
@@ -34,7 +34,13 @@ const Post = ({ title, contentHtml, date = '', thumbnail }: PostData): JSX.Eleme
           rel="stylesheet"
         />
       </Head>
-      <Article title={title} contentHtml={contentHtml} date={date} thumbnail={thumbnail} />
+      <Article
+        title={title}
+        contentHtml={contentHtml}
+        date={date}
+        thumbnail={thumbnail}
+        showDate={category !== 'page'}
+      />
     </Layout>
   );
 };
