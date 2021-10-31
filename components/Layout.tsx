@@ -4,12 +4,12 @@ import { ReactNode } from 'react';
 import { Intro } from '../components/Intro';
 
 export const authorName = 'Gustaf Broman';
+export const bannerImage = '/images/banner.png';
 export const siteUrl = 'https://broman.blog';
+export const rssPath = '/rss/feed.xml';
 export const siteTitle = 'broman.blog';
 export const siteDescription =
   "Hello, I'm Gustaf Broman—a developer from Stockholm. Building in perpetuity, exploring the unknown. Using this for thinking out loud.";
-
-const bannerImage = '/images/banner.png';
 
 type LayoutProps = {
   children: ReactNode;
@@ -36,6 +36,8 @@ export const Layout = ({ children }: LayoutProps): JSX.Element => (
       <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png" />
       <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png" />
       <link rel="manifest" href="/favicon/site.webmanifest"></link>
+
+      <link rel="alternate" type="application/rss+xml" href={`${siteUrl}${rssPath}`} />
     </Head>
     <main id="container">
       <Intro />

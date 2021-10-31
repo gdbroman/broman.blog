@@ -22,6 +22,7 @@
   "dependencies": {
     "@types/react": "^17.0.33",
     "date-fns": "^2.11.1",
+    "feed": "^4.2.2",
     "fs": "^0.0.1-security",
     "gray-matter": "^4.0.2",
     "highlight.js": "^11.1.0",

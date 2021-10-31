@@ -1,5 +1,6 @@
 import { Layout } from '../components/Layout';
 import { PostList } from '../components/PostList';
+import { generateRssFeed } from '../util/generateRssFeed';
 import { getSortedPostsData, PostData } from '../util/getPosts';
 
 const isDevelopment = process.env.NODE_ENV === 'development';
@@ -24,10 +25,15 @@ const Home = ({ allPostsData }: HomeProps): JSX.Element => {
   );
 };
 
-export const getStaticProps = async (): Promise<{ props: HomeProps }> => ({
-  props: {
-    allPostsData: getSortedPostsData()
-  }
-});
+export const getStaticProps = async (): Promise<{ props: HomeProps }> => {
+  const postData = getSortedPostsData();
+  await generateRssFeed(postData);
+
+  return {
+    props: {
+      allPostsData: postData
+    }
+  };
+};
 
 export default Home;

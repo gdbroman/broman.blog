@@ -11,6 +11,7 @@ export type PostData = {
   contentHtml: string;
   title: string;
   date?: string;
+  category?: string;
   unlisted?: boolean;
   isPinned?: boolean;
   thumbnail?: string;
