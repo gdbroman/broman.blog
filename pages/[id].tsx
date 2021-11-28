@@ -6,7 +6,14 @@ import { Layout } from '../components/Layout';
 import { applyHighlight } from '../util/applyHighlight';
 import { getAllPostIds, getPostData, PostData } from '../util/getPosts';
 
-const Post = ({ title, contentHtml, date = '', thumbnail, category }: PostData): JSX.Element => {
+const Post = ({
+  title,
+  contentHtml,
+  date = '',
+  thumbnail,
+  category,
+  showOutro
+}: PostData): JSX.Element => {
   applyHighlight();
 
   let description = contentHtml.substring(0, 165);
@@ -28,7 +35,6 @@ const Post = ({ title, contentHtml, date = '', thumbnail, category }: PostData):
           rel="stylesheet"
           href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.3.2/build/styles/default.min.css"
         ></link>
-        <script async src="https://platform.twitter.com/widgets.js" charSet="utf-8"></script>
         <link
           href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap"
           rel="stylesheet"
@@ -40,6 +46,7 @@ const Post = ({ title, contentHtml, date = '', thumbnail, category }: PostData):
         date={date}
         thumbnail={thumbnail}
         showDate={category !== 'page'}
+        showOutro={category === 'tech' || showOutro}
       />
     </Layout>
   );

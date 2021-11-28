@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import { ReactNode } from 'react';
 
-import { Intro } from '../components/Intro';
+import { Header } from './Header';
 
 export const authorName = 'Gustaf Broman';
 export const bannerImage = '/images/banner.png';
@@ -9,7 +9,7 @@ export const siteUrl = 'https://broman.blog';
 export const rssPath = '/rss/feed.xml';
 export const siteTitle = 'broman.blog';
 export const siteDescription =
-  "Hello, I'm Gustaf Broman—a developer from Stockholm. Building in perpetuity, exploring the unknown. Using this for thinking out loud.";
+  "Hello reader! I'm Gustaf Broman—a developer from Stockholm. Using this for thinking out loud. Thanks for reading, I'll see you around.";
 
 type LayoutProps = {
   children: ReactNode;
@@ -40,7 +40,7 @@ export const Layout = ({ children }: LayoutProps): JSX.Element => (
       <link rel="alternate" type="application/rss+xml" href={`${siteUrl}${rssPath}`} />
     </Head>
     <main id="container">
-      <Intro />
+      <Header />
       <hr />
       {children}
     </main>
