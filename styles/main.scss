@@ -3,9 +3,9 @@
 @use 'posts';
 @use 'article';
 @use 'typography';
-
-@import 'sizes';
 @import 'colors';
+
+$PAGE_WIDTH: 549px;
 
 * {
   margin: 0;

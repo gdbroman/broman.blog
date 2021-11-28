@@ -1,5 +1,5 @@
 ---
-title: 'The Thing In Itself'
+title: 'Thing-in-itself'
 date: '2020-12-10'
 category: 'stories'
 ---

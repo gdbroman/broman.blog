@@ -10,11 +10,11 @@ All colourful, everything possible.
 
 Surfing on clouds, the words are clay.
 
-Angelic awareness—please would you stay?
+Angelic awareness please would you stay?
 
-Back on earth, I have merely faith.
+Back on earth I have merely faith.
 
-Now all is blue...nothing to do.
+Now all's blue, nothing to do.
 
 Seeking to control, I fail to rejoice.
 

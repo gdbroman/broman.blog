@@ -1,7 +1,8 @@
 ---
-title: 'Relearning JS: How does it work?'
+title: 'Poor JS. They call you weird.'
 date: '2021-07-14'
 category: 'tech'
+isPinned: true
 ---
 
 > I'm a single-threaded, non-blocking asynchronous concurrent language
@@ -12,7 +13,7 @@ category: 'tech'
 
 So you can make your app fetch an api. Your button consumes a global state. But whenever there's red in the console you go crying to Stack Overflow.
 
-Building stuff with frameworks is great for getting started. Learn by doing and all that jazz. But, lacking "under the hood"-understanding of a language, you'll inevitably plateau (I did).
+Building stuff with frameworks is great. Get started. Learn by doing and all that jazz. But, lacking under-the-hood understanding, you'll inevitably plateau (I did).
 
 So I took a Udemy course.
 
@@ -54,7 +55,7 @@ So, when running a program, the global execution context is created, and then, w
 
 Keep in mind that JavaScript is single threaded, which means that it has _one_ call stack. It is also synchronous—meaning each command is executed in order.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Interactive visualization tool for understanding the JavaScript event loop: <a href="https://t.co/4mm209sNl1">https://t.co/4mm209sNl1</a></p>&mdash; Gustaf Broman (@gdbroman) <a href="https://twitter.com/gdbroman/status/1408033227885928451?ref_src=twsrc%5Etfw">June 24, 2021</a></blockquote>
+> Tip: [latentflip.com/loupe](http://latentflip.com/loupe) is an interactive visualization tool for understanding the JavaScript event loop.
 
 Each function creates its own execution context, which runs through a create and execution phase. And when a function at the top of the stack finishes, it is popped off.
 
@@ -168,7 +169,7 @@ When a function is attached in an object, `this` within the function refers to t
 
 Lastly, all primitives are passed _by value_, and all objects (including functions) are passed _by reference._
 
-A primitive value variable `a` points to a place in memory (e.g. 0x001). If we pass a new var `b` to that var `a`, it will create a copy of the primitive value located _somewhere else in memory_ (e.g. 0x002). This is called _by value_ (i.e. copying value into two separate spots in memory). It means we can change `a`, after the fact, _without affecting `b`._
+A primitive value variable `a` points to a place in memory (e.g. 0x001). If we pass a new var `b` to that var `a`, it will create a copy of the primitive value located _somewhere else in memory_ (e.g. 0x002). This is called _by value_ (i.e. copying value into two separate spots in memory). It means we can change `a`, after the fact, _without affecting_ `b`.
 
 When we copy an object variable however, that new variable will point to the _same location in memory_ (aka _by reference_):
 
@@ -183,10 +184,10 @@ Poor JS. They call you weird.
 
 Isn't fair. Shouldn't be feared.
 
-See, you're effective—not defective, dear.
-
 Those who learn your quirks—
 
-Oh how we shall hear.
+We shall hear them cheer.
 
-We shall hear them cheer!
+See, you're effective,
+
+Not defective, dear.
