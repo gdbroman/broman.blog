@@ -9,7 +9,7 @@ export const siteUrl = 'https://broman.blog';
 export const rssPath = '/rss/feed.xml';
 export const siteTitle = 'broman.blog';
 export const siteDescription =
-  "Hello reader! I'm Gustaf Broman—a developer from Stockholm. Using this for thinking out loud. Thanks for reading, I'll see you around.";
+  "Greetings! I'm Gustaf Broman, a developer based in Stockholm. At times I try to write. Thank you for reading.";
 
 type LayoutProps = {
   children: ReactNode;
