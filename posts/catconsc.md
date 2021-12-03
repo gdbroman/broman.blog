@@ -23,21 +23,27 @@ _Any world order based on knowledge other than our shared being is at best a fra
 
 ### 1.1 Fundamental Okayness
 
-In failing to look past evolutionary fear, not much has changed since first leaving the savannah. Physical needs remains the go-to space for seeking wholeness. And it is no doubt that contemporary western ontology, with its dead mechanistic outlook, has contributed to our materialistic worldview in this everyday (and not only metaphysical) sense. But what those letting go of scarcity discover is—if only for a moment—when the fight with fear subsides, a fundamental okayness remains: An inherent joy of being—which doesn't make you complacent, but which makes you okay. More likely to do successful good (such as when seeking to help corners of the world that are actually living in scarcity). So it is from this recognition the future has to be built.
+In failing to look past evolutionary fear, not much has changed since first leaving the savannah. Physical needs remains the go-to space for seeking wholeness. And it is no doubt that contemporary western ontology, with its dead mechanistic outlook, has contributed to our materialistic worldview in this everyday (and not only metaphysical) sense. But what those letting go of scarcity discover—if only for a moment—is when the fight with fear subsides, a fundamental okayness remains: An inherent joy of being—which doesn't make you complacent, but which makes you okay. More likely to achieve good (such as when seeking to help corners of the world that are actually living in scarcity). So it is from this recognition the future has to be built.
 
 ### 1.2 Can We Engineer Enlightenment?
 
-Of course, no effort in engineering enlightenment will ever be complete—will never be _it._ Like the dog fixating on your fingertip, instead of tracing the imaginary line extending beyond it—_this_ can never be explained, never fairly represented, only experienced. But as Picasso said, although art lies, it points to truth. So external efforts may be insufficient, but they are necessary. In other words, there’s stuff to do.
+Of course, no effort in engineering enlightenment will ever be complete—will never be _it._ Like the dog fixating on your fingertip, instead of tracing the imaginary line extending beyond it—_this_ can never be explained, never fairly represented, only experienced. But as Picasso said, although art lies, it points to truth. So external efforts may be insufficient, but they are necessary. In other words, there is stuff to do.
 
 ### 1.3 What Is Happening
 
+> Our civilization is unwell. We eat food that kills us, we’ve lost sight of beauty, and we neglect our spiritual lives. The world is deranged and decayed, and this frightens people. We don’t look up from our screens; we seek to live within them.
+>
+> <cite>—0x7a02, Introducing Praxis</cite>
+
+For most current cultural shifts, malignancy is far too early to tell. But even in gloomier cases, such as physicalist atheism, the game is far from over. Some mere intuitions:
+
 #### 1.3.1 The Secularization of Meditation
 
-The clinical rebranding of meditation has been two steps forward and one step back. Its nuts and bolts abstracted, and its deeper purpose—of awakening the practitioner—left behind. Meditation apps have played an important role in this spread via secularization. We just have to make sure the discussion doesn’t end with listicles on how a daily practice makes you a more effective worker bee.
+The clinical rebranding of meditation has been two steps forward and one step back. Its nuts and bolts have been abstracted, and its deeper purpose—of awakening the practitioner—left behind. Meditation apps have played an important role in this spread via secularization. Let's just make sure the discussion doesn’t end with listicles on how a daily practice will make you a more effective worker bee.
 
 #### 1.3.2 The Church of Technology
 
-Secondly, religion has bought new clothes. Technology now has its eyes on the throne of God. When nature is merciless, we consult rationalism—when death discomforts, we turn to transhumanism. I don’t think there‘s reason to reject this sort of religion on principle—as long as we’re honest about that’s what it is. If not, we’ll end up longing for all sacred we’ve dismantled. And without disregarding theological innovation, it is, generally speaking, safer to rely on such technologies that have stood the test of time.
+Second, technology has its eyes on the throne of God. When nature is merciless, we consult rationalism: when death discomforts, we turn to transhumanism. I don’t think there‘s reason to reject this sort of religion on principle—as long as we recognize it as such. If not, we’ll end up longing for all sacred we’ve dismantled. And without disregarding theological innovation—because any misstep is associated with risks of special significance—change should be done with the utmost caution. This requires a level of wisdom that is unfortunately unprecedented within the boyish field of technology.
 
 #### 1.3.3 A Psychedelic Renaissance
 
@@ -57,13 +63,14 @@ The science community is beginning to realize how admitting its philosophical er
 >
 > <cite>—Terence McKenna</cite>
 
-Any technology (in the broader sense of the word) which prioritizes human nature (love, kindness, compassion) and decentralizes decision-making, can help us catalyze consciousness, e.g:
+Health, vitality, and the furtherance of life: this is what we're after. There are technologies (in the broader sense of the word) that can promote this—thus catalyzing consciousness, e.g:
 
-- Blockchain & cryptocurrencies can aid the decentralization of power and foster independent thinking.
+- Blockchain & cryptocurrencies can aid the decentralization of power and thinking.
+  - DAO-cities & communities for natural living (sunlight, fasting, lifting, running, cold exposure, and the like).
 - VR games & media for induced awakening experiences. Consciousness tech is basically as old as we are (rituals, mind-altering substances, etc.) but there is likely plenty of unexplored territory using modern hardware and software.
 - Meetups & gatherings of enlightened individuals (good things happen when conscious people get together—if not only to help others on the path).
 - Psychedelics R&D, including funding and legislation.
 - Courses & workshops on meditation, yoga, and similar practices. Volunteer or donate to centers. Make initiatives at your workplace, university, community, etc.
 - High-quality art & integrous intellectual work: Ideas change the world, and beauty will save it!
 
-Tools are tools. Multiple tools will be required to achieve critical mass for collective awakening. And any tool is inherently neutral, so we must come from a place of joy. Thankfully, it is already waiting.
+These are tools. It is likely that many more will be required for collective awakening. And, any tool being inherently neutral, we must come from a place of joy. Thankfully, it is already waiting.

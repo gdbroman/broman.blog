@@ -10,4 +10,4 @@ Knowing we cannot kick forever, some anxiously start to wonder what it is that i
 
 We can sleep in light or awake in darkness, but most reject death before death and so they die cowards having never lived. Terrified of what lingers in the crevasses of the mind, we answer to boredom and tragedy by pressing buttons and chewing corn. Reflexively reaching for water whenever the flavor grows too strong. In the end, we all are—and, as is realized on the other side, always _were_—alone...all one.
 
-I too have been fleeing. All the while naively thinking of myself as having an interest in this issue of Being; only now realizing my deceit. Only now dipping my toes in existential peace with its accompanying unease. In total surrender I see. Love awaits. Love waits for all.
+I too have been fleeing. All the while naively thinking of myself as having an interest in this issue of Being; only now realizing my deceit. Only now dipping my toes in its existential peace and accompanying unease. In total surrender I see: Love awaits. Love waits for all.

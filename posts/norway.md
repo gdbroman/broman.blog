@@ -4,6 +4,6 @@ date: '2021-08-01'
 category: 'life'
 ---
 
-![](/images/photography/glimpse.jpg)
+<Image src="/images/photography/glimpse.jpg" />
 
-![](/images/photography/jurassic.jpg)
+<Image src="/images/photography/jurassic.jpg" />
