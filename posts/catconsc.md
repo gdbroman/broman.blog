@@ -43,7 +43,7 @@ The clinical rebranding of meditation has been two steps forward and one step ba
 
 #### 1.3.2 The Church of Technology
 
-Second, technology has its eyes on the throne of God. When nature is merciless, we consult rationalism: when death discomforts, we turn to transhumanism. I don’t think there‘s reason to reject this sort of religion on principle—as long as we recognize it as such. If not, we’ll end up longing for all sacred we’ve dismantled. And without disregarding theological innovation—because any misstep is associated with risks of special significance—change should be done with the utmost caution. This requires a level of wisdom that is unfortunately unprecedented within the boyish field of technology.
+Second, technology has its eyes on the throne of God. When nature is merciless, we consult rationalism: when death discomforts, we turn to transhumanism. I don't think there's reason to reject this sort of religion on principle—as long as we recognize it as such. If not, we’ll end up longing for all sacred we’ve dismantled. And without disregarding theological innovation—because any misstep is associated with risks of special significance—change should be done with the utmost caution. This requires a level of wisdom that is unfortunately unprecedented within the boyish field of technology.
 
 #### 1.3.3 A Psychedelic Renaissance
 
