@@ -4,7 +4,7 @@ import hljs from 'highlight.js';
 import javascript from 'highlight.js/lib/languages/javascript';
 import { useEffect } from 'react';
 
-export const applyHighlight = () => {
+export const useHighlight = () => {
   useEffect(() => {
     hljs.registerLanguage('javascript', javascript);
     hljs.highlightAll();

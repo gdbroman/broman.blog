@@ -3,8 +3,8 @@ import Head from 'next/head';
 
 import { Article } from '../components/Article';
 import { Layout } from '../components/Layout';
-import { applyHighlight } from '../util/applyHighlight';
 import { getAllPostIds, getPostData, PostData } from '../util/getPosts';
+import { useHighlight } from '../util/useHighlight';
 
 const Post = ({
   title,
@@ -14,7 +14,7 @@ const Post = ({
   category,
   showOutro
 }: PostData): JSX.Element => {
-  applyHighlight();
+  useHighlight();
 
   let description = contentHtml.substring(0, 165);
 
