@@ -27,7 +27,7 @@ In failing to look past evolutionary fear, not much has changed since first leav
 
 ### 1.2 Can We Engineer Enlightenment?
 
-Of course, no effort in engineering enlightenment will ever be complete—will never be _it._ Like the dog fixating on your fingertip, instead of tracing the imaginary line extending beyond it—_this_ can never be explained, never fairly represented, only experienced. But as Picasso said, although art lies, it points to truth. So external efforts may be insufficient, but they are necessary. In other words, there is stuff to do.
+Of course, no effort in engineering enlightenment will ever be complete—will never be _it._ Like the dog fixating on your fingertip, instead of tracing the imaginary line extending beyond it—_this_ can never be explained, never fairly represented; only experienced. But as Picasso said, although art lies, it points to truth. So external efforts may be insufficient, but they are necessary. In other words, there is stuff to do.
 
 ### 1.3 What Is Happening
 
@@ -51,11 +51,11 @@ Mostly through personal accounts online, and a few outspoken celebrities (Joe Ro
 
 #### 1.3.4 Science Turning Its Gaze Inward
 
-Lastly, science is going through an epistemological crisis. We are realizing that science has been operating dogmatically with regards to its metaphysical assumptions. This is understandable. Most fields—given the same societal success as science has had—would have turned equally arrogant.
+Lastly, science is going through an epistemological crisis. We are beginning to realize that science has been operating rather dogmatically with regards to its metaphysical assumptions. This is understandable. Most fields—given the same societal success—would have turned equally arrogant.
 
-Outside thinkers and retired academics (for which the shackles of academia aren’t as heavy) are speaking up on podcasts and social platforms about the pseudophilosophy that has been scientism. This is in turn encouraging some brave scientists within the system to address the naked emperor that is “matter.” The two-century-long belief that reality is fundamentally material (which has produced the so-called “hard problem,” as well as—arguably—a meaning crisis in the rest of society) is rising to the surface.
+Outside thinkers and retired academics (for which the shackles of academia aren’t as heavy) are speaking up on social platforms about the pseudophilosophy that has been scientism. This is in turn encouraging some brave scientists within the system to address the naked emperor that is “matter.” The belief that all there is is matter, is rising to the surface, revealing itself as such. A belief that has produced the so-called “hard problem,” as well as a meaning crisis among its predominantly western adherers.
 
-The science community is beginning to realize how admitting its philosophical error—although momentarily painful for its collective ego—won’t eradicate all previous findings, but will instead strengthen its integrity in the long term: How it permits a more solid—indubitably more hopeful—interpretation of what we are doing and why.
+The science community is beginning to see how admitting these philosophical errors is but a momentary strike to the ego. It won’t eradicate all previous findings, but instead strengthen its long-term integrity: how it permits a more solid—indubitably more hopeful—interpretation of what we are doing and why.
 
 ## 2 How to Accelerate
 
@@ -66,7 +66,7 @@ The science community is beginning to realize how admitting its philosophical er
 Health, vitality, and the furtherance of life: this is what we're after. There are technologies (in the broader sense of the word) that can promote this—thus catalyzing consciousness, e.g:
 
 - Blockchain & cryptocurrencies can aid the decentralization of power and thinking.
-  - DAO-cities & communities for natural living (sunlight, fasting, lifting, running, cold exposure, and the like).
+  - DAO-cities & communities focusing on natural living (sunlight, fasting, movement, cold exposure, and the like).
 - VR games & media for induced awakening experiences. Consciousness tech is basically as old as we are (rituals, mind-altering substances, etc.) but there is likely plenty of unexplored territory using modern hardware and software.
 - Meetups & gatherings of enlightened individuals (good things happen when conscious people get together—if not only to help others on the path).
 - Psychedelics R&D, including funding and legislation.
