@@ -32,11 +32,19 @@ An unhealthy body is the result of a mind in distress: a troubled mind.
 
 ### The city problem
 
+> Big cities are leftover baggage from the industrial era.
+>
+> —George Gilder
+
 The state takes your natural birth rights and sells them back to you.
 
 We’re meant to be in nature outside but forced inside if you have any inudustrious drive. Are you engaged? It is harder in city.
 
 We deserve better. We need better.
+
+#### Leave ur tribe
+
+At least If you wanna create something new.
 
 ### Classes
 
@@ -58,6 +66,8 @@ Surfer: realises you can’t step away, does a bit of both
 
 At this point you stop asking for reform and begin anew.
 
+Let's stop rearrangin those deck chairs (apps) when the titanic is sinking.
+
 A better world is possible.
 
 Let's neglect our spiritiality no more.
@@ -67,6 +77,10 @@ Let us stop hiding from God.
 The founding fathers acknowledged that yes we need religious freedom, but nonetheless we need a religious people. Everyone needs transcendent values. Something to bind them, other than their own self interest.
 
 ### The Path is Made by Walking
+
+> You showed up. You're here, that's enough.
+> It won't be enough forever but tonight it is.
+> Right now it's everything.
 
 No one will unshackle us. We need to start walking.
 
@@ -145,3 +159,7 @@ He was against values that “devalue themselves”
 Amor fati = becoming what you are
 
 Not appeal to emotion? Pah. What else to appeal to?
+
+## skatteuppror
+
+https://youtu.be/ol9pH9oqv8E?t=589
