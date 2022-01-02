@@ -14,7 +14,6 @@ export type PostData = {
   category?: string;
   isPinned?: boolean;
   isUnlisted?: boolean;
-  showOutro?: boolean;
   thumbnail?: string;
 };
 

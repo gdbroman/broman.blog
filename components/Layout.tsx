@@ -1,6 +1,7 @@
 import Head from 'next/head';
 import { ReactNode } from 'react';
 
+import { Footer } from './Footer';
 import { Header } from './Header';
 
 export const authorName = 'Gustaf Broman';
@@ -41,8 +42,8 @@ export const Layout = ({ children }: LayoutProps): JSX.Element => (
     </Head>
     <main id="container">
       <Header />
-      <hr />
       {children}
+      <Footer />
     </main>
   </section>
 );

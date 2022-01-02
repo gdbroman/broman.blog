@@ -2,7 +2,6 @@
 title: 'Putting Back In the Pool'
 date: '2020-10-11'
 category: 'life'
-showOutro: true
 ---
 
 If you're somewhat smart (in the conventional sense of the word), there's a big trap of conformity. You're expected to tread one of a handful laid out paths.

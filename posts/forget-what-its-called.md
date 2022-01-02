@@ -2,7 +2,6 @@
 title: 'Forget What It Is Called'
 date: '2021-01-07'
 category: 'life'
-showOutro: true
 ---
 
 Whenever we hear _"I'm an aspiring X,"_ it should call for skepticism. To me it's a tell that _X_ is probably _not_ that person's calling. That they place value on the label—or the _valuing of_ the label—as supposed to the craft itself.

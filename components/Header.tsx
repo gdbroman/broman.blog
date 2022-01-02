@@ -11,10 +11,6 @@ const paths: Path[] = [
     name: 'home'
   },
   {
-    href: 'https://github.com/gdbroman/broman.blog',
-    name: 'source'
-  },
-  {
     href: '/about',
     name: 'about'
   }
