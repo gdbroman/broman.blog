@@ -14,22 +14,22 @@ type Path = {
 const socials: Path[] = [
   {
     href: 'https://github.com/gdbroman',
-    alt: 'Github',
+    alt: 'Gustaf Broman on Github',
     icon: GithubIcon
   },
   {
     href: 'https://twitter.com/gdbroman',
-    alt: 'Twitter',
+    alt: 'Gustaf Broman on Twitter',
     icon: TwitterIcon
   },
   {
     href: 'https://www.goodreads.com/gdbroman',
-    alt: 'Goodreads',
+    alt: 'Gustaf Broman on Goodreads',
     icon: GoodreadsIcon
   },
   {
     href: 'https://t.me/gdbroman',
-    alt: 'Telegram',
+    alt: 'Gustaf Broman on Telegram',
     icon: TelegramIcon
   }
 ];

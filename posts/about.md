@@ -1,13 +1,11 @@
 ---
-title: "About"
+title: "Hey man,"
 category: 'page'
 date: '2021-12-03'
 ---
 
-Hey man, at times I write check it out.
+At times I write check it
 
 ## Connect
 
-Don't hesitate to reach out
-
-<a href="mailto:99gustaf@gmail.com" target="_blank" rel="noreferrer">99gustaf@gmail.com</a>
+(Do reach out) <a href="mailto:99gustaf@gmail.com" target="_blank" rel="noreferrer">99gustaf@gmail.com</a>
