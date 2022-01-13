@@ -5,12 +5,12 @@ import { Footer } from './Footer';
 import { Header } from './Header';
 
 export const authorName = 'Gustaf Broman';
-export const bannerImage = '/images/banner.png';
+export const bannerImage = '/images/banner.jpg';
 export const siteUrl = 'https://broman.blog';
 export const rssPath = '/rss/feed.xml';
 export const siteTitle = 'broman.blog';
 export const siteDescription =
-  "Greetings! I'm Gustaf Broman, a developer based in Stockholm. At times I try to write. Thank you for reading.";
+  "Heyo! I'm Gustaf Broman: Programmer by day, daydreamer by night. This was written at night. Thank you for reading.";
 
 type LayoutProps = {
   children: ReactNode;

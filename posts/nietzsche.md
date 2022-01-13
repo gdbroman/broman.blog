@@ -30,11 +30,19 @@ Modern world sick. Rehash movies and tv series that make you smooth brain. No on
 
 ### The city problem
 
-> Big cities are leftover baggage from the industrial era.
->
-> —George Gilder
+Are we gonna look back at cities like some barbarian relic from the past? "Look we used to live like ants!"
 
-Are you engaged? It is harder in city.
+The state takes your natural birth rights and sells them back to you.
+
+We’re meant to be in nature outside but forced inside if you have any inudustrious drive. Are you engaged? It is harder in city.
+
+We deserve better. We need better.
+
+### Classes
+
+- the masses: numb me daddy. give me endless autoscrolling news feed. supersize, starch, sugar, seedoil, sodium. numb me now. yes I'm a bad boy, don't let me think. put dopamine cord inside cranium. Blindfold me, choke me already, put a mask on my face, don't let me outside my cage. High fructose corn syrup. Tell me what to do tell me what to think.
+- the elite: disconnected from God, autistic, can't feel. only derives pleasure from dominance.
+- the upcomers: can somewhat see through the culture and how the masses are being hypnotized. some become eremites, the rest reach for the top as an only out, therefore justifying what the elite is doing via survival-rationalization. some are good however and believe a turnaround is possible.
 
 The state takes your natural birth rights and sells them back to you.
 
@@ -56,11 +64,9 @@ Let's stop rearrangin those deck chairs (apps) when the titanic is sinking.
 
 A better world is possible.
 
-Let's stop hiding from God.
+Let's stop hiding from God: neglect our spiritiality no more.
 
-Neglect our spirit no more.
-
-The founding fathers acknowledged that yes we need religious freedom, but nonetheless we need a religious people. Everyone needs transcendent values. Something to bind them, other than their own self interest.
+The founding fathers acknowledged that yes we need religious freedom, but nonetheless we need a religious people. Everyone needs transcendent values. Something to bind them, other than their own self-interest.
 
 ### The Path is Made by Walking
 
@@ -74,6 +80,8 @@ The answer is not meditating. The answer is not hustling. The answer is not book
 
 > Untroubled, scornful, outrageous - that is how wisdom wants us to be: she is a woman and never loves anyone but a warrior.
 >
+
+- Zoroastrianism
 
 Health, vitality, and the furtherance of life. It seems like another product or piece of software will only take you that far. In order to really make progress with regards to this, an entirely new system is needed. A new paradise.
 
@@ -108,9 +116,13 @@ Sunlight. A girl. Friends to see. Is this all.
 
 The less I have of these the more I think I need God.
 
-What if I were smiling?
+I would rather suffer and be in your bosom than happy and not know you.
 
-Has he got lost or hiding? Has he gone on a voyage?
+Suffering reminds me of You.
+
+Has he got lost or hiding? Is he on voyage?
+
+What if I were smiling?
 
 ---
 
@@ -139,3 +151,14 @@ Not appeal to emotion? Pah. What else to appeal to?
 https://youtu.be/ol9pH9oqv8E?t=589
 
 https://www.youtube.com/watch?v=OW_y4wveAmI
+---
+
+## mass(k) conformity
+
+There are many ways in which physical conformity is more dangerous than confirmity of thought alone.
+
+Physical conformity, such as waring masks, is visual and therefore much stronger. The inertia is gonna be bigger since everywhere you look it's gonna seem like people share the same view. At least when there's conformity of thought you can hold your stance silently. In physical conformity there is nowhere to hide. If you try to hold your stance you'll suffer consequences. Also, complying physically will disenfranchise you on a much deeper level than merely "hiding in your head," since it requires you to actively and continuously give up a part of you.
+
+Even people who dislike mask mandates—who wear them just out of fear for confrontation, or for suffering personal consequences (a very strong incentive indeed)—you won't know what percentage they are. What percentage aren't willing to share their actual view, even if you ask them? This is terrifying. You have to press them on this. Because after a while of silence, soon they too won't be so sure of their view anymore.
+
+Sure you can always move out to the countryside. But at what cost. We are supposed to be in nature but we're also supposed to be together. Why is my species going mad, we're social creatures damnit.
