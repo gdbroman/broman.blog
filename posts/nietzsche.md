@@ -3,7 +3,7 @@ title: "A Programmer's Guide to Nietzsche"
 date: '2021-11-27'
 category: 'life'
 isPinned: true
-isUnlisted: true
+isDraft: true
 ---
 
 > I teach mankind a new will: to desire this path that men
@@ -12,7 +12,21 @@ creep aside from it, like the sick and dying!
 >
 > <cite>—Friedrich Nietzsche</cite>
 
-The Tech Bro needs an ethic. Cold showers and EA: this can't do. Christianity the same. An unbalanced view, it won't hold through. A disregard—naive misunderstanding. Incomplete reading of man.
+Modern world sick.
+
+Forget about DAOs.. not about seasteading.
+
+In the last 20 pages of <i>The Sovereign Individual</i>, we find the book's real idea: Tech Bro needs an ethic.
+
+Cold showers and EA: this can't do. An unbalanced view, won't hold through. Will you stop hiding from God? And I, meglect my spirit no more?
+
+The founding fathers acknowledged: freedom—and religious such, yes—but a religious people, we need nonetheless. Transcendental values. Something to hold on to, other than our own self-interest.
+
+A better world is possible. For some, this Religion. And contrarians, perhaps some form of Nietzscheanism? Bottom line is: The potential of our century lies in recognizing what we are, and why we are here. What are you beyond? Do you resonate with life or death? Vitalism or safety? The path is made by walking.
+
+## The Path
+
+The first step would be to end the book cope. Put down the book. A true ubermensch would not look to prestigious thinkers like Nietzsche, but to go inwards.
 
 ## Descend
 

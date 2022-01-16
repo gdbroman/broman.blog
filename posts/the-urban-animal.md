@@ -1,7 +1,7 @@
 ---
 title: 'The Urban Animal'
 date: '2020-11-15'
-isUnlisted: true
+isDraft: true
 ---
 
 We head to work like we've never heard of sex, sadness, or shitting. All neocortex, survival but a story. Not afraid, never confused. Not secretly dying to know whether everyone else is simply faking it. No sir.

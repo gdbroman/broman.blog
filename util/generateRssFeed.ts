@@ -34,7 +34,7 @@ export const generateRssFeed = async (postData: PostData[]) => {
   });
 
   postData.forEach((post) => {
-    if (post.isUnlisted) return;
+    if (post.isDraft) return;
 
     const url = `${siteUrl}/${post.id}`;
     feed.addItem({
