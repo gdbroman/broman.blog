@@ -3,7 +3,7 @@ title: "A Programmer's Guide to Nietzsche"
 date: '2021-11-27'
 category: 'life'
 isPinned: true
-isDraft: true
+isUnlisted: true
 ---
 
 > I teach mankind a new will: to desire this path that men

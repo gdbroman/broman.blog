@@ -11,7 +11,7 @@ type HomeProps = {
 
 const Home = ({ allPostsData }: HomeProps): JSX.Element => {
   const sortedPosts = allPostsData.filter(
-    (p) => p.category !== 'page' && (!p.isDraft || isDevelopment)
+    (p) => p.category !== 'page' && (!p.isUnlisted || isDevelopment)
   );
   const posts = sortedPosts.filter((p) => !p.isPinned);
   const pinnedPosts = sortedPosts.filter((p) => p.isPinned);

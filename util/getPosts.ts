@@ -13,7 +13,7 @@ export type PostData = {
   date?: string;
   category?: string;
   isPinned?: boolean;
-  isDraft?: boolean;
+  isUnlisted?: boolean;
   thumbnail?: string;
 };
 
