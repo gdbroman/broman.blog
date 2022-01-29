@@ -11,6 +11,10 @@ const paths: Path[] = [
     name: 'home'
   },
   {
+    href: '/future',
+    name: 'future'
+  },
+  {
     href: '/about',
     name: 'about'
   }
