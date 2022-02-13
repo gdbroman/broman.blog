@@ -15,7 +15,6 @@ export const generateRssFeed = async (postData: PostData[]) => {
   const date = new Date();
   const author = {
     name: authorName,
-    email: '99gustaf@gmail.com',
     link: siteUrl
   };
   const feed = new Feed({

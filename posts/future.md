@@ -10,4 +10,4 @@ I'm looking for future-oriented conversationalists in:
 - Monistic/analytical idealism, and similar metaphysics
 - Emerging ethics and spirituality
 
-If this sounds like you, I'd love to <a href="mailto:99gustaf@gmail.com?subject=Future" target="_blank" rel="noreferrer">set up a call</a>.
+If this sounds like you, I'd love to <a href="https://twitter.com/messages/compose?recipient_id=3040648866" target="_blank" rel="noreferrer">connect</a>.
