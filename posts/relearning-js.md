@@ -30,7 +30,7 @@ So I took a Udemy course.
 
 This is not to be confused with _transpiling,_ which is the syntax-conversion of one high-level programming language to another (e.g. TypeScript -> JS).
 
-## WTH's an Execution Context??
+## WTH's an Execution Context?
 
 Before we can understand how JS runs, we need to understand what an execution context is.
 

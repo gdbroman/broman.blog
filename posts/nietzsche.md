@@ -2,7 +2,6 @@
 title: "A Programmer's Guide to Nietzsche"
 date: '2021-11-27'
 category: 'life'
-isPinned: true
 isUnlisted: true
 ---
 
@@ -22,7 +21,7 @@ Cold showers and EA: this can't do. An unbalanced view, won't hold through. Will
 
 The founding fathers acknowledged: freedom—and religious such, yes—but a religious people, we need nonetheless. Transcendental values. Something to hold on to, other than our own self-interest.
 
-A better world is possible. For some, this Religion. And contrarians, perhaps some form of Nietzscheanism? Bottom line is: The potential of our century lies in recognizing what we are, and why we are here. What are you beyond? Do you resonate with life or death? Vitalism or safety? The path is made by walking.
+A better world is possible. For some, this Religion. And contrarians, perhaps some form of Prometheism? Bottom line is: The potential of our century lies in recognizing what we are, and why we are here. What are you beyond? Do you resonate with life or death? Vitalism or safety? The path is made by walking.
 
 ## The Path
 

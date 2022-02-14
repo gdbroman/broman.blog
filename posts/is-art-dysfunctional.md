@@ -1,5 +1,5 @@
 ---
-title: 'Is Art Dysfunctional?'
+title: 'Art a Dysfunction?'
 date: '2020-10-19'
 category: 'stories'
 isPinned: true
