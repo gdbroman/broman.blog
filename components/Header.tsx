@@ -11,7 +11,7 @@ const paths: Path[] = [
     name: 'home'
   },
   {
-    href: '/future',
+    href: '/catconsc',
     name: 'future'
   },
   {

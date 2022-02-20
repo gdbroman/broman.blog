@@ -1,7 +1,6 @@
 ---
 title: 'Poor JS. They call you weird.'
 date: '2021-07-14'
-isPinned: true
 ---
 
 > I'm a single-threaded, non-blocking asynchronous concurrent language

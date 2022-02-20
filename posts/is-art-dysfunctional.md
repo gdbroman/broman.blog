@@ -1,7 +1,6 @@
 ---
 title: 'Art a Dysfunction?'
 date: '2020-10-19'
-isPinned: true
 ---
 
 Frida Kahlo and Thomas Edison sat down at a table at the local restaurant, awaiting the waitress.

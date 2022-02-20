@@ -1,8 +1,9 @@
 ---
 title: 'Catalyze Consciousness'
 date: '2021-05-03'
-isPinned: true
 ---
+
+<Image src="/images/banner.jpg" />
 
 Reality appears to be accelerating towards complexity. We do not know what this complexity is. More importantly, our role as human beings in this unfoldment—if we’ll even get to pass through the keyhole—we also do not know.
 
@@ -66,10 +67,17 @@ Health, vitality, and the furtherance of life: this is what we're after. There a
 
 - Blockchain & cryptocurrencies can aid the decentralization of power and thinking.
   - DAO-cities & communities focusing on natural living (sunlight, fasting, movement, cold exposure, and the like).
+  - Media platforms built on public blockchains enabling complete freedom of speech.
 - VR games & media for induced awakening experiences. Consciousness tech is basically as old as we are (rituals, mind-altering substances, etc.) but there is likely plenty of unexplored territory using modern hardware and software.
-- Meetups & gatherings of enlightened individuals (good things happen when conscious people get together—if not only to help others on the path).
 - Psychedelics R&D, including funding and legislation.
-- Courses & workshops on meditation, yoga, and similar practices. Volunteer or donate to centers. Make initiatives at your workplace, university, community, etc.
+- Meetups & gatherings of enlightened individuals (good things happen when conscious people get together—if not only to help others on the path).
+  - Courses & workshops on meditation, yoga, and similar practices. Volunteer or donate to centers. Make initiatives at your workplace, university, community, etc.
 - High-quality art & integrous intellectual work: Ideas change the world, and beauty will save it!
 
 These are tools. It is likely that many more will be required for collective awakening. And, any tool being inherently neutral, we must come from a place of joy. Thankfully, it is already waiting.
+
+---
+
+## Thank You for Reading
+
+On a personal note, I'm looking for future-oriented conversationalists. Topics of interest include the death of the nation state, and decentralized work; monistic/analytical idealism and similar metaphysics; emerging ethics, and spirituality. If this sounds like you, I'd love to <a href="https://twitter.com/messages/compose?recipient_id=3040648866" target="_blank" rel="noreferrer">connect</a>.

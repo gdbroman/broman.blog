@@ -13,15 +13,11 @@ const Home = ({ allPostsData }: HomeProps): JSX.Element => {
   const sortedPosts = allPostsData.filter(
     (p) => p.category !== 'page' && (!p.isUnlisted || isDevelopment)
   );
-  const posts = sortedPosts.filter((p) => !p.isPinned);
-  const pinnedPosts = sortedPosts.filter((p) => p.isPinned);
 
   return (
     <Layout>
       <section id="posts">
-        <PostList posts={pinnedPosts} />
-        <hr />
-        <PostList posts={posts} />
+        <PostList posts={sortedPosts} />
       </section>
     </Layout>
   );

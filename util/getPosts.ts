@@ -12,9 +12,7 @@ export type PostData = {
   title: string;
   date?: string;
   category?: string;
-  isPinned?: boolean;
   isUnlisted?: boolean;
-  thumbnail?: string;
 };
 
 export const getSortedPostsData = (): PostData[] => {
