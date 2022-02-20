@@ -41,7 +41,7 @@ Pilgrimage being internal, tourism—with its complete ignorance of the inner jo
 
 ### 3.1 Divine Drought
 
-Consider the rise of public intellectuals. Their newly acclaimed rock-star level status is an extension of the tourist phenomenon. If tourism is trying to bring back direct experience, then Jordan Peterson and Sam Harris are culture’s recent attempt at bringing back the big. Both, however, are symptomatic of the same divine drought.
+Consider the rise of public intellectuals. Their newly acclaimed rock-star level status is an extension of the tourist phenomenon. If tourism is trying to bring back direct experience, then Jordan Peterson and Sam Harris are culture’s recent attempt at bringing back the Big. Both, however, are symptomatic of the same divine drought.
 
 Public thinking has ultimately been unsatisfactory because big questions cannot be outsourced. Big thinking is personal and requires a space in culture that inspires exploring in order to work at scale (a role churches once played). But this is the healing function of nature tripping as a means of temporarily turning away from the uninspired society. The divine will not be found at an all-inclusive resort.
 

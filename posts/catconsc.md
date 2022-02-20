@@ -43,7 +43,7 @@ The clinical rebranding of meditation has been two steps forward and one step ba
 
 #### 1.3.2 The Church of Technology
 
-Second, technology has its eyes on the throne of God. When nature is merciless, we consult rationalism: when death discomforts, we turn to transhumanism. I don't think there's reason to reject this sort of religion on principle—as long as we recognize it as such. If not, we’ll end up longing for all sacred we’ve dismantled. And without disregarding theological innovation—because any misstep is associated with risks of special significance—change should be done with the utmost caution. This requires a level of wisdom that is unfortunately unprecedented within the boyish field of technology.
+Second, technology has its eyes on the throne of God. When nature is merciless, we consult rationalism: when death discomforts, we turn to transhumanism. I don't think there's reason to reject this sort of religion on principle—as long as we recognize it as such. If not, we’ll end up longing for all sacred we’ve dismantled. And without disregarding theological innovation—because any misstep is associated with risks of special significance—change should be done with the utmost caution. This requires a level of wisdom that is unfortunately uncommon within the boyish field of technology.
 
 #### 1.3.3 A Psychedelic Renaissance
 
@@ -67,7 +67,7 @@ Health, vitality, and the furtherance of life: this is what we're after. There a
 
 - Blockchain & cryptocurrencies can aid the decentralization of power and thinking.
   - DAO-cities & communities focusing on natural living (sunlight, fasting, movement, cold exposure, and the like).
-  - Media platforms built on public blockchains enabling complete freedom of speech.
+  - Media platforms built on public blockchains, supporting freedom of speech.
 - VR games & media for induced awakening experiences. Consciousness tech is basically as old as we are (rituals, mind-altering substances, etc.) but there is likely plenty of unexplored territory using modern hardware and software.
 - Psychedelics R&D, including funding and legislation.
 - Meetups & gatherings of enlightened individuals (good things happen when conscious people get together—if not only to help others on the path).
@@ -80,4 +80,4 @@ These are tools. It is likely that many more will be required for collective awa
 
 ## Thank You for Reading
 
-On a personal note, I'm looking for future-oriented conversationalists. Topics of interest include the death of the nation state, and decentralized work; monistic/analytical idealism and similar metaphysics; emerging ethics, and spirituality. If this sounds like you, I'd love to <a href="https://twitter.com/messages/compose?recipient_id=3040648866" target="_blank" rel="noreferrer">connect</a>.
+On a personal note, I'm looking for future-oriented conversationalists. Topics of interest include the death of the nation state, decentralized work; monistic/analytical idealism and similar metaphysics; emerging ethics, and spirituality. If this sounds like you, I'd love to <a href="https://twitter.com/messages/compose?recipient_id=3040648866" target="_blank" rel="noreferrer">connect</a>.
