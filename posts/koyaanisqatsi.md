@@ -1,7 +1,6 @@
 ---
 title: 'Koyaanisqatsi'
 date: '2021-01-30'
-category: 'culture'
 ---
 
 How come who is tightest integrated in the uncaring machine is prettiest of all? Suit or dress, a combed hair; perfume and makeup, hygienic and orderly? It's a devilish beauty. The devil doesn't come dressed in pointy horns, but as all our wishes. The insistence on order and obsessive sanitation—it shows a hatred for life. Imbalance! is how you recognize evil. The obedient student, overpromising projects, the impeccable guru. I was the most productive I've ever been during emotional sickness.

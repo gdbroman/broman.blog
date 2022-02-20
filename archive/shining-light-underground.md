@@ -1,7 +1,7 @@
 ---
 title: 'Shining Light Underground'
 date: '2020-10-16'
-category: 'poems'
+isUnlisted: true
 ---
 
 It's what you see in others

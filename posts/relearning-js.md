@@ -1,7 +1,6 @@
 ---
 title: 'Poor JS. They call you weird.'
 date: '2021-07-14'
-category: 'tech'
 isPinned: true
 ---
 

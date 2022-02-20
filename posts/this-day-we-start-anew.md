@@ -1,7 +1,6 @@
 ---
 title: 'This day we start anew'
 date: '2021-01-02'
-category: 'poems'
 ---
 
 I don't want to hear what I said, read what I wrote, think what I thought, or know what I knew.

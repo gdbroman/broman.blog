@@ -1,7 +1,6 @@
 ---
 title: 'Bad Horse, Good Horse'
 date: '2020-12-16'
-category: 'life'
 isPinned: true
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: 'Back on Earth'
 date: '2021-08-18'
-category: 'poems'
 ---
 
 Every upswing. The same damn thing.

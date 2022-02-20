@@ -1,7 +1,6 @@
 ---
 title: 'Thing-in-itself'
 date: '2020-12-10'
-category: 'stories'
 ---
 
 Friedrich had been having trouble with finding ground underfoot lately, so in a last attempt to restore some sanity he called up an old friend for advice.

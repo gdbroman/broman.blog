@@ -1,7 +1,7 @@
 ---
 title: "You're Gonna Look Silly"
 date: '2020-12-03'
-category: 'life'
+isUnlisted: true
 ---
 
 Think you have it all figured out yes?

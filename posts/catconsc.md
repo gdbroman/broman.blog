@@ -1,7 +1,6 @@
 ---
 title: 'Catalyze Consciousness'
 date: '2021-05-03'
-category: culture
 isPinned: true
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: 'The Master Beginner'
 date: '2020-09-01'
-category: 'stories'
 ---
 
 A karate kid walked up to the black belt and asked excitedly, _"how do I get as good as thou?"_

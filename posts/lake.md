@@ -1,7 +1,6 @@
 ---
 title: 'The Lake'
 date: '2020-10-29'
-category: 'stories'
 ---
 
 _"No!"_ he mimed. Gazing over the lake surrounded by silent trees. This is magic, he thought. Weird, even. Emotion colours the mind in such unusual ways.

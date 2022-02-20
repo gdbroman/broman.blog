@@ -1,7 +1,7 @@
 ---
 title: 'Life Was Messy and It Was So'
 date: '2020-05-25'
-category: 'life'
+isUnlisted: true
 ---
 
 Progress, in the midst of it, seldom feels like it.

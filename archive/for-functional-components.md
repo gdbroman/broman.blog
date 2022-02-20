@@ -1,7 +1,7 @@
 ---
 title: 'For Functional Components in React'
 date: '2021-07-15'
-category: 'tech'
+isUnlisted: true
 ---
 
 Thanks to the introduction of Hooks in React 16.8, functional components now provide the same lifecycle functionality as class-based such. So we're left with two choices:

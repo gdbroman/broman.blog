@@ -1,7 +1,6 @@
 ---
 title: 'But is it funny?'
 date: '2021-01-03'
-category: 'life'
 ---
 
 Be wary of works that are void of humor, outrageous claims, or short on schizo qualities.

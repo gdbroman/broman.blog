@@ -1,7 +1,6 @@
 ---
 title: "Future"
 category: 'page'
-date: '2022-01-25'
 ---
 
 I'm looking for future-oriented conversationalists in:

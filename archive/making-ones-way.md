@@ -1,7 +1,7 @@
 ---
 title: "Making One's Way"
 date: '2020-10-27'
-category: 'poems'
+isUnlisted: true
 ---
 
 Potential: More a moon,

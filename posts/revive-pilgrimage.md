@@ -1,7 +1,6 @@
 ---
 title: 'Revive Pilgrimage'
 date: '2021-05-16'
-category: 'culture'
 isPinned: true
 ---
 
