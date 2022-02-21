@@ -3,8 +3,6 @@ title: 'Catalyze Consciousness'
 date: '2021-05-03'
 ---
 
-<Image src="/images/banner.jpg" />
-
 Reality appears to be accelerating towards complexity. We do not know what this complexity is. More importantly, our role as human beings in this unfoldment—if we’ll even get to pass through the keyhole—we also do not know.
 
 To complicate the matter, reality seems to dislike being talked about. But there’s a sense in which, through attempting to speak the unspeakable, the understanding of this isness can be accelerated on a larger scale.
