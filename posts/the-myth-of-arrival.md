@@ -1,7 +1,7 @@
 ---
 title: 'The Myth of Arrival'
 date: '2020-08-11'
-isUnlisted: true
+draft: true
 ---
 
 We seek completion yet there is none.

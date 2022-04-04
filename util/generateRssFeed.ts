@@ -33,8 +33,6 @@ export const generateRssFeed = async (postData: PostData[]) => {
   });
 
   postData.forEach((post) => {
-    if (post.isUnlisted) return;
-
     const url = `${siteUrl}/${post.id}`;
     feed.addItem({
       title: post.title,

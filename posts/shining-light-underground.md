@@ -1,7 +1,7 @@
 ---
 title: 'Shining Light Underground'
 date: '2020-10-16'
-isUnlisted: true
+draft: true
 ---
 
 It's what you see in others

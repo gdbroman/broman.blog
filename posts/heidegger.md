@@ -1,7 +1,7 @@
 ---
 title: "Heidegger"
 date: '2022-02-20'
-isUnlisted: true
+draft: true
 ---
 
 Heidegger claims to wake us from oblivion.

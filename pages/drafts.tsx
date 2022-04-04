@@ -8,7 +8,7 @@ type HomeProps = {
 };
 
 const Home = ({ allPostsData }: HomeProps): JSX.Element => {
-  const sortedPosts = allPostsData.filter((p) => p.category !== 'page' && !p.draft);
+  const sortedPosts = allPostsData.filter((p) => p.category !== 'page' && p.draft);
 
   return (
     <Layout>
