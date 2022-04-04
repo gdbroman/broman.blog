@@ -4,6 +4,8 @@ date: '2021-11-27'
 isUnlisted: true
 ---
 
+Nietzsche predicted that when we no longer have transcendental values to bound ourselves to, we will become what he called "the last man." Pityable, nihilistic bugmen only concerned with avoiding pain and increasing pleasure. Never questioning, completely detached from the bigger picture. Completely detached. Unfortunately, Nietzsche's prediction has come to fruition.
+
 > I teach mankind a new will: to desire this path that men
 have followed blindly, and to call it good and no more to
 creep aside from it, like the sick and dying!
@@ -52,7 +54,7 @@ We deserve better. We need better.
 
 ### Classes
 
-- the masses: numb me daddy. give me endless autoscrolling news feed. supersize, starch, sugar, seedoil, sodium. numb me now. yes I'm a bad boy, don't let me think. put dopamine cord inside cranium. Blindfold me, choke me already, put a mask on my face, don't let me outside my cage. High fructose corn syrup. Tell me what to do tell me what to think.
+- the masses (consumtariat): numb me daddy. give me endless autoscrolling news feed. supersize, starch, sugar, seedoil, sodium. numb me now. yes I'm a bad boy, don't let me think. put dopamine cord inside cranium. Blindfold me, choke me already, put a mask on my face, don't let me outside my cage. High fructose corn syrup. Tell me what to do tell me what to think.
 - the elite: disconnected from God, autistic, can't feel. only derives pleasure from dominance.
 - the upcomers: can somewhat see through the culture and how the masses are being hypnotized. some become eremites, the rest reach for the top as an only out, therefore justifying what the elite is doing via survival-rationalization. some are good however and believe a turnaround is possible.
 
