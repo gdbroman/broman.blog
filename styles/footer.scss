@@ -14,6 +14,16 @@ footer {
       a img {
         filter: invert(36%) sepia(0%) saturate(5%) hue-rotate(165deg) brightness(99%) contrast(87%);
       }
+      .logo__urbit, .logo__urbit_swirl {
+        display: inline-block;
+        width: 32px;
+        height: 1rem;
+        stroke: #222;
+        stroke: var(--color);
+        margin-left: 5px;
+        border-radius: 1px;
+        stroke-width: "5";
+    }
     }
   }
 }
