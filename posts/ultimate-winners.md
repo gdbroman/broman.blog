@@ -1,7 +1,6 @@
 ---
 title: 'Ultimate Winners'
 date: '2020-08-18'
-draft: true
 ---
 
 There are fighters

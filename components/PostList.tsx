@@ -15,7 +15,7 @@ export const PostList = ({ posts }: PostsProps): JSX.Element => (
           <article key={id}>
             <Link href={`/${id}`}>
               <a>
-                <h3>{title}</h3>
+                <h2>{title}</h2>
               </a>
             </Link>
             <Date dateString={date} />

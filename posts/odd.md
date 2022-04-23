@@ -1,7 +1,6 @@
 ---
 title: "That's Odd"
 date: '2020-11-30'
-draft: true
 ---
 
 Once upon a time, on a tiny speck. Monkeys became aware, and now they’re depressed.

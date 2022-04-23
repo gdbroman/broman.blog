@@ -1,7 +1,6 @@
 ---
 title: 'Shining Light Underground'
 date: '2020-10-16'
-draft: true
 ---
 
 It's what you see in others

@@ -1,7 +1,6 @@
 ---
 title: "I'm Leaving"
 date: '2020-11-22'
-draft: true
 ---
 
 I'm crying as I'm writing this. Nostalgia I guess. It's in moments like these we get to pause. Turn around and look back for a bit.

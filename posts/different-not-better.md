@@ -1,7 +1,6 @@
 ---
 title: 'Different, Not Better'
 date: '2020-10-26'
-draft: true
 ---
 
 Different is not the same as better, it's better than better.

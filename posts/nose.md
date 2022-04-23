@@ -1,7 +1,6 @@
 ---
 title: 'Eyes on the Nose'
 date: '2020-11-07'
-draft: true
 ---
 
 You're fucked and I don't mean it in a derogatory way.
