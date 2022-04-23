@@ -6,16 +6,8 @@ import { Layout } from '../components/Layout';
 import { getAllPostIds, getPostData, PostData } from '../util/getPosts';
 import { useHighlight } from '../util/useHighlight';
 
-const Post = ({ title, contentHtml, date = '', category }: PostData): JSX.Element => {
+const Post = ({ title, contentHtml, description, date = '', category }: PostData): JSX.Element => {
   useHighlight();
-
-  let description = contentHtml.substring(0, 165);
-
-  if (typeof window !== 'undefined') {
-    const div = document.createElement('div');
-    div.innerHTML = contentHtml;
-    description = div.innerText.substring(0, 165);
-  }
 
   return (
     <Layout>
@@ -28,10 +20,6 @@ const Post = ({ title, contentHtml, date = '', category }: PostData): JSX.Elemen
           rel="stylesheet"
           href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.3.2/build/styles/default.min.css"
         ></link>
-        <link
-          href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap"
-          rel="stylesheet"
-        />
       </Head>
       <Article title={title} contentHtml={contentHtml} date={date} showDate={category !== 'page'} />
     </Layout>

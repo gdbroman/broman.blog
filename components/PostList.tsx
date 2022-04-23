@@ -8,18 +8,21 @@ type PostsProps = {
 };
 
 export const PostList = ({ posts }: PostsProps): JSX.Element => (
-  <ul>
-    {posts.map(
-      ({ id, date, title }) =>
-        date &&
-        title && (
-          <li key={id}>
+  <section id="posts">
+    {posts.map(({ id, date, title, description }) => {
+      if (date && title && description) {
+        return (
+          <article key={id}>
             <Link href={`/${id}`}>
-              <a>{title}</a>
+              <a>
+                <h3>{title}</h3>
+              </a>
             </Link>
             <Date dateString={date} />
-          </li>
-        )
-    )}
-  </ul>
+            <p>{description}</p>
+          </article>
+        );
+      }
+    })}
+  </section>
 );

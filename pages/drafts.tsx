@@ -1,26 +1,21 @@
 import { Layout } from '../components/Layout';
 import { PostList } from '../components/PostList';
 import { generateRssFeed } from '../util/generateRssFeed';
-import { getSortedPostsData, PostData } from '../util/getPosts';
-
-type HomeProps = {
-  allPostsData: PostData[];
-};
+import { getSortedPostsData } from '../util/getPosts';
+import { HomeProps } from './index';
 
 const Home = ({ allPostsData }: HomeProps): JSX.Element => {
-  const sortedPosts = allPostsData.filter((p) => p.category !== 'page' && p.draft);
+  const filteredPosts = allPostsData.filter((p) => p.category !== 'page' && p.draft);
 
   return (
     <Layout>
-      <section id="posts">
-        <PostList posts={sortedPosts} />
-      </section>
+      <PostList posts={filteredPosts} />
     </Layout>
   );
 };
 
 export const getStaticProps = async (): Promise<{ props: HomeProps }> => {
-  const postData = getSortedPostsData();
+  const postData = await getSortedPostsData();
   await generateRssFeed(postData);
 
   return {
