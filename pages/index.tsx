@@ -4,26 +4,22 @@ import { generateRssFeed } from '../util/generateRssFeed';
 import { getSortedPostsData, PostData } from '../util/getPosts';
 
 export type HomeProps = {
-  allPostsData: PostData[];
+  sortedPostsData: PostData[];
 };
 
-const Home = ({ allPostsData }: HomeProps): JSX.Element => {
-  const filteredPosts = allPostsData.filter((p) => p.category !== 'page' && !p.draft);
-
-  return (
-    <Layout>
-      <PostList posts={filteredPosts} />
-    </Layout>
-  );
-};
+const Home = ({ sortedPostsData }: HomeProps): JSX.Element => (
+  <Layout>
+    <PostList posts={sortedPostsData} filterBy="published" />
+  </Layout>
+);
 
 export const getStaticProps = async (): Promise<{ props: HomeProps }> => {
-  const postData = await getSortedPostsData();
-  await generateRssFeed(postData);
+  const sortedPostsData = await getSortedPostsData();
+  await generateRssFeed(sortedPostsData);
 
   return {
     props: {
-      allPostsData: postData
+      sortedPostsData
     }
   };
 };

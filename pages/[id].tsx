@@ -6,7 +6,7 @@ import { Layout } from '../components/Layout';
 import { getAllPostIds, getPostData, PostData } from '../util/getPosts';
 import { useHighlight } from '../util/useHighlight';
 
-const Post = ({ title, contentHtml, description, date = '', category }: PostData): JSX.Element => {
+const Post = ({ title, contentHtml, description, date = '' }: PostData): JSX.Element => {
   useHighlight();
 
   return (
@@ -21,7 +21,7 @@ const Post = ({ title, contentHtml, description, date = '', category }: PostData
           href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.3.2/build/styles/default.min.css"
         ></link>
       </Head>
-      <Article title={title} contentHtml={contentHtml} date={date} showDate={category !== 'page'} />
+      <Article title={title} contentHtml={contentHtml} date={date} />
     </Layout>
   );
 };

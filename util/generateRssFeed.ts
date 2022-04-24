@@ -39,7 +39,6 @@ export const generateRssFeed = async (postData: PostData[]) => {
       id: url,
       link: url,
       author: [author],
-      category: [{ name: post.category }],
       contributor: [author],
       date: new Date(post.date)
     });

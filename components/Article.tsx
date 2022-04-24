@@ -3,19 +3,13 @@ import { Date } from '../components/Date';
 type ArticleProps = {
   title: string;
   contentHtml: string;
-  date: string;
-  showDate?: boolean;
+  date: string | undefined;
 };
 
-export const Article = ({
-  title,
-  contentHtml,
-  date,
-  showDate = true
-}: ArticleProps): JSX.Element => (
+export const Article = ({ title, contentHtml, date }: ArticleProps): JSX.Element => (
   <article>
     <h1>{title}</h1>
-    {showDate && <Date dateString={date} />}
+    {date && <Date dateString={date} />}
     <div dangerouslySetInnerHTML={{ __html: contentHtml }} />
   </article>
 );

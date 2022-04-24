@@ -5,24 +5,38 @@ import { Date } from './Date';
 
 type PostsProps = {
   posts: PostData[];
+  filterBy?: 'all' | 'drafts' | 'published';
 };
 
-export const PostList = ({ posts }: PostsProps): JSX.Element => (
-  <section id="posts">
-    {posts.map(({ id, date, title, description }) => {
-      if (date && title && description) {
-        return (
-          <article key={id}>
-            <Link href={`/${id}`}>
-              <a>
-                <h2>{title}</h2>
-              </a>
-            </Link>
-            <Date dateString={date} />
-            <p>{description}</p>
-          </article>
-        );
-      }
-    })}
-  </section>
-);
+export const PostList = ({ posts, filterBy = 'all' }: PostsProps): JSX.Element => {
+  const filteredPosts = posts.filter((p) => {
+    switch (filterBy) {
+      case 'all':
+        return true;
+      case 'drafts':
+        return p.draft;
+      case 'published':
+        return !p.draft;
+    }
+  });
+
+  return (
+    <section id="posts">
+      {filteredPosts.map(({ id, date, title, description }) => {
+        if (date && title && description) {
+          return (
+            <article key={id}>
+              <Link href={`/${id}`}>
+                <a>
+                  <h2>{title}</h2>
+                </a>
+              </Link>
+              <Date dateString={date} />
+              <p>{description}</p>
+            </article>
+          );
+        }
+      })}
+    </section>
+  );
+};
