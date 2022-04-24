@@ -1,7 +1,5 @@
 import Link from 'next/link';
 
-const isDevelopment = process.env.NODE_ENV === 'development';
-
 type Path = {
   href: string;
   name: string;
@@ -11,10 +9,6 @@ const paths: Path[] = [
   {
     href: '/',
     name: 'home'
-  },
-  isDevelopment && {
-    href: '/drafts',
-    name: 'drafts'
   },
   {
     href: '/about',

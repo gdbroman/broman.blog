@@ -12,7 +12,7 @@ import UrbitIcon from './icons/urbit.svg';
 type Path = {
   href: string;
   alt: string;
-  icon: any;
+  icon: typeof GithubIcon;
 };
 
 const socials: Path[] = [
