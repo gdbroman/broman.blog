@@ -16,83 +16,81 @@ How to ascend? Mackey proposes a few guiding principles, such as 1) serving all 
 
 This is all very good and needed—critical, even. Mackey seems like a genuinely good guy. Undoubtedly, he walks his talk of ascending an org. Question is, is it enough?
 
-It seems to me we need new tools. Yes, accompanying philosophy on how to use them too, but tools nonetheless. With tyrannical tech such as surveillance AI and social credit systems already being implemented, the gravity of the situation calls for exit alternatives. Tools, will constitute our escape pod. One such tool is called Urbit.
+It seems to me we need new tools. Yes, accompanying philosophy on how to use them too, but tools nonetheless. With tyrannical tech such as surveillance AI and social credit systems already being implemented (unhindered in China, and POC in West), the gravity of the situation calls for exit alternatives. Tools, will constitute our escape pod. One such tool is called Urbit.
 
 ## What is Urbit?
 
-Urbit in its current state is an esoteric piece of software, known by a small group of mostly libertarian programmers, used by fewer still. On their [landing page](https://urbit.org/), they describes it as “A clean-slate OS and network for the 21st century."
+Invented by the american blogger Curtis Yarvin back in 2013, Urbit in its current state is an esoteric piece of software, known by a small group of mostly libertarian programmers. On its [landing page](https://urbit.org/), it's self-described as “A clean-slate OS and network for the 21st century." Curtis stays clear from Urbit in interviews, which doesn’t help comprehension. But apparently, the creative genius sees his job as done and wants to move on.
 
-It was invented by the programmer and blogger Curtis Yarvin back in 2013. Curtis stays clear from Urbit in interviews, which doesn’t make things easier. Apparently, the creative genius sees his job as done and wants to move on.
+Here are some ways other's have described Urbit:
 
-Here are some ways to describe Urbit
-
-- A new type of social computing
-    - Offering new ways to relate. To others, to ideas.
+- A new way to relate (to others, and ideas)
 - A critical upgrade to human interaction
+- A new type of social computing
 - A world-changing project
 - A new internet
 
-### Okay, so like what is it again? (technically)
+### What it is Technically
 
-> Urbit is a challenging project to fully describe because, rather than a single product, it’s an entire system. Often when I talk about one of the individual elements of the system, someone will tell me that another company is already building that — and they’re usually right. What sets Urbit apart is that we’re building all these elements at once to work together seamlessly.
+Urbit can be hard to describe because it is many things simultaneously. But in short, it as least these three:
+
+1. A super-private computer,
+2. An ID,
+3. A peer-to-peer network.
+
+Or, in one sentence:
+
+> Urbit is a peer-to-peer internet being built from scratch to be more private, secure, and durable than the current internet.
 >
-> <cite>—Erik Newton ~patnes-rigtyn</cite>
+> <cite><a href="https://urbit.org/blog/urbit-for-normies">—Erik Newton ~patnes-rigtyn</a></cite>
 
-Urbit is a peer-to-peer internet being built from scratch to be more private, secure, and durable than the current internet.
+Let's look at the three components.
 
-At its most basic level, an Urbit is:
+#### 1. A super-private computer
 
-1. A super-private computer, combined with
-2. an ID, which is
-3. connected peer-to-peer with other Urbit computers.
+Your Urbit computer is best run locally on your personal computer as your own server.
 
-Also, calm computing. No notifications or blinking lights. The computer is a tool, to empower humans, respecting their time and attention.
+Self-hosting your own data is not only great for privacy, it also solves what Balaji Srinivasan called the [data export/import problem](https://balajis.com/yes-you-may-need-a-blockchain/):
+
+> On the current internet, a new app that launches tomorrow can't know who your friends are today. That's why we all have a dozen different social apps, and yet our relationships are fragmented across them (I have Twitter friends I only know on Twitter, I have family members that only have Facebook, and so on).
+>
+> What if all of your relationships could simply appear, automatically, in every new social app that emerges for the next 100 years?
+>
+> <cite>—Justin Murphy ~hatryx-lastud</cite>
+
+People hate the boomer web like Facebook, but they stay on it because all of their friends are on it. Urbit solves this. With a self-hosted, persistent social graph.
+
+#### 2. An ID
 
 All of our communication channels on the internet today rely on someone else to authenticate our identity. Urbit is — to my knowledge — the first practical application of a decentralized ID system that actually works.
 
-### Attention, and a Persistent Social Graph
+Your ID is pseudonomyous, meaning you can stay completely anonymous if you choose to not publically share it. This has some interesting implications.
 
-“On the current internet, a new app that launches tomorrow can't know who your friends are today. That's why we all have a dozen different social apps, and yet our relationships are fragmented across them (I have Twitter friends I only know on Twitter, I have family members that only have Facebook, and so on).”
+Because all Urbit groups are unindexed, they spread via word of mouth. You find the communities you're drawn to, and are completely oblivious to cringe ones. No more heated Facebook comment sections.
 
-People hate the boomer web like Facebook, but they stay on it because all of their friends are on it. Network effects.
+People forming their own communities might seem like we’re just worsening our echo chamber. But one perspective is that when we take away the satanic algorithm, we are reviving people’s ability to focus and be proactive, so open-mindedness will increase, not decrease.
 
-But the business model is fucked up. Facebook themselves admitted to doing research on how to make people feel bad. [source] Just to have them stay on longer so they can sell more of our time and data to advertisers.
+#### 3. A peer-to-peer network
 
-What if all of your relationships could simply appear, automatically, in every new social app that emerges for the next 100 years?
+Today if you want to talk with other people on the network, you have to go through an intermediary. Servers, owned by Google, Facebook, etc. The short term cost is your data which is stored on those servers. The long term cost is the your time and attention which those corporations sell to advertisers.
 
-What if we increased our attention spans?
+Because Urbit has a decentralized ID system, it cuts out the middlemen and lets you talk directly with people on the network. This has huge benefit for privacy and integrety. More below.
 
-## Unindexed web 3.6
-
-The boomer web is conducting an information war. Urbit on the other hand, asks you to be proactive in what to consume. Instead of shielding your attention span from people trynna penetrate, you will have to actively seek out information.
-
-Groups are unindexed and spread mostly via word of mouth (or the boomer web still ofc).
-
-And there’s basically no feed.
-
-It’s not forcing you anything.
-
-You’ll eat only what you want.
-
-## Why do we need Urbit / How will it save us?
+## How will Urbit it save us?
 
 > *Our civilization is unwell. We eat food that kills us, we’ve lost sight of beauty, and we neglect our spiritual lives. The world is deranged and decayed, and this frightens people. We don’t look up from our screens; we seek to live within them.
-—*0x7a02, Introducing Praxis
-> 
+>
+> <cite>—0x7a02, Introducing Praxis</cite>
 
-The last couple of decades, it has been redefined what it means to be a human. Smaller attention span, less freedom, no proactivity. No dignity. Yeah you *could* exit socials, but *can* you. We’re social creatures, we need an alternative. I do not want these big corps to continue having this power over me.
+Take a close listen to these boomer web keywords: "feed", "influencer", "push notification". What do they all have in common? They're all very intrusive. The boomer web is a very rough place, where you as a browser assume this defensive position of trying to save your last bit of time and attention. Worst part is, there is no “them.” Even the developers and advertisers are themselves addicted to their phones.
 
-There’s an information war going on. Worst part is, there is no “them.” Even the powers at be are themselves addicted to their phones. Tyrannical tech has become a force of its own.
+The last couple of decades, it has been redefined what it means to be a human. Smaller attention span, less freedom, no proactivity. No dignity. Yeah you *could* exit socials, but *can* you. We’re social creatures, we need an alternative. Do you wish these big corps to continue having this power over you?
 
-The goal is prosperity with individual sovereignty. For this, we’ll need new social computation.
+Make no mistake, there’s an information war going on, and Urbit is here to help you not fight, but exit. On Urbit you're asked to be proactive in what to consume. Instead of shielding your attention span from penetration, you will have to actively seek out information. There’s no feed, you eat when you want.
 
-There are alternatives like Ceramic and DeSo but they are not as popular. That might change of course, but Urbit currently has the biggest small group of loyal adherents.
+Furthermore, Urbit's design implements a philosophy called calm computing. No notifications or blinking lights. The computer is a tool, to empower humans, respecting their time and attention. What if we increased our attention spans?
 
-## Is siloing groups really good?
-
-People forming their own communities might seem like we’re just worsening our echo chamber.
-
-One perspective: when we take away the satanic algorithm, thus bringing back people’s attention span and proactivity with regards to learning, open-mindedness will increase, not decrease.
+If the goal is prosperity with individual sovereignty, we’ll need new social computation. There are alternatives like Ceramic and DeSo but they are not as popular. This might change of course, but Urbit currently has the biggest small group of loyal adherents.
 
 ### How to get started
 
@@ -100,10 +98,16 @@ All you really need is a planet. To get one, you’ve got two alternatives: buy 
 
 Secondly you’ll need to boot your planet. This is the easy part. Urbit has made this really simple now, so all you need to do is to download their Mac or Windows app called Port, where you can boot up your planet locally on your computer in less than 5 minutes.
 
-## Will everyone really move over to Urbit?
+## Mass exodus wen?
 
 Urbit is still technically difficult to get on for the average person. So not until my mom can get on it can we even start to entertain the thought of a mass exodus.
 
 But even when the UX is ready, there are still network effects.
 
 So probably a dramatic event like a breach that crashed the whole boomer web will have to happen for everyone to move over to Urbit. For now, though, it’s mostly libertarian nerds. But this just makes for a more fun experience imo!
+
+### The End of History
+
+According to Heidegger, since the start of philosophy, we have been concerned with simple matters. Each epoch allowing for a capped radicality in worldview. He suggested that only now, are we entering the epoch of a *whole* world view, tied with the threat of complete instrumentalization of our world via tech. Becoming more things than persons. 
+
+Awake from oblivion we will. The question is how. I'm choosing Urbit.

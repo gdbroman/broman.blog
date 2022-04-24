@@ -4,7 +4,7 @@ import { generateRssFeed } from '../util/generateRssFeed';
 import { getSortedPostsData } from '../util/getPosts';
 import { HomeProps } from './index';
 
-const Home = ({ sortedPostsData }: HomeProps): JSX.Element => (
+const Drafts = ({ sortedPostsData }: HomeProps): JSX.Element => (
   <Layout>
     <PostList posts={sortedPostsData} filterBy="drafts" />
   </Layout>
@@ -21,4 +21,4 @@ export const getStaticProps = async (): Promise<{ props: HomeProps }> => {
   };
 };
 
-export default Home;
+export default Drafts;

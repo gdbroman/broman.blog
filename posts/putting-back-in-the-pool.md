@@ -9,7 +9,7 @@ To go to the same good school, chase the same career, live in the same area. And
 
 > But you might wanna think about going to Paris and being a poet for a few years
 >
-> <cite>—<a href="https://www.youtube.com/watch?v=oPbcM5N5Sqg">Steve Jobs</a></cite>
+> <cite><a href="https://www.youtube.com/watch?v=oPbcM5N5Sqg">—Steve Jobs</a></cite>
 
 Having the same set of experiences as everyone else, we're gonna make the same connections (and feel dead). It can't be a coincidence that _expression_ is linguistically opposite to _depression_. To be liked by many for a shell, or loved for your core by a few. To express or depress one's self. These are the choices we have.
 

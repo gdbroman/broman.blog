@@ -23,7 +23,7 @@ export const PostList = ({ posts, filterBy = 'all' }: PostsProps): JSX.Element =
   return (
     <section id="posts">
       {filteredPosts.map(({ id, date, title, description }) => {
-        if (date && title && description) {
+        if (date) {
           return (
             <article key={id}>
               <Link href={`/${id}`}>

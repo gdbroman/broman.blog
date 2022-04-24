@@ -16,10 +16,6 @@ const Post = ({ title, contentHtml, description, date = '' }: PostData): JSX.Ele
         <meta name="description" content={description} />
         <meta name="og:title" content={title} />
         <meta name="og:description" content={description} />
-        <link
-          rel="stylesheet"
-          href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.3.2/build/styles/default.min.css"
-        ></link>
       </Head>
       <Article title={title} contentHtml={contentHtml} date={date} />
     </Layout>

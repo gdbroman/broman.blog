@@ -12,35 +12,35 @@ import {
 import { PostData } from './getPosts';
 
 export const generateRssFeed = async (postData: PostData[]) => {
-  const date = new Date();
+  const today = new Date();
   const author = {
     name: authorName,
     link: siteUrl
   };
   const feed = new Feed({
+    id: siteUrl,
     title: siteTitle,
     description: siteDescription,
-    id: siteUrl,
     link: siteUrl,
     image: `${siteUrl}${bannerImage}`,
     favicon: `${siteUrl}/favicon/apple-touch-icon.png`,
-    copyright: `All rights reserved ${date.getFullYear()}, Gustaf Broman`,
-    updated: date,
+    copyright: `All rights reserved ${today.getFullYear()}, Gustaf Broman`,
+    updated: today,
     feedLinks: {
       rss2: `${siteUrl}/rss/feed.xml`
     },
     author
   });
 
-  postData.forEach((post) => {
-    const url = `${siteUrl}/${post.id}`;
+  postData.forEach(({ id, title, date }) => {
+    const url = `${siteUrl}/${id}`;
     feed.addItem({
-      title: post.title,
+      title: title,
       id: url,
       link: url,
       author: [author],
       contributor: [author],
-      date: new Date(post.date)
+      date: date ? new Date(date) : today
     });
   });
 
