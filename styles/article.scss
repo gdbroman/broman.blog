@@ -39,7 +39,8 @@ article {
     font-family: inherit;
   }
   img {
-    margin: 18px 0;
+    margin: 18px auto;
+    object-position: center;
   }
   code {
     padding: 2px 4px;

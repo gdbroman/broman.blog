@@ -13,7 +13,7 @@ So you can make your app fetch an api. Your button consumes a global state. But 
 
 Building stuff with frameworks is great. Get started. Learn by doing and all that jazz. But, lacking under-the-hood understanding, you'll inevitably plateau (I did).
 
-So I took a Udemy course.
+So I took a [Udemy course](https://www.udemy.com/course/understand-javascript).
 
 ## How Your Computer Understands JavaScript
 
