@@ -23,9 +23,9 @@ The reason why I got a personal computer was that my parents felt bad. I had inf
 
 The games this fat Dell computer could handle were embarrassingly bad. So pretty quickly, the idea of creating my own game was planted in my mind.
 
-There was one game I really liked though. It was called Flyff. It was a massively multiplayer RPG; like a free, Asian alternative to World of Warcraft. My computer could barely start the thing of course. *What if I could create my own Flyff which my computer could handle?*
+There was one game I loved however: it was called Flyff. It was a massively multiplayer RPG; like a free, Asian alternative to World of Warcraft. My computer could barely start the thing of course. *What if I could create my own Flyff which my computer could handle?*
 
-So I started googling. But I struggled; there were barely any resources in my mother tongue. And my English wasn’t good, but eventually, I came across something called C++. Apparently, the best games were written in it—including Flyff. Bingo.
+So I started googling. But I struggled; there were barely any resources in my mother tongue, and my English wasn’t good. But eventually, I came across something called C++. Apparently, all the best games—including Flyff—were written in it. Bingo.
 
 ## Year 1: C++
 
@@ -39,13 +39,13 @@ In hindsight, C++ is maybe not the best language to start with. If you're wonder
 
 ## Year 2: Java Swing Applets
 
-Fast forward two years and I'm in high school. I'm 15 years old and taking a class in Java programming.
+Fast forward two years and I'm in high school. I'm 15 years old and taking one of the few programming classes my school had to offer. It was in Java.
 
 <Image src="/images/software/swingraphics.jpeg" alt="Java swing graphics" />
 
 My desire to create games was still alive. So I started out creating simple text-based console games, and then moved over to graphical games using the Swing package—like Snake and Pong. I wasn't a big fan of Java's verbose and boilerplate nature, but my old dream of creating an RPG was now considerably closer.
 
-And then, because I was really into math at the time, I got into using Java for numerical problem-solving on [projecteuler.net](https://projecteuler.net). Project Euler is like LeetCode's grandfather, except it's for fun instead of job interviews.
+And then, because I was really into math at the time, I got into using Java for numerical problem-solving on [projecteuler.net](https://projecteuler.net). Project Euler is like the godfather of LeetCode, except it's for fun instead of job interviews.
 
 ## Year 3: Web Dev! HTML, CSS, jQuery
 
@@ -61,21 +61,19 @@ Last year of high school, together with my classmate, I built a remote-controlle
 
 <Image src="/images/software/battlebot.jpg" alt="Remote-controlled battlebot" />
 
-If you don't know, Arduino is a bit like Raspberry Pi. A small computer, programmable with C++, which was nostalgic for me.
+If you don't know, Arduino is a bit like Raspberry Pi. A small computer, programmable with C++ (which was nostalgic for me).
 
-The construction turned out to be a bit too heavy, resulting in bad mobility. But the spinning blade was a great success (no fingers lost).
+The construction turned out a bit too heavy for the motors, resulting in bad mobility. But the spinning blade was a great success (no fingers lost).
 
 ## Year 5: PHP and SQL
 
-At 18 years old, I enrolled in university to study physics. I chose physics because it seemed more evergreen than computer science. I have changed my mind about this since. But at this time, I also still wasn't entirely sure if programming was for me, so physics seemed more diversified.
+At 18 years old, I enrolled in university to study physics. I chose physics because it seemed more evergreen than computer science. I have changed my mind about this since. But at this time, I also still wasn't entirely sure if programming was for me, so physics seemed like a more diversified bet.
 
-The first year, the only programming we did was one class in Python, and one numerical analysis class, using Matlab. So after my first year in university, I wanted to get back to web development, it was far more fun to me. Furthermore, I wanted to make money. I was sick of being a broke student.
+The first year, the only programming we did was one class in Python, and one numerical analysis class, using Matlab. So after my first year in university, I was craving web development. More specifically, I was longing for that creative process I had experienced when I was copying website designs back in high school. Furthermore, I wanted to make money. I was sick of being a broke student.
 
-I decided I was going to build a SaaS app, which I'd charge people money for. I had no idea how to achieve this with the sparse jQuery knowledge I had, so once again, I started googling.
+I decided I was going to build a SaaS app, which I'd charge people money for. I had no idea how to achieve this with the sparse jQuery knowledge I had, so once again, I started googling. And I found a full-stack YouTube tutorial by [Will Kwan](https://www.youtube.com/watch?v=HmyMFZQDWyU), which used NodeJS and MongoDB for the backend and EJS for the frontend. That was a few too many new technologies for me at the time, so I resorted to learning PHP and SQL instead.
 
-On YouTube, I found a full-stack tutorial by [Will Kwan](https://www.youtube.com/watch?v=HmyMFZQDWyU), which used NodeJS and MongoDB for the backend and EJS for the frontend. That was a few too many new technologies for me at that time. So I resorted to just learning PHP and SQL instead.
-
-Beginning my second year of university, I had finished the first version of a marketplace app. So not quite SaaS, but it had authentication, profiles, and everything. The product was shit. The world didn't need another marketplace app. When the app didn't make me any money, I realized I was going to have to get a job. For now.
+Beginning my second year of university, I had finished the first version of a marketplace app. So not quite SaaS, but it had authentication, profiles, and everything. The product was shit. The world didn't need another marketplace app. And when the app didn't make me any money, I realized I was going to have to get a job. For now.
 
 ## Year 6: React
 
@@ -83,7 +81,7 @@ Problem is, you can't get a job knowing some PHP and Python. All the cool compan
 
 After that embarrassing experience, I started learning React. It was pretty tough, and I underestimated how long I would be learning it for. Two years later, I'm still learning.
 
-Luckily, I connected with someone on LinkedIn who was also trying to learn React. We had coffee, became friends, and built some projects together, some of which made money.
+Luckily, I connected with someone on LinkedIn who was also trying to learn React. We had coffee, became friends, and built some projects together—some of which made money.
 
 <Image src="/images/software/ui.png" alt="Remote-controlled battlebot" />
 
@@ -91,19 +89,17 @@ That summer, I ended up with an internship, and subsequently landing my first fu
 
 ## Year 7: Advanced Javascript
 
-After landing my first job, I felt like I was stagnating in my learning. Every time I ran into a bug I resorted to StackOverflow. I wasn't mature enough as a developer to do debugging on my own. I realized that my weak point was pure JavaScript. I knew React, but not what was happening under the hood.
+After landing my first job, I felt like I was stagnating. Every time I ran into a bug I resorted to Stack Overflow. I wasn't a mature enough developer to do debugging on my own. I realized that my weak point was pure JavaScript. I knew React, but not what was happening under the hood.
 
-So I took an [advanced JavaScript course](https://www.udemy.com/course/understand-javascript). I learned about the event loop, hoisting, execution contexts, how all of the different primitives differed. This was exceptionally fruitful. Because that course took like a week for me to do. But it leveled me up.
+So I took an [advanced JS course](https://www.udemy.com/course/understand-javascript), which taught me about the event loop, hoisting, execution contexts, and how all of the different primitives differed. This was exceptionally fruitful, because that course took like a week for me to do. But it *leveled me up.*
 
-And because I had some experience writing React apps, I had context for this new theoretical knowledge. This is critical. Had I taken it earlier, it would have went over my head. **Taking courses successfully is 90% about timing, and thus being self-aware enough to know what to take and when.**
+And because I had some experience writing React apps, I had context to fit this new theoretical knowledge into. This is critical. Had I taken it earlier, it would have went over my head. **Taking courses successfully is 90% about timing, and thus being self-aware about what to take and when.**
 
-After that week of studying, I started interviewing. I got a couple of offers. That felt good. Eventually, I chose the job I now have, writing React in the frontend.
-
-Finally, I could confidently claim to be a decent developer. So much so, I decided to not return to university, because I had proven to myself I could learn on my own.
+After that week of studying, I started interviewing. I got a handful of offers, and eventually chose the job I now have, writing React in the frontend. Finally, I could confidently claim to be a decent developer. So much so, I decided to not return to university; because I had proven to myself: I could learn on my own.
 
 ## Year 8: Style and Performance
 
-In the new job, I started to expand my thinking about code to style and performance. I became interested in more than mere syntax. *How do I write code that is maintainable and performant?*
+In the new job, I found myself in a team with more experienced engineers, so I started to expand my thinking about code to more than mere syntax. *How do you collaborate on code effectively? How do you write code that is performant yet maintainable?*
 
 <Image src="/images/software/pragprog.jpg" alt="The Pragmatic Programmer by Andrew Hunt" />
 
@@ -115,8 +111,8 @@ This was a period where my perception of programming expanded. For instance, I r
 
 At my current job, I got offered to join our on-call rotation. For the uninitiated, on-call basically means you are delegated more responsibility to make sure all systems are kept up and running.
 
-Thing is, I didn’t know any Kubernetes. To be a good on-caller you have to know Kubernetes. So once again, I took a [Udemy course](https://www.udemy.com/course/learn-kubernetes). Meta note here: this is the best kind of learning you’ll ever do—when circumstances force you to. **If you're feeling stagnant, put yourself in a sink or swim situation.** I would not have learned Kubernetes if I didn't.
+Thing is, I didn’t know any Kubernetes. And to be a good on-caller you have to know Kubernetes. So once again, I took a [Udemy course](https://www.udemy.com/course/learn-kubernetes). Meta note here: this is the best kind of learning you’ll ever do—when circumstances force you to. **So if you're feeling stagnant, put yourself in a sink or swim situation.** I would not have learned Kubernetes if I didn't.
 
 ## Onwards
 
-That's how I met software engineering. I encourage you—not only to think about my takeaways and how they might apply to your journey—but to also try this reflective exercise out for yourself. You don’t have to publish a whole post about it. But, sometimes, looking back can help us look ahead.
+That is how I met software engineering. I encourage you—not only to think about my takeaways and how they might apply to your journey—but to also try this reflective exercise out for yourself. You don’t have to publish a whole post about it. But, sometimes, looking back can help us look ahead.
