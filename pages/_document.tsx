@@ -18,6 +18,7 @@ class MyDocument extends Document {
             rel="stylesheet"
             href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.3.2/build/styles/default.min.css"
           ></link>
+          <script src="https://f.convertkit.com/ckjs/ck.5.js" defer />
         </Head>
         <body>
           <Main />
