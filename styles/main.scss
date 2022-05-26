@@ -3,7 +3,7 @@
 @use 'footer';
 @use 'posts';
 @use 'article';
-@use 'typography';
+@import 'typography';
 @import 'colors';
 
 $PAGE_WIDTH: 549px;
@@ -28,6 +28,61 @@ main#container {
   max-width: $PAGE_WIDTH;
   margin: 0 auto;
   padding: 16px;
+  #newsletter {
+    margin-bottom: 24px;
+    text-align: center;
+    img {
+      border-radius: 16px;
+    }
+    #body {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      margin-top: 16px;
+      p {
+        font-size: 18px;
+      }
+    }
+    form {
+      margin-top: 20px;
+      .formkit-fields {
+        display: flex;
+        justify-content: center;
+        .formkit-field {
+          display: flex;
+          flex-direction: row;
+          align-self: center;
+          input {
+            width: 185px;
+            font-size: 14px;
+            border-radius: 0;
+            border: 1px solid $GRAY_BORDER;
+            color: $BLACK_LIGHT;
+            &::placeholder {
+              color: $GRAY;
+            }
+            padding: 8px 12px;
+            background-color: transparent;
+          }
+          button {
+            font-size: 14px;
+            padding: 8px 12px;
+            color: $BLACK;
+            border-radius: 0;
+            border: 1px solid $GRAY;
+            background-color: $GRAY_BORDER;
+          }
+        }
+      }
+      .formkit-alert {
+        font-size: 18px;
+        font-weight: 700;
+        font-style: italic;
+        font-family: $SECONDARY_FONT;
+        color: $BLACK_LIGHT;
+      }
+    }
+  }
   hr {
     border: none;
     height: 1px;

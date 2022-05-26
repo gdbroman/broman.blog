@@ -8,11 +8,11 @@ type Path = {
 const paths: Path[] = [
   {
     href: '/',
-    name: 'home'
+    name: 'Writing'
   },
   {
     href: '/about',
-    name: 'about'
+    name: 'About'
   }
 ];
 
