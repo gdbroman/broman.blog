@@ -15,13 +15,10 @@ const Home = ({ sortedPostsData }: HomeProps): JSX.Element => (
     <div id="newsletter">
       <Image src="/favicon/android-chrome-512x512.png" width={100} height={100} alt="Gustaf" />
       <div id="body">
+        <h1>Greetings! I&apos;m Gustaf</h1>
         <p>
-          Greetings! I&apos;m Gustaf. Programmer by day, daydreamer by night. I like to think about
-          where we are headed.
-        </p>
-        <p>
-          Every sunday I send out an email on technology, culture, and staying sovereign, which I
-          don&apos;t post anywhere else.
+          Every Sunday I write an idea-driven email, trying to make sense of our technoculture.
+          Biased towards individual sovereignty.
         </p>
       </div>
       <ConvertKitForm />

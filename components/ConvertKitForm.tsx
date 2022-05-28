@@ -16,8 +16,8 @@ export const ConvertKitForm = () => (
           <input
             name="email_address"
             className="formkit-input"
-            aria-label="Email Address"
-            placeholder="Email Address"
+            aria-label="Email address"
+            placeholder="Email address"
             type="email"
             required
           />

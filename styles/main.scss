@@ -37,14 +37,14 @@ main#container {
     #body {
       display: flex;
       flex-direction: column;
+      margin: 16px auto 24px auto;
+      max-width: 480px;
       gap: 16px;
-      margin-top: 16px;
       p {
-        font-size: 18px;
+        font-size: 20px;
       }
     }
     form {
-      margin-top: 20px;
       .formkit-fields {
         display: flex;
         justify-content: center;
@@ -53,10 +53,11 @@ main#container {
           flex-direction: row;
           align-self: center;
           input {
-            width: 185px;
-            font-size: 14px;
+            width: 200px;
+            font-size: 16px;
             border-radius: 0;
             border: 1px solid $GRAY_BORDER;
+            border-right: none;
             color: $BLACK_LIGHT;
             &::placeholder {
               color: $GRAY;
@@ -65,7 +66,7 @@ main#container {
             background-color: transparent;
           }
           button {
-            font-size: 14px;
+            font-size: 16px;
             padding: 8px 12px;
             color: $BLACK;
             border-radius: 0;
