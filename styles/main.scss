@@ -29,22 +29,16 @@ main#container {
   margin: 0 auto;
   padding: 16px;
   #newsletter {
-    margin-bottom: 24px;
+    display: flex;
+    flex-direction: column;
     text-align: center;
-    img {
-      border-radius: 16px;
-    }
-    #body {
-      display: flex;
-      flex-direction: column;
-      margin: 16px auto 24px auto;
-      max-width: 480px;
-      gap: 16px;
-      p {
-        font-size: 20px;
-      }
+    margin: 16px auto 48px auto;
+    gap: 16px;
+    p {
+      font-size: 20px;
     }
     form {
+      margin-top: 8px;
       .formkit-fields {
         display: flex;
         justify-content: center;
