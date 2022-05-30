@@ -6,7 +6,7 @@ import { Layout } from '../components/Layout';
 import { getAllPostIds, getPostData, PostData } from '../util/getPosts';
 import { useHighlight } from '../util/useHighlight';
 
-const Post = ({ title, contentHtml, description, date = '' }: PostData): JSX.Element => {
+const Post = ({ title, contentHtml, description, date, category }: PostData): JSX.Element => {
   useHighlight();
 
   return (
@@ -17,7 +17,7 @@ const Post = ({ title, contentHtml, description, date = '' }: PostData): JSX.Ele
         <meta name="og:title" content={title} />
         <meta name="og:description" content={description} />
       </Head>
-      <Article title={title} contentHtml={contentHtml} date={date} />
+      <Article title={title} contentHtml={contentHtml} date={date} category={category} />
     </Layout>
   );
 };

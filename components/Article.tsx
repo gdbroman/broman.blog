@@ -1,15 +1,16 @@
-import { Date } from '../components/Date';
+import { Meta } from './Meta';
 
 type ArticleProps = {
   title: string;
   contentHtml: string;
-  date: string | undefined;
+  date: string;
+  category: string;
 };
 
-export const Article = ({ title, contentHtml, date }: ArticleProps): JSX.Element => (
+export const Article = ({ title, contentHtml, date, category }: ArticleProps): JSX.Element => (
   <article>
     <h1>{title}</h1>
-    {date && <Date dateString={date} />}
+    <Meta date={date} category={category} />
     <div dangerouslySetInnerHTML={{ __html: contentHtml }} />
   </article>
 );

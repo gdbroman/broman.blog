@@ -1,7 +1,7 @@
 import Link from 'next/link';
 
 import { PostData } from '../util/getPosts';
-import { Date } from './Date';
+import { Meta } from './Meta';
 
 type PostsProps = {
   posts: PostData[];
@@ -22,7 +22,7 @@ export const PostList = ({ posts, filterBy = 'all' }: PostsProps): JSX.Element =
 
   return (
     <section id="posts">
-      {filteredPosts.map(({ id, date, title, description }) => {
+      {filteredPosts.map(({ id, date, title, description, category }) => {
         if (date) {
           return (
             <article key={id}>
@@ -31,7 +31,7 @@ export const PostList = ({ posts, filterBy = 'all' }: PostsProps): JSX.Element =
                   <h2>{title}</h2>
                 </a>
               </Link>
-              <Date dateString={date} />
+              <Meta date={date} category={category} />
               <p>{description}</p>
             </article>
           );

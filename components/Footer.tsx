@@ -5,10 +5,6 @@ import GoodreadsIcon from './icons/goodreads.svg';
 import TwitterIcon from './icons/twitter.svg';
 import UrbitIcon from './icons/urbit.svg';
 
-/* eslint-disable jsx-a11y/anchor-is-valid */
-/* eslint-disable jsx-a11y/interactive-supports-focus */
-/* eslint-disable jsx-a11y/click-events-have-key-events */
-
 type Path = {
   href: string;
   alt: string;

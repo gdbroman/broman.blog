@@ -1,6 +1,7 @@
 ---
 title: 'Cities! The Moon of Our Age'
 date: '2022-05-29'
+category: 'Newsletter'
 ---
 
 <Image src="/images/city/moon.webp">

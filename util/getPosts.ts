@@ -11,6 +11,7 @@ export type PostData = {
   title: string;
   contentHtml: string;
   description: string;
+  category?: string;
   date?: string;
   draft?: boolean;
 };
@@ -71,13 +72,13 @@ export const getPostData = async (id: string): Promise<PostData> => {
   const contentHtml = processedContent.toString();
   const description = getDescription(contentHtml);
 
-  // Combine the data with the id and contentHtml
   return {
     id,
     contentHtml,
     description,
     title: matterResult.data.title,
     date: matterResult.data.date ?? '',
+    category: matterResult.data.category ?? '',
     ...matterResult.data
   };
 };
