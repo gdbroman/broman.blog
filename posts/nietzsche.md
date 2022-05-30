@@ -4,10 +4,6 @@ date: '2021-11-27'
 draft: true
 ---
 
-> “I would rather be ashes than dust! I would rather that my spark should burn out in a brilliant blaze than it should be stifled by dry-rot. I would rather be a superb meteor, every atom of me in magnificent glow, than a sleepy and permanent planet. The function of man is to live, not to exist. I shall not waste my days trying to prolong them. I shall use my time.”
->
-><cite>—Jack London</cite>
-
 Nietzsche predicted that when we no longer have transcendental values to bound ourselves to, we will become what he called "the last man." Pityable, nihilistic bugmen only concerned with avoiding pain and increasing pleasure. Never questioning, completely detached from the bigger picture. Completely detached. Unfortunately, Nietzsche's prediction has come to fruition.
 
 > I teach mankind a new will: to desire this path that men
@@ -46,45 +42,11 @@ Don't suppress the antichrist. The fourth part of God is evil.
 
 Modern world sick. Rehash movies and tv series that make you smooth brain. No one has the attention span to read or write. Food numbs. Safety steals my edge. We stay inside. The five devilish esses: High fructose corn syrup, seed oils, starch, soy, sodium. Endless “entertainment.“ Infinite feeds. An unhealthy body, a mind in distress. The weight of existence. Low level refrigerator drum that makes you wanna take a hit. The satanic entertainment system is pulling your attention away from how simple things can be (are). Reclaim mental bandwidth. What if we increased our attention spans.
 
-### The city problem
-
-Are we gonna look back at cities like some barbarian relic from the past? "Look we used to live like ants!"
-
-The state takes your natural birth rights and sells them back to you.
-
-We’re meant to be in nature outside but forced inside if you have any inudustrious drive. Are you engaged? It is harder in city.
-
-We deserve better. We need better.
-
 ### Classes
 
 - the masses (consumtariat): numb me daddy. give me endless autoscrolling news feed. supersize, starch, sugar, seedoil, sodium. numb me now. yes I'm a bad boy, don't let me think. put dopamine cord inside cranium. Blindfold me, choke me already, put a mask on my face, don't let me outside my cage. High fructose corn syrup. Tell me what to do tell me what to think.
 - the elite: disconnected from God, autistic, can't feel. only derives pleasure from dominance.
 - the upcomers: can somewhat see through the culture and how the masses are being hypnotized. some become eremites, the rest reach for the top as an only out, therefore justifying what the elite is doing via survival-rationalization. some are good however and believe a turnaround is possible.
-
-The state takes your natural birth rights and sells them back to you.
-
-Meant to be in nature. Forced inside if you have any inudustrious drive.
-
-Leave ur tribe if you wanna create something new.
-
-### Classes (Levels of engagement in the cultural unfoldment)
-
-- the masses: numb me daddy. (endless autoscrolling news feed. supersize, starch, sugar, seedoil, sodium. numb me now. yes I'm a bad boy, don't let me think. put dopamine chord inside cranium. Blindfold me, choke me already, put a mask on my face, don't let me outside my cage. High fructose corn syrup. Tell me what to do tell me what to think.)
-- the elite: disconnected from God (autistic, can't feel. only derives pleasure from dominance.)
-- the upcomers: can somewhat see through culture and how the mass formation. some become eremites, some join the elite, rationalizating it as a survival mechanism. some become meta noticoors and only analyse, doesn’t participate, ironically that is a form of participation. some surfers: realises you can’t step away, does a bit of both. some are good and believe in turnaround.
-
-## The Way Forward
-
-At what point do you begin anew?
-
-Let's stop rearrangin those deck chairs (apps) when the titanic is sinking.
-
-A better world is possible.
-
-Let's stop hiding from God: neglect our spiritiality no more.
-
-The founding fathers acknowledged that yes we need religious freedom, but nonetheless we need a religious people. Everyone needs transcendent values. Something to bind them, other than their own self-interest.
 
 ### The Path is Made by Walking
 
