@@ -11,8 +11,9 @@ export type PostData = {
   title: string;
   contentHtml: string;
   description: string;
-  category?: string;
   date?: string;
+  category?: string;
+  thumbnail?: string;
   draft?: boolean;
 };
 
@@ -79,6 +80,7 @@ export const getPostData = async (id: string): Promise<PostData> => {
     title: matterResult.data.title,
     date: matterResult.data.date ?? '',
     category: matterResult.data.category ?? '',
+    thumbnail: matterResult.data.thumbnail ?? '',
     ...matterResult.data
   };
 };

@@ -2,9 +2,8 @@
 title: 'Cities! The Moon of Our Age'
 date: '2022-05-29'
 category: 'Newsletter'
+thumbnail: '/images/city/moon.webp'
 ---
-
-<Image src="/images/city/moon.webp">
 
 I wonder: is this the future the audience had in mind, cheering along to those visionary words of JFK in 1962? One could start listing examples of decadence—of how we've lost our way as a civilization. Perhaps more tellingly, however, is a pondering: *when was the last time a politician spoke with such vigor about anything even remotely as ambitious as going to the moon?*
 

@@ -1,9 +1,8 @@
 ---
 title: 'Everpresently Awaiting'
 date: '2021-02-25'
+thumbnail: '/images/lake.jpg'
 ---
-
-<Image src="/images/lake.jpg" alt="Everpresently Awaiting" />
 
 Trying to stay afloat, we grab on to anything which postpones the ever-pressing question patiently awaiting us in silent darkness on the ocean floor.
 

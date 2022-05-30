@@ -1,9 +1,8 @@
 ---
 title: 'Revive Pilgrimage'
 date: '2021-05-16'
+thumbnail: '/images/pilgrim.jpg'
 ---
-
-<Image src="/images/pilgrim.jpg" alt="Revive Pilgrimage" />
 
 _To open oneself to experience is to enquire into what is arbitrary and what is meaningful. Diverse experience isn't as much about extracting insight as it is training depth-mobility. The voyager’s purpose is to arrive one level above: To transcend any one experience or way of life in favor of paradise a moment away. As he with one tongue cannot triangulate language, so he who has bathed in only one set of circumstances cannot understand what it is that is life._
 

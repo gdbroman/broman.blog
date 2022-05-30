@@ -7,18 +7,37 @@ import { Newsletter } from '../components/newsletter/Newsletter';
 import { getAllPostIds, getPostData, PostData } from '../util/getPosts';
 import { useHighlight } from '../util/useHighlight';
 
-const Post = ({ title, contentHtml, description, date, category }: PostData): JSX.Element => {
+const Post = ({
+  title,
+  contentHtml,
+  description,
+  date,
+  category,
+  thumbnail
+}: PostData): JSX.Element => {
   useHighlight();
 
   return (
     <Layout>
       <Head>
         <title>{title}</title>
-        <meta name="description" content={description} />
         <meta name="og:title" content={title} />
+        <meta name="description" content={description} />
         <meta name="og:description" content={description} />
+        {thumbnail && (
+          <>
+            <meta property="og:image" content={`https://broman.blog${thumbnail}`} />
+            <meta name="twitter:image" content={`https://broman.blog${thumbnail}`} />
+          </>
+        )}
       </Head>
-      <Article title={title} contentHtml={contentHtml} date={date} category={category} />
+      <Article
+        title={title}
+        date={date}
+        category={category}
+        thumbnail={thumbnail}
+        contentHtml={contentHtml}
+      />
       {category === 'Newsletter' && (
         <>
           <hr />
