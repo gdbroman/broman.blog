@@ -1,5 +1,5 @@
 ---
-title: 'How I Met Software Engineering'
+title: 'How I Learned Software Engineering'
 date: '2022-05-14'
 ---
 
@@ -115,4 +115,4 @@ Thing is, I didn’t know any Kubernetes. And to be a good on-caller you have to
 
 ## Onwards
 
-That is how I met software engineering. I encourage you—not only to think about my takeaways and how they might apply to your journey—but to also try this reflective exercise out for yourself. You don’t have to publish a whole post about it. But, sometimes, looking back can help us look ahead.
+That is how I came to know software engineering. I encourage you—not only to think about my takeaways and how they might apply to your journey—but to also try this reflective exercise out for yourself. You don’t have to publish a whole post about it. But, sometimes, looking back can help us look ahead.

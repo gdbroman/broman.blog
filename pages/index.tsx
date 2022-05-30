@@ -1,5 +1,5 @@
-import { ConvertKitForm } from '../components/ConvertKitForm';
-import { Layout, siteTitle } from '../components/Layout';
+import { Layout } from '../components/Layout';
+import { Newsletter } from '../components/newsletter/Newsletter';
 import { PostList } from '../components/PostList';
 import { generateRssFeed } from '../util/generateRssFeed';
 import { getSortedPostsData, PostData } from '../util/getPosts';
@@ -10,11 +10,7 @@ export type HomeProps = {
 
 const Home = ({ sortedPostsData }: HomeProps): JSX.Element => (
   <Layout>
-    <div id="newsletter">
-      <h1>{siteTitle}</h1>
-      <p>Receive an email when I publish.</p>
-      <ConvertKitForm />
-    </div>
+    <Newsletter />
     <hr />
     <PostList posts={sortedPostsData} filterBy="published" />
   </Layout>

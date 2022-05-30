@@ -3,6 +3,7 @@ import Head from 'next/head';
 
 import { Article } from '../components/Article';
 import { Layout } from '../components/Layout';
+import { Newsletter } from '../components/newsletter/Newsletter';
 import { getAllPostIds, getPostData, PostData } from '../util/getPosts';
 import { useHighlight } from '../util/useHighlight';
 
@@ -18,6 +19,12 @@ const Post = ({ title, contentHtml, description, date, category }: PostData): JS
         <meta name="og:description" content={description} />
       </Head>
       <Article title={title} contentHtml={contentHtml} date={date} category={category} />
+      {category === 'Newsletter' && (
+        <>
+          <hr />
+          <Newsletter />
+        </>
+      )}
     </Layout>
   );
 };
