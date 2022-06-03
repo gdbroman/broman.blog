@@ -19,7 +19,7 @@ It seems to me we need new tools. Yes, accompanying philosophy on how to use the
 
 ## What is Urbit?
 
-Invented by the american blogger Curtis Yarvin back in 2013, Urbit in its current state is an esoteric piece of software, known by a small group of libertarian programmers; used by even fewer still. On its [landing page](https://urbit.org/), it describes itself as “A clean-slate OS and network for the 21st century." Ok. Curtis stays clear from Urbit in interviews, which doesn’t help, but apparently the creative genius sees his job as done and wants to move on.
+Invented by the american blogger Curtis Yarvin back in 2013, Urbit in its current state is an esoteric piece of software, known by a small group of libertarian programmers; used by even fewer still. On its [landing page](https://urbit.org/), it describes itself as “A clean-slate OS and network for the 21st century." Ok. Curtis stays clear from Urbit in interviews, which doesn’t help, but apparently the creative genius sees his job as [done](https://urbit.org/blog/a-founders-farewell) and wants to move on.
 
 Here's how others have described it:
 
