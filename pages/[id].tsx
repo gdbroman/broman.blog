@@ -12,7 +12,7 @@ const Post = ({
   contentHtml,
   description,
   date,
-  category,
+  isNewsletter,
   thumbnail
 }: PostData): JSX.Element => {
   useHighlight();
@@ -34,11 +34,11 @@ const Post = ({
       <Article
         title={title}
         date={date}
-        category={category}
+        isNewsletter={isNewsletter}
         thumbnail={thumbnail}
         contentHtml={contentHtml}
       />
-      {category === 'Newsletter' && (
+      {isNewsletter && (
         <>
           <hr />
           <Newsletter />

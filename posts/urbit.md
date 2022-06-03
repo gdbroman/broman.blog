@@ -1,5 +1,6 @@
 ---
 title: "Will this new internet save us?"
+isNewsletter: true
 date: '2022-04-24'
 ---
 
@@ -97,4 +98,4 @@ Urbit is still technically difficult to get on for the average person. So not un
 
 So probably a dramatic event, like a massive password breach, making the old web unusable, will have to happen for the majority to consider moving over. For now, though, it’s mostly fringe nerds. It just makes it a more fun experience IMO.
 
-An ending note. According to Heidegger, we have since the start of philosophy been concerned with simple matters. Each epoch allowing for a capped radicality in worldview. And he suggested that only now are we entering the epoch of a *whole* world view, along with the rising threat of a complete instrumentalization of our world via tech; risking becoming more things than persons. Maybe it's time to choose a ship wisely.
+An ending note: According to Heidegger, we have since the start of philosophy been concerned with simple matters. Each epoch allowing for a capped radicality in worldview. And he suggested that only now are we entering the epoch of a *whole* world view, along with the rising threat of a complete instrumentalization of our world via tech; risking becoming more things than persons. Maybe it's time to choose a ship wisely.

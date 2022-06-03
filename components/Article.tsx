@@ -5,7 +5,7 @@ import { Meta } from './Meta';
 type ArticleProps = {
   title: string;
   date: string;
-  category: string;
+  isNewsletter: boolean;
   thumbnail: string;
   contentHtml: string;
 };
@@ -13,13 +13,13 @@ type ArticleProps = {
 export const Article = ({
   title,
   date,
-  category,
+  isNewsletter,
   thumbnail,
   contentHtml
 }: ArticleProps): JSX.Element => (
   <article>
     <h1>{title}</h1>
-    {date && <Meta date={date} category={category} />}
+    {date && <Meta date={date} isNewsletter={isNewsletter} />}
     {thumbnail && (
       <div className="thumbnail">
         <Image width={21} height={9} layout="responsive" src={thumbnail} alt={title} />

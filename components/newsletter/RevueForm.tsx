@@ -5,7 +5,7 @@ export const RevueForm = () => (
       name="revue-form"
       method="post"
       target="_blank"
-      action="https://www.getrevue.co/profile/gdbroman/add_subscriber"
+      action="https://www.getrevue.co/profile/tse/add_subscriber"
     >
       <div className="revue-form-group">
         <input

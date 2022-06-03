@@ -66,6 +66,9 @@ article {
   .meta {
     margin: 12px 0 32px 0;
     font-size: 15px;
+    span a {
+      color: $BLACK_LIGHT;
+    }
   }
 
   blockquote {
