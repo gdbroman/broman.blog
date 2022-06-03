@@ -31,22 +31,19 @@ main#container {
   #newsletter {
     display: flex;
     flex-direction: column;
-    text-align: center;
+    max-width: 400px;
     margin: 16px auto 48px auto;
+    text-align: center;
     gap: 16px;
     p {
       font-size: 18px;
     }
     form {
       margin-top: 8px;
-      .formkit-fields {
+      .revue-form-group {
         display: flex;
         justify-content: center;
-        .formkit-field {
-          display: flex;
-          flex-direction: row;
-          align-self: center;
-          input {
+          input#member_email {
             width: 200px;
             font-size: 16px;
             border-radius: 0;
@@ -59,7 +56,7 @@ main#container {
             padding: 8px 12px;
             background-color: transparent;
           }
-          button {
+          input#member_submit {
             font-size: 16px;
             padding: 8px 12px;
             color: $BLACK;
@@ -67,14 +64,6 @@ main#container {
             border: 1px solid $GRAY;
             background-color: $GRAY_BORDER;
           }
-        }
-      }
-      .formkit-alert {
-        font-size: 18px;
-        font-weight: 700;
-        font-style: italic;
-        font-family: $SECONDARY_FONT;
-        color: $BLACK_LIGHT;
       }
     }
   }

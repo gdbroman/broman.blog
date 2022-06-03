@@ -22,16 +22,16 @@ export const PostList = ({ posts, filterBy = 'all' }: PostsProps): JSX.Element =
 
   return (
     <section id="posts">
-      {filteredPosts.map(({ id, date, title, description, category }) => {
+      {filteredPosts.map(({ id, date, title, description, isNewsletter }) => {
         if (date) {
           return (
             <article key={id}>
               <Link href={`/${id}`}>
-                <a>
+                <a className="postlink">
                   <h2>{title}</h2>
                 </a>
               </Link>
-              <Meta date={date} category={category} />
+              <Meta date={date} isNewsletter={isNewsletter} />
               <p>{description}</p>
             </article>
           );

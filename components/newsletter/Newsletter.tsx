@@ -1,10 +1,9 @@
-import { siteTitle } from '../Layout';
-import { ConvertKitForm } from './ConvertKitForm';
+import { RevueForm } from './RevueForm';
 
 export const Newsletter = () => (
   <div id="newsletter">
-    <h1>{siteTitle}</h1>
-    <p>Receive an email when I publish.</p>
-    <ConvertKitForm />
+    <h1>The Sovereign Engineer</h1>
+    <p>...is my Sunday letter where I share ideas on freedom, heroism, and authenticity.</p>
+    <RevueForm />
   </div>
 );

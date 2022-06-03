@@ -5,7 +5,7 @@ date: '2022-05-14'
 
 I was recently asked how I discovered computers. It put me in a reflective mood, so here we are.
 
-By the end of this post, you should have a better understanding of what realistic progress looks like for coming to know software engineering. "Realistic," because I discovered coding 9 years ago, but year by year my progress isn’t that impressive. Partly because I've had periods of disenchantment with no coding at all. Partly because you're not that fast of a learner at 13 years young, especially on your own.
+By the end of this post, you should have a better understanding of what realistic progress looks like for learning software engineering. "Realistic," because I discovered coding 9 years ago, but year by year my progress isn’t that impressive. Partly because I've had periods of disenchantment with no coding at all. Partly because you're not that fast of a learner at 13 years young, especially on your own.
 
 Here I’m extracting lessons (highlighted in bold) from things I could have done better along the way; maybe they'll save you some time. And if you’re thinking about starting, may it shed some light on whether you should.
 
@@ -115,4 +115,4 @@ Thing is, I didn’t know any Kubernetes. And to be a good on-caller you have to
 
 ## Onwards
 
-That is how I came to know software engineering. I encourage you—not only to think about my takeaways and how they might apply to your journey—but to also try this reflective exercise out for yourself. You don’t have to publish a whole post about it. But, sometimes, looking back can help us look ahead.
+That's how I came to know software engineering. I encourage you—not only to think about my takeaways and how they might apply to your journey—but to also try this reflective exercise out for yourself. You don’t have to publish a whole post about it. But, sometimes, looking back can help us look ahead.

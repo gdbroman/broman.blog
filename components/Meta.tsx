@@ -2,12 +2,25 @@ import { Date } from './Date';
 
 type MetaProps = {
   date: string;
-  category: string;
+  isNewsletter: boolean;
 };
 
-export const Meta = ({ date, category }: MetaProps): JSX.Element => (
+export const Meta = ({ date, isNewsletter }: MetaProps): JSX.Element => (
   <div className="meta">
     {date && <Date dateString={date} />}
-    {category && <span> – {category}</span>}
+    {isNewsletter && (
+      <span>
+        {' '}
+        –{' '}
+        <a
+          href="https://www.getrevue.co/profile/tse"
+          target="_blank"
+          rel="noreferrer"
+          className="newsletterlink"
+        >
+          {'Newsletter'}
+        </a>
+      </span>
+    )}
   </div>
 );

@@ -12,7 +12,7 @@ export type PostData = {
   contentHtml: string;
   description: string;
   date?: string;
-  category?: string;
+  isNewsletter?: boolean;
   thumbnail?: string;
   draft?: boolean;
 };
@@ -79,7 +79,7 @@ export const getPostData = async (id: string): Promise<PostData> => {
     description,
     title: matterResult.data.title,
     date: matterResult.data.date ?? '',
-    category: matterResult.data.category ?? '',
+    isNewsletter: matterResult.data.isNewsletter ?? false,
     thumbnail: matterResult.data.thumbnail ?? '',
     ...matterResult.data
   };

@@ -1,6 +1,8 @@
 ---
 title: "Will this new internet save us?"
+isNewsletter: true
 date: '2022-04-24'
+thumbnail: '/images/urbit/retro.jpg'
 ---
 
 With state-infested megacorps writing the narrative on what it means to live a human life—what even qualifies as such—it is easy to grow cynical about the current system, and our civilizational prospects within it.
@@ -19,7 +21,7 @@ It seems to me we need new tools. Yes, accompanying philosophy on how to use the
 
 ## What is Urbit?
 
-Invented by the american blogger Curtis Yarvin back in 2013, Urbit in its current state is an esoteric piece of software, known by a small group of libertarian programmers; used by even fewer still. On its [landing page](https://urbit.org/), it describes itself as “A clean-slate OS and network for the 21st century." Ok. Curtis stays clear from Urbit in interviews, which doesn’t help, but apparently the creative genius sees his job as done and wants to move on.
+Invented by the american blogger Curtis Yarvin back in 2013, Urbit in its current state is an esoteric piece of software, known by a small group of libertarian programmers; used by even fewer still. On its [landing page](https://urbit.org/), it describes itself as “A clean-slate OS and network for the 21st century." Ok. Curtis stays clear from Urbit in interviews, which doesn’t help, but apparently the creative genius sees his job as [done](https://urbit.org/blog/a-founders-farewell) and wants to move on.
 
 Here's how others have described it:
 
@@ -97,4 +99,4 @@ Urbit is still technically difficult to get on for the average person. So not un
 
 So probably a dramatic event, like a massive password breach, making the old web unusable, will have to happen for the majority to consider moving over. For now, though, it’s mostly fringe nerds. It just makes it a more fun experience IMO.
 
-An ending note. According to Heidegger, we have since the start of philosophy been concerned with simple matters. Each epoch allowing for a capped radicality in worldview. And he suggested that only now are we entering the epoch of a *whole* world view, along with the rising threat of a complete instrumentalization of our world via tech; risking becoming more things than persons. Maybe it's time to choose a ship wisely.
+An ending note: According to Heidegger, we have since the start of philosophy been concerned with simple matters. Each epoch allowing for a capped radicality in worldview. And he suggested that only now are we entering the epoch of a *whole* world view, along with the rising threat of a complete instrumentalization of our world via tech; risking becoming more things than persons. Maybe it's time to choose a ship wisely.
