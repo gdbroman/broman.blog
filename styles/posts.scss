@@ -2,11 +2,16 @@
 @import 'typography';
 
 section#posts {
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
   article {
-    margin-top: 0;
-    margin-bottom: 32px;
     a.postlink {
       text-decoration-color: $BLACK_LIGHT;
+      h2 {
+        line-height: 36px;
+        margin: 0;
+      }
     }
     p {
       font-family: $SECONDARY_FONT;
