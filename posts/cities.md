@@ -2,12 +2,12 @@
 title: Cities! The Moon of Our Age
 date: '2022-05-29'
 isNewsletter: true
-thumbnail: /images/city/moon.webp
+thumbnail: /images/cities/moon.webp
 ---
 
 I wonder: is this the future the audience had in mind, cheering along to those visionary words of JFK in 1962? One could start listing examples of decadence—of how we've lost our way as a civilization. Perhaps more tellingly, however, is a pondering: _when was the last time a politician spoke with such vigor about anything even remotely as ambitious as going to the moon?_
 
-### Heroic Projects as Value Clashes
+## Heroic Projects as Value Clashes
 
 One has to serve. The choice we have is a cause by choice or a cause by chance. Make your frame or get it passed down. By your parents, boss, society, etc.
 
@@ -21,7 +21,7 @@ A heroic project is a way to immortality. Not in the reductionist sense of eatin
 
 So the hero is immortal, but it does not drive him. The hero takes on his project because refraining to do so would violate his integrity, and he might as well cease in the instant.
 
-### The City Problem
+## The City Problem
 
 In the leading startup city's own words:
 
@@ -31,7 +31,7 @@ In the leading startup city's own words:
 
 The city problem is unique, because whilst contemporary [moon missions](https://www.spacex.com/human-spaceflight/moon/index.html) exist—lack of community and quality of life is something that affects every person, right at this moment. Furthermore, there can only be so many SpaceXs; but if one is to believe prophets like James Dale Davidson and Balaji Srinivasan, we will be needing a lot more startup cities like Praxis going forward, as the nation state continues to crumble.
 
-### Washington, Not Walden
+## Washington, Not Walden
 
 At what point do you begin anew? Maybe we'll look back at current cities like a barbarian relic from the past. _"We used to live like ants!"_ Maybe it's just villages from here. Either way, not trying to solve for better ways of living together, is at this point rearranging deck chairs when the titanic is sinking.
 
