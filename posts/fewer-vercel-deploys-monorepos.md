@@ -37,4 +37,4 @@ But if you push a change to `packages/your-package`, Vercel will build and deplo
 
 <Image src="/images/vercel-monorepo/successful-deployment.png" />
 
-May you stay on the free plan for a little bit longer ;)
+May you stay on the free plan for a little bit longer.
