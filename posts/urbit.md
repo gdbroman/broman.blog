@@ -1,8 +1,8 @@
 ---
 title: "Will this new internet save us?"
-isNewsletter: true
 date: '2022-04-24'
 thumbnail: '/images/urbit/retro.jpg'
+isNewsletter: true
 ---
 
 With state-infested megacorps writing the narrative on what it means to live a human life—what even qualifies as such—it is easy to grow cynical about the current system, and our civilizational prospects within it.

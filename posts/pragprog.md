@@ -1,6 +1,7 @@
 ---
 title: 'Decoding Pragmatism'
 date: '2021-08-08'
+isNewsletter: true
 ---
 
 How to become a pragmatic programmer<sup>[1](#f1)</sup> in 10 simple steps, according to [_The Pragmatic Programmer_](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer) by Andrew Hunt.

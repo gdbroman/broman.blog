@@ -1,7 +1,6 @@
 ---
 title: Cities! The Moon of Our Age
 date: '2022-05-29'
-isNewsletter: true
 thumbnail: /images/cities/moon.webp
 ---
 

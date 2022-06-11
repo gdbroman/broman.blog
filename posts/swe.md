@@ -1,6 +1,7 @@
 ---
 title: 'How I Learned Software Engineering'
 date: '2022-05-14'
+isNewsletter: true
 ---
 
 I was recently asked how I discovered computers. It put me in a reflective mood, so here we are.

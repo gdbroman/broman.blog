@@ -1,6 +1,7 @@
 ---
 title: 'Gatekeepers a Dying Breed'
 date: '2020-12-14'
+isNewsletter: true
 ---
 
 It’s the ever-narrower tracks that are working less well: college, jobs, media.

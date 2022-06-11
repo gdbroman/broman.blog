@@ -18,7 +18,7 @@ export const Meta = ({ date, isNewsletter }: MetaProps): JSX.Element => (
           rel="noreferrer"
           className="newsletterlink"
         >
-          {'Newsletter'}
+          {'TSE'}
         </a>
       </span>
     )}
