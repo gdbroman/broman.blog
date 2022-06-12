@@ -1,5 +1,6 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
 import Head from 'next/head';
+import { useEffect } from 'react';
 
 import { Article } from '../components/Article';
 import { Layout } from '../components/Layout';
@@ -16,6 +17,15 @@ const Post = ({
   thumbnail
 }: PostData): JSX.Element => {
   useHighlight();
+
+  useEffect(() => {
+    if (isNewsletter) {
+      const s = document.createElement('script');
+      s.setAttribute('src', 'https://platform.twitter.com/widgets.js');
+      s.setAttribute('async', 'true');
+      document.head.appendChild(s);
+    }
+  }, []);
 
   return (
     <Layout>
