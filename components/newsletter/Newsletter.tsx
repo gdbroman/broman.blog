@@ -1,9 +1,21 @@
+import Image from 'next/image';
+
 import { RevueForm } from './RevueForm';
 
-export const Newsletter = () => (
-  <div id="newsletter">
+type NewsletterProps = {
+  standalone?: boolean;
+};
+
+export const Newsletter = ({ standalone }: NewsletterProps) => (
+  <div id="newsletter" className={standalone && 'standalone'}>
+    <div id="tse">
+      <Image src="/images/tse.jpeg" width={100} height={100} />
+    </div>
     <h1>The Sovereign Engineer</h1>
-    <p>...is my Sunday letter where I document my journey as a developer and human.</p>
+    <p>
+      Hey friends, I&apos;m Gustaf. The Sovereign Engineer is my Sunday letter where I document my
+      journey as a developer and human.
+    </p>
     <RevueForm />
   </div>
 );

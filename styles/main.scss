@@ -31,41 +31,46 @@ main#container {
   #newsletter {
     display: flex;
     flex-direction: column;
-    max-width: 400px;
     margin: 16px auto 48px auto;
-    text-align: center;
     gap: 16px;
-    p {
-      font-size: 18px;
+    img {
+      width: 100px;
+      border-radius: 50%;
     }
-    form {
-      margin-top: 8px;
-      .revue-form-group {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-          input#member_email {
-            width: 200px;
-            font-size: 16px;
-            border-radius: 0;
-            border: 1px solid $GRAY_BORDER;
-            border-right: none;
-            color: $BLACK_LIGHT;
-            &::placeholder {
-              color: $GRAY;
-            }
-            padding: 8px 12px;
-            background-color: transparent;
+    p {
+      font-size: 16px
+    }
+    &.standalone {
+      flex: 1;
+      margin-top: 0;
+    }
+  }
+  #revue-form {
+    margin-top: 8px;
+    .revue-form-group {
+      display: flex;
+      align-items: center;
+      input#member_email {
+          width: 200px;
+          font-size: 16px;
+          border-radius: 0;
+          border: 1px solid $GRAY_BORDER;
+          border-right: none;
+          color: $BLACK_LIGHT;
+          &::placeholder {
+            color: $GRAY;
           }
-          input#member_submit {
-            font-size: 16px;
-            padding: 8px 12px;
-            color: $BLACK;
-            border-radius: 0;
-            border: 1px solid $GRAY;
-            background-color: $GRAY_BORDER;
-          }
-      }
+          padding: 8px 12px;
+          background-color: transparent;
+        }
+        input#member_submit {
+          font-size: 16px;
+          padding: 8px 12px;
+          color: $BLACK;
+          border-radius: 0;
+          border: 1px solid $GRAY;
+          background-color: $GRAY_BORDER;
+        }
     }
   }
   hr {

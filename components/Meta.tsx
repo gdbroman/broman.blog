@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 import { Date } from './Date';
 
 type MetaProps = {
@@ -12,14 +14,9 @@ export const Meta = ({ date, isNewsletter }: MetaProps): JSX.Element => (
       <span>
         {' '}
         –{' '}
-        <a
-          href="https://www.getrevue.co/profile/tse"
-          target="_blank"
-          rel="noreferrer"
-          className="newsletterlink"
-        >
-          {'Sundays'}
-        </a>
+        <Link href="/sundays">
+          <a className="newsletterlink">Sundays</a>
+        </Link>
       </span>
     )}
   </div>
