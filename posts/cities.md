@@ -26,7 +26,7 @@ In the leading startup city's own words:
 
 > Our civilization is unwell. We eat food that kills us, we’ve lost sight of beauty, and we neglect our spiritual lives. The world is deranged and decayed, and this frightens people. We don’t look up from our screens; we seek to live within them.
 
-[Praxis](https://mirror.xyz/0x7a02D50B22cC79a3dc667E80B413996b81f5ED6E/ZIUh2ni7rm7j7IaxyLJMtJT5KzbU9xg6P-SQbSJhHj4) is a heroic project because it is founded on values—more specifically, the value of vitality—and modernity presents an obvious clash. They are trying to remember a vision of the future of the kind that JFK evoked in his audience.
+[Praxis](https://mirror.xyz/0x7a02D50B22cC79a3dc667E80B413996b81f5ED6E/ZIUh2ni7rm7j7IaxyLJMtJT5KzbU9xg6P-SQbSJhHj4) is a heroic project because it is founded on values—more specifically, the value of vitality—and modernity presents an obvious clash. I think they are trying to revive a vision of the future of the kind that JFK evoked in his audience.
 
 The city problem is unique, because whilst contemporary [moon missions](https://www.spacex.com/human-spaceflight/moon/index.html) exist—lack of community and quality of life is something that affects every person, right at this moment. Furthermore, there can only be so many SpaceXs; but if one is to believe prophets like James Dale Davidson and Balaji Srinivasan, we will be needing a lot more startup cities like Praxis going forward, as the nation state continues to crumble.
 

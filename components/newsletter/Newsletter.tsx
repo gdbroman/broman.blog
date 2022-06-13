@@ -13,8 +13,8 @@ export const Newsletter = ({ standalone }: NewsletterProps) => (
     </div>
     <h1>The Sovereign Engineer</h1>
     <p>
-      Hey friends, I&apos;m Gustaf. The Sovereign Engineer is my Sunday letter where I document my
-      journey as a developer and human.
+      Hey friends, I&apos;m Gustaf. <i>The Sovereign Engineer</i> is my Sunday letter where I
+      document my journey as a developer and human.
     </p>
     <RevueForm />
   </div>

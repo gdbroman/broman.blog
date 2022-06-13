@@ -20,7 +20,7 @@ It’s been a while since I felt this creatively invigorated, so I’m in no rus
 
 ## Why Projects and Mastery Are So Important
 
-Especially for men. Since we can't birth babies, I think it's imperative we find something beyond our egos, to give ourselves over to. To ground our being, in pursuit of immortality.
+Especially for men. Since we can't birth babies, I think it's imperative we find something beyond our egos, to give ourselves over to, and ground our being in pursuit of immortality.
 
 Heck, you probably stuck with software because it provides you that sense of mastery. A craft to hone.
 
