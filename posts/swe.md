@@ -4,18 +4,6 @@ date: '2022-05-14'
 isNewsletter: true
 ---
 
-I was recently asked how I discovered computers. It put me in a reflective mood, so here we are.
-
-By the end of this post, you should have a better understanding of what realistic progress looks like for learning software engineering. "Realistic," because I discovered coding 9 years ago, but year by year my progress isn’t that impressive. Partly because I've had periods of disenchantment with no coding at all. Partly because you're not that fast of a learner at 13 years young, especially on your own.
-
-Here I’m extracting lessons (highlighted in bold) from things I could have done better along the way; maybe they'll save you some time. And if you’re thinking about starting, may it shed some light on whether you should.
-
-I have to admit, I'm not one for looking back. But, remembering my situation as a kid, and reflecting on all these steps along the way, helps me see how far I’ve come. And with a fresher memory of what I've tried—what has worked and what hasn't—what I've enjoyed and what I haven't—I suspect this little exercise will come to aid future decisions.
-
-Anyway, this is how I went from knowing zero code to knowing my fair share of Java, JavaScript, Python, Kubernetes, SQL, etc. I hope you find it helpful or encouraging. Let's dive in.
-
-## Year 0: A Personal Computer
-
 I was 13 years old and no one in my family knew how to code. None of my friends knew what it was. But I had the privilege of getting a personal computer at this age.
 
 The reason why I got a personal computer was that my parents felt bad. I had informed them of how "every friend at school had an Xbox." The half-lie worked, and for my birthday, my parents gave me a personal computer. *"Even better than Xbox,"* they said. It was cheaper of course. But I can’t complain, because as you might have guessed, this cheap PC led me to programming.
