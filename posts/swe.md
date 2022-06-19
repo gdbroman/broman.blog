@@ -4,9 +4,9 @@ date: '2022-05-14'
 isNewsletter: true
 ---
 
-I was 13 years old and no one in my family knew how to code. None of my friends knew what it was. But I had the privilege of getting a personal computer at this age.
+I was 13 years old and no one in my family knew how to code. None of my friends knew what it was. But I was lucky enough to get my hands on a computer at this age.
 
-The reason why I got a personal computer was that my parents felt bad. I had informed them of how "every friend at school had an Xbox." The half-lie worked, and for my birthday, my parents gave me a personal computer. *"Even better than Xbox,"* they said. It was cheaper of course. But I can’t complain, because as you might have guessed, this cheap PC led me to programming.
+The reason why I got a computer was that my parents felt bad for me. I had informed them of how "every friend at school had an Xbox." The half-lie worked, and for my birthday, my parents gave me a personal computer. *"Even better than Xbox,"* they said. It was cheaper of course. But I can’t complain, because as you might have guessed, this cheap PC led me to programming.
 
 <Image src="/images/software/old.webp" alt="Old computer" />
 
@@ -100,8 +100,6 @@ This was a period where my perception of programming expanded. For instance, I r
 
 At my current job, I got offered to join our on-call rotation. For the uninitiated, on-call basically means you are delegated more responsibility to make sure all systems are kept up and running.
 
-Thing is, I didn’t know any Kubernetes. And to be a good on-caller you have to know Kubernetes. So once again, I took a [Udemy course](https://www.udemy.com/course/learn-kubernetes). Meta note here: this is the best kind of learning you’ll ever do—when circumstances force you to. **So if you're feeling stagnant, put yourself in a sink or swim situation.** I would not have learned Kubernetes if I didn't.
+Thing is, I didn’t know any Kubernetes. And to be a good on-caller you have to know Kubernetes. So once again, I took a [Udemy course](https://www.udemy.com/course/learn-kubernetes). Meta note here: this is the best kind of learning you’ll ever do—when circumstances force you to.
 
-## Onwards
-
-That's how I came to know software engineering. I encourage you—not only to think about my takeaways and how they might apply to your journey—but to also try this reflective exercise out for yourself. You don’t have to publish a whole post about it. But, sometimes, looking back can help us look ahead.
+**So if you're feeling stagnant, put yourself in a sink or swim situation.** I would not have learned Kubernetes if I didn't.
