@@ -12,9 +12,8 @@ export const Meta = ({ date, isNewsletter }: MetaProps): JSX.Element => (
     {date && <Date dateString={date} />}
     {isNewsletter && (
       <span>
-        {' '}
-        –{' '}
-        <Link href="/sundays">
+        {` – `}
+        <Link href="/">
           <a className="newsletterlink">Sundays</a>
         </Link>
       </span>
