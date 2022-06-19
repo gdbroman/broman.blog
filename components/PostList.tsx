@@ -5,7 +5,7 @@ import { Meta } from './Meta';
 
 type PostsProps = {
   posts: PostData[];
-  filterBy?: 'all' | 'drafts' | 'published';
+  filterBy?: 'all' | 'drafts' | 'published' | 'isNewsletter';
 };
 
 export const PostList = ({ posts, filterBy = 'all' }: PostsProps): JSX.Element => {
@@ -17,6 +17,8 @@ export const PostList = ({ posts, filterBy = 'all' }: PostsProps): JSX.Element =
         return p.draft;
       case 'published':
         return !p.draft;
+      case 'isNewsletter':
+        return !p.draft && p.isNewsletter;
     }
   });
 

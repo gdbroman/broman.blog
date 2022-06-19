@@ -11,11 +11,8 @@ export const Newsletter = ({ standalone }: NewsletterProps) => (
     <div id="tse">
       <Image src="/images/tse.jpeg" width={100} height={100} />
     </div>
-    <h1>The Sovereign Engineer</h1>
-    <p>
-      Hey friends, I&apos;m Gustaf. <i>The Sovereign Engineer</i> is my Sunday letter where I
-      document my journey as a developer and human.
-    </p>
+    <h1>Hey friends, I&apos;m Gustaf</h1>
+    <p>I write a Sunday letter where I document my journey as a developer/human.</p>
     <RevueForm />
   </div>
 );

@@ -2,9 +2,13 @@
 title: "About"
 ---
 
-Heyo! I'm Gustaf Broman, a software engineer with an interest in ideas. I'm currently based in Stockholm, Sweden.
+I build things for the web.
 
-You can reach me on Twitter [@gdbroman](https://twitter.com/gdbroman), or on Urbit as `~lopsyp-doztun`, if you have questions or ideas.
+But I also love ideas and writing, especially in markdown.
+
+Check out to my Sunday letter [here](/sundays).
+
+You can also reach me on Twitter [@gdbroman](https://twitter.com/gdbroman), or on Urbit as `~lopsyp-doztun`, if you have questions or ideas.
 
 Thank you for reading.
 
