@@ -1,24 +1,24 @@
 import { Layout } from '../components/Layout';
 import { Newsletter } from '../components/newsletter/Newsletter';
 import { PostList } from '../components/PostList';
-import { generateRssFeed } from '../util/generateRssFeed';
 import { getSortedPostsData, PostData } from '../util/getPosts';
 
 export type HomeProps = {
   sortedPostsData: PostData[];
 };
 
-const Home = ({ sortedPostsData }: HomeProps): JSX.Element => (
+const Sundays = ({ sortedPostsData }: HomeProps): JSX.Element => (
   <Layout>
-    <Newsletter standalone />
-    <hr style={{ margin: '32px 0' }} />
-    <PostList posts={sortedPostsData} filterBy="published" />
+    <div className="flexer">
+      <Newsletter standalone />
+      <hr style={{ margin: '32px 0' }} />
+      <PostList posts={sortedPostsData} filterBy="isNewsletter" />
+    </div>
   </Layout>
 );
 
 export const getStaticProps = async (): Promise<{ props: HomeProps }> => {
   const sortedPostsData = await getSortedPostsData();
-  await generateRssFeed(sortedPostsData);
 
   return {
     props: {
@@ -27,4 +27,4 @@ export const getStaticProps = async (): Promise<{ props: HomeProps }> => {
   };
 };
 
-export default Home;
+export default Sundays;

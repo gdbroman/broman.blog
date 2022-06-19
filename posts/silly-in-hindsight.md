@@ -1,7 +1,6 @@
 ---
 title: "You're Gonna Look Silly"
 date: '2020-12-03'
-isNewsletter: true
 ---
 
 Think you have it all figured out yes?

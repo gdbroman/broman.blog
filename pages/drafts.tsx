@@ -1,7 +1,7 @@
 import { Layout } from '../components/Layout';
 import { PostList } from '../components/PostList';
 import { getSortedPostsData } from '../util/getPosts';
-import { HomeProps } from './index';
+import { HomeProps } from './archive';
 
 const Drafts = ({ sortedPostsData }: HomeProps): JSX.Element => (
   <Layout>
