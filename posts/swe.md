@@ -1,5 +1,5 @@
 ---
-title: 'How I Learned Software Engineering'
+title: 'How I learned software engineering'
 date: '2022-05-14'
 isNewsletter: true
 ---
