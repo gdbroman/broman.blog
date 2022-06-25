@@ -12,7 +12,7 @@ export const Newsletter = ({ standalone }: NewsletterProps) => (
       <Image src="/images/tse.jpeg" width={100} height={100} />
     </div>
     <h1>Hey friends, I&apos;m Gustaf</h1>
-    <p>I write a Sunday letter where I document my journey as a developer/human.</p>
+    <p>Every Sunday I document learnings from being a dev.</p>
     <RevueForm />
   </div>
 );
