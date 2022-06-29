@@ -48,12 +48,12 @@ main#container {
       margin: 0;
     }
   }
-  #revue-form {
+  #gitletter-form {
     margin-top: 8px;
-    .revue-form-group {
+    div {
       display: flex;
       align-items: center;
-      input#member_email {
+      input {
           width: 200px;
           font-size: 16px;
           border-radius: 0;
@@ -66,7 +66,7 @@ main#container {
           padding: 8px 12px;
           background-color: transparent;
         }
-        input#member_submit {
+        button {
           font-size: 16px;
           padding: 8px 12px;
           color: $BLACK;
