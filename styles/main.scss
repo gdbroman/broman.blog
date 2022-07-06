@@ -35,6 +35,7 @@ main#container {
   #newsletter {
     display: flex;
     flex-direction: column;
+    max-width: 400px;
     margin: 16px 0 48px 0;
     gap: 16px;
     img {
