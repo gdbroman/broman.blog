@@ -5,10 +5,11 @@ import { Meta } from './Meta';
 
 type PostsProps = {
   posts: PostData[];
+  max?: number;
   filterBy?: 'all' | 'drafts' | 'published' | 'isNewsletter';
 };
 
-export const PostList = ({ posts, filterBy = 'all' }: PostsProps): JSX.Element => {
+export const PostList = ({ posts, max, filterBy = 'all' }: PostsProps): JSX.Element => {
   const filteredPosts = posts.filter((p) => {
     switch (filterBy) {
       case 'all':
@@ -21,6 +22,9 @@ export const PostList = ({ posts, filterBy = 'all' }: PostsProps): JSX.Element =
         return !p.draft && p.isNewsletter;
     }
   });
+  if (max) {
+    filteredPosts.splice(max);
+  }
 
   return (
     <section id="posts">

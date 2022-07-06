@@ -1,7 +1,6 @@
 ---
 title: 'How I learned software engineering'
 date: '2022-05-14'
-isNewsletter: true
 ---
 
 I was 13 years old and no one in my family knew how to code. None of my friends knew what it was. But I was lucky enough to get my hands on a computer at this age.

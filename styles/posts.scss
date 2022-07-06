@@ -4,7 +4,7 @@
 section#posts {
   display: flex;
   flex-direction: column;
-  gap: 64px;
+  gap: 40px;
   article {
     a.postlink {
       text-decoration-color: $BLACK_LIGHT;

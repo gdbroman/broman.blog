@@ -12,7 +12,7 @@ const Sundays = ({ sortedPostsData }: HomeProps): JSX.Element => (
     <div className="flexer">
       <Newsletter standalone />
       <hr style={{ margin: '32px 0' }} />
-      <PostList posts={sortedPostsData} filterBy="isNewsletter" />
+      <PostList posts={sortedPostsData} filterBy="isNewsletter" max={2} />
     </div>
   </Layout>
 );
