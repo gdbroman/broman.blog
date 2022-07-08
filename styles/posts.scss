@@ -19,3 +19,11 @@ section#posts {
     }
   }
 }
+
+@media screen and (max-width: 400px) {
+  #gitletter-form {
+    input {
+      flex: 1;
+    }
+  }
+}
