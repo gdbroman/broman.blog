@@ -38,7 +38,7 @@ I’ve recently gone through what I think is a pretty common story arc for devel
 1. Start out despising tests.
 2. Absolutely detest them.
 3. Don't see the point in writing them.
-4. Start to believe writing tests is an exercise in masochism seniors like to nag juniors over in PRs.
+4. Start to believe writing tests is an exercise in masochism and excuse for seniors to bully juniors over in PRs.
 5. Ship some painful bugs.
 6. Grow to love tests.
 
