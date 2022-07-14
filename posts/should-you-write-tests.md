@@ -58,6 +58,6 @@ You may be able to keep the whole application in your head *today* – but will 
 
 And that is why I think tests' biggest value holds true for solo devs too: namely, *speed*.
 
-Given you have a long-term vision, tests become a speed insurance: A hedge against debt-induced stagnation. They are about front-loading work to insure a high development speed long into the project.
+Given you have a long-term vision, tests become a speed insurance: A hedge against debt-induced stagnation. They are about front-loading work to ensure a high development speed long into the project.
 
 Anyone can sprint the first 100 meters, but if you're running a marathon, it's ill-advised.
