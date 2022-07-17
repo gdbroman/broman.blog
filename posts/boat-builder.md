@@ -13,9 +13,9 @@ In this issue, you'll learn about:
 
 Here's a quote, read it twice.
 
-> *Don’t be a boilerplate programmer. Instead, build tools for users and other programmers. Take historical note of textile and steel industries: do you want to build machines and tools, or do you want to operate those machines?*
+> Don’t be a boilerplate programmer. Instead, build tools for users and other programmers. Take historical note of textile and steel industries: do you want to build machines and tools, or do you want to operate those machines?
 >
-> —Ras Bodik
+> <cite>—Ras Bodik</cite>
 
 Don't know about you, but I don't want to get stuck developing derivative CRUD apps.
 
@@ -39,5 +39,5 @@ This is why I'm [brushing up](https://teachyourselfcs.com?ref=broman.blog) on my
 
 > All father. Forgive me for daring to speak to you. In any case, you don't need to listen. I am just a boat-builder, an artist, not a real person.
 >
-> —Floki to the Gods
+> <cite>—Floki to the Gods</cite>
 >
