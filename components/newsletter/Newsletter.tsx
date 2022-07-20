@@ -14,7 +14,7 @@ export const Newsletter = ({ standalone }: NewsletterProps) => (
       <Image src="/images/tse.jpeg" alt={greeting} width={100} height={100} />
     </div>
     <h1>{greeting}</h1>
-    <p>I build things for the web. And every Sunday I document lessons from being a dev.</p>
+    <p>I build things for the web and every Sunday I write about it in my newsletter.</p>
     <GitLetterForm />
   </div>
 );
