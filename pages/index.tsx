@@ -7,7 +7,7 @@ export type HomeProps = {
   sortedPostsData: PostData[];
 };
 
-const Sundays = ({ sortedPostsData }: HomeProps): JSX.Element => (
+const Home = ({ sortedPostsData }: HomeProps): JSX.Element => (
   <Layout>
     <div className="flexer">
       <Newsletter standalone />
@@ -27,4 +27,4 @@ export const getStaticProps = async (): Promise<{ props: HomeProps }> => {
   };
 };
 
-export default Sundays;
+export default Home;

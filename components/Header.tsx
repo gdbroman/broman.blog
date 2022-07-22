@@ -8,15 +8,15 @@ type Path = {
 const paths: Path[] = [
   {
     href: '/',
-    name: 'Sundays'
+    name: 'Home'
   },
   {
     href: '/archive',
     name: 'Archive'
   },
   {
-    href: '/about',
-    name: 'About'
+    href: '/connect',
+    name: 'Connect'
   }
 ];
 

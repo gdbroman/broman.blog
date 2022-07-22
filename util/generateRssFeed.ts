@@ -6,7 +6,7 @@ import {
   bannerImage,
   rssPath,
   siteDescription,
-  siteTitle,
+  siteName,
   siteUrl
 } from '../components/Layout';
 import { PostData } from './getPosts';
@@ -19,7 +19,7 @@ export const generateRssFeed = async (postData: PostData[]) => {
   };
   const feed = new Feed({
     id: siteUrl,
-    title: siteTitle,
+    title: siteName,
     description: siteDescription,
     link: siteUrl,
     image: `${siteUrl}${bannerImage}`,
