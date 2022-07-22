@@ -7,7 +7,6 @@ import { Header } from './Header';
 export const siteName = 'broman.blog';
 export const siteUrl = 'https://broman.blog';
 export const rssPath = '/rss/feed.xml';
-export const bannerImage = '/images/banner.jpg';
 export const authorName = 'Gustaf Broman';
 export const greeting = "Hey friend, I'm Gus";
 export const siteDescription =
@@ -26,12 +25,10 @@ export const Layout = ({ children }: LayoutProps): JSX.Element => (
       <meta name="og:title" content={greeting} />
       <meta property="og:url" content={siteUrl} />
       <meta property="og:type" content="website" />
-      <meta property="og:image" content={`https://broman.blog${bannerImage}`} />
       <meta property="og:site_name" content={siteName} />
       <meta name="og:description" content={siteDescription} />
 
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content={`https://broman.blog${bannerImage}`} />
       <meta name="twitter:site" content={siteName} />
 
       <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png?new=true" />
