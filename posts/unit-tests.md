@@ -1,14 +1,12 @@
 ---
 title: 3 Rules for Effective Unit Testing
-date: 2022-07-24
+date: "2022-07-24"
 isNewsletter: true
 ---
 
 Do you hate unit tests?
 
-Look, I'm not a TDD-er.
-
-But perhaps you're overthinking.
+Perhaps you're overthinking.
 
 We want our code to WORK.
 
