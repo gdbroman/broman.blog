@@ -32,7 +32,7 @@ But for indie hacking, I think it's misleading.
 
 Having abandoned ship multiple times – and contrasting it with my current project GitLetter – I've come to realize that consistency trumps intensity.
 
-And to stay consistent, there are are two enemies we need to avoid:
+And to stay consistent, there are two enemies we need to avoid:
 
 ## Enemy #1 – Lack of Passion
 
