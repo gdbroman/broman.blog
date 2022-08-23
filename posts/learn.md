@@ -1,5 +1,5 @@
 ---
-title: Are You Learning New Tech with TOO MUCH EFFORT?
+title: Are You Learning New Tech with Too Much Effort?
 date: "2022-08-21"
 isNewsletter: true
 ---
@@ -13,9 +13,9 @@ It takes...
 
 A serious level of WILL is required.
 
-**But learning new tech doesn't have to be taxing.**
+But learning new tech doesn't have to be taxing.
 
-This sense-based method has helped me self-teach with less effort:
+Sense-based learning has helped me decrease effort:
 
 ## Step 1. Run a code snippet
 
@@ -56,7 +56,7 @@ Jargon will trick you into thinking you understand something you don't.
 
 I think this is because our nervous system is way older than our neocortex.
 
-**Abstractions shut off our brains**.
+Abstractions shut off our brains.
 
 Always dumb down a new concept to something you can TRY or ANALOGIZE.
 
