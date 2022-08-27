@@ -1,0 +1,59 @@
+---
+title: How to Learn New Tech FAST
+date: "2022-08-21"
+isNewsletter: true
+---
+
+Learning new tech can be like going to WAR.
+
+* It takes **courage** (to enter the unknown)
+* It takes **pain tolerance** (to sit with discomfort)
+
+In other words, serious levels of WILL is required.
+
+But learning new tech doesn't have to be taxing.
+
+Sense-based learning has helped me decrease effort:
+
+## Step 1. Minimal Viable Code Snippet
+
+Find the smallest possible code snippet that examplifies the theory you're learning, and get it to run it locally.
+
+Poke at it.
+
+See what happens.
+
+Poking around will skyrocket your understanding because you're mining first-hand knowledge.
+
+## Step 2. Non-tech Analogy
+
+Some concepts are too big to be run as code snippets.
+
+And putting *every single concept you learn* into practice is too time-consuming.
+
+What we can do instead is think up non-tech analogies that exemplify the theory.
+
+### *Example:* Scaling a Bakery
+
+I'm currently reading *Designing Data-Intensive Applications*. It's about distributed systems – huge topic! – very scary!! If I build something for every new concept in this book, I'll finish when I'm 60. This is where non-tech analogies come in handy.
+
+For instance, the different types of systems scaling can be compared to managing a bakery:
+
+* *Vertical scaling* = paying the bread baker more money
+* *Horizontal scaling* = hiring another bread baker
+
+See how this *brings it down?*
+
+## Senses Are Your Best Friend
+
+Both these steps have the same premise: **jargon is the enemy**.
+
+Jargon will trick you into thinking you understand something you really don't.
+
+I think this is because our nervous system is way older than our neocortex.
+
+Abstractions shut off our brains.
+
+Always dumb down a new concept to something you can either *try* or *analogize*.
+
+Bring it down to the senses.
