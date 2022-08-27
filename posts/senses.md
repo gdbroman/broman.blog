@@ -13,9 +13,9 @@ In other words, serious levels of WILL is required.
 
 But learning new tech doesn't have to be taxing.
 
-Sense-based learning has helped me decrease effort:
+*Sense-based learning* can cut the effort in half (it did for me).
 
-## Step 1. Minimal Viable Code Snippet
+## Technique 1. Minimal Viable Code Snippet
 
 Find the smallest possible code snippet that examplifies the theory you're learning, and get it to run it locally.
 
@@ -23,19 +23,19 @@ Poke at it.
 
 See what happens.
 
-Poking around will skyrocket your understanding because you're mining first-hand knowledge.
+Poking will skyrocket your understanding because you're mining first-hand experience.
 
-## Step 2. Non-tech Analogy
+## Technique 2. Non-tech Analogy
 
 Some concepts are too big to be run as code snippets.
 
 And putting *every single concept you learn* into practice is too time-consuming.
 
-What we can do instead is think up non-tech analogies that exemplify the theory.
+So what we can do instead is think up non-tech analogies that exemplify the theory.
 
 ### *Example:* Scaling a Bakery
 
-I'm currently reading *Designing Data-Intensive Applications*. It's about distributed systems – huge topic! – very scary!! If I build something for every new concept in this book, I'll finish when I'm 60. This is where non-tech analogies come in handy.
+I'm currently reading *Designing Data-Intensive Applications*. It's about distributed systems – huge topic! – *very scary!!* If I were to build something for every new concept in this book, I'd finish when I'm 60. So this is where non-tech analogies come in handy.
 
 For instance, the different types of systems scaling can be compared to managing a bakery:
 
@@ -46,14 +46,14 @@ See how this *brings it down?*
 
 ## Senses Are Your Best Friend
 
-Both these steps have the same premise: **jargon is the enemy**.
+Both these techniques have the same premise: **jargon is the enemy**.
 
-Jargon will trick you into thinking you understand something you really don't.
+Jargon will *trick* you into thinking you understand something you really don't.
 
-I think this is because our nervous system is way older than our neocortex.
+Abstractions shut off the brain.
 
-Abstractions shut off our brains.
+Instead, dumb down every new concept to something you can either *try* or *analogize*.
 
-Always dumb down a new concept to something you can either *try* or *analogize*.
+Our nervous system is way older than our neocortex.
 
 Bring it down to the senses.
