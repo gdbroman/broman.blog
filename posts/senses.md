@@ -17,7 +17,7 @@ But learning new tech doesn't have to be taxing.
 
 ## Technique 1. Minimal Viable Code Snippet
 
-Find the smallest possible code snippet that examplifies the theory you're learning, and get it to run it locally.
+Find the smallest possible code snippet that exemplifies the theory you're learning, and get it to run it locally.
 
 Poke at it.
 
