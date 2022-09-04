@@ -1,5 +1,7 @@
 ---
 title: Never Let a Bug Defeat You
+date: "2022-09-04"
+isNewsletter: true
 ---
 
 You can never let a bug defeat you.
@@ -40,7 +42,7 @@ So I took a Udemy course on React.js, applying the information on a side project
 
 And eventually, I made good friends with another teen programmer – he too was pissed and driven to get paid.
 
-So we started to code together every day. And one weekend we built a React app together that made a couple of grand. We then leveraged the app as an experience to land high-paying developer jobs.
+So we started coding together. And one weekend we built a React app together that made a couple of grand. We then leveraged the app as an experience to land high-paying developer jobs.
 
 We didn't know what we were doing, but action had served us.
 
