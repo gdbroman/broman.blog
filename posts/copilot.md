@@ -1,10 +1,10 @@
 ---
-title: Should You Pay For Github Copilot?
+title: Should You Pay For GitHub Copilot?
 isNewsletter: true
 date: "2022-09-10"
 ---
 
-90% of developers will NOT pay $10/month for GitHub Copilot.
+90% of developers will NOT pay $10/month for GitHub Copilot.<sup>1</sup>
 
 This is irrational:
 
@@ -38,4 +38,4 @@ Learn to prompt or become worthless.
 
 ---
 
-*If you're wondering where the 90% stat is coming from, the coding channel Fireship did a [YouTube poll](https://www.youtube.com/post/UgkxVUxLUaQwTZdhvHzXp1wjnSUdAD0vd6zp). Perhaps not super representative of practicing software engineers at large, but with 1.5M subscribers, it's saying something.*
+<sup>1</sup> *If you're wondering where the 90% stat is coming from, the coding channel Fireship did a [YouTube poll](https://www.youtube.com/post/UgkxVUxLUaQwTZdhvHzXp1wjnSUdAD0vd6zp). Perhaps not super representative of practicing software engineers at large (should have been a third "student" option), but with 1.5M subscribers, it's saying something.*
