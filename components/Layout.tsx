@@ -10,7 +10,7 @@ export const rssPath = '/rss/feed.xml';
 export const authorName = 'Gustaf Broman';
 export const greeting = "Hey friend, I'm Gus";
 export const siteDescription =
-  'I write code, and emails about software craftsmanship. Reach me on Twitter @gdbroman, or on Urbit as ~lopsyp-doztun, if you have questions or ideas. Thank you for reading.';
+  'You can reach me on Twitter @gdbroman, or on Urbit as ~lopsyp-doztun, if you have questions or ideas. Thank you for reading.';
 
 type LayoutProps = {
   children: ReactNode;
