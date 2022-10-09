@@ -8,7 +8,7 @@ What's your soul worth, anon?
 
 Do you want snacks or skills?
 
-If peak competition is Software Engineer at MANGA,
+If Software Engineer at MANGA is peak competition,
 
 What's an underpursued path for the modern programmer?
 
@@ -18,15 +18,15 @@ I have not worked for MANGA. But the fact that there is a booming industry for C
 
 ## Be a Curious Grug
 
-Petroleum engineering is asymmetric but perhaps not too exciting. *What do you want to bring to be?*
+Petroleum engineering is asymmetric, but perhaps not too exciting. *What future do YOU want to bring to be?*
 
 (Think hard about the future.)
 
-To find existing efforts, look for the strange and esoteric. Even better, what does the mainstream condemn? Paths with asymmetric upside must have little competition.
+To find existing efforts, look for the strange and esoteric. Even better, *what does the mainstream condemn?* Paths with asymmetric upside must have little competition.
 
-> *Why do we fight each other about this piece or that piece of land?*
+> Why do we fight each other about this piece or that piece of land?
 >
-> *Why are we not looking outwards?*
+> Why are we not looking outwards?
 >
-> – Ragnar Lothbrok
+> <cite>– Ragnar Lothbrok</cite>
 > 
