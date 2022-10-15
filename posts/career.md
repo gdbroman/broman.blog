@@ -14,7 +14,7 @@ What's an underpursued path for the modern programmer?
 
 ## Avoid Tracks
 
-I have not worked for MANGA. But the fact that there is a booming industry for Cracking the Coding Interview™ should be an obvious tell it's no place to be if you are wise. It's like SAT prep; a safe track if you can compete. But it is a *track*: It will narrow your vision, and it lacks asymmetric upside.
+I have not worked for MANGA. But the fact that there is a booming industry for cracking the Coding Interview™ should be an obvious tell. It's no place you want to be. Grinding LeetCode is like SAT prep; a safe track if you can compete. But it is a *track*: It will narrow your vision, and it lacks asymmetric upside.
 
 ## Be a Curious Grug
 
