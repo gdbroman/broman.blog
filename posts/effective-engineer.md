@@ -1,7 +1,7 @@
 ---
 title: Are You an Effective Engineer?
 date: "2022-07-31"
-isNewsletter: true
+newsletter: true
 ---
 
 How come Twitter has *7500 employees,* whereas FTX – the crypto exchange company – grew to $18B with just *6 engineers?*

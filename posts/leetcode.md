@@ -1,7 +1,7 @@
 ---
 title: Reversing Linked Lists Is For Losers
 date: "2022-09-25"
-isNewsletter: true
+newsletter: true
 ---
 
 Many bigger companies ask coding interview questions you will never have to solve while actually programming.

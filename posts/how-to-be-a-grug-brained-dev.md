@@ -1,7 +1,7 @@
 ---
 title: 'How to be a grug-brained dev'
 date: '2022-07-03'
-isNewsletter: true
+newsletter: true
 ---
 
 In this issue, you'll learn about:

@@ -6,7 +6,7 @@ import { Meta } from './Meta';
 type PostsProps = {
   posts: PostData[];
   max?: number;
-  filterBy?: 'all' | 'drafts' | 'published' | 'isNewsletter';
+  filterBy?: 'all' | 'drafts' | 'published' | 'newsletter';
 };
 
 export const PostList = ({ posts, max, filterBy = 'all' }: PostsProps): JSX.Element => {
@@ -18,8 +18,8 @@ export const PostList = ({ posts, max, filterBy = 'all' }: PostsProps): JSX.Elem
         return p.draft;
       case 'published':
         return !p.draft;
-      case 'isNewsletter':
-        return !p.draft && p.isNewsletter;
+      case 'newsletter':
+        return !p.draft && p.newsletter;
     }
   });
   if (max) {
@@ -28,7 +28,7 @@ export const PostList = ({ posts, max, filterBy = 'all' }: PostsProps): JSX.Elem
 
   return (
     <section id="posts">
-      {filteredPosts.map(({ id, date, title, description, isNewsletter }) => {
+      {filteredPosts.map(({ id, date, title, description, newsletter }) => {
         if (date) {
           return (
             <article key={id}>
@@ -37,7 +37,7 @@ export const PostList = ({ posts, max, filterBy = 'all' }: PostsProps): JSX.Elem
                   <h2>{title}</h2>
                 </a>
               </Link>
-              <Meta date={date} isNewsletter={isNewsletter} />
+              <Meta date={date} newsletter={newsletter} />
               <p>{description}</p>
             </article>
           );

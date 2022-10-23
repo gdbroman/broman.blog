@@ -1,7 +1,7 @@
 ---
 title: How to Not Quit Your Side Project
 date: "2022-08-14"
-isNewsletter: true
+newsletter: true
 ---
 
 Remember Nokia?

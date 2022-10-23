@@ -1,6 +1,6 @@
 ---
 title: What Good Career Are Others Not Pursuing?
-isNewsletter: true
+newsletter: true
 date: "2022-10-09"
 ---
 

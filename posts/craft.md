@@ -1,7 +1,7 @@
 ---
 title: A corner of order
 date: "2022-06-19"
-isNewsletter: true
+newsletter: true
 ---
 
 Yesterday night I wrote in my journal...

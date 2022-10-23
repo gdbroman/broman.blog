@@ -1,7 +1,7 @@
 ---
 title: Should you write tests?
 date: "2022-07-10"
-isNewsletter: true
+newsletter: true
 ---
 
 In this issue, you'll learn about:

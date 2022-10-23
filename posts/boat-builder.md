@@ -1,7 +1,7 @@
 ---
 title: Do you want to be a boat builder?
 date: "2022-07-17"
-isNewsletter: true
+newsletter: true
 ---
 
 In this issue, you'll learn about:

@@ -1,6 +1,6 @@
 ---
 title: Should You Pay For GitHub Copilot?
-isNewsletter: true
+newsletter: true
 date: "2022-09-10"
 ---
 

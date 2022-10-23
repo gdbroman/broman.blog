@@ -1,7 +1,7 @@
 ---
 title: Never Let a Bug Defeat You
 date: "2022-09-04"
-isNewsletter: true
+newsletter: true
 ---
 
 You can never let a bug defeat you.

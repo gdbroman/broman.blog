@@ -1,7 +1,7 @@
 ---
 title: 3 Rules for Effective Unit Testing
 date: "2022-07-24"
-isNewsletter: true
+newsletter: true
 ---
 
 Do you hate unit tests?

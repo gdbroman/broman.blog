@@ -13,13 +13,13 @@ const Post = ({
   contentHtml,
   description,
   date,
-  isNewsletter,
+  newsletter,
   thumbnail
 }: PostData): JSX.Element => {
   useHighlight();
 
   useEffect(() => {
-    if (isNewsletter) {
+    if (newsletter) {
       const s = document.createElement('script');
       s.setAttribute('src', 'https://platform.twitter.com/widgets.js');
       s.setAttribute('async', 'true');
@@ -44,11 +44,11 @@ const Post = ({
       <Article
         title={title}
         date={date}
-        isNewsletter={isNewsletter}
+        newsletter={newsletter}
         thumbnail={thumbnail}
         contentHtml={contentHtml}
       />
-      {isNewsletter && (
+      {newsletter && (
         <>
           <hr />
           <Newsletter />

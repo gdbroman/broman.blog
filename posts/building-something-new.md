@@ -1,7 +1,7 @@
 ---
 title: "Building something new"
 date: "2022-06-12"
-isNewsletter: true
+newsletter: true
 ---
 
 Last week I started building something new.

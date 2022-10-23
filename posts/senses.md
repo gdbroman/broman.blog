@@ -1,7 +1,7 @@
 ---
 title: How to Learn New Tech FAST
 date: "2022-08-21"
-isNewsletter: true
+newsletter: true
 ---
 
 Learning new tech can be like going to WAR.

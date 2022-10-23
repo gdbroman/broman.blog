@@ -4,13 +4,13 @@ import { Date } from './Date';
 
 type MetaProps = {
   date: string;
-  isNewsletter: boolean;
+  newsletter: boolean;
 };
 
-export const Meta = ({ date, isNewsletter }: MetaProps): JSX.Element => (
+export const Meta = ({ date, newsletter }: MetaProps): JSX.Element => (
   <div className="meta">
     {date && <Date dateString={date} />}
-    {isNewsletter && (
+    {newsletter && (
       <span>
         {` – `}
         <Link href="/">
