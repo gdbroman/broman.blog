@@ -20,21 +20,21 @@ I have since changed my mind about this.
 
 ## 1. Math as a Teacher of Abstraction
 
-If the main idea of programming is divide and conquer, then the main idea in math is abstraction.
+If the main idea in programming is divide and conquer, then the main idea in math is abstraction.
 
-> *Studies in mathematical theory is an excellent opportunity to learn to analyze, reason, argue, structure and arrange. Mathematics is based on abstraction and those who master abstraction possess enormous strength in analytical contexts.*
+> Studies in mathematical theory is an excellent opportunity to learn to analyze, reason, argue, structure and arrange. Mathematics is based on abstraction and those who master abstraction possess enormous strength in analytical contexts.
 >
-> — My old calculus compendium (translated by me)
+><cite> — My old calculus compendium (translated by me)</cite>
 
-Let's be clear, nothing will teach you more about programming than programming. But the abstraction ability math gives you, can take you that extra mile as you grow into more senior roles and higher-level tasks like designing systems. And if you want to go into deeper domains like quantitative finance, machine learning, or research in general, advanced math is a must.
+Let's be clear, nothing will teach you more about programming than programming. But the abstraction ability that math gives you can help you grow into more senior roles and do higher-level tasks like designing systems. And if you want to go into deeper domains like quantitative finance, machine learning, or research in general, advanced math is a must.
 
 Of course, not all math is created equal to the programmer. There is a reason why computer science degrees focus on discrete mathematics, linear algebra, and statistics. But there might be some alpha in learning more esoteric math like abstract algebra too.
 
 ## 2. Math as a Teacher of Confidence
 
-> *Read the source of your dependencies, if that’s not already a habit you have. Do you write webapps on React? Try grabbing a checkout and reading through the source sometime.*
+> Read the source of your dependencies, if that’s not already a habit you have. Do you write webapps on React? Try grabbing a checkout and reading through the source sometime.
 >
-> — Nelson Elhage in [Computers can be understood](https://blog.nelhage.com/post/computers-can-be-understood/)
+> <cite>— Nelson Elhage in [Computers can be understood](https://blog.nelhage.com/post/computers-can-be-understood/)</cite>
 
 If you've ever fought, you'll know that a good sparring session will have you walk out of the gym chest up, top of the world. Taking blows to the face instills godly levels of confidence. Makes you humble too.
 
