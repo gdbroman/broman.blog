@@ -29,6 +29,6 @@ One way to break out of our increasingly homogenous, Netflix-watching, Uber-eati
 
 To think about the future does not mean adding another line item to your resume. It does not mean getting a degree or certificate. It does not mean landing a high-status job.
 
-Pursuing these tracks that will generate more options down the line, but it is not thinking about the future – it's antithetical. Thinking about the future cannot be tracked.
+Pursuing these tracks will generate more options down the line, but it is not thinking about the future – it's antithetical. Thinking about the future cannot be tracked.
 
 All that is certain about the future is that it will be different. No one knows how, but you must be bold enought to think you do.
