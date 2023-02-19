@@ -5,7 +5,7 @@ import { HomeProps } from './archive';
 
 const Drafts = ({ sortedPostsData }: HomeProps): JSX.Element => (
   <Layout>
-    <PostList posts={sortedPostsData} filterBy="drafts" />
+    <PostList posts={sortedPostsData} filterBy="crap" />
   </Layout>
 );
 

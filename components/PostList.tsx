@@ -6,7 +6,7 @@ import { Meta } from './Meta';
 type PostsProps = {
   posts: PostData[];
   max?: number;
-  filterBy?: 'all' | 'drafts' | 'published' | 'newsletter' | 'featured';
+  filterBy?: 'all' | 'crap' | 'published' | 'newsletter' | 'featured';
 };
 
 export const PostList = ({ posts, max, filterBy = 'all' }: PostsProps) => {
@@ -14,14 +14,14 @@ export const PostList = ({ posts, max, filterBy = 'all' }: PostsProps) => {
     switch (filterBy) {
       case 'all':
         return true;
-      case 'drafts':
-        return p.draft;
+      case 'crap':
+        return p.crap;
       case 'published':
-        return !p.draft;
+        return !p.crap;
       case 'newsletter':
-        return !p.draft && p.newsletter;
+        return !p.crap && p.newsletter;
       case 'featured':
-        return !p.draft && p.featured;
+        return !p.crap && p.featured;
     }
   });
   if (max) {

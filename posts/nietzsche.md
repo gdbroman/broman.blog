@@ -1,7 +1,7 @@
 ---
 title: "A Programmer's Guide to Nietzsche"
 date: '2021-11-27'
-draft: true
+crap: true
 ---
 
 Nietzsche predicted that when we no longer have transcendental values to bound ourselves to, we will become what he called "the last man." Pityable, nihilistic bugmen only concerned with avoiding pain and increasing pleasure. Never questioning, completely detached from the bigger picture. Completely detached. Unfortunately, Nietzsche's prediction has come to fruition.

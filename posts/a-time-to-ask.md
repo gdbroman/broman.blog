@@ -1,7 +1,7 @@
 ---
 title: "A time to ask"
 date: '2022-03-29'
-draft: true
+crap: true
 ---
 
 It has been stressful<br />

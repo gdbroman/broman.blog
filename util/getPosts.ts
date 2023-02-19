@@ -14,7 +14,7 @@ export type PostData = {
   date?: string;
   newsletter?: boolean;
   thumbnail?: string;
-  draft?: boolean;
+  crap?: boolean;
   featured?: boolean;
 };
 
