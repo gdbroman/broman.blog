@@ -5,7 +5,7 @@ newsletter: true
 featured: true
 ---
 
-Hundrerds of millions of books. Computational power Neil Armstrong couldn't have dreamt of. If we can't think about the future, no one can. So why is effectively no one trying?
+Hundreds of millions of books. Computational power Neil Armstrong couldn't have dreamt of. If we can't think about the future, no one can. So why is effectively no one trying?
 
 ## The Filter Bubble No One Talks About
 
@@ -16,20 +16,12 @@ Hundrerds of millions of books. Computational power Neil Armstrong couldn't have
 > <cite>– Peter Thiel's preface to The Sovereign Individual</cite>
 >
 
-You listen to Nobel Prize winners on TV and follow business magnates on Twitter. Wherever you look, someone else (smarter, more competent) is already thinking and working on a solution to your problems. There, now; you can return to watching WeCrashed on Netflix.
+Either it's a terminator that will kill you or The Matrix that will enslave you. Nothing to be done – perhaps start an underground fight club. Culture in its current form is not optimistic and will not support your inventiveness.
 
-## Culture Is Not Your Friend
-
-And what stories are we being told on the big screen? Either it's a terminator that will kill you or The Matrix that will enslave you. Nothing to be done – perhaps start an underground fight club.
-
-Arthur C. Clark wrote there are two "hazards of prophecy: failure of nerve, [and] failure of imagination." Culture is an enemy of both. Or as Terence Mckenna said, "culture is not your friend."
-
-One way to break out of our increasingly homogenous, Netflix-watching, Uber-eating culture is to study great works of literature. To not take a great book for granted. Reread it 15 times. And by God, do not log it on Goodreads.
+But one way to break out of our increasingly homogenous, Netflix-watching, Uber-eating culture, is to not take great ideas for granted. Choose a tested book and reread it 15 times. And by God, do not log it on Goodreads.
 
 ## The Status Trap
 
-To think about the future does not mean adding another line item to your resume. It does not mean getting a degree or certificate. It does not mean landing a high-status job.
+To think about the future does not mean adding another line item to your resume. It does not mean getting another degree or certificate. It does not mean landing a high-status job. Pursuing these things will put you on a track, but it is not thinking about the future, because thinking about the future cannot be tracked.
 
-Pursuing these tracks will generate more options down the line, but it is not thinking about the future – it's antithetical. Thinking about the future cannot be tracked.
-
-All that is certain about the future is that it will be different. No one knows how, but you must be bold enought to think you do.
+All that is certain about the future is that it must be different. No one knows how, but you must be bold enought to think you do.
