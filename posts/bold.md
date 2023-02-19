@@ -24,7 +24,7 @@ And what stories are we being told on the big screen? Either it's a terminator t
 
 Arthur C. Clark wrote there are two "hazards of prophecy: failure of nerve, [and] failure of imagination." Culture is an enemy of both. Or as Terence Mckenna said, "culture is not your friend."
 
-One way to break out of our increasingly homogenous, Netflix-watching, Uber-eating culture is to study great works of literature. To not take a great book for granted. Reread it 15 times. Make beauty a part of your being.
+One way to break out of our increasingly homogenous, Netflix-watching, Uber-eating culture is to study great works of literature. To not take a great book for granted. Reread it 15 times. And by God, do not log it on Goodreads.
 
 ## The Status Trap
 
