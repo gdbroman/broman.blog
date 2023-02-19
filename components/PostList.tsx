@@ -6,10 +6,10 @@ import { Meta } from './Meta';
 type PostsProps = {
   posts: PostData[];
   max?: number;
-  filterBy?: 'all' | 'drafts' | 'published' | 'newsletter';
+  filterBy?: 'all' | 'drafts' | 'published' | 'newsletter' | 'featured';
 };
 
-export const PostList = ({ posts, max, filterBy = 'all' }: PostsProps): JSX.Element => {
+export const PostList = ({ posts, max, filterBy = 'all' }: PostsProps) => {
   const filteredPosts = posts.filter((p) => {
     switch (filterBy) {
       case 'all':
@@ -20,6 +20,8 @@ export const PostList = ({ posts, max, filterBy = 'all' }: PostsProps): JSX.Elem
         return !p.draft;
       case 'newsletter':
         return !p.draft && p.newsletter;
+      case 'featured':
+        return !p.draft && p.featured;
     }
   });
   if (max) {

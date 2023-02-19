@@ -2,6 +2,7 @@
 title: To Make Bets You Must Be Bold
 date: '2022-11-06'
 newsletter: true
+featured: true
 ---
 
 Hundrerds of millions of books. Computational power Neil Armstrong couldn't have dreamt of. If we can't think about the future, no one can. So why is effectively no one trying?

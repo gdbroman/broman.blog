@@ -12,7 +12,7 @@ const Home = ({ sortedPostsData }: HomeProps): JSX.Element => (
     <div className="flexer">
       <Newsletter standalone />
       <hr style={{ margin: '32px 0' }} />
-      <PostList posts={sortedPostsData} filterBy="newsletter" max={2} />
+      <PostList posts={sortedPostsData} filterBy="featured" max={2} />
     </div>
   </Layout>
 );

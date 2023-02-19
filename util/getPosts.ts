@@ -15,6 +15,7 @@ export type PostData = {
   newsletter?: boolean;
   thumbnail?: string;
   draft?: boolean;
+  featured?: boolean;
 };
 
 const truncate = (str, max, suffix) =>
