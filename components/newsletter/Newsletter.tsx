@@ -14,8 +14,8 @@ export const Newsletter = ({ standalone }: NewsletterProps) => (
     </div>
     <h1>{greeting}</h1>
     <p>
-      Every Sunday I share my best lessons on being a dev in the information age. Get it straight to
-      your inbox:
+      Here I share my takes on how to navigate the information age as a dev. Get it straight to your
+      inbox:
     </p>
     <GitLetterForm />
   </div>
