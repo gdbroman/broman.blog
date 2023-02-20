@@ -16,7 +16,7 @@ Hundreds of millions of books. Computational power Neil Armstrong couldn't have 
 > <cite>– Peter Thiel's preface to The Sovereign Individual</cite>
 >
 
-Either it's a terminator that will kill you or The Matrix that will enslave you. Nothing to be done – perhaps start an underground fight club. Culture in its current form is not optimistic and will not support your inventiveness.
+Either it's a terminator that will kill you or it's The Matrix that will enslave you. Nothing to be done – perhaps start an underground fight club. Culture in its current form is not optimistic and will not support your inventiveness.
 
 But one way to break out of our increasingly homogenous, Netflix-watching, Uber-eating culture, is to not take great ideas for granted. Choose a tested book and reread it 15 times. And by God, do not log it on Goodreads.
 
