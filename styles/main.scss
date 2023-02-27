@@ -6,7 +6,7 @@
 @import 'typography';
 @import 'colors';
 
-$PAGE_WIDTH: 549px;
+$PAGE_WIDTH: 520px;
 
 * {
   margin: 0;
@@ -35,7 +35,6 @@ main#container {
   #newsletter {
     display: flex;
     flex-direction: column;
-    max-width: 440px;
     margin: 16px 0 48px 0;
     gap: 16px;
     img {
@@ -54,18 +53,19 @@ main#container {
     div {
       display: flex;
       align-items: center;
+      max-width: 400px;
       input {
-          width: 200px;
+          flex: 1;
           font-size: 16px;
+          padding: 8px 12px;
           border-radius: 0;
           border: 1px solid $GRAY_BORDER;
+          background-color: $GRAY_BORDER_LIGHTER;
           border-right: none;
           color: $BLACK_LIGHT;
           &::placeholder {
             color: $GRAY;
           }
-          padding: 8px 12px;
-          background-color: transparent;
         }
         button {
           font-size: 16px;
