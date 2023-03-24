@@ -5,7 +5,7 @@ newsletter: true
 featured: true
 ---
 
-Hundreds of millions of books. Computational power Neil Armstrong couldn't have dreamt of. If we can't think about the future, no one can. So why is effectively no one trying?
+Millions of books. Computational power Neil Armstrong couldn't have dreamt of. If we can't think about the future, no one can. So why is effectively no one trying?
 
 ## The Filter Bubble No One Talks About
 
@@ -16,12 +16,12 @@ Hundreds of millions of books. Computational power Neil Armstrong couldn't have 
 > <cite>– Peter Thiel's preface to The Sovereign Individual</cite>
 >
 
-Either it's a terminator that will kill you or it's The Matrix that will enslave you. Nothing to be done – perhaps start an underground fight club. Culture in its current form is not optimistic and will not support your inventiveness.
+Either it's a terminator that will kill you or it's The Matrix that will enslave you. Nothing to be done – perhaps start an underground fight club. Culture in its current form is not optimistic, does not encourage inventiveness.
 
-But one way to break out of our increasingly homogenous, Netflix-watching, Uber-eating culture, is to not take great ideas for granted. Choose a tested book and reread it 15 times. And by God, do not log it on Goodreads.
+But one way to break out of our increasingly homogenous, Netflix-watching, Uber-eating culture, is to not take great ideas for granted. Choose a tested book and reread it 15 times – and by God, do not log it on Goodreads.
 
 ## The Status Trap
 
-To think about the future does not mean adding another line item to your resume. It does not mean getting another degree or certificate. It does not mean landing a high-status job. Pursuing these things will put you on a track, but it is not thinking about the future, because thinking about the future cannot be tracked.
+Thinking about the future cannot be tracked. To think about the future does not mean getting another certificate or high-status job. Pursuing these things will put you on a track towards short-term stability and social acceptance, but it is not thinking about the future, because thinking about the future cannot be tracked.
 
-All that is certain about the future is that it must be different. No one knows how, but you must be bold enought to think you do.
+The future is different, and you must be bold enough to think you know how.
