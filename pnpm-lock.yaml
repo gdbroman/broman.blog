@@ -32,6 +32,12 @@ dependencies:
   eslint-config-next:
     specifier: 13.3.1
     version: 13.3.1(eslint@8.39.0)(typescript@5.0.4)
+  eslint-config-prettier:
+    specifier: ^8.8.0
+    version: 8.8.0(eslint@8.39.0)
+  eslint-plugin-prettier:
+    specifier: ^4.2.1
+    version: 4.2.1(eslint-config-prettier@8.8.0)(eslint@8.39.0)(prettier@2.8.8)
   next:
     specifier: 13.4.1
     version: 13.4.1(@opentelemetry/api@1.4.1)(react-dom@18.2.0)(react@18.2.0)
@@ -44,6 +50,9 @@ dependencies:
   postcss:
     specifier: 8.4.23
     version: 8.4.23
+  prettier:
+    specifier: ^2.8.8
+    version: 2.8.8
   react:
     specifier: 18.2.0
     version: 18.2.0
@@ -1893,6 +1902,15 @@ packages:
       - supports-color
     dev: false
 
+  /eslint-config-prettier@8.8.0(eslint@8.39.0):
+    resolution: {integrity: sha512-wLbQiFre3tdGgpDv67NQKnJuTlcUVYHas3k+DZCc2U2BadthoEY4B7hLPvAxaqdyOGCzuLfii2fqGph10va7oA==}
+    hasBin: true
+    peerDependencies:
+      eslint: '>=7.0.0'
+    dependencies:
+      eslint: 8.39.0
+    dev: false
+
   /eslint-import-resolver-node@0.3.7:
     resolution: {integrity: sha512-gozW2blMLJCeFpBwugLTGyvVjNoeo1knonXAcatC6bjPBZitotxdWf7Gimr25N4c0AAOo4eOUfaG82IJPDpqCA==}
     dependencies:
@@ -2013,6 +2031,23 @@ packages:
       object.entries: 1.1.6
       object.fromentries: 2.0.6
       semver: 6.3.0
+    dev: false
+
+  /eslint-plugin-prettier@4.2.1(eslint-config-prettier@8.8.0)(eslint@8.39.0)(prettier@2.8.8):
+    resolution: {integrity: sha512-f/0rXLXUt0oFYs8ra4w49wYZBG5GKZpAYsJSm6rnYL5uVDjd+zowwMwVZHnAjf4edNrKpCDYfXDgmRE/Ak7QyQ==}
+    engines: {node: '>=12.0.0'}
+    peerDependencies:
+      eslint: '>=7.28.0'
+      eslint-config-prettier: '*'
+      prettier: '>=2.0.0'
+    peerDependenciesMeta:
+      eslint-config-prettier:
+        optional: true
+    dependencies:
+      eslint: 8.39.0
+      eslint-config-prettier: 8.8.0(eslint@8.39.0)
+      prettier: 2.8.8
+      prettier-linter-helpers: 1.0.0
     dev: false
 
   /eslint-plugin-react-hooks@4.6.0(eslint@8.39.0):
@@ -2242,6 +2277,10 @@ packages:
 
   /fast-deep-equal@3.1.3:
     resolution: {integrity: sha512-f3qQ9oQy9j2AhBe/H9VC91wLmKBCCU/gDOnKNAYG5hswO7BLKj09Hc5HYNz9cGI++xlpDCIgDaitVs03ATR84Q==}
+    dev: false
+
+  /fast-diff@1.3.0:
+    resolution: {integrity: sha512-VxPP4NqbUjj6MaAOafWeUn2cXWLcCtljklUtZf0Ind4XQ+QPtmA0b18zZy0jIQx+ExRVCR/ZQpBmik5lXshNsw==}
     dev: false
 
   /fast-glob@3.2.12:
@@ -4050,6 +4089,19 @@ packages:
   /prelude-ls@1.2.1:
     resolution: {integrity: sha512-vkcDPrRZo1QZLbn5RLGPpg/WmIQ65qoWWhcGKf/b5eplkkarX0m9z8ppCat4mlOqUsWpyNuYgO3VRyrYHSzX5g==}
     engines: {node: '>= 0.8.0'}
+    dev: false
+
+  /prettier-linter-helpers@1.0.0:
+    resolution: {integrity: sha512-GbK2cP9nraSSUF9N2XwUwqfzlAFlMNYYl+ShE/V+H8a9uNl/oUqB1w2EL54Jh0OlyRSd8RfWYJ3coVS4TROP2w==}
+    engines: {node: '>=6.0.0'}
+    dependencies:
+      fast-diff: 1.3.0
+    dev: false
+
+  /prettier@2.8.8:
+    resolution: {integrity: sha512-tdN8qQGvNjw4CHbY+XXk0JgCXn9QiF21a55rBe5LJAU+kDyC4WQn4+awm2Xfk2lQMk5fKup9XgzTZtGkjBdP9Q==}
+    engines: {node: '>=10.13.0'}
+    hasBin: true
     dev: false
 
   /prop-types@15.8.1:

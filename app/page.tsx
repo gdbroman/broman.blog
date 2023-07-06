@@ -1,6 +1,6 @@
-import { allPosts } from "@/.contentlayer/generated"
-import Image from "next/image"
-import Link from "next/link"
+import { allPosts } from "@/.contentlayer/generated";
+import Image from "next/image";
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -10,8 +10,18 @@ export default function Home() {
         <h1>Hi friend, I&apos;m Gus</h1>
         <p>I&apos;m a product-focused software engineer.</p>
         <ul>
-          <li><a href="https://twitter.com/gdbroman" target="_blank">@gdbroman</a> on Twitter</li>
-          <li><a href="https://github.com/gdbroman" target="_blank">@gdbroman</a> on GitHub</li>
+          <li>
+            <a href="https://twitter.com/gdbroman" target="_blank">
+              @gdbroman
+            </a>{" "}
+            on Twitter
+          </li>
+          <li>
+            <a href="https://github.com/gdbroman" target="_blank">
+              @gdbroman
+            </a>{" "}
+            on GitHub
+          </li>
           <li>~lopsyp-doztun on Urbit</li>
         </ul>
         <p>Some things I believe to be true:</p>
@@ -31,5 +41,5 @@ export default function Home() {
         </article>
       ))}
     </div>
-  )
+  );
 }
