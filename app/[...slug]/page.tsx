@@ -1,4 +1,4 @@
-import { notFound } from "next/navigation";
+import { redirect } from "next/navigation";
 import { allPosts } from "contentlayer/generated";
 
 import { Metadata } from "next";
@@ -47,7 +47,8 @@ export default async function PostPage({ params }: PostProps) {
   const post = await getPostFromParams(params);
 
   if (!post) {
-    notFound();
+    // Redirect to home page if post not found.
+    redirect("/");
   }
 
   return (
