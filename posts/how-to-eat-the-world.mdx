@@ -4,7 +4,7 @@ date: "2023-06-29"
 description: "Or, How to Eat the World"
 ---
 
-Building excellent software is all about efficiency. Big technology companies have entire departments dedicated towards optimizing “Engineering Productivity,” but best-practices at large engineering organizations with product-market fit are almost opposite to what's right for an early-stage startup. A large company should optimize for reliability because their biggest risk is losing customer trust. But a startup should optimize for speed because their biggest risk is running out of runway. Which is why successful startups figure out a way to ship and iterate – *insanely fast*. What follows are 5 principles startups should follow to produce software with speed.
+Building excellent software is all about efficiency. Big technology companies have entire departments dedicated towards optimizing “Engineering Productivity,” but best-practices at large engineering organizations with product-market fit are almost opposite to what's right for an early-stage startup. A large company should optimize for *reliability* because their biggest risk is losing customer trust, whereas a startup should optimize for *speed* because their biggest risk is running out of runway. Which is why successful startups figure out a way to ship and iterate – insanely fast. What follows are 5 principles startups should follow to produce software with *speed*.
 
 ## 1. Minimizing Admin
 
@@ -16,13 +16,13 @@ For instance, if a piece of code is broken, a ticket should not be required to f
 
 Inexperienced engineers will haste 90% of a project and spend 10 times as long completing the remaining 10% – or never finish because of tech debt. Software that “almost” works is useless. Yes, we're building an MVP with a minimal set of features, but those features still need to work!
 
-Finishing the last 10% percent of a software project requires a certain level of wisdom to know you need to pace the work, and it's what distinguishes experienced engineers from inexperienced such.
+Finishing the last 10% percent of a software project requires the hard-earned wisdom of knowing what work needs to be paced, and is thus what distinguishes experienced engineers from inexperienced such.
 
 ## 3. Enforcing Uniform DX
 
 A uniform developer experience is a forcing function to keep a codebase simple. New hires should be made aware of the codebase conventions and pointed to a concise README that stipulates them.
 
-Part of a uniform DX is having a centralized CI environment which builds, lints, tests, and/or compiles code changes. It is easy to go overboard with CI if it runs on every PR, so it's important to select a minimum effective dose of CI which doesn't negatively impact speed. Tests, for instance, should be used sparingly as they're expensive to run (server costs), and expensive to maintain (developer time). Prioritize strong types and linting instead as they're cheaper and can be set up to continuously run in engineers' IDE. But we still want centralized linting as well, since every developer might have slightly different local setups.
+Part of a uniform DX is having a centralized CI environment which builds, lints, tests, and/or compiles code changes. It is easy to go overboard with CI if it runs on every PR, so it's important to select a minimum effective dose of CI which doesn't negatively impact speed. Tests, for instance, should be used sparingly as they're expensive to run (server costs), and expensive to maintain (developer time). Prioritize strong types and linting instead as they're cheaper and can be set up to continuously run in engineers' IDE. But since every developer might have slightly different local setups, there's still value to centralized linting.
 
 If you can unify the machine, OS, and IDE your engineers use, you should. Unifying is not always possible; for example, if the app is a cross-platform desktop application, in which case it can be an advantage to have different setups for testing purposes. But unifying every engineer's setup will save developer time worth more than whatever the machines cost.
 
@@ -44,9 +44,9 @@ Furthermore, it sometimes makes sense to merge PRs before a feature is fully com
 
 ## 5. Keeping the Team Small and Complementary
 
-Startups need to be leaner and more agile than ever before. The days of hiring a team of engineers before product-market-fit are well behind us. Early-stage startups will need to do a lot with little, which means hiring generalist engineers with product and design skills.
+Early-stage startups need to do a lot with little, which means hiring generalist engineers with product and people skills. These go under many different names, but two common ones are [product engineer](https://memos.hawkhill.ventures/p/rise-of-the-product-engineer) and [founding engineer](https://basecase.vc/blog/founding-engineer).
 
-But if you are going to hire more than one or two engineers, it is crucial that their skill sets are complementary. For example, if you are more of a backend engineer, hire a frontend engineer. If you know data, hire someone great with design. Whilst you want generalists in the broader sense, the risk with hiring engineers without any technical specialization is that you get a mix of good code and bad code living throughout the stack. It is far better to have a rigorously standardized way of addressing problems in each area of the stack built by specialized engineers.
+But if you are going to hire more than one or two engineers, it is crucial that their skill sets are complementary. For example, if you are more of a backend engineer, hire a frontend engineer. If you know data, hire someone great with design. Whilst you want generalists in the broader sense, the risk with hiring engineers without any technical expertise is that you get a mix of good code and bad code living throughout the stack. It is far better to have one specialized engineer able to address each area of the stack.
 
-Furthermore, defining complementary roles within your company will keep employees from working on the same things, reduce feelings of rivalry, and promote a culture of respect since everyone is doing what no one else could.
+Furthermore, defining complementary roles within your company will keep employees from working on the same areas, reduce feelings of rivalry, and promote a culture of respect, since everyone is doing what no one else could.
 
