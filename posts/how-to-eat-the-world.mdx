@@ -16,13 +16,13 @@ For instance, if a piece of code is broken, a ticket should not be required to f
 
 Inexperienced engineers will haste 90% of a project and spend 10 times as long completing the remaining 10% – or never finish because of tech debt. Software that “almost” works is useless. Yes, we're building an MVP with a minimal set of features, but those features still need to work!
 
-Finishing the last 10% percent of a software project requires the hard-earned wisdom of knowing what work needs to be paced, and is thus what distinguishes experienced engineers from inexperienced such.
+Finishing the last 10% of a software project requires the hard-earned wisdom of knowing what work needs to be paced, and is thus what distinguishes experienced engineers from inexperienced such.
 
 ## 3. Enforcing Uniform DX
 
 A uniform developer experience is a forcing function to keep a codebase simple. New hires should be made aware of the codebase conventions and pointed to a concise README that stipulates them.
 
-Part of a uniform DX is having a centralized CI environment which builds, lints, tests, and/or compiles code changes. It is easy to go overboard with CI if it runs on every PR, so it's important to select a minimum effective dose of CI which doesn't negatively impact speed. Tests, for instance, should be used sparingly as they're expensive to run (server costs), and expensive to maintain (developer time). Prioritize strong types and linting instead as they're cheaper and can be set up to continuously run in engineers' IDE. But since every developer might have slightly different local setups, there's still value to centralized linting.
+Part of a uniform DX is having a centralized CI environment which builds, lints, tests, and/or compiles code changes. It is easy to go overboard with CI since runs on every PR and quickly becomes expensive. So it's important to select a minimum effective dose of CI which doesn't negatively impact speed. Tests, for instance, should be used sparingly as they're expensive to run (server costs), and expensive to maintain (developer time). Prioritize strong types and linting instead as they're cheaper and can be set up to continuously run in engineers' IDE. But since every developer might have slightly different local setups, there's still value to centralized linting.
 
 If you can unify the machine, OS, and IDE your engineers use, you should. Unifying is not always possible; for example, if the app is a cross-platform desktop application, in which case it can be an advantage to have different setups for testing purposes. But unifying every engineer's setup will save developer time worth more than whatever the machines cost.
 
