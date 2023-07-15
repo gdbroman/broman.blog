@@ -5,8 +5,14 @@ import Link from "next/link";
 export default function Home() {
   return (
     <div className="prose dark:prose-invert">
-      <section className="pt-2">
-        <Image src="/gus.jpg" width={132} height={132} alt="Gus" />
+      <section className="pt-4">
+        <Image
+          alt="Gus"
+          src="/me.jpg"
+          width={222}
+          height={222}
+          className="rounded-full"
+        />
         <h1>Hi friend, I&apos;m Gus</h1>
         <p>I&apos;m a product-focused software engineer.</p>
         <ul>
