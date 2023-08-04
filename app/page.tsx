@@ -1,6 +1,7 @@
 import { allPosts } from "@/.contentlayer/generated";
 import Image from "next/image";
 import Link from "next/link";
+import { metadata } from "./layout";
 
 export default function Home() {
   return (
@@ -13,8 +14,8 @@ export default function Home() {
           height={222}
           className="rounded-full"
         />
-        <h1>Hi friend, I&apos;m Gus</h1>
-        <p>I&apos;m a product-focused software engineer.</p>
+        <h1>{metadata.title}</h1>
+        <p>{metadata.description}</p>
         <ul>
           <li>
             <a href="https://twitter.com/gdbroman" target="_blank">
