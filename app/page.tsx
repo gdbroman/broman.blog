@@ -18,10 +18,10 @@ export default function Home() {
         <p>{metadata.description}</p>
         <ul>
           <li>
-            <a href="https://twitter.com/gdbroman" target="_blank">
+            <a href="https://x.com/gdbroman" target="_blank">
               @gdbroman
             </a>{" "}
-            on Twitter
+            on X
           </li>
           <li>
             <a href="https://github.com/gdbroman" target="_blank">
