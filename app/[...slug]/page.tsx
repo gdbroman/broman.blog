@@ -46,10 +46,16 @@ export async function generateStaticParams(): Promise<PostProps["params"][]> {
 export default async function PostPage({ params }: PostProps) {
   const post = await getPostFromParams(params);
 
-  if (!post) {
-    // Redirect to home page if post not found.
-    redirect("/");
-  }
+  if (!post) redirect("/");
+
+  const toReadableString = (date: string) => {
+    const dateObj = new Date(date);
+    return dateObj.toLocaleDateString("en-US", {
+      year: "numeric",
+      month: "long",
+      day: "numeric",
+    });
+  };
 
   return (
     <article className="py-10 prose dark:prose-invert">
@@ -61,6 +67,10 @@ export default async function PostPage({ params }: PostProps) {
       )}
       <hr className="my-4" />
       <Mdx code={post.body.code} />
+      <hr className="my-8" />
+      <div className="text-sm text-slate-700 dark:text-slate-200">
+        {toReadableString(post.date)} – 99gustaf [at] gmail [dot] com
+      </div>
     </article>
   );
 }
