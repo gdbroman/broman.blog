@@ -67,7 +67,7 @@ export default async function PostPage({ params }: PostProps) {
       <div className="flex justify-between items-center">
         <p className="text-sm m-0">{toReadableString(post.date)}</p>
         <p className="text-sm m-0">
-          <Link href="/about">Gus</Link>
+          <Link href="/about">@gdbroman</Link>
         </p>
       </div>
       {post.image ? (

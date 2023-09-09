@@ -31,6 +31,9 @@ export const Post = defineDocumentType(() => ({
     image: {
       type: "string",
     },
+    draft: {
+      type: "boolean",
+    },
   },
   computedFields,
 }));

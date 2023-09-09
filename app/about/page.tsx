@@ -1,7 +1,6 @@
-import { allPosts } from "@/.contentlayer/generated";
 import Image from "next/image";
-import Link from "next/link";
 import { metadata } from "../layout";
+import Link from "next/link";
 
 export default function About() {
   return (
@@ -29,15 +28,15 @@ export default function About() {
           on GitHub
         </li>
         <li>~lopsyp-doztun on Urbit</li>
+        <li>99gustaf [at] gmail [dot] com</li>
       </ul>
       <p>Some things I believe to be true:</p>
       <ul>
         <li>The computer is supposed to be a bicycle for the mind.</li>
         <li>Privacy matters because your attention is valuable.</li>
         <li>Character, e.g. courage, is rarer than intelligence.</li>
+        <li>The frontier is never closed.</li>
       </ul>
-      <hr />
-      <p>99gustaf [at] gmail [dot] com</p>
     </div>
   );
 }
