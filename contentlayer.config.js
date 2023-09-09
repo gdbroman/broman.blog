@@ -28,6 +28,9 @@ export const Post = defineDocumentType(() => ({
       type: "date",
       required: true,
     },
+    image: {
+      type: "string",
+    },
   },
   computedFields,
 }));
