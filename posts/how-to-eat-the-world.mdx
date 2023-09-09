@@ -1,14 +1,14 @@
 ---
-title: "5 Lessons in Startup Software Engineering"
+title: "How to Eat the World"
 date: "2023-06-29"
-description: "How to Eat the World"
+description: "5 Lessons in Startup Software Engineering"
 ---
 
 Building excellent software is all about speed. Big technology companies have entire departments dedicated to “Engineering Productivity,” but best-practices at large engineering organizations with product-market fit are almost opposite to what's right for an early-stage startup. A large company should optimize for *reliability* because their biggest risk is losing customer trust, whereas a startup should optimize for *speed* because their biggest risk is running out of runway. Which is why successful startups figure out a way to ship and iterate – insanely fast. What follows are 5 principles startups should follow to produce software with *speed*.
 
 ## 1/ Minimizing Admin
 
-Engineering time is expensive and best spent on solving problems – not administration. Whilst a project management tool like Jira is necessary to keep a project organized – especially as head count increases – just like with CI and PR reviews, it is important to not use it tyrannically.
+Engineering time is expensive and best spent on solving problems – not administration. Whilst a project management tool like Jira is necessary to keep a project organized – especially as head count increases – just like with CI and code reviews, it is important to not use it tyrannically.
 
 For instance, if a piece of code is broken, a ticket should not be required to fix it – or you will disincentivize on-the-fly improvements in the long-term. Create a shipping culture, not a PM culture.
 
@@ -26,15 +26,15 @@ Part of a uniform DX is having a centralized CI environment which builds, lints,
 
 If you can unify the machine, OS, and IDE your engineers use, you should. Unifying is not always possible; for example, if the app is a cross-platform desktop application, in which case it can be an advantage to have different setups for testing purposes. But unifying every engineer's setup will save developer time worth more than whatever the machines cost.
 
-## 4/ Sensical PR Review Standards
+## 4/ Sensical Code Review Culture
 
-Pull request reviews are valuable because they:
+Code reviews are valuable because they:
 
 1. Ensure codebase quality
 2. Share technical knowledge amongst colleagues
 3. Keep everyone up-to-date of what is going on in the codebase
 
-But PR reviews are hard, and they don't always make sense. You want to suggest worthwhile improvements and generally avoid nits. As a rule of thumb, PR reviews should be reserved for:
+But code reviews are hard, and they don't always make sense. You want to suggest worthwhile improvements and generally avoid nits. As a rule of thumb, code reviews should be reserved for:
 
 - A) Big changes
 - B) Changes to another colleague's code

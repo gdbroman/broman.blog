@@ -31,9 +31,10 @@ export default function About() {
       </ul>
       <p>Some things I believe to be true:</p>
       <ul>
+        <li>The computer is supposed to be a bicycle for the mind.</li>
         <li>Privacy matters because your attention is valuable.</li>
         <li>Character, e.g. courage, is rarer than intelligence.</li>
-        <li>The frontier is never closed.</li>
+        <li>The frontier is always open.</li>
       </ul>
     </div>
   );
