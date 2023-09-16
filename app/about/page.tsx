@@ -27,14 +27,15 @@ export default function About() {
           on GitHub
         </li>
         <li>~lopsyp-doztun on Urbit</li>
-        <li>99gustaf [at] gmail [dot] com</li>
       </ul>
-      <p>Some things I believe to be true:</p>
+      <h2>Some things I believe to be true</h2>
       <ul>
         <li>The computer is supposed to be a bicycle for the mind.</li>
         <li>Privacy matters because your attention is valuable.</li>
         <li>Character, e.g. courage, is rarer than intelligence.</li>
       </ul>
+      <h2>Best way to reach me</h2>
+      <p>99gustaf [at] gmail [dot] com</p>
     </div>
   );
 }
