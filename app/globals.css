@@ -12,3 +12,7 @@
     height: unset !important;
   }
 }
+
+p {
+  overflow-wrap: break-word;
+}
