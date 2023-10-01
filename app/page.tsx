@@ -1,6 +1,11 @@
 import { allPosts } from "@/.contentlayer/generated";
 import Link from "next/link";
 
+export const metadata = {
+  title: "broman.blog",
+  description: "Just find the frontier.",
+};
+
 export default function Home() {
   return (
     <div className="prose dark:prose-invert">

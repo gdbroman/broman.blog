@@ -1,5 +1,10 @@
 import Image from "next/image";
-import { metadata } from "../layout";
+
+export const metadata = {
+  title: "Hi friend, I'm Gus",
+  description:
+    "I'm a product-focused software engineer, interested in digital sovereignty.",
+};
 
 export default function About() {
   return (
