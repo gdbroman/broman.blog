@@ -16,3 +16,12 @@
 p {
   overflow-wrap: break-word;
 }
+
+@media print {
+  header, img {
+    display: none;
+  }
+  h1, h2, h3, p {
+    color: #000 !important;
+  }
+}
