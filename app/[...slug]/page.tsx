@@ -13,15 +13,7 @@ interface PostProps {
 }
 
 async function getPostFromParams(params: PostProps["params"]) {
-  const post = allPosts.find((post) => {
-    return post.slug.slice(1) === params?.slug[0];
-  });
-
-  if (!post) {
-    null;
-  }
-
-  return post;
+  return allPosts.find((post) => post.slug.slice(1) === params.slug[0]);
 }
 
 export async function generateMetadata({
