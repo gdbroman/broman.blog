@@ -31,7 +31,6 @@ export default function About() {
           </a>{" "}
           on GitHub
         </li>
-        <li>~lopsyp-doztun on Urbit</li>
       </ul>
       <h2>Some things I believe to be true</h2>
       <ul>
