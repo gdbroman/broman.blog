@@ -31,6 +31,12 @@ export default function About() {
           </a>{" "}
           on GitHub
         </li>
+        <li>
+          <a href="https://linkedin.com/in/gdbroman" target="_blank">
+            /in/gdbroman
+          </a>{" "}
+          on LinkedIn
+        </li>
       </ul>
       <h2>Some things I believe to be true</h2>
       <ul>
